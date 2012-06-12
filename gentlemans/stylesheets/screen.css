@@ -25,58 +25,80 @@
   display: table;
   clear: both;
 }
-/* line 16, ../sass/screen.scss */
+/* line 17, ../sass/screen.scss */
+#container a {
+  color: #000099;
+  text-decoration: none;
+}
+/* line 21, ../sass/screen.scss */
+#container a:visited {
+  color: #990000;
+}
+/* line 24, ../sass/screen.scss */
+#container a:hover {
+  color: #999900;
+}
+/* line 27, ../sass/screen.scss */
+#container a:active {
+  color: #000099;
+}
+/* line 32, ../sass/screen.scss */
+#container .file_navigation {
+  margin-left: 15px;
+  line-height: 1.8em;
+}
+/* line 38, ../sass/screen.scss */
 #container h1 {
   font-size: 1.2em;
 }
-/* line 20, ../sass/screen.scss */
+/* line 42, ../sass/screen.scss */
 #container h2 {
   font-size: 1.0em;
 }
-/* line 26, ../sass/screen.scss */
+/* line 48, ../sass/screen.scss */
 #container .p li {
   list-style: none;
 }
-/* line 30, ../sass/screen.scss */
+/* line 52, ../sass/screen.scss */
 #container .center {
   text-align: center;
 }
-/* line 34, ../sass/screen.scss */
+/* line 56, ../sass/screen.scss */
 #container img.center {
   display: block;
   margin: 0 auto;
 }
-/* line 40, ../sass/screen.scss */
+/* line 62, ../sass/screen.scss */
 #container header img {
   float: left;
 }
-/* line 44, ../sass/screen.scss */
+/* line 66, ../sass/screen.scss */
 #container header nav {
   padding: 0 0 0 300px;
   border-top: 1px solid #990000;
   border-bottom: 1px solid #990000;
 }
-/* line 49, ../sass/screen.scss */
+/* line 71, ../sass/screen.scss */
 #container header nav li {
   display: inline;
   list-style-type: none;
   padding-right: 20px;
 }
-/* line 54, ../sass/screen.scss */
+/* line 76, ../sass/screen.scss */
 #container header nav li a {
   font-weight: bold;
   color: #000099;
   text-decoration: none;
 }
-/* line 59, ../sass/screen.scss */
+/* line 81, ../sass/screen.scss */
 #container header nav li a:visited {
   color: #990000;
 }
-/* line 62, ../sass/screen.scss */
+/* line 84, ../sass/screen.scss */
 #container header nav li a:hover {
   color: #999900;
 }
-/* line 65, ../sass/screen.scss */
+/* line 87, ../sass/screen.scss */
 #container header nav li a:active {
   color: #000099;
 }

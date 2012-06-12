@@ -13,6 +13,28 @@ $bcolor: #990000;
   @include container;
   @include susy-grid-background;
 
+
+  a {
+    color: #000099;
+    text-decoration: none;
+
+    &:visited {
+      color: $bcolor;
+    }
+    &:hover {
+      color: #999900;
+    }
+    &:active {
+      color: #000099;
+    }
+  }
+
+  .file_navigation {
+    margin-left: 15px;
+    line-height: 1.8em;
+  }
+
+
   h1 {
     font-size: 1.2em;
   }
@@ -41,33 +63,33 @@ $bcolor: #990000;
       float: left;
     }
 
-  nav {
-    padding: 0 0 0 300px;
-    border-top: 1px solid $bcolor;
-    border-bottom: 1px solid $bcolor;
+    nav {
+      padding: 0 0 0 300px;
+      border-top: 1px solid $bcolor;
+      border-bottom: 1px solid $bcolor;
 
-    li {
-      display: inline;
-      list-style-type: none;
-      padding-right: 20px;
+      li {
+        display: inline;
+        list-style-type: none;
+        padding-right: 20px;
 
-      a {
-        font-weight: bold;
-        color: #000099;
-        text-decoration: none;
-
-        &:visited {
-          color: $bcolor;
-        }
-        &:hover {
-          color: #999900;
-        }
-        &:active {
+        a {
+          font-weight: bold;
           color: #000099;
+          text-decoration: none;
+
+          &:visited {
+            color: $bcolor;
+          }
+          &:hover {
+            color: #999900;
+          }
+          &:active {
+            color: #000099;
+          }
         }
       }
     }
   }
-}
 
 }
