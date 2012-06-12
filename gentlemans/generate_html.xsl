@@ -3,6 +3,7 @@
     <xsl:output method="text"/>
     <xsl:output method="html" indent="yes" name="html"/>
 
+
     <xsl:template match="/">
         <xsl:variable name="description">
             <xsl:value-of select="//fileDesc/sourceDesc/biblFull/titleStmt/title"/> by <xsl:value-of
@@ -39,13 +40,17 @@
                     <div id="container">
                         <xsl:call-template name="header"/>
                         <h2 class="center">Attributions by Volume</h2>
-                        <xsl:for-each select="//div1">
+                        <div class="file_navigation">
                             <p>
+                            <xsl:for-each select="//div1">
+                            
                                 <a href="{@id}.html">
                                     <xsl:value-of select="head/date"/>
-                                </a>
+                                </a>&#xA0;
+                            
+                            </xsl:for-each>
                             </p>
-                        </xsl:for-each>
+                        </div>
                     </div>
                 </body>
             </html>
@@ -78,16 +83,16 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="">Home</a>
+                        <a href="http://bsuva-epubs.org/bsuva/gm2/">Home</a>
                     </li>
                     <li>
-                        <a href="">Introduction</a>
+                        <a href="http://bsuva-epubs.org/bsuva/gm2/GMintro.html">Introduction</a>
                     </li>
                     <li>
                         <a href="">Search</a>
                     </li>
                     <li>
-                        <a href="">Help</a>
+                        <a href="http://bsuva-epubs.org/bsuva/gm2/GMintro.html#howto">Help</a>
                     </li>
                     <li>
                         <a href="mailto:edemontluzin@fmarion.edu">Email the Author</a>

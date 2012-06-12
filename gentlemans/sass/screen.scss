@@ -13,6 +13,16 @@ $bcolor: #990000;
   @include container;
   @include susy-grid-background;
 
+  h1 {
+    font-size: 1.2em;
+  }
+
+  h2 {
+    font-size: 1.0em;
+  }
+
+  margin-top: 45px;
+
   .p li {
     list-style: none;
   }
@@ -32,7 +42,7 @@ $bcolor: #990000;
     }
 
   nav {
-    margin-left: 185px;
+    padding: 0 0 0 300px;
     border-top: 1px solid $bcolor;
     border-bottom: 1px solid $bcolor;
 
