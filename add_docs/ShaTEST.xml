@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8 (The Comedy of Errors) [a
+     machine-readable transcription] </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 8 (The Comedy of Errors) [a
+     machine-readable transcription] Shakespeare, William Creation of machine-readable version: Electronic Text Center, University of Virginia Creation of digital images: Electronic Text Center, University of Virginia Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. 55 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographic Society, Sha8CEP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1997 Shakespearean prompt-books of the seventeenth century The electronic text contains the Introduction and the Collations. The selected pages of
+     the Prompt-Book included in this Volume have been rendered as images. Shakespearean prompt-books of the seventeenth century, vol. 8 William Shakespeare Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype facsimile. Bibliographical Society of the University of Virginia Charlottesville, VA 1996 Print copy consulted: First Edition provided by the BSUVA Shakespearean prompt-books of the seventeenth century In Memoriam Fredson T. Bowers  Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has
+     been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general use, and
+     thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in establishing
+     analytical groupings. Library of Congress Subject Headings  1960-1996 English drama; prose LCSH 24-bit color; 400 dpi  July 1997 corrector Catherine Tousignant, Electronic Text Center Corrected transcriptional errors. May 1997 corrector Michele Ierardi, Electronic Text Center Added TEI header </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e139</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8 (The Comedy of Errors) [a
+     machine-readable transcription] </field><field name="fulltext_t">Image of the spine: Shakespearean Prompt-Books, Vol. VIIIImage of the cover, part 1: Shakespearean Prompt-Books, Vol. VIII: Ki! Henry VIII,
+       The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The Winter's TaleImage of the titlepage, part 1: Shakespearean Prompt-Books, Vol. VIII: King Lear,
+       Henry VIII, The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The Winter's
+       Tale  SHAKESPEAREAN PROMPT-BOOKS  of the SEVENTEENTH CENTURY  Vol. VIII King Lear, Henry VIII,The Merry Wives of WindsorTwelfth Night, The Comedy of ErrorsThe Winter's TaleEdited byG. Blakemore Evans A Publication ofThe Bibliographical Society of the University of Virginia
+      Charlottesville1996 </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e193</field><field name="section_s">introduction</field><field name="title_s"> Smock Alley The Comedy of ErrorsThird Folio Introduction </field><field name="fulltext_t"> Smock Alley The Comedy of ErrorsThird Folio Introduction  THE Smock Alley Comedy of Errors, like the Smock Alley Midsummer Night's
+      Dream and The Winter's Tale, strictly considered, is not a prompt-book. It
+     contains no scene settings, actors' names, advance character calls, calls for stage properties
+     or sound effects, and act notations.[1] What it offers is a text of
+     the play as it appears in the Third Folio (1663/ 64) fairly heavily cut for acting, possibly,
+     as R. C. Bald has suggested, to be presented as an afterpiece.[2] If we accept Bald's suggestion, the Errors PB should most probably be dated sometime
+     after 1700, since before that date afterpieces were rarely included as part of an evening at
+     the theatre.[3] Though considerably cut the Errors PB is
+     still somewhat  too long (about 1,215 lines) for the average
+      afterpiece,[4] and such external and internal evidence as the
+     prompt-book affords, admittedly slender, suggests that it was probably prepared at Smock Alley
+     sometime before 1700. It was, we know, part of the same copy of the Third Folio in which the
+     seventeenth-century Smock Alley prompt-books were prepared before that volume was finally
+     broken up by Halliwell-Phillipps around the middle of the nineteenth century.[5] This common provenience, though suggestive, proves nothing, of course, so far as
+     dating is concerned. Internal evidence in the Errors PB depends entirely on an
+     analysis of the revising hands responsible for the cutting.  The Errors PB contains one main revising hand (Hand I). Hand I is responsible, I
+     believe, for most of the cutting, a few changes in the Folio stage directions, all but possibly
+     three of the linking bits of added dialogue, and probably the greater number of the single word
+     substitutions. So far as I am able to judge, Hand I occurs nowhere else in the Smock Alley
+     prompt-books and so offers no relatively datable link with other Smock Alley prompt-hands. What
+     appears to be a second hand (Hand II) is found most clearly in a number of 'stet' notations
+     (see I.i.99-109; III.i.86-106; III.ii.33-40; V.i.52-54, 58, 61), notations that are noticeably
+     and consistently different from Hand I's 'stet' notations.[6] Besides
+     restoring some of Hand I's cuts, Hand II is probably responsible for some of the single word
+     substitutions and perhaps for three of the linking tags (see I.i.65-78, 88-95; III.i.108-114).
+     Hand II may be the same as Hand II in the Smock Alley Henry VIII (see 'stet' at
+     I.iv.37-38; II.ii.97-107; II.iv.38), a hand that also appears in the Smock Alley Lear
+     (Hand II) and perhaps as Hand V in the Smock Alley Hamlet.  Whether, however, Hand II's work as a whole, apart from
+     the use of 'stet', in Errors and Henry VIII, is indeed by the same hand, it
+     is, I think, nearly certain that at least the 'stet' notations, associated above with Hand II
+     in both plays, are by the same hand, in themselves representing possibly a third hand common to
+     both prompt-books. This 'stet' link, then, between Errors and Henry VIII,
+     since the Henry VIII PB can be dated as not later than 1682,[7] suggests (though does not prove) a seventeenth-century provenience for the Smock
+     Alley Errors.  Already the shortest of Shakespeare's plays (1,753 lines),[8] the
+     Third Folio text of Errors has been cut by about 538 lines (a figure including
+     half-lines), leaving a play of about 1,215 lines. The principal cuts (of 10 lines or more) are:
+     I.i.65-78; II.i.8-42, 88-111; II.ii.26-40, 65-111, 32-148, 172-182; III.i.87- 97; III.ii.45-58,
+     159-169; IV.iii.16-35; V.i.75-84, 92-108, 138-154, 231-253, 397-406. Adriana's role is
+     proportionately the most heavily cut, and the character of Balthazar has been omitted, his
+     lines, when uncut, being spoken by Angelo. In addition to his omission of Balthazar, Hand I
+     makes two other, apparently quite senseless, rearrangements. The first occurs in III.ii, where
+     Hand I decides to make Antipholus of Syracuse exit with Luciana at line 70, thus clearing the
+      stage.[9] He then begins a new scene and, following line 70, brings
+     Dromio of Syracuse and Antipholus of Ephesus on together, these two carrying on the dialogue
+     describing Luce the kitchen maid through line 151, at which point, realizing that only
+     Antipholus of Syracuse could take part in the following exchange with Dromio of Syracuse, he
+     exits Antipholus of Ephesus, after a new two-line speech (only partly legible), and enters
+     Antipholus of Syracuse. As a result of this rearrangement, Dromio of Syracuse's farcically
+     exaggerated description of Luce loses all point when addressed to Antipholus of Ephesus, who,
+     as her master, must already know her. The second alteration is much slighter but equally
+     difficult to understand. Near the end of V.i, at line 414, the first two lines of Dromio of
+     Syracuse's speech are assigned, again by Hand I, to Dromio of Ephesus, and the third line (416)
+     is reassigned to Dromio of Syracuse. So far as I can see, this  redistribution of the dialogue makes nonsense, and I can
+     only suppose that here (as in III.ii) Hand I has fallen victim to his own comedy of errors.  The confused nature of Hand I's alterations and the absence of the other stigmata
+     characteristic of a prompt-book make it clear, of course, that the Smock Alley Errors
+     could never have served as a prompt-book unlike the probably somewhat earlier 'Nursery'
+      Errors, which was produced not later than 1677.[10] Had the
+     Smock Alley Errors been produced, however, it would probably have been very similar to
+     the version that emerged under Hands I and II (with Hand I's unhappy alterations ironed out).
+     Together the 'Nursery' PB and the Smock Alley Errors extend our knowledge of the
+     acting tradition by nearly a hundred years, the first post-Restoration performance of the play
+     of which we possess an acting text being Thomas Hull's adaptation (acted 1762, privately
+     printed 1770, revised edition 1793).[11] The cuts and other changes in the Smock Alley Errors PB have been compared
+     throughout (see Collations) with: (1) the 'Nursery' Comedy of Errors PB (not later
+     than 1677; about 1,375 lines), (2) Thomas Hull's 1793 revised adaptation of The Comedy of
+      Errors (about 1,544 lines); (3) The Comedy of Errors (about 1,565 lines), edited
+     by Francis Gentleman in Vol. VIII, 1774, of John Bell's Shakespeare's Plays, As they were
+      performed at the Theatres Royal in London (Gentleman only suggests cuts but claims no
+     authority for them as representing performance at either Drury Lane or Covent Garden); (4)
+      The Comedy of Errors in Mrs. Inchbald's British Theatre, Vol. I (1808),
+     essentially Hull's adaptation (see Collations); (5) John Philip Kemble's acting text (1815) of
+      The Comedy of Errors (essentially the same as Inchbald; see Collations). Occasional
+     reference is made to the Douai MS of The Comedy of Errors (l694);[12] the so-called Collier MS; and William Woods' The Twins, or Which Is
+      Which (1780; see note 4).   1. The Smock Alley Errors will be referred to by the abbreviation PB. It
+     is worth noting, perhaps, that the Smock Alley Midsummer Night's Dream, though only an
+     unacted cutting like the Errors PB, includes scene settings (see Vol. VII of this
+     series). It is possible, therefore, that the absence of scene settings in Errors
+     reflects the revisers' intention to use a single setting for the whole play (see Introduction
+     to the Smock Alley Henry VIII PB, p. 19). Capell first introduced a single setting
+     ('Ephesus. A publick Place.') and is followed by Gentleman (see below); Hull,
+     Inchbald, and Kemble (see below) introduce a number of scene changes, following Pope.  2. "Shakespeare on the Stage in Restoration Dublin," PMLA, 56 (1941) 373.   3. See The London Stage 1660-1800, Part I: 1660-1700 (ed. William Van
+     Lennep, 1965), p. cxxxix; Part II: 1700-1729 (ed. E. L. Avery, 1960), pp. cxvi-cxx.   4. The Comedy of Errors was made into an afterpiece, and so described,
+     entitled The Twins, or Which Is Which by William Woods and acted at Edinburgh in 1780,
+     Woods himself playing the role of Antipholus of Ephesus (the text was published in John Bell's
+      British Theatre, Vol. XV, 1780, pp. 1-21). Errors is there cut to under 800
+     lines.   5. S. W. Singer, The Text of Shakespeare Vindicated (1853), pp. vi-vii.   6. Hand I's form of 'Stet' (capital 'S', Secretary 'e', both 't's uncrossed, see
+     I.i.32-36; II.i.86-l06; IV.i.110-113; IV.iii.83-92; V.i.92-112, 341-345) differs from Hand II's
+     form of 'stet' (lower case 's', italic 'e', both 't's crossed) and appears very similar to the
+     form used by Hand I in the Smock Alley Henry VIII PB (see II.iv.64-68, 69). Since,
+     however, apart from 'Stet', Hand I in Errors is markedly different from Hand I in
+      Henry VIII and since there is good reason for believing that 'Stet' is the work of
+     the otherwise different Hand I in each play, this particular form of 'Stet' furnishes no link
+     between Errors and Henry VIII.   7. See Introduction to the Smock Alley Henry VIII PB, p. 17.   8. My line-count is based on Alfred Hart's total of 1,753 lines for the whole
+     play (Review of English Studies, 8 [1932], 21).   9. See F stage directions altered , III.i.69, 70 s.d., 151, 152;
+      Textual cuts and textual changes, III.ii.151.   10. See Vol. III: Part i of this series, p. 7.   11. The earliest recorded post-Restoration performance of The Comedy of
+      Errors did not take place until 1741 (acting text not extant); two earlier adaptations,
+      Every Body Mistaken (1716) and See If You Like It (1734), were never
+     published. An account of the principal cuts and additions in Hull's 1770 and 1793 texts may be
+     found in C. B. Hogan, Shakespeare in the Theatre, 1701-1800 II (1957), 149 150 (see
+     also I [1952], 98-99, for information on earlier eighteenth-century performances).   12. See G. Blakemore Evans, "The Douai Manuscript--Six Shakespeare Transcripts
+     (1694-95)," Philological Quarterly, 41 (1962), 158-172. </field><field name="file_s">Sha8CEP</field></doc></add>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock Alley
+                    Othello) [a machine-readable transcription] </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock Alley
+                    Othello) [a machine-readable transcription] Shakespeare, William Creation of machine-readable version: University of Virginia Library Electronic Text Center Creation of digital images: Catherine Tousignant, Electronic Text Center Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. 125 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographical Society, ShaOthP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1997 Shakespearean prompt-books of the seventeenth century. The electronic text contains the Introduction and the Collations. The
+                    prompt-book is rendered as page images. Images of the manuscript have been included from volume 6, part 2. Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) William Shakespeare Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype
+                            facsimile. University Press of Virginia Charlottesville, VA 1980 Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.6
+                        Shakespearean prompt-books of the seventeenth century Published for the Bibliographical Society of the University of
+                            Virginia The print source incorrectly annotates Act V, scene 2, lines 94-95 as
+                            lines 94-85.  Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+                    word has been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general
+                    use, and thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in
+                    establishing analytical groupings. Library of Congress Subject Headings  1960-1980 English drama; prose; non-fiction LCSH 24-bit color; 400 dpi  March 1997 corrector Catherine Tousignant, Electronic Text Center Added TEI header and tags.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e130</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock Alley
+                    Othello) [a machine-readable transcription] </field><field name="fulltext_t"> SHAKESPEAREAN PROMPT-BOOKSof the SEVENTEENTH CENTURY Vol. VI: Part i Introduction to the Smock Alley
+                            Othello Collations Edited by G. Blakemore Evans A Publication of The Bibliographical Society of the University of
+                    Virginia University Press of Virginia, Charlottesville 1980 PR
+                    2757.E9 1960 V.6 Pt.1 Copy 3 THE UNIVERSITY PRESS OF VIRGINIA
+                    Copyright 1980 by the Rector and Visitors of the University of Virginia
+                    First published 1980Library of Congress Cataloging in Publication Data Shakespeare,
+                    William, 1564-1616. Shakespearean prompt-books of the seventeenth
+                    century. ContentsIntroduction to the Smock Alley Othello ....... 1Collations ............................................. 13</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e194</field><field name="section_s">introduction</field><field name="title_s">Introduction Smock Alley Othello Third Folio</field><field name="fulltext_t">Introduction Smock Alley Othello Third Folio THE Smock Alley Othello[1] shares several
+                    prompt-hands with other Smock Alley prompt-books and is further linked with the
+                    Smock Alley Hamlet, Macbeth, I and II Henry IV, Henry VIII,
+                    and John Wilson's Belphegor by the appearance of six actors' names
+                    (more than in any other Smock Alley Shakespearean prompt-book), all inserted by
+                    Hand V (see below), among the prompt-calls: Joseph Trefusis (as ?Officer in
+                    I.iii, and as First Gentleman in II.i), John Totterdale (role uncertain, in
+                    I.iii), Barnes (as Sailor in II.i), Walmsley (as Second Senator in I.iii), John
+                    Freeman (as Montano in II.i), and Charles [?Ashbury] (as a Messenger in I.iii
+                    and as Third Gentleman in II.i).[2] What appear to be
+                    two other names occur,  but they have been so badly shaved in binding
+                    as to be unidentifiable: `. . . oin' (or'. . . vin'), who played the First
+                    Senator in I.iii, and `. . . ick', whose role, also in I.iii, is uncertain.[3] As with other Smock Alley prompt-books, the relative dating of Othello
+                    depends upon the appearance of such actors' names. Unfortunately, the evidence
+                    for assigning initial and terminal dates for actors appearing at Smock Alley is
+                    in most instances more or less conjectural, especially so because actors often
+                    seem to have moved back and forth between Smock Alley and the London theatres.
+                    W. S. Clark assigns tentative dates for five of these actors: Trefusis (c.
+                    1675-88), Totterdale (c. 1674-88), Barnes (c. 1675-c. 1680), Walmsley (c.
+                    1675-88), and Freeman (c.1675-82).[4] Allan Stevenson
+                    first suggested the possible identification of `Charles' as Charles Ashbury, the
+                    son of Joseph Ashbury, himself an actor and the manager of the Smock Alley
+                    Theatre from 1675-1720, but we know nothing more definite about Charles than
+                    that he was probably associated with Smock Alley around the dates indicated by
+                    Clark for the other actors involved.[5] Even if some
+                    kind of tentative dating may be suggested on the basis of these actors' names,
+                    such dating would probably give us only a terminus ad quem, since there
+                    is evidence that the Othello prompt-book may have been used for at
+                    least one earlier production before these particular actors took part in the
+                        play.6 Only one of the actors named, John Freeman, may perhaps help to set certain
+                    probable limits for dating the Othello promptbook, at least in so far
+                    as his connection with the production is concerned. Clark's dating for Freeman,
+                    as noted above, is "c.  1675-82," but in the light of more complete
+                    information now furnished by The London Stage (Part 1: 1660-1700)[7] it can now be shown that Freeman was performing in
+                    London at Dorset Garden in December 1680 (1680-81 season), November 1681
+                    (1681-82 season), and December 1683 (1683-84 season), but does not appear in
+                    London again until March 1686 (1685-86 season). This would seem to leave three
+                    probable dates for the appearance of his name in the Othello
+                    prompt-book: (1) prior to 1680, (2) the 1682-83 season, and (3) the 1684-85
+                        season.[8] A choice between these three possibilities may perhaps be influenced by
+                    consideration of the Smock Alley prompt-book (manuscript) of John Wilson's
+                        Belphegor,[9] which received its first
+                    performance, an apparently disastrous one, in Dublin. Clark and Stevenson differ
+                    on the most probable date for this production, but they are agreed that the play
+                    was produced at Smock Alley when Wilson was himself in Dublin. Stevenson
+                    advances three possible periods that would satisfy this requirement: 1677-78,
+                    1680, and 1682-83.[10] Clark advances 1677-78 as the
+                    date, without mentioning any other possibility.[11]
+                    Stevenson, while admitting that 1677-78 "may have been the most suitable one,"
+                    believes that 1682-83 "seems more appropriate for the whole group of actors and
+                    fits better" with a satiric allusion,  which he dates as 1683 or
+                    after, to the play's failure. Among the eleven actors named in the
+                        Belphegor prompt-book, two, John Freeman and Barnes,[12] also appear in Othello, and two other
+                    members of the Belphegor cast, George Bright and Mrs. Osborne, can,
+                    along with Freeman, be traced on the London stage (Dorset Garden) during some of
+                    the years in question. All the available evidence, detailed in the note
+                        below,[13] tends to support Clark's claim for the
+                    years 1677-78.  The link between the Othello and the Belphegor promptbooks
+                    furnished by the common appearance of Freeman and Barnes in both,[14] while admittedly fragile, may suggest that the  two earlier terminal dates for Othello (prior to 1680 or
+                    1682-83) are slightly more likely than the third (1684-85). Moreover, the
+                    absence of Trefusis in Belphegor and his presence in Othello,
+                        Hamlet (c. 1676-79), and I Henry IV (at least
+                    before January 1685),[15] where his name is written in
+                    by the same hand (there Hand III) as Hand V in Othello, though again
+                    evidentially fragile, further suggests that these prompt-books may fall into a
+                    position after, but not long after, the Belphegor production, which, as
+                    I have shown above, may most probably be dated in 1677-78. In the first volume
+                    of this series, I advanced 1680-82 as a likely terminal date for the Othello
+                        prompt-book.[16] I would now, in the light of
+                    the fuller information on Freeman and the date of the Belphegor
+                    production, suggest a terminal date for Othello either shortly before
+                    1680 or in 1682-83, still admitting, however, what seems to me the less likely
+                    possibility of the 1684-85 season.  Before we consider further the possibility that more than one production of the
+                    play is represented in the Othello promptbook, that is, a production
+                    predating the insertion of the actors' names by Hand V, it will be necessary to
+                    discuss the main prompt-hands and, so far as possible, identify their appearance
+                    in the other Smock Alley prompt-books. R. C. Bald long ago noted that "as many
+                    as six hands are visible in the notes to Othello."[17] There are, however, a number of notations where exact
+                    identification is at best uncertain and still other hands may well be
+                        present.[18] Hand I is responsible for the advance
+                    prompt-calls and appears again in Macbeth as Hand III. Hand II gives
+                    the scene settings and makes occasional changes in the  text, usually
+                    in connection with readings found in Q1-3 and Q (1681). It occurs again in
+                        Macbeth (Hands I and II), Hamlet (Hands I and II),
+                        Lear (Hand b, Twelfth Night (Hand I), Henry VIII
+                    (Hand I) and I Henry IV (Hand II).[19] It is,
+                    thus, the most ubiquitous and important hand in the Smock Alley prompt-books.
+                    Hand III writes in emendations in the text and is to be distinguished from Hand
+                    IV, which also inserts emendations, by characteristics usually associated with
+                    earlier seventeenth-century hands. Hand IV appears to be later than any of the
+                    others (?eighteenth-century) and is, like Hand II, usually associated with
+                    changes made in conformity with quarto readings. Neither Hand III nor IV seems
+                    to occur elsewhere in the Smock Alley prompt-books. Hand V, which has already
+                    been mentioned in connection with the vexed problem of dating, is responsible
+                    for all the actors' names and a number of other important prompt-notes. It
+                    occurs elsewhere only in I Henry IV (as Hand III] and, possibly (see
+                    note 13), in the Belphegor prompt-book. Hand VI inserts a number of
+                    prompt-notes mostly concerned with scene settings and sound effects. The same
+                    hand also appears in Hamlet (Hand III), Julius Caesar (acting
+                    list), Macbeth (Hand IV), Merry Wives (Hand I), and, perhaps,
+                    Wilson's Belphegor (main prompt-hand).  With the main prompt-hands now established, we may return to the question
+                    postponed above: Does the Smock Alley Othello show evidence of serving
+                    for more than one production of the play? Such evidence as there is would seem
+                    to support the view that Hand V's participation in the prompt-book may indeed
+                    represent a later reworking of an earlier production. Hand V supplements or
+                    cancels prompt-notes by other hands, but his own annotations are never
+                    superseded or supplemented. The beginning of II.i shows perhaps the clearest
+                    example of Hand V's work. His addition to (or perhaps substitution for) Hand
+                    II's setting (`&lt;Ca&gt;stle') of `ye Shipps' and his handling of the Folio
+                    three Gentlemen, whom he reduces to two, appearing to  supersede (or
+                    at least supplementing) Hand I's treatment, as well as his cancelation of
+                    prompt-notes by Hand ?III (lines 20, 49-51) and Hand VI (lines 73-74, 75), aimed
+                    at getting rid of the gun salutes (lines 55, 94), all strongly suggest a
+                    probable reworking of the scene as originally planned. But there is little here
+                    to tell us whether Hand V's revisions represent changes for a later separate
+                    production or were made as the final stage in the initial preparation of the
+                    prompt-book. Perhaps however, Hand V's cancellation of prompt-notes by hands
+                    other than Hands I and II, who may be credited with preparing the first rough
+                    draft of the prompt-book, may be taken as evidence that Hand V's work represents
+                    a distinct new production. If this is so, and I would say the evidence in II.i
+                    and elsewhere[20] seems generally to support such a
+                    view, we must assign a date for the original production as somewhat earlier than
+                    the years associated with Hand V's intervention (i.e. shortly before 1680,
+                    1682-83, or possibly 1684-85). How much earlier there is no certain way of
+                    knowing, but the general community of prompt-hands, particularly Hand II, with
+                    other Smock Alley promptbooks, none of which can be shown to be earlier than
+                    1675, suggests a date in the later part of the 1670's.  The Othello prompt-book is, unfortunately, incomplete, lacking six pages
+                    (795-800, sigs. 3X5-3Y1 in F3) of the text from II.i.88 to III.iii.19 and the
+                    final page (817, sig.3Z4 in F3), containing the concluding lines of the play
+                    (V.ii.360-371), a total of 735 lines.[21] The loss of
+                    these sections of the text makes it very difficult to determine the exact amount
+                    of cutting undertaken for the Smock Alley production (or productions). In  what remains of the prompt-book, roughly around 326 lines have been
+                    marked, by one hand or another, for omission, but we can only guess at the
+                    extent of the cutting in the missing pages. Of the 723 lines lost between
+                    II.i.88 and III.iii.19, the eighteenth-century acting texts cut somewhat over
+                    two hundred lines, including the whole of II.ii (the proclamation scene), III.i
+                    (the clown scene), and III.ii (Othello giving letters to be sent to Venice).
+                    Although the Clown was originally retained in the prompt-call by Hand I at the
+                    opening of III.iv, a later hand (Hand ?III) has deleted his entry and cut lines
+                        1-22.[22] It seems likely, therefore, that the
+                    Clown's earlier appearance in III.i (some 30 lines) was also deleted at the same
+                    time, but whether the rest of the scene (another 28 lines) was also cut, as in
+                    the eighteenth-century acting texts, or retained, as in the Collier MS cutting,
+                    must remain uncertain. Since the amount of cutting in other parts of the Smock
+                    Alley Othello is comparatively light, we may perhaps suggest a total of
+                    about 95 lines cut in the missing six pages. This would give an over-all total
+                    of around 421 lines cut and leave a final acting version of about 2,808 lines, a
+                    stage text considerably longer than any found in the eighteenth-century acting
+                    texts and Kemble.[23] Marvin Rosenberg, in his interesting stage-history, The Masks of Othello
+                    (1961), has analyzed a number of the cuts in the Smock Alley PB and finds there
+                    some attempt being made to "refine" both Othello and Desdemona in accordance
+                    with  the doctrine of decorum, citing Thomas Rymer's famous attack on
+                    the play and its principal characters.[24] While I
+                    would agree that questions of decorum may play some slight part in the pattern
+                    of cutting, probably under the influence of Thomas Betterton's "heroic"
+                    conception of the role of Othello (noted by Rosenberg; see, perhaps, I.iii.273;
+                    III.iii.24, 180-183; IV.i.35-44, IV.ii. 56- 64, 161-165), I suspect that the
+                    real reason for deleting `Exchange me for a Goat' in III.iii.180-183 was more
+                    concerned with a desire to get rid of the difficult language in the following
+                    lines than with the possible indecorum in the reference to such a vulgar animal
+                    as a goat. In III.iii.345-357, Othello's famous "farewell" to his "occupation,"
+                    which is reduced to some four lines,[25] it is
+                    possible to see "refinement" at work, perhaps, in the cutting of lines 345-347,
+                    but that the latter part of the speech was cut because of an over-bombastic,
+                    rhetorical tone, unsuitable to the heroic Othello (as Mr. Rosenberg suggests)
+                    seems very questionable. The speech was left untouched in eighteenth-century
+                    acting versions and singled out for special praise by Francis Gentleman (see the
+                    Collations). More simply, I think, what is behind the cutting here, and for the
+                    most part in the remainder of the play, is a desire to shorten the play somewhat
+                    by deleting what seemed to the reviser(s) non-essential lines and passages, in
+                    two cases perhaps under the influence of Quarto 1 (see IV.iii.22-57, 88-102).
+                        [26] And, although one may note the occasional
+                    deletion of passages with special sexual reference (as in III.iii.345-347,
+                    IV.i.35-44, or IV.ii. 56-64), other passages equally or more explicitly sexual
+                    remain untouched. Moreover, although the eighteenth century completely deleted
+                    Othello's trance scene in IV.i, excised the character of Bianca from the play
+                    and Othello's brief appearance in V.i., each in its way, we may assume,
+                    considered  offenses against aspects of the doctrine of decorum, the
+                    Smock Alley PB retains them essentially uncut.[27] In
+                    other words, decorum or refinement in eighteenth-century terms played a very
+                    small part in the production of the Smock Alley PB.  As in the other Restoration theatre versions generally, the reviser(s) at Smock
+                    Alley either jettisoned "hard" or obsolete words and phrases (for example,
+                    I.i.16; I.ii.17, 56, 89; II.i.63-65; III.iii.287; IV.ii.30) or substituted other
+                    readings (for example, I.i.39; I.ii.17, 22; I.iii.275; II.i.8-9; V.i.22). He (or
+                    they) also shows a knowledge of the earlier quarto editions, particularly Q2-3
+                    and possibly Q1 and Q (1681)[28](see I.i.110; I.ii.22;
+                    I.iii.110, 159, 261, etc.), a knowledge that argues for a close connection
+                    between the Smock Alley PB and the current London performances, which, according
+                    to the 1681 quarto, used the quarto version stemming from Q2 (1630). Since there
+                    was a continual exchange between the London theatres and Smock Alley, it is fair
+                    to assume that many of the cuts and other changes, which now appear for the
+                    first time in the Smock Alley PB, were in fact importations from London and that
+                    the Smock Alley PB preserves for us in its essentials Othello as it was
+                    performed in Restoration London. Another indication of this influence is the
+                    large number of cuts common to the Smock Alley PB and the eighteenth-century
+                    London acting versions (see the Collations), since the line of influence would
+                    certainly not be through Smock Alley. On the other hand, the Smock Alley PB has
+                    a substantial number of cuts (for example, I.ii.19-24; I.iii. 83-87; II.i.36-42;
+                    III.iii.351-357) and some twenty-eight readings (I.i.39, 159; I.ii.12, 17;
+                    I.iii.59, 258, 264, 274, 279, 374; II.i.8-9, 10, 34 (bis), 53, 56-57,
+                    59, 60,66-67; III.iii.135, 137,393,455,478; IV.i.22; IV.ii.74; V.i. 14, 22)
+                    which are either unique or anticipate later editorial emendations. There is, of
+                    course, no way of determining whether at least some of these cuts or readings
+                    are really peculiar to Smock Alley or whether they represent details of the
+                    London tradition that failed to leave their mark on later stage practice.  The stage settings used for the Smock Alley Othello seem to be almost
+                    entirely stock scenes, all but one (`ye Shipps' II.i) being employed at least
+                    once in other Smock Alley Shakespeare  prompt-books.[29] They are: `Towne' (I.i); `Presence' (I.iii, IV.ii
+                    [later replaced]); `Castle' (II.i, V.i); `ye Shipps' (II.i [perhaps a rear
+                    shutter to be used with `Castle']); `Chamber' (III.iv); `Court' (IV.i
+                    [replaced]); `pallace' (IV.i); `Anti-Chamber' (IV.ii); `Bed Chamber' (V.ii
+                    [presumably the same as `Chamber' with the addition of a bed]).[30]1. The Smock Alley Othello promptbook is now in the
+                        Folger Shakespeare Library, Washington, D.C., and is here reproduced by the
+                        kind permission of the Trustees.2. It has only recently been pointed out that `Charles' took the
+                        roles of Peto and Page in II Henry IV. Gunnar Sorelius discovered
+                        twenty-seven cuttings (from the Smock Alley Third Folio) of I Henry
+                            IV and twenty-four of II Henry IV in the
+                        Halliwell-Phillipps' scrapbooks in the Shakespeare Memorial Library in
+                        Stratford-upon-Avon (I Henry IV: Vols. I-III, VI, IX; II Henry
+                            IV: Vols. III-VI) and has published an account of what remains of
+                        these Smock Alley prompt-books (including the earlier known single fragment
+                        of I Henry IV in the Folger Shakespeare Library) in the
+                            Shakespeare Quarterly ("The Smock Alley Prompt-Books of
+                            I and 2 Henry IV," XXII (1971), 111-128). In addition
+                        to the appearance of `Charles' in II Henry IV, Trefusis played the
+                        First Carrier in II.i of I Henry IV and Powell (perhaps George
+                        Powell, son of Martin Powell, also an actor, who, with his father, appears
+                        with the United Company in 1686-87), the Second Carrier. From the Folger
+                        fragment it was already known that Longmore (who continued to play at Smock
+                        Alley into the eighteenth century) played the Chamberlain in II.i and II.ii.
+                        In the dramatis personae list for II Henry IV in the Third
+                        Folio (sig. 212v) Sorelius found the names of the actors
+                        who played the `Irregular Humorists': Poins by `Shepheard', Falstaff by
+                        `Baker', Bardolph by `Eales', Pistol by `Gilbert', `Charles', as already
+                        noted, playing Peto and Boy. Except for `Charles', none of these names
+                        appears elsewhere in the Smock Alley prompt-books. Francis Baker has long
+                        been known to have played Falstaff at Smock Alley before 1685, but this is
+                        the first evidence tying him directly to the role. Of the others, apart
+                        perhaps from `Charles' [?Ashbury] nothing is known.3. Allan Stevenson ("The Case of the Decapitated Cast or The
+                            Night-walker at Smock Alley,"SQ, VI [1955],
+                        291) suggests that we might "just possibly" read the second name as
+                        `&lt;P&gt;ink' (i.e. William Pinkethman). Pinkethman appears in the cast of
+                        the Smock Alley Belphegor about 1677-78 (see later discussion).4. William Smith Clark, The Early Irish Stage: The Beginnings
+                            to 1720 (1955), pp.207-209. Clark does not mention
+                        `Charles'.5. Stevenson, p. 290.6. Othello was produced at Smock Alley, very shortly
+                        after the Restoration, in late 1662 (see Clark, p. 61), but this production
+                        could have had no direct connection with the present prompt-book, since it
+                        could not have used a copy of the Third Folio (1663/64) as a basis for its
+                        prompt-book.7. Ed. by William Van Lennep, 1965 (Critical Introduction by Emmet
+                        L. Avery and Arthur H. Scouten).8. We are forced to work with such evidence as we possess, but it
+                        should be pointed out that these dates are less definite than they might
+                        seem for two special reasons: (1) because an actor can be shown to have
+                        taken part in a performance during a given season does not mean that he (or
+                        she) necessarily remained with the company throughout the season (he may
+                        have acted elsewhere, Smock Alley, for example); (2) on the other hand, the
+                        fact that his name is not associated with say the Duke's Company, or later
+                        the United Company (from the 1682-83 season on), for other performances (or
+                        indeed for any performances) during a particular season does not mean that
+                        he did not act various unrecorded roles during that season, since our
+                        records of the personnel of the London companies for any given year depend
+                        most frequently upon occasional theatre documents and actor lists (printed
+                        or manuscript) attached to published versions of the plays performed. More
+                        often than not we simply do not know who performed in the bulk of the
+                        productions for the season in question.9. Folger MS. V.b.109 (formerly 827.1). The scribe is the same as
+                        the one responsible for copying out the missing pages in the Smock Alley
+                            Merry Wives of Windsor prompt-book, and as Eland VI in
+                            Hamlet. There are numerous textual revisions in Wilson's hand,
+                        but whether they are connected with the Smock Alley production or with the
+                        much later London production (1690) is not now clear. This prompt-book was
+                        unknown to M. C. Nahm (John Wilson's "The Cheats," 1935), who is
+                        the principal source of biographical information on Wilson.10. Stevenson, p. 293.11. Clark, pp. 81-82.12. Freeman played the role of Belzebub (46 lines, of which 15
+                        have been cut; roughly comparable to his role of Montano in
+                        Othello, 60 lines, amount of cutting uncertain because of missing
+                        pages in the prompt-book). Of Barnes, who was introduced as a `Boy' to sing
+                        a single lyric, (his part as a Sailor in Othello is even slighter,
+                        four lines), nothing is really known, although Clark (p. 207) gives "c.
+                        1675-C. 1680" as the span of his acting career at Smock Alley. The only
+                        evidence for these dates is Clark's dating of Belphegor in 1677-78,
+                        a date which I am inclined to accept (see discussion above). All we know
+                        further is that a `Mr. Barns' (or `Barnes') turns up as a member of the
+                        United Company in London in the seasons of 1689-90 and 1690-91, at which
+                        times at least six other actors formerly associated with Smock Alley are
+                        also members of the company.13. The London Stage (Part l: 1660-1700), ed. William
+                        Van Lennep, 1965) furnishes the following information: (1) George Bright
+                        first appears on the London stage (Dorset Garden) in 1678-79 (April 1679),
+                        then in 1679-80 (June 1680), 1681-82 (November 1681; January 1682), 1682-83
+                        (November 1682; May 1683), 1683-84 (December 1683; March 1684); (2) Mrs.
+                        Osborne first appears on the London stage (Dorset Garden) in 1671-72
+                        (September 1671; January 1672; August 1672), then in 1672-73 (November 1672;
+                        March 1673; May 1673); 1674-75 (November 1674), 167576 (July 1676), 1677-78,
+                        (September 1677),1679-80 (February, 1680), 1681-82 (November 1681, twice;
+                        January 1682) 1682-83 (May 1683), 1684-85 (August 1685). This evidence,
+                        coupled with that on Freeman, suggests that the second and third dates for
+                        the Belphegor production are unlikely, first, because, though
+                        Bright and Mrs. Osborne appear to have been absent from the London stage in
+                        1680-81, Freeman was performing at Dorset Garden in those years (December
+                        1680 and January 1681); and, second, because, though Freeman was apparently
+                        available for Smock Alley in 1682-83, Bright and Mrs. Osborne (Bright
+                        particularly) were acting in London during that season. We are left,
+                        therefore, with the earliest proposed date (1677-78). For this date the
+                        evidence as far as Freeman and Bright are concerned is negative (i.e., there
+                        is no record of their performance in London at this time), but Mrs.
+                        Osborne's London record shows that she could have been playing at Smock
+                        Alley at any time between October 1677 and January 1679.14. Apart from the appearance of Freeman and Barnes in both casts
+                        there are perhaps two other slender connecting links between the
+                            Othello and Belphegor prompt-books: (1) the main
+                        prompt-hand in Belphegor may be the same as Hand VI in
+                            Othello (I am much less sure of this than I was formerly, see
+                        Vols. I and IV of this series, pp. 17 and 3 respectively); (2) in both
+                        instances where Barnes' name appears in the prompt-calls in
+                            Belphegor (pp. 36, 37), it appears to be inserted by a hand
+                        different from the main prompt-hand. This second hand may be, though again I
+                        cannot be sure, the same as Hand V in Othello the hand responsible
+                        for Barnes' and the other actors' names, where Hand V also inserts an
+                        actor's name into another hand's advance call (see I.ii.79-82, I.iii.
+                        (opening), II.i.1-5).15. Stevenson (p. 284) is wrong when he argues that Francis
+                        Baker, who played Falstaff (see note 2), was in London by 1683. He
+                        interpreted literally a misprint in the actors' list of Edward Ravenscroft's
+                            Dame Dobson (1684; acted May 1683 at Dorset Garden) that
+                        assigned the role of Mrs. Francis to `Mr. Baker' instead of, as properly, to
+                        Mrs. Baker. Van Lennep (The London Stage, Part I, p. 319) silently
+                        corrects the error.16. General Introduction, Vol. I, Part i, pp. 19-20. A single
+                        unique agreement at III.iii.362 between the Smock Alley PB and the 1681
+                        quarto edition of Othello (see the Collations) is perhaps
+                        suggestive but does not in itself rule out a date before 1681 for the
+                        version of the Smock Alley PB connection with Hand V. There is possibly some
+                        influence of Q(1681) at III.iii.135, where its error might lead to Hand II's
+                        unique emendation.17. "Shakespeare on the Stage in Restoration Dublin,"
+                            PMLA, LVI (1941), 373.18. See particularly I.i.159; I.iii.342 (and IV.iii.25); III.iv.
+                        (opening s.d.); V.ii. (opening).19. I have come to the belated conclusion that Hands I and II in
+                            Hamlet and Macbeth, Hand I in Lear,
+                            Twelfth Night, and Henry VIII, and Hand II in
+                            Othello and I Henry IV are in fact all the same hand.
+                        This conclusion, of course, vitiates my treatment of this hand in the Smock
+                        Alley Hamlet and Macbeth prompt-books (Vols. IV and V) of
+                        this series and telescopes what, in the General Introduction (Vol. I, p.
+                        17), I called Hands A and C. I should also  add here that what I treat
+                        as Hands III and VII in Hamlet are, I now believe, a single hand. I
+                        apologize for what I now consider to be these serious errors, but anyone who
+                        has tried to disentangle seventeenth-century hands, especially prompt-book
+                        hands, will, I trust, feel more sorrow than anger.20. See the Collation at III.iii.422; III.iv.60-67; IV.i.152-163,
+                        177-186, 225; IV.ii (setting), 168; V.ii (setting), 222-226, 243-
+                        248.21. Although the reason for the loss of these four leaves can
+                        only be guessed at, it seems highly likely that the agent of loss here, as
+                        elsewhere in the Smock Alley prompt-books, was Halliwell-Phillipps. Since
+                        the last page of Othello (817) in F3 was the recto of the first
+                        page (818) of Antony and Cleopatra, it is almost certain, when the
+                        Smock Alley F3 was broken up by Halliwell-Phillipps and the plays bound
+                        separately, that this page was included with Antony and Cleopatra
+                        (now lost). The Smock Alley Macbeth and Hamlet offer an
+                        exactly analogous case (see Vol. V, Part i, p. I of this series). The other
+                        six missing pages (795-800) were most probably either (1) detached for
+                        special exhibition purposes and never reassembled (compare the treatment of
+                        four leaves in the Smock Alley Macbeth) or (2) cut up into
+                        fragments and pasted into one of Halliwell-Phillipps' many scrapbooks
+                        (compare the scandalous treatment of the Smock Alley I and II
+                            Henry IV referred to above in Note 2). Someday, we may still hope,
+                        all four leaves may be recovered. Professor Gunnar Sorelius (see note 1) has
+                        kindly assured me that the missing leaves are not lurking in the Stratford
+                        or Folger Halliwell-Phillipps' scrapbooks.22. The Clown appears in the cast list in the 1681 Player's
+                        Quarto as played by Joseph Haines in a performance associated with Drury
+                        Lane in January of 1675. So far as I know, there is no evidence of his
+                        omission on the London stage during the seventeenth century (his omission in
+                        an incomplete MS cast list of c. 1690-91 is inconclusive; see The London
+                            Stage, I, 387).23. The Smock Alley Othello PB has been compared
+                        throughout in matters of staging, cutting, additions, etc. with five
+                        eighteenth-century acting versions and one from the early nineteenth
+                        century, as well as with the Collier MS (see the Collations). Using Alfred
+                        Hart's figure of 3,229 as the total number of lines in an uncut
+                            Othello text (R.E.S., VIII [1932], 21), we may offer
+                        the following rough estimates of comparative length: Smock Alley PB, 2,808
+                        (cutting 421 lines); 1755 Witford edition (Covent Garden), 2,384 (cutting
+                        845); John Palmer PB for 1766 (in a copy of the Hitch-Hawes 1761 edition),
+                        2,363 (cutting 866); anonymous 1755 PB (in a copy of the Witford 1755
+                        edition), 2,266 (cutting 963); 1764 Garland-Exshaw edition (Drury Lane),
+                        2,315 (cutting 914); Bell's acting edition (Drury Lane, 1773), 2,429
+                        (cutting 800); J. P. Kemble's acting edition (Covent Garden, 1804), 2,539
+                        (cutting 690). Occasional references are made to a 1770 acting edition with
+                        Drury Lane and Covent Garden casts for 65 and to the R. Butters edition (c.
+                        1788; Covent Garden). The Collier MS (in a copy of the Second Folio, 1632)
+                        suggests cutting only about 293 lines in all, 83 of these falling in the
+                        central missing section of the Smock Alley PB.24. Rosenberg leaves the impression that Rymer's criticism of
+                            Othello might have had some direct influence on the cutting in
+                        the Smock Alley PB. Considering the date of the Smock Alley PB (not later
+                        than 1684-85) and the date of Rymer's critique in A Short View of
+                            Tragedy (1692), any such direct influence seems impossible. See
+                        also an earlier article by Rosenberg on Othello on the
+                        eighteenth-century stage in SP, LI (1954), 75-94.25. The last part of line 357 (`Othello's Occupation's
+                        gone.') is wrongly included as part of the cut by Rosenberg.26. These cuts, which more or less follow the Q1 text (1622),
+                        may, of course represent an earlier stage tradition and thus indicate no
+                        necessary connection with Q1. The scene is even more heavily cut in the
+                        eighteenth-century acting texts and Kemble (see Collations).27. In V.i the last three lines (34-36) are marked for cutting,
+                        mainly, I suggest, because of textual difficulties (particularly in
+                        F3).28. See notes 16 and 26.29. See the list of Smock Alley stage settings in Vol. I, Part i,
+                        of this series (pp. 23-24). The recent discovery of parts of the Smock Alley
+                            I Henry IV and II Henry IV (see note 2) makes it
+                        possible to add three scenes to the above list: I Henry IV,
+                        `chamber of State' (I.i. [replaced]); `Stable' (II.i); `Camp' (IV.i, iii;
+                        also II Henry IV, IV.i).30. Compare `Chamber without ye Bed' in Smock Alley Merry
+                            Wives, I.iv, and Smock Alley Hamlet, II.i.  </field><field name="file_s">ShaOthP</field></doc></add>

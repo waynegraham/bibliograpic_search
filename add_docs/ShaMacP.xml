@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 5 (Smock Alley
+                    Macbeth) [a machine-readable transcription] </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 5 (Smock Alley
+                    Macbeth) [a machine-readable transcription] Shakespeare, William Creation of machine-readable version: Electronic Text Center Creation of digital images: Electronic Text Center Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. 125 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographic Society, ShaMacP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1996 Shakespearean prompt-books of the seventeenth century. The electronic text contains the Introduction and the Collations. The
+                    prompt-book is rendered as page images. Images of the manuscript have been included from volume 5, part 2. Shakespearean prompt-books of the seventeenth century, vol. 5 (Smock
+                            Alley Macbeth) Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype
+                            facsimile. University Press of Virginia Charlottesville, VA 1970 Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.5
+                        Shakespearean prompt-books of the seventeenth century Published for the Bibliographical Society of the University of
+                            Virginia  Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+                    word has been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general
+                    use, and thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in
+                    establishing analytical groupings. Library of Congress Subject Headings  1960-1970 English drama; prose LCSH 24-bit color; 400 dpi  July 1997 corrector Catherine Tousignant, Electronic Text Center Corrected various transcription errors. Corrected errors in the print text,
+                    page 32: because necessary] became necessary; page 33: Mentieth] Menteith; Fixed
+                    missing or broken images. July 1997corrector Catherine Tousignant, Electronic Text Center Added TEI header and tags. </field><field name="file_s">ShaMacP</field></doc><doc><field name="id">d1e137</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 5 (Smock Alley
+                    Macbeth) [a machine-readable transcription] </field><field name="fulltext_t"> SHAKESPEAREAN PROMPT BOOKS of the SEVENTEENTH
+                    CENTURY Vol. V: Part i Introduction to the Smock Alley Macbeth Collations  Edited by G. Blakemore Evans  A Publication of The Bibliographical Society of the University of
+                    Virginia University Press of Virginia, Charlottesville 1970 THE
+                    UNIVERSITY PRESS OF VIRGINIA Copyright 1970 by the Rector and Visitors of
+                    the University of Virginia First published 1970 Standard Book Number
+                    8139 0301 7 Library of Congress Catalog Card Number: 60 2680 Printed
+                    in the United States of America  ContentsIntroduction to the Smock Alley Macbeth . . 1Collations . . . . . . . 9</field><field name="file_s">ShaMacP</field></doc><doc><field name="id">d1e189</field><field name="section_s">introduction</field><field name="title_s">Introduction Smock Alley Macbeth Third Folio</field><field name="fulltext_t">Introduction Smock Alley Macbeth Third Folio THE Smock Alley prompt-book of Macbeth has suffered a somewhat adventurous
+                    career. After the play was separated from the original copy of the Third Folio
+                    (1664) by Halliwell Phillipps, [1] four pages (pp. 711,
+                    sig. 3O4; 714 [misnumbered], sig. 3O6V; 719, sig. 3P3; 722,
+                    sig. 3P4V) were exhibited in the "Rustic Wigwam" at
+                    Hollingbury Copse, Brighton, and the last page of the play (p. 729, sig. 3Q2)
+                    was eventually bound up with the Smock Alley Hamlet, the first page of
+                        Hamlet (p. 730, sig. 3Q2V) being the verso of
+                    the last page of Macbeth. [2] All but the last page
+                    found their way to the Folger Shakespeare Library, where they were reassembled.
+                        [3] The last page has only recently come to light
+                    with the discovery of the Smock Alley Hamlet prompt book in the
+                    Halliwell Phillipps collection of the University of Edinburgh Library. All these
+                    leaves unfortunately bear the marks of their exhibition: wavy ink lines running
+                    vertically through the text on the side of the leaf not intended for exhibition.
+                    The damage to the last page of Macbeth is especially heavy (see below, pp. 6-7)
+                    and indicates that the first page of Hamlet was also exhibited at some
+                    stage in its history, probably at Hollingbury Copse.
+                     Professor R. C. Bald's identification of 'Smyth' (Hand III), who plays Seyton in
+                    V.iii, with the Smock Alley actor Henry Smith who died in 1682 sets a definite
+                    date after which what may be considered as probably the first acted form of the
+                    Smock Alley prompt book cannot have been prepared. [4]
+                    The only other actors named are John Totterdale (at V.v.8, Hand III), who also
+                    played in Henry VIII and Othello, and 'farlow' (at III.i.22, 101-104, Hand ?III
+                    ). Nothing further is certainly known of Farlow, but Totterdale seems to have
+                    been acting in Dublin from about 1674 to 1688. [5]
+                    Totterdale's name, therefore, would seem to suggest an early limit of about 1674
+                    for this form of the prompt book. Further possible narrowing of the two limits
+                    (1674 and 1682) will be discussed later.  It is possible, as Professor Bald points out, [6] to
+                    distinguish what appear to be three layers in the prompt markings and four
+                    principal hands. Hand I (which appears as Hand I in Hamlet,
+                        Lear, and Twelfth Night and as Hand II in I Henry
+                        IV) does nothing but mark the scene settings. Hand II, probably the
+                    earliest of the prompt hands, indicates the characters to be called and seems
+                    responsible for much of the cutting and occasional textual changes. It appears
+                    again as Hand II in Hamlet and Othello and is perhaps the same
+                    hand responsible for the Julius Caesar couplet. [7] Hand III, another prompt hand and the same as Hand I in
+                        Othello, marks a second stage in the preparation of the play and is
+                    largely associated with bringing the performance, as originally outlined by Hand
+                    II, into closer conformity with certain aspects of D'Avenant's version of
+                    Macbeth (published 1674), particularly in III.iii, IV.i, and V.viii. Hand IV, a
+                    peculiarly coarse and heavily formed hand, occasionally makes changes in Hand
+                    III's notations, cuts a few lines, supplies prompt notes on off-stage effects,
+                    and tidies up generally. It occurs also in Hamlet (Hand III), Merry Wives (Hand I),
+                        Othello (Hand VI), and the Julius Caesar acting list and
+                    is the principal prompt hand in the Smock Alley Belphegor manuscript
+                    prompt-book. It is also possible to distinguish a fifth hand (Hand V) in
+                    connection with a few textual emendations near the beginning of the play which
+                    appear to be echoes of Pope's text (1723). [8] What
+                    seem to be other hands occur occasionally, but I have been unable to associate
+                    them with any of the hands in the other Smock Alley prompt-books. In the
+                    collation which follows all changes and additions and most deletions are either
+                    assigned to one of the five hands listed above (sometimes with a query) or
+                    marked as by an unidentified hand. The attempt to determine the hands
+                    responsible for the deletions (by circling, crossing through, and
+                    criss-crossing) is based on a study of the various inks usually associated with
+                    a particular hand. There is, of course, considerable danger in this method, and
+                    I have tried to indicate those cases where the evidence seemed especially
+                    ambiguous.  In the collation I have compared the Smock Alley Macbeth with the following stage
+                    or stage related versions: (1) the Padua prompt-book (see Volume 1 of this
+                    series; referred to as Padua PB); (2) Sir William D'Avenant's adaptation, 1674
+                    (edited by Christopher Spencer in Five Restoration Adaptations of
+                        Shakespeare, Urbana, 1965; referred to as D'Avenant) and the Yale
+                    manuscript of D'Avenant's adaptation (edited by Christopher Spencer,
+                        D'Avenant's "Macbeth" from the Yale Manuscript, New Haven, 1961;
+                    referred to as Yale MS, but not included in the collation unless differing
+                    significantly from the 1674 printed text). (3) The Douai manuscript, 1694 (in
+                    the Douai Public Library, MS 7.87, fols. 171-209; referred to as Douai MS).[9] (4) The Garrick version, 1744 (in Bell's
+                        Shakespeare, 1773, Vol. I; referred to as Bell).[10] (5) The John Lee version, Edinburgh, 1753 (referred to as Lee);
+                    (6) The Lee Edward Salmon prompt-book  (in a
+                    copy of the 1753 edition, now in the Harvard Theatre Collection, marked by
+                    Edward Salmon, the prompter, and belonging to West Digges, who played the role
+                    of Macbeth in Edinburgh on 26 December 1757; referred to as Lee Salmon PB, but
+                    only where it differs from Lee). [11] I have also
+                    included the cuts indicated in the Collier Perkins Second Folio, 1632 (referred
+                    to as Collier MS).  Two distinct versions of Macbeth emerge from the work of Hands II and III. Hand
+                    II seems to have blocked the play out, making a few verbal changes (I.iii.120,
+                    145-146; I.vi.9; III.i. 16-17, 28), marking certain passages or scenes (III.vi,
+                    V.ii) for cutting, a total of roughly 163 lines, and writing in the prompt calls
+                    for the characters. He regularly omits the characters of Angus and Lennox,
+                    except for one occasion each (V.i.63-64 and IV.ii. 125), when they were
+                    inadvertently, I think, included. In the General Introduction to this series
+                    (I,i,19) I suggested, following R. C. Bald, [12] that
+                    Hand II's version may represent the original form in which Smock Alley played
+                    Macbeth. This view I no longer consider seriously tenable. It is much more
+                    likely that Hand II's version represents a preliminary draft for prompt use and
+                    that this "prepared book" was then taken over by Hand III and further adapted
+                    for the stage with additional emphasis on D'Avenant's version. An analogous
+                    situation may be found in the Smock Alley Hamlet, where, I have
+                    suggested, possibly the same hand (Hand II) performed essentially the same kind
+                    of preliminary spadework. [13] Hand III initiates less cutting than Hand II (roughly 127 lines as compared with
+                    some 163),[14] although in a number of cases he
+                    reinforces Hand II's suggested cuts by further marks of deletion. On the other
+                    side, his individual textual revisions are much more numerous, particularly in
+                    III.iii, IV.i, and V.viii, scenes in which D'Avenant's influence is particularly
+                    marked. Hand II's  few verbal changes suggest
+                    some vague knowledge of D'Avenant, and his cuts sometimes parallel those in
+                    D'Avenant's version. Hand III's changes, however, quite apart from the three
+                    scenes noted above, reflect a closer recollection of D'Avenant's wording,
+                    although almost invariably with slight verbal inaccuracies or changes. This
+                    strongly suggests that Hand III worked from memory, without having a text of
+                    D'Avenant's version to consult.[15] Such a view might
+                    be considered one reason why the Third Folio text was employed as a prompt-book.
+                    But all the Smock Alley productions of Shakespeare used the Third Folio text as
+                    a source for the prompt-book. It is, moreover, conceivable that the company
+                    preferred Shakespeare's basic text, using D'Avenant only in those scenes (the
+                    murder of Banquo and the handling of the Apparitions) where his revision did not
+                    interfere materially with the original. A somewhat similar case occurs in the
+                    Smock Alley King Lear, in which Shakespeare's text is used until V.ii,
+                    at which point some form of Tate's happy ending appears to have been tacked on.  The suggested absence of a printed text of D'Avenant's version, first published
+                    in 1674 but performed as early as 1664, may also be advanced as an argument for
+                    placing the Smock Alley production of Macbeth at the earliest possible
+                    date--Totterdale's advent in the company in 1674. If, indeed, a printed copy of
+                    D'Avenant's text was literally not available, this would explain the apparent
+                    reliance of Hands II and III on recollections of the London performances. While
+                    an early limit (1674) must be allowed as a possibility, I still incline to the
+                    opinion I expressed in the General Introduction to this series (I,i,19): between
+                    1674 and 1682, with some preference for a later rather than an earlier date.  Hand IV seems certainly to be the latest of the main prompt hands. Although it is
+                    principally concerned with prompt notations, particularly off-stage effects or
+                    special business, e.g., I.iii.3-4; II.iv.10-13, 21; III.ii.22-23; III.iii
+                    (opening); III.v (opening and end); V.vii (opening), it makes a few cuts (about
+                    38 lines, limited to IV.iii, V.iii, V.iv, and V.viii), one change of scene
+                    (IV.i), and occasional verbal substitutions ( IV.iii.8,
+                     123, 191-192; V.v.11). Hand IV also restores
+                    Folio 'Rosse' for Hand III's'Macduffe' in I.ii.45 s.d. and I.iii.88 s.d. (from
+                    D'Avenant) and Folio 'Saward' for Hand III's 'Rosse' in V.vii.4 s.d. (D'Avenant,
+                    'Lennox'). There is, I believe, some evidence to suggest that Hand IV worked on
+                    the prompt-book at two different times. The changes made in Hand III's notations
+                    and some other notations are written in a faded black-brown ink, while those
+                    calls which seem merely to tidy up Hand III's work are generally in a light
+                    brown ink. It seems possible, therefore, that some of Hand IV's changes may
+                    reflect a somewhat later version of the play. But the evidence is tenuous,
+                    sometimes uncertain, and resists any definite conclusion.  It is difficult to give a very satisfactory account of the total number of lines
+                    cut in the Smock Alley Macbeth. But as the play finally emerged under
+                    Hand IV about 328 lines seem to have been deleted from the original and about
+                    five lines, which do not merely substitute for deletions (see III.iii.11-22;
+                    V.vii.11; V.viii.32-34), added. Also probably another twenty lines (the second
+                    (?) song from D'Avenant's version called for in II.iv.10-13, 21) must be
+                    included as an addition. All this leaves a production of about 1,781 lines,
+                    somewhat shorter than the Padua PB, D'Avenant, Douai MS, Garrick, Lee, and
+                    Lee-Salmon versions.[l6] The principal cuts are as
+                    follows: II.iii.5-23, 28 ('of three . . .')-46 (the Porter scene); III.vi (the
+                    scene of comment between Lennox and a Lord); IV.ii.30-64, 79-85 (the last part
+                    of the scene of Lady Macduff's murder); IV.ii.117-123 ('Devilish . . .
+                    detraction.'), 125-137 ('I am . . . Quarrel.'), 139 s.d.-159 (' . . . Grace. ')
+                    (parts of the Malcolm Macduff interview); and V.ii (scene of comment by
+                    Macbeth's enemies).  The final scene (V.viii) requires special comment. This scene occurs on the last
+                    page of Macbeth (p. 729, sig. 3Q2 ) and has been defaced by the
+                    nineteenth-century exhibitor. In addition to double verticle lines down each
+                    column, two of Hand II's advance calls, Hand III's added lines at the bottom of
+                    the page, the running title, and the catchword have been crossed through, each
+                    with a single pen stroke. All these deletions must, I think,
+                     be "credited" to the vandal exhibitor. They
+                    are made more neatly, if that is a virtue, than the usual run of deletions in
+                    this prompt-book. If this explanation is accepted, the general intention in the
+                    final scene is clear enough, although the cutting in lines 35-53 is somewhat
+                    confusing. Even so, however, the scene as here developed does nothing to clear
+                    up the difficulty in the Folio text as to where Macbeth dies, on- or off-stage.
+                    Here, as in the Folio, he seems to die on-stage, with a line lifted from
+                    D'Avenant's version of the scene in which he does indeed die on-stage. At this
+                    point, Macduff, with a line original to the Smock Alley prompt-book 'Soe may all
+                    tyrants fall.' exits, re-entering immediately after the entrance of Malcolm,
+                    Siward, Ross, etc. (lines 35-53 being cut) with Macbeth's head. Unless he cuts
+                    it off before exiting, where does Macduff get the head? At best this suggests an
+                    awkward bit of stage business, all the more surprising in the Smock Alley
+                    production in view of D'Avenant's handling of the matter, by more decorously
+                    substituting Macbeth's sword, which Macduff takes from the dying Macbeth just
+                    before his exit and produces triumphantly on his re-entry some lines later. Was
+                    the taste of an Irish audience more Elizabethan than Augustan?  In a number of instances the changes made in the Smock Alley prompt-book parallel
+                    those found both in the earlier Padua prompt-book and in eighteenth-century
+                    productions; all such parallels are recorded in the running notes to the
+                    collation. It should be noticed, however, that the attitude here dictating the
+                    cutting in the Porter scene differs from that at work in the Padua prompt-book.
+                    In Smock Alley "decorum" and D'Avenant are pretty clearly responsible, although
+                    I do not believe that there is otherwise much evidence of a desire to "refine"
+                    Macbeth except in the matter of language. As usual in Restoration versions
+                    (contrast the Padua prompt-book), Shakespeare's diction and syntax have been
+                    simplified, sometimes, but not always, with the aid of D'Avenant (e.g.,
+                    I.iii.55-57, 120, 145-146; II.iii.131-133; II.iv.40; III.i.16-17, 110;
+                    III.iv.60, 75, 103, 105, 106; IV.i.69, 90, 92-94; IV.ii.75; IV.iii.8, 133,
+                    191-192; V.iv.11; V.Viii.14, 32-34), or "poetic" passages simply deleted (e.g.,
+                    I.iii.125-126, 137-142; I.vi.3-9; I.vii.2-12; II.iii.135-138; III.i.122-126;
+                    IV.iii.117-123, 125-137, 171-173). The desire to clarify what seemed involved,
+                    difficult, or obsolete accounts for a large number of the changes and cuts, and
+                    sometimes the poetic quality of the play 
+                    suffers though considerably less so than in D'Avenant's "flattened" adaptation.  Two further points may be mentioned. Hand III's importation of Banquo into II.iv
+                    in the place of the Old Man is so far as I know unique to the Smock Alley
+                    production. His presence there may perhaps be explained by the implied inclusion
+                    of the Witches in Hand IV's call for a song and dance at lines 4-5 and 10-13,
+                    since Banquo would be a more suitable spectator for this extra effect than an
+                    anonymous Old Man. In V.iii.36, 48, and V.v.51-52, Hand IV deletes the
+                    references to Macbeth's armor (missing, however, the first one at V.iii.33-34),
+                    and Hand III cuts the reference to his shield at V.viii.32-34. Such deletions
+                    point to a costuming of Macbeth more in keeping with Restoration military dress
+                    than with Shakespeare's conception, a view borne out by several
+                    eighteenth-century theatrical paintings and engravings.[17] The scenes employed in the Smock Alley Macbeth are for the most part stock: Court
+                    (I.ii,iv,vi; III.i,iv; V.i), Towne (II.iv,deleted; IV.iii; V.ii), Groue
+                    (III.iii; V.iv), Castle (V.v), and Chamber (II.i; III.iv, deleted). These scenes
+                    all appear in other Smock Alley plays,[18] but three
+                    scenes are found only in Macbeth: Rock (I.i,iii; II.iv; III.v; IV.i, deleted),
+                    Garden (I.v; IV.ii), and Caue (IV.i). The 'Rock' scene is regularly associated
+                    with the Witches and must have been specially prepared for this play. It is
+                    possible that the 'Caue' scene substituted by Hand IV in IV.i represents a
+                    refinement introduced at perhaps some later date. The only setting which raises
+                    any particular question is the use of 'Towne' for the interview between Malcolm
+                    and Macduff (IV.iii), a scene which according to Shakespeare's text is supposed
+                    to take place at the court of Edward the Confessor in England. Possibly some
+                    slight influence of the unity of place may be detected here and in D'Avenant,
+                    who, curiously enough, sets the scene in Birnam Wood. 1. See the General Introduction in the first volume of this series
+                    (I,i,16). I would like to thank Mr. C. P. Finlayson, Keeper of Manuscripts,
+                    Edinburgh University Library, for his kindness in checking various ink shades on
+                    the last page of the Smock Alley Macbeth. 2. The Smock Alley Hamlet was published as Vol. IV (1966) of
+                    this series. 3. R.C. Bald ("Shakespeare on the Stage in Restoration Dublin,"
+                        PMLA, LVI [1941], 369) was thus slightly misleading when he wrote:
+                    "The four missing leaves in Macbeth were discovered mounted in a large portfolio
+                    as item 233 of the Shakespearean Rarities preserved at Hollingbury
+                    Copse." This find did not complete the Smock Alley Macbeth. 4. Bald, pp. 371-372; W. S. Clark, The Early Irish Stage
+                    (Oxford, 1955), p. 75. 5. Clark, p. 208. Totterdale also appears in the Smock Alley cast for
+                    Fletcher's Night-Walker (see Allan Stevenson, "The Case of the
+                    Decapitated Cast," SQ, VI [1955], 285-286). Stevenson notes that
+                    Totterdale had a son baptized at St. John's in Dublin in November, 1675. He also
+                    notes (p. 289) that Mrs. Elizabeth Farlowe or Farlee was a member of the King's
+                    company. She disappears from the London stage after April, 1678 (see The
+                        London Stage, Part I, ed. William Van Lennep [Carbondale, 1965], p. 15
+                        et passim) . It is possible, though not, I think, very likely, that
+                    Mrs. Farlowe played the role of the Servant. If so, this would place the date of
+                    the Smock Alley production between 1678 and 1682. 6. Bald, p. 373. 7. See the General Introduction (I,i,14-15). 8. Although Hand V does not appear to be the same as the eighteenth
+                    century hand which occurs in the Smock Alley Twelfth Night,
+                        Hamlet, King Lear, Midsummer Night's Dream, and
+                        Merry Wives, I do not believe that Hand V's changes predate Pope's
+                    edition. The isolation of the readings in two scenes (I.i and ii) is extremely
+                    suspicious. 9. See my analysis of the Douai manuscript, "The Douai Manuscript--Six
+                    Shakespearean Transcripts (1694-95)," in Charles B. Woods and Curt A. Zimansky,
+                    eds., Studies in English Drama Presented to Baldwin Maxwell (Iowa City,
+                    1962), pp. 158-172. 10. See George W. Stone, "Garrick's Handling of Macbeth,"
+                        SP, XXXVIII (1941), 609-628. Professor Stone's article also
+                    contains some comments on later eighteenth-century stage versions. 11. The Lee-Salmon prompt-book is used by permission of the Harvard
+                    College Library. The 1734 Tonson edition of Macbeth is taken from
+                    Theobald's 1733 text and shows no connection with the theatre. An edition of
+                        Macbeth published in 1785 (with casts for that year at Drury Lane
+                    and Covent Garden) reproduces essentially the Garrick version as it appears in
+                    Bell (1773). 12. Bald, p. 373. 13. See the Introduction to the Smock Alley Hamlet
+                    (IV,i,4-5). 14. The figures given for the cutting by Hands II, III, and IV are
+                    necessarily tentative, since, frequently, the only clue to which hand is at work
+                    is the color of the ink used in the marks of deletion--a dangerous criterion. I
+                    have included a cut as belonging to a particular hand even when I have felt it
+                    necessary to query the attribution. 15. It may be noted that a somewhat similar situation exists in the
+                    Smock Alley Hamlet. There is, however, some slight evidence that,
+                    despite the inaccuracies of Hand II's changes when compared with the so called
+                    actors' quarto (1676), an actual copy of the printed text of that quarto was
+                    used to some degree. 16. I have used Alfred Hart's figure of 2,084 lines for Macbeth ("The
+                    Number of Lines in Shakespeare's Plays," RES, VIII [1932], 21).
+                    D'Avenant's version runs to roughly 2,124 lines; Padua PB to 1,808; Douai MS to
+                    1,888; Garrick (Bell) to 1,846; Lee to 1,857; Lee-Salmon to 1,826. The figure of
+                    352 lines cut in the Smock Alley Macbeth as given in my General Introduction
+                    (I,i,27) was a careless error. 17. Compare the illustration by du Guernier to Macbeth (IV.i) in
+                    Rowe's 1709 edition (actually it represents a scene from D'Avenant's version),
+                    the famous painting by Zoffany of Garrick in the role of Macbeth (II.i), and
+                    Dawes' painting (IV.i). See W. M. Merchant, Shakespeare and the Artist
+                    (Oxford, 1959), pp. 53, 58-59. 18. See the General Introduction (I,i,23-24).  &lt;/page&gt;   &lt;page n=9&gt; </field><field name="file_s">ShaMacP</field></doc></add>

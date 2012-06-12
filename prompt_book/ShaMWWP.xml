@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//ELEMENTS TEI Lite XML ver. 1//EN"
+                       "http://www.tei-c.org/Lite/DTD/teixlite.dtd" [
+ 
+<!NOTATION jpg SYSTEM "JPEG">  
+  
+<!ENTITY mww-p36 SYSTEM "mww-p36.jpg" NDATA jpg>  
+<!ENTITY mww-p4517 SYSTEM "mww-p4517.jpg" NDATA jpg>  
+<!ENTITY mwwcov SYSTEM "mwwcov.jpg" NDATA jpg>  
+<!ENTITY mwwspin SYSTEM "mwwspin.jpg" NDATA jpg> 
+<!ENTITY mwwti SYSTEM "mwwti.jpg" NDATA jpg> 
+<!ENTITY mww1126 SYSTEM "mww1126.jpg" NDATA jpg> 
+<!ENTITY mww1174 SYSTEM "mww1174.jpg" NDATA jpg> 
+<!ENTITY mww11open SYSTEM "mww11open.jpg" NDATA jpg> 
+<!ENTITY mww4541 SYSTEM "mww4541.jpg" NDATA jpg> 
+ 
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOnum  SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub  SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech; 
+]>  
+<TEI.2 id="ShaMWWP">
+       <teiHeader>
+              <fileDesc>
+                     <titleStmt>
+                            <title>Shakespearean prompt-books of the seventeenth century, vol. 8
+                                   (The Merry Wives of Windsor) [a machine-readable transcription] </title>
+                            <author>Shakespeare, William </author>
+                            <respStmt>
+                                   <resp>Creation of machine-readable version: </resp>
+                                   <name>Electronic Text Center, University of Virginia </name>
+                                   <resp>Creation of digital images: </resp>
+                                   <name>Electronic Text Center, University of Virginia </name>
+                                   <resp>Conversion to TEI.2-conformant markup: </resp>
+                                   <name>University of Virginia Library Electronic Text Center.
+                                   </name>
+                            </respStmt>
+                     </titleStmt>
+                     <extent>60 kilobytes </extent>
+                     <publicationStmt>
+                            <publisher>University of Virginia Library. </publisher>
+                            <pubPlace>Charlottesville, Va. </pubPlace>
+                            <idno>Bibliographic Society, ShaMWWP </idno>
+                            <availability>
+                                   <p>Publicly-accessible </p>
+                                   <p n="public">URL:
+                                          http://etext.lib.virginia.edu/bsuva/promptbook/ </p>
+                            </availability>
+                            <date>1997 </date>
+                     </publicationStmt>
+                     <seriesStmt>
+                            <p>Shakespearean prompt-books of the seventeenth century </p>
+                     </seriesStmt>
+                     <notesStmt>
+                            <note>The electronic text contains the Introduction and the Collations.
+                                   The selected pages of the Prompt-Book included in this Volume
+                                   have been rendered as images. </note>
+                            <note> </note>
+                     </notesStmt>
+                     <sourceDesc>
+                            <biblFull>
+                                   <titleStmt>
+                                          <title>Shakespearean prompt-books of the seventeenth
+                                                 century, vol. 8 </title>
+                                          <title> </title>
+                                          <author>William Shakespeare </author>
+                                          <respStmt>
+                                                 <resp>Editor </resp>
+                                                 <name>G. Blakemore Evans </name>
+                                          </respStmt>
+                                   </titleStmt>
+                                   <editionStmt>
+                                          <p>Issued in portfolios. The prompt-books are reproduced
+                                                 in collotype facsimile. </p>
+                                   </editionStmt>
+                                   <extent> </extent>
+                                   <publicationStmt>
+                                          <publisher>Bibliographical Society of the University of
+                                                 Virginia </publisher>
+                                          <pubPlace>Charlottesville, VA </pubPlace>
+                                          <date>1996 </date>
+                                          <idno>Print copy consulted: First Edition provided by the
+                                                 BSUVA </idno>
+                                   </publicationStmt>
+                                   <seriesStmt>
+                                          <p>Shakespearean prompt-books of the seventeenth century
+                                          </p>
+                                   </seriesStmt>
+                                   <notesStmt>
+                                          <note>In Memoriam Fredson T. Bowers </note>
+
+                                          <note/>
+
+                                   </notesStmt>
+                            </biblFull>
+                     </sourceDesc>
+              </fileDesc>
+              <encodingDesc>
+                     <projectDesc>
+                            <p>Prepared for the University of Virginia Library Electronic Text
+                                   Center. </p>
+                     </projectDesc>
+                     <editorialDecl>
+                            <p>All quotation marks retained as data. </p>
+                            <p>All unambiguous end-of-line hyphens have been removed, and the
+                                   trailing part of a word has been joined to the preceding line. </p>
+                            <p>The images exist as archived TIFF images, one or more JPEG versions
+                                   for general use, and thumbnail GIFs. </p>
+                            <p>Keywords in the header are a local Electronic Text Center scheme to
+                                   aid in establishing analytical groupings. </p>
+                     </editorialDecl>
+                     <refsDecl>
+                            <p> </p>
+                     </refsDecl>
+                     <classDecl>
+                            <taxonomy>
+                                   <bibl>
+                                          <title>Library of Congress Subject Headings </title>
+                                   </bibl>
+                            </taxonomy>
+                     </classDecl>
+              </encodingDesc>
+              <profileDesc>
+                     <creation>
+                            <date>1960-1996 </date>
+                     </creation>
+                     <langUsage>
+                            <language>English </language>
+                     </langUsage>
+                     <textClass>
+                            <keywords>
+                                   <term>drama; prose </term>
+                            </keywords>
+                            <keywords>
+                                   <term>LCSH </term>
+                            </keywords>
+                            <keywords>
+                                   <term> </term>
+                                   <term> </term>
+                                   <term type="format">24-bit color; 400 dpi </term>
+                            </keywords>
+                     </textClass>
+              </profileDesc>
+              <revisionDesc>
+                     <change>
+                            <date>July 1997 </date>
+                            <respStmt>
+                                   <resp>corrector </resp>
+                                   <name>Catherine Tousignant, Electronic Text Center </name>
+                            </respStmt>
+                            <item>Corrected transcriptional errors. </item>
+                     </change>
+                     <change>
+                            <date>May 1997 </date>
+                            <respStmt>
+                                   <resp>corrector </resp>
+                                   <name>Michele Ierardi, Electronic Text Center </name>
+                            </respStmt>
+                            <item>Added TEI header </item>
+                     </change>
+              </revisionDesc>
+       </teiHeader>
+
+       <text>
+              <front>
+                     <div type="cover">
+                            <p><figure entity="mwwspin">
+                                          <figDesc>Image of the spine: Shakespearean Prompt-Books,
+                                                 Vol. VIII</figDesc>
+                                   </figure></p>
+                            <p><figure entity="mwwcov">
+                                          <figDesc>Image of the cover, part 1: Shakespearean
+                                                 Prompt-Books, Vol. VIII: Ki! Henry VIII, The Merry
+                                                 Wives of Windsor, Twelth Night, The Comedy of
+                                                 Errors, The Winter's Tale</figDesc>
+                                   </figure></p>
+                            <p><figure entity="mwwti">
+                                          <figDesc>Image of the titlepage, part 1: Shakespearean
+                                                 Prompt-Books, Vol. VIII: King Lear, Henry VIII, The
+                                                 Merry Wives of Windsor, Twelth Night, The Comedy of
+                                                 Errors, The Winter's Tale </figDesc>
+                                   </figure></p>
+                     </div>
+                     <titlePage>
+                            <docTitle>
+                                   <titlePart type="main"> SHAKESPEAREAN <lb/>PROMPT-BOOKS <lb/> of
+                                          the <lb/>SEVENTEENTH CENTURY </titlePart>
+                                   <titlePart type="sub"> Vol. VIII <lb/><hi>King Lear, Henry
+                                                 VIII,</hi>
+                                          <lb/><hi>The Merry Wives of Windsor</hi>
+                                          <lb/><hi>Twelfth Night, The Comedy of Errors</hi>
+                                          <lb/><hi>The Winter's Tale</hi>
+                                   </titlePart>
+                            </docTitle>
+                            <docAuthor>
+                                   <hi>Edited by</hi>
+                                   <lb/>G. Blakemore Evans </docAuthor>
+                            <docImprint>
+                                   <hi>A Publication of</hi>
+                                   <lb/>The Bibliographical Society of the University of Virginia
+                                          <pubPlace>Charlottesville</pubPlace>
+                                   <date>1996 </date>
+                            </docImprint>
+                     </titlePage>
+              </front>
+              <body>
+                     <!-- <page n=41><ID>ShaMWWP41</ID> -->
+                     <div0 type="introduction">
+                            <head> Smock Alley <lb/><hi>The Merry Wives <lb/>of Windsor</hi>
+                                   <lb/>Third Folio <lb/>Introduction </head>
+                            <p>IN the absence of any actors' names in the Smock Alley prompt-book
+                                   (PB) of <hi>The Merry Wives of Windsor</hi>, the presence of
+                                   which can sometimes date a prompt-book within certain limits,
+                                   what evidence there is for dating depends upon (1) handwriting
+                                   links in the prompt notations with other Smock Alley prompt-books
+                                   and (2) the probability that Francis Baker, -who was associated
+                                   with Smock Alley from about 1670 to 1685 and who acted Falstaff
+                                   in <hi>I</hi> and <hi>2 Henry IV</hi>, also acted Sir John in
+                                          <hi>Merry Wives</hi>.<note target="n1">[1]</note>
+                            </p>
+                            <p> Three hands can be distinguished in the <hi>Wives</hi> PB. Hand I,
+                                   which appears also in the Smock Alley <hi>Hamlet</hi> (Hand III;
+                                   c. 1676-79), <hi>Macbeth</hi> (Hand IV; c.1774-82)
+                                          <hi>Othello</hi> (Hand VI; c. 1677-78or 1682-83), the
+                                   Smock Alley acting list for <hi>Julius Caesar</hi> (before
+                                          1676),<note target="n2">[2]</note> and perhaps as the main
+                                   prompt-hand in <!-- </page> -->
+                                   <!-- <page n=42><ID>ShaMWWP42</ID> --> John Wilson's
+                                          <hi>Belphagor</hi> (probably 1677-78), a Smock Alley
+                                   manuscript prompt-book now in the Folger Shakespeare Library (MS.
+                                   V.b.109), is responsible for the prompt notations: scene
+                                   settings, except probably two (I.ii and III.i), act and property
+                                   notations, sound effects, advance character calls, added stage
+                                   directions, resulting from the Third Folio's (F) use of "massed
+                                          entries,"<note target="n3">[3]</note> almost certainly all
+                                   textual cuts, textual changes, and a single four-word addition
+                                   (I.iv.28). It is thus the only significant prompt-hand in the
+                                          <hi>Wives</hi> PB. Hand II is the same intrusive
+                                   eighteenth-century hand that appears in <hi>King Lear</hi> (Hand
+                                   III), <hi>Hamlet</hi> (Hand IV), <hi>Midsummer Night's Dream</hi>
+                                   (Hand II), and <hi>Twelfth Night</hi> (Hand II). Hand II emends
+                                   the Folio text, at least for this play, by reference to a copy of
+                                   Thomas Hanmer's edition of Shakespeare (Vol. I, 1744), a text
+                                   that incorporates emended readings from Rowe, Pope, Theobald, and
+                                   Hanmer himself. Two readings appear to be original with Hand II
+                                   (see <hi>Textual changes</hi>, II.ii.142; V.V.107).<note
+                                          target="n4">[4]</note> There is no reason to suppose that
+                                   Hand II's alterations have any connection with Smock Alley or
+                                   with the theatre. Hand III is found only in those pages
+                                   transcribed from a copy of F2 (1632) prepared to replace two
+                                   leaves of the <hi>Wives</hi> Third Folio text (sigs. E3 and E4;
+                                   pages 53-56; III.v.89-IV.v.4), leaves that had somehow been lost
+                                   or seriously defaced. The same hand, a large,
+                                   professional-looking Italian script, appears again as the main
+                                   scribal hand in the Smock Alley prompt-book of Wilson's
+                                          <hi>Belphagor</hi> (see note 3) and in the Smock Alley
+                                          <hi>Hamlet</hi> (Hand VI). Hand III's fifteen manuscript
+                                   pages retain the Folio massed entries (see note 4) and contain no
+                                   prompt notations, suggesting that the <hi>Wives PB</hi> was never
+                                   used after the additional leaves were inserted. This would in
+                                   turn seem to suggest that Hand III made his transcription only
+                                   shortly before or after 1685, the year in which Baker, Smock
+                                   Alley's Falstaff, left Smock Alley to join the United Company <!-- </page> -->
+                                   <!-- <page n=43><ID>ShaMWWP43</ID> --> in London, where,
+                                   ironically, there is no record that he ever performed the
+                                          role.<note target="n5">[5]</note>
+                            </p>
+                            <p> If, then, we accept the probability that Baker played Falstaff in
+                                   the Smock Alley productions of <hi>Merry Wives</hi> and that the
+                                          <hi>Henry IV</hi> plays, in which we know he played
+                                   Falstaff and which can be dated after 1675 and before 1685, were
+                                   more likely to have been produced before <hi>Merry Wives</hi> at
+                                   Smock Alley (as <hi>I Henry IV</hi> had been in London),<note
+                                          target="n6">[6]</note> we may at least postulate date
+                                   limits for the <hi>Wives</hi> PB as falling roughly within these
+                                   same limits, though probably performed somewhat later than the
+                                   first productions of <hi>I</hi> and <hi>2 Henry IV</hi>. These
+                                   suggested limits receive support from the dating of other Smock
+                                   Alley prompt-books that share Hands I and III with the
+                                          <hi>Wives</hi> PB and, as shown above, range in date from
+                                   about 1674 to 1683. </p>
+                            <p> The <hi>Wives</hi> PB is very lightly cut, only about fifty-two
+                                   lines (including half-lines) being deleted, by circling, almost
+                                   certainly by Hand I (compare his method of adjusting the F massed
+                                   entries). Only Fenton's role is significantly cut (thirty-two
+                                   lines), two cuts (II.i.52-53, 81-82) may represent some slight
+                                   attempt at bowdlerizing, and all reference to the Garter ceremony
+                                   (V.v. 67-77) has been omitted. Neither Hand I nor Hand III,
+                                   however, makes any attempt to modernize syntax or substitute
+                                   familiar for "hard" words, as happens in most of the other Smock
+                                   Alley prompt-books. </p>
+                            <p> W. S. Clark tells us that <hi>"The Merry Wives</hi> and <hi>Twelfth
+                                          Night</hi> were as little cut for Dublin as for London
+                                          performances."<note target="n7">[7]</note> If this was,
+                                   indeed, true of London performances, it would help to explain why
+                                   the Smock Alley <hi>Merry Wives</hi> (and <hi>Twelfth Night</hi>,
+                                   only about ten lines) was so lightly cut, but I know of no
+                                   evidence to substantiate such a statement. Certainly, later
+                                   theatre texts are much more heavily cut (e.g., [1] as acted <!-- </page> -->
+                                   <!-- <page n=44><ID>ShaMWWP44</ID> --> at Drury Lane, in John
+                                   Bell's <hi>Shakespeare's Plays, As they are now performed at the
+                                          Theatres Royal in London</hi>, Vol. III, 1773; [2] as
+                                   revised by John Philip Kemble and acted at Covent Garden,
+                                          1804).<note target="n8">[8]</note> Both Bell and Kemble
+                                   omit IV.i and IV.vi (Kemble also omits V.i) and cut other scenes
+                                   quite considerably (see <hi>Textual cuts</hi> for further
+                                   details). The <hi>Wives</hi> PB has been compared throughout with
+                                   the above two theatre texts and, where possible, with John Dennis
+                                          <hi>The Comical Gallant; or The Amours of Sir John
+                                          Falstaffe</hi> (1702), an extensively reworked adaptation
+                                   of <hi>The Merry Wives</hi>. Also compared are the Folger MS of
+                                          <hi>Merry Wives</hi><note target="n9">[9]</note> and the
+                                   so-called Collier MS (the Perkins Folio [1632], now in the
+                                   Huntington Library), which contains no textual cuts. </p>
+                            <p> Four of the scene settings ('Town', 'Tauern', 'Chamber', 'The
+                                   Groue') may be considered as stock, appearing in other Smock
+                                   Alley Shakespeare productions,<note target="n10">[10]</note> but
+                                   four other settings are found only in the <hi>Wives</hi> PB:
+                                   'Clouset' (I.ii,), 'Worst Chamber' (canceled and replaced by
+                                   'Tauern', I. iii), 'Chamber without ye Bed' (I.iv), and 'Great
+                                   forres :' (V.iii). See <hi>Scene settings</hi>. </p>
+                            <note id="n1"> 1. William Smith Clark, <hi>The Early Irish Stage: The
+                                          Beginnings to 1720</hi> (1955), pp. 75-76; Gunnar
+                                   Sorelius, "The Smock Alley Prompt-Books of <hi>I</hi> and <hi>2
+                                          Henry IV</hi>," <hi>Shakespeare Quarterly</hi>, 22 (1971),
+                                   123-124. </note>
+                            <note id="n2"> 2. See General Introduction, Vol. I: Part i, pp. 17-18,
+                                   of this series. </note>
+                            <note id="n3"> 3. For a discussion of "massed entries" in the F text of
+                                          <hi>Merry Wives</hi> and Hand I's solution to the problems
+                                   the use of such entries raises, see <hi>Advance character
+                                          calls</hi> and <hi>F stage directions altered</hi> (there
+                                   treated as a single combined category). </note>
+                            <note id="n4"> 4. Since in the Smock Alley <hi>Lear</hi> Hand II (there
+                                   Hand III) makes use of Charles Jennens' edition of <hi>Lear</hi>
+                                   ( 1770), he probably did not begin fiddling with these plays in
+                                   the Smock Alley Third Folio (1663/64) until after 1770. One of
+                                   Hand II's readings (see <hi>Textual changes</hi>, V.v.107) is
+                                   found elsewhere only in the Collier MS, and perhaps a second (see
+                                          <hi>Advance character calls</hi>, I.iv. 93, 112), though
+                                   also found in Kemble, should be included in the same category. On
+                                   the possibility that Collier may have known and used the Smock
+                                   Alley folio, see Introduction to the Lear PB, note 5. </note>
+                            <note id="n5"> 5. See the index to <hi>The London Stage 1660-1800</hi>,
+                                   Part 1: 1660-1700 (ea. William Van Lennep, 1965), which lists all
+                                   the roles Baker is known to have played in London. </note>
+                            <note id="n6"> 6. Ibid., pp. 19-20. We are able to narrow the date
+                                   limits from 1670-85 to 1675-85 because Joseph Trefusis who plays
+                                   the 1. Carrier in <hi>I Henry IV</hi>, only began acting at Smock
+                                   Alley about 1675 (see Clark, <hi>Irish Stage</hi>, pp. 77, 208).
+                                          <hi>Pericles</hi> (season of 1659-60), <hi>Othello</hi>,
+                                          <hi>I Henry IV</hi>, <hi>Merry Wives</hi>, <hi>Hamlet</hi>
+                                   (season of 1660-61, and <hi>Twelfth Night</hi> (season of
+                                   1661-62) were the earliest of Shakespeare's plays performed after
+                                   the Restoration (<hi>The London Stage</hi>, pp. 7, cxxix).
+                                   Although <hi>2 Henry IV</hi>, like <hi>I Henry IV</hi>, was
+                                   assigned to the King's Company in 1668-69, it does not seem to
+                                   have been acted in London during the Restoration (see <hi>The
+                                          London Stage</hi>, Index). For once Smock Alley struck out
+                                   independently in matters Shakespearean. </note>
+                            <note id="n7"> 7. Clark, <hi>Irish Stage</hi>, p 73. </note>
+                            <note id="n8"> 8. Because <hi>Merry Wives</hi> is largely written in
+                                   prose, comparative line-counts between the <hi>Wives</hi> PB and
+                                   later theatre versions are only misleading. </note>
+                            <note id="n9"> 9. G. Blakemore Evans, "The Merry Wives of Windsor: The
+                                   Folger Manuscript," in <hi>Shakespeare: Text, Language,
+                                          Criticism: Essays in Honour of Marvin Spevack</hi>, ed.
+                                   Bernhard Fabian and Kurt Tetzeli von Rosador (1987), pp.57-79. </note>
+                            <note id="n10"> 10. See General Introduction, Vol. I: Part i, pp. 23-24,
+                                   of this series. </note>
+
+                     </div0>
+                     <!-- </page> -->
+                     <!-- <page n=45><ID>ShaMWWP45</ID> -->
+
+                     <div0 type="collations">
+                            <head>Collations<lb/>
+                                   <hi>The Merry Wives of Windsor </hi>
+                            </head>
+                            <div1 type="figures">
+                                   <head/>
+                                   <p><figure entity="mww-p36">
+                                                 <figDesc>Image of page 36 of The Merry Wives of
+                                                  Windsor prompt-book (I.i.1-I.i.106). </figDesc>
+                                          </figure></p>
+                                   <p><figure entity="mww-p4517">
+                                                 <figDesc>Image of a handwritten page of The Merry
+                                                  Wives of Windsor prompt-book (IV.v.17-41).
+                                                 </figDesc>
+                                          </figure></p>
+                            </div1>
+                            <div1 type="introduction">
+                                   <head/>
+                                   <p>THE following collations are arranged by categories. The act,
+                                          scene, and line numbering is that of the Globe text (1911
+                                          ed.). Angle brackets are used to indicate letters (or
+                                          words) illegible or shaved in binding. Abbreviations
+                                          employed are as follows: </p>
+                                   <list>
+                                          <item>Bell . . . . . . . . . . <hi>The Merry Wives of
+                                                  Windsor</hi>, ed. Francis Gentleman, in Bell's
+                                                  <hi>Shakespeare's Plays</hi>, Vol. III (1773) </item>
+                                          <item>Collier MS . . . . . . . . the Collier-Perkins
+                                                 Second Folio (1632), in the Huntington Library </item>
+                                          <item>Dennis . . . . . . . . . John Dennis, <hi>The
+                                                  Comical Gallant; or The Amours of Sir John
+                                                  Falstaffe</hi> (1702) </item>
+                                          <item>F . . . . . . . . . . .here used for Third Folio
+                                                 (1663/64) </item>
+                                          <item>Ff....................indicates substantial
+                                                 agreement of all four Folio texts of <hi>The Merry
+                                                  Wives</hi>
+                                          </item>
+                                          <item> Folger MS . . . . . . . .manuscript copy of <hi>The
+                                                  Merry Wives</hi>, in the Folger Shakespeare
+                                                 Library (MS. V.a.73) </item>
+                                          <item> Gentleman . . . . . . . . see Bell above </item>
+                                          <item>Kemble . . . . . . . . . J. P. Kemble's acting
+                                                 version of <hi>The Merry Wives</hi> (1804) </item>
+                                          <item> PB Smock Alley, <hi>The Merry Wives</hi>
+                                                 prompt-book </item>
+                                          <item>Qq indicates substantial agreement of Q1 (1602) and
+                                                 Q2 (1619) </item>
+                                          <item>Q3 . . . . . . . . . . based (1630) on the First
+                                                 Folio text of <hi>The Merry Wives</hi>
+                                          </item>
+                                          <item>s.d. . . . . . . . . . . stage direction (plural
+                                                 s.dd.) </item>
+                                   </list>
+                            </div1>
+                            <!-- </page> -->
+                            <!-- <page n=46><ID>ShaMWWP46</ID> -->
+                            <div1 type="settings">
+                                   <head> Scene settings </head>
+                                   <div2 type="summary">
+                                          <head/>
+                                          <p>All the scene notations, except probably two (I.ii;
+                                                 III.i), are made by Hand I, who, uniquely in the
+                                                 Smock Alley Shakespeare prompt-books, includes, in
+                                                 addition to a notation at the beginning of acts or
+                                                 scenes, an advance call (except for I.i; I.ii;
+                                                 II.i; V.i) anticipating the notation to follow
+                                                 (e.g., II.i.213-216 'Tauern / Redy' followed by
+                                                 'Tauern' at the beginning of II.ii). The closest
+                                                 analogy is the use of 'scean' as an advance call
+                                                 signaling a change of scene in the Smock Alley
+                                                  <hi>Hamlet</hi> (see Vol. IV in this series). As
+                                                 shown by the contrasting lightness or darkness of
+                                                 the ink, the advance scene notations appear to have
+                                                 been added after the advance character calls were
+                                                 inserted. No scene notations are marked in the MS
+                                                 transcription of III.v.89-IV.v.41 (see
+                                                 Introduction, p. 42) or in the Folger MS. </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.1">
+                                          <head>I.i </head>
+                                          <p><xref doc="mww11open"> (opening)</xref> Town (Dennis,
+                                                  <hi>'Windsor Park'</hi>, for all of Act I, which
+                                                 contains parts of <hi>Merry Wives</hi> I.i; I.iii;
+                                                 II.i-ii; Bell, '<hi>Before</hi> Page's <hi>House
+                                                  in</hi> Windsor'; Kemble, <hi>'Before Page's
+                                                  House'</hi>). </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.2">
+                                          <head>I.ii </head>
+                                          <p><hi rend="bold">(opening)</hi> Clouset (probably not
+                                                 Hand I, who presumably intended to continue the
+                                                 scene; no advance call). Bell continues the scene;
+                                                 Kemble, '<hi>A Room in Page's House'</hi>. </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.3">
+                                          <head>I.iii </head>
+                                          <p><hi rend="bold"> (opening)</hi> Tauern (above a crossed
+                                                 through 'Worst Chamber', also in Hand I; advance
+                                                 call 'Tauern / Redy' above a crossed through
+                                                 '&lt;W&gt;orst / &lt;Ch&gt;amber'at I.i.279-286).
+                                                 Bell, Kemble, <hi>'The Garter Inn'</hi>. </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.4">
+                                          <head> I.iv </head>
+                                          <p><hi rend="bold">(opening)</hi> Chamber / without/ ye
+                                                 Bed' (advance call badly shaved, at I.iii.88-92).
+                                                 Dennis, scene omitted; Bell, Kemble,
+                                                  '<hi>Doctor</hi> Caius' <hi>House</hi>'. </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.1">
+                                          <head> II.i </head>
+                                          <p><hi rend="bold"> (opening)</hi> Towne (no advance
+                                                 call). Bell, '<hi>A Street before Mr.</hi> Page's
+                                                  <hi>House</hi>'; Kemble, '<hi>Befoe Page's
+                                                  House</hi>'. </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.2">
+                                          <head> II.ii </head>
+                                          <p><hi rend="bold">(opening)</hi>Tauern (advance call
+                                                 Tauern / Redy' at II.i.213-216). Dennis, <hi>'Scene
+                                                  Changes to the Gartir Inn'</hi>; Bell, Kemble,
+                                                  <hi>'The GarterInn'</hi>. </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.3">
+                                          <head> II.iii </head>
+                                          <p><hi rend="bold">(opening)</hi> The Groue (advance call,
+                                                 badly shaved, at II.ii.105). Dennis, <hi>'Windsor
+                                                  Park'</hi> (Act II.i = F II.iii); Bell, Kemble,
+                                                 'Windsor <hi>Park</hi>'. </p>
+                                   </div2>
+                                   <!-- </page> -->
+                                   <!-- <page n=47><ID>ShaMWWP47</ID> -->
+                                   <div2 type="scene" n="3.1">
+                                          <head> III.i </head>
+                                          <p><hi rend="bold">(opening)</hi>Toune (probably not Hand
+                                                 I; advance call by Hand I above II.iii.59). Dennis,
+                                                  '<hi>Scene changes to the Park</hi>'; Bell,
+                                                 'Frogmore <hi>near</hi> Windsor'; Kemble,
+                                                  <hi>'Frogmore'</hi>. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.2">
+                                          <head> III.ii </head>
+                                          <p><hi rend="bold">(opening)</hi> Town (advance call at
+                                                 III.i.105-106). Dennis, scene omitted; Bell, '<hi>A
+                                                  Street in</hi> Windsor'; Kemble, '<hi>A
+                                                  Street</hi>'. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.3">
+                                          <head> III.iii </head>
+                                          <p><hi rend="bold"> (opening)</hi>Chamber (advance call at
+                                                 III. i.60). Dennis, '<hi>BullInn</hi>'; Bell,
+                                                 Kemble, 'Ford's <hi>House</hi>'. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.4">
+                                          <head> III.iv</head>
+                                          <p><hi rend="bold"> (opening)</hi> Chamber (advance call
+                                                 at III.iii.238). Dennis, scene omitted; Bell,
+                                                 Kemble, '<hi>Mr.</hi> Page's <hi>House</hi>'. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.5">
+                                          <head> III.v</head>
+                                          <p><hi rend="bold"> (opening)</hi> Tauern (advance call at
+                                                 III.iv.91). Dennis, '<hi>The Bull</hi>'; Bell,
+                                                 Kemble, '<hi>The Garter Inn</hi>'. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.5">
+                                          <head> III.v </head>
+                                          <p><hi rend="bold">III.v.89-IV.v.41</hi> These scenes fall
+                                                 within Hand III's MS transcription from Fe (see
+                                                 Introduction, p. 000); it contains no scene or
+                                                 other prompt notations.] </p>
+                                   </div2>
+                                   <div2 type="scene" n="4.6">
+                                          <head> IV.vi </head>
+                                          <p><hi rend="bold"> (opening)</hi> No scene notation or
+                                                 advance call (IV.v was probably set in 'Tauern',
+                                                 and IV.vi would thus continue with the same
+                                                 setting). Bell, Kemble omit IV.vi. </p>
+                                   </div2>
+                                   <div2 type="scene" n="5.1">
+                                          <head> V.i</head>
+                                          <p><hi rend="bold"> (opening)</hi> Tauern (no advance
+                                                 call). Dennis, Kemble omit V.i; Bell, '<hi>The
+                                                  Garter Inn</hi>'. </p>
+                                   </div2>
+                                   <div2 type="scene" n="5.2">
+                                          <head> V.ii </head>
+                                          <p><hi rend="bold">(opening)</hi> Great forrest (advance
+                                                 call at V.i.14-15; this setting is the last noted
+                                                 and serves for the remainder of the play). Dennis,
+                                                 Bell, '<hi>Windsor Park</hi>'; Kemble, '<hi>A
+                                                  Street</hi>' (combines F scenes ii and iii); iv,
+                                                  '<hi>Windsor Park</hi>'; v, '<hi>Another Part of
+                                                  the Park</hi>'. </p>
+                                   </div2>
+                            </div1>
+                            <div1 type="notations">
+                                   <head>
+                                          <hi>Act notations</hi>
+                                   </head>
+                                   <p>Advance calls for act breaks ('Act / Redy'), all by Hand I,
+                                          occur at I.iv. 134-135 (for Act II); II.iii.59 (for Act
+                                          III; call in upper left corner of F p. 49, badly shaved);
+                                          no advance call for Act IV, since the beginning of the act
+                                          falls within Hand III's MS transcription from F2 of
+                                          III.v.89-IV.v.41 (see Introduction, pp. 42); Hand III,
+                                          however, adds 'The End of the Third Act.' at the
+                                          conclusion of III.v (MS fol. 1v); IV.vi.15-16 (for Act V). </p>
+
+
+
+
+                            </div1>
+                            <!-- </page> -->
+                            <!-- <page n=48><ID>ShaMWWP48</ID> -->
+                            <div1 type="properties">
+                                   <head> Stage properties </head>
+                                   <div2 type="summary">
+                                          <head/>
+                                          <p>The following properties, all in Hand I. are called
+                                                 for: </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.2">
+                                          <head> II.ii </head>
+                                          <p><hi rend="bold">122-124</hi>&lt;Fo&gt;rd / &lt;....&gt;
+                                                 mony (advance call for Ford's entry following 159,
+                                                 indicated by 'Enter' in left margin before 160.
+                                                 Hand I's notation probably read 'Ford / with mony'
+                                                 in preparation for 177, when Ford exhibits 'a bag
+                                                 of money'). </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.2">
+                                          <head> III.ii </head>
+                                          <p><hi rend="bold">52-56</hi> Mrs ford / Mrs page /
+                                                 Seruants / Baskett (advance call for entry at
+                                                 III.iii [opening]; '<hi>Seruants</hi>' not included
+                                                 by Hand I among characters in F massed entry who
+                                                 are supposed to enter here, which probably
+                                                 indicates that they should not enter until after
+                                                 line 3 [as in Capell], though Hand I does not mark
+                                                 their entry at that point. Bell follows Rowe,
+                                                 bringing '<hi>Servants with a basket</hi>' on with
+                                                 Mrs. Ford and Mrs. Page; Kemble follows Capell).
+                                          </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.3">
+                                          <head> III.iii </head>
+                                          <p><hi rend="bold"> 113-115</hi> 2 sru&lt;ants&gt;
+                                                  [<hi>sic</hi>] / a Bask&lt;ett&gt; / a
+                                                 Coulst&lt;aff&gt; (advance call for entry of John
+                                                 and Robert ['2 sru&lt;ants&gt;'] following 154, but
+                                                 no entry marked by Hand I). No entry after 154 (or
+                                                 'Exeunt' at 2 ) above) for John and Robert in Bell;
+                                                 Kemble re-enters them after 154, following Capell.
+                                                 PB's repeated call for 'a Bask(et )' implies that
+                                                 John and Robert take it off with them when they
+                                                 first exit at 20; the 'Couls(taff)' here called for
+                                                 is referred to in 156. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.3">
+                                          <head> III.iii </head>
+                                          <p><hi rend="bold">227-236</hi> &lt;a&gt; Ring /
+                                                 &lt;Fe&gt;nton / &lt;A&gt;nne / &lt;Sh&gt;allow /
+                                                 &lt;Sle&gt;nder / &lt;Q&gt;uickly (advance call for
+                                                 the opening of III.iv, though only Fenton and Anne
+                                                 Page are supposed to enter then, as Hand I's
+                                                 circling of names in the F s.d. indicates; the
+                                                 other characters here listed are brought on by Hand
+                                                 I after III.iv.21 by 'Enter' to left of right
+                                                 rule). A 'ring' is called for in 105. </p>
+                                   </div2>
+                            </div1>
+                            <div1 type="sound">
+                                   <head> Sound effects </head>
+                                   <p>See V.v.34 in the following combined categories. </p>
+                            </div1>
+                            <div1 type="calls">
+                                   <head> Advance Character calls and F stage directions altered;
+                                          new stage directions added </head>
+                                   <div2 type="summary">
+                                          <head/>
+                                          <p>These two categories, ordinarily separate, have been
+                                                 combined because the F text of <hi>Merry Wives</hi>
+                                                 employs "massed entries" (see below), making it
+                                                 difficult to discuss one without the other. Hand I
+                                                 is responsible for the <!-- </page> -->
+                                                 <!-- <page n=49><ID>ShaMWWP49</ID> --> character
+                                                 calls, all of them advance calls. There are no
+                                                 advance calls for characters entering at the
+                                                 beginning of an act, but the following scenes in
+                                                 each act (except V.v) have advance calls for
+                                                 characters entering at the beginning of a scene, as
+                                                 well as for characters entering at later points in
+                                                 a scene. In <hi>Merry Wives</hi> Hand I's task was
+                                                 more than usually complicated because the printed
+                                                 text that serves as the basis for the Smock Alley
+                                                 PB (i.e., F, like F1-2, 4) uses massed entries
+                                                 (i.e., all characters who appear in a scene are
+                                                 included, often in order of entry, in the opening
+                                                 s.d. but without any indication of which characters
+                                                 enter initially and which enter at some later point
+                                                 in a scene). Hand I solved the problems posed by
+                                                 the use of massed entries by circling all
+                                                 characters not entering at the beginning of a
+                                                 scene; he then marked the points of entry for the
+                                                 other characters with 'Enter' and placed an advance
+                                                 call for the characters involved in each
+                                                 within-scene entry. Hand I's 'Enter' notations do
+                                                 not repeat the names of the characters then
+                                                 entering, the characters depending on the names
+                                                 listed in the relevant advance call, Even less
+                                                 specific, Hand I's use of 'Exett' or 'Exet'
+                                                 ('Exeunt' is not used), being without the benefit
+                                                 (as with 'Enter') of an advance call, fails to
+                                                 specify whether another character exits with the
+                                                 character whose exit is here indicated. Hand I
+                                                 sometimes fails to mark entries and is even less
+                                                 careful in marking exits, and when Ff2-4 insert an
+                                                 occasional '<hi>Enter</hi>' or '<hi>Exit /
+                                                  Exeunt</hi>' (rare except at the end of a scene),
+                                                 Hand I depends on the F s.d. and adds no further
+                                                 notation (except at III.i.74). Where a character is
+                                                 sighted as about to enter, he or she is usually
+                                                 brought on with 'Enter' at this point, a line or
+                                                 two earlier than in edited and other theatre texts.
+                                          </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.1">
+                                          <head> I.i </head>
+                                          <p><xref doc="mww1174">74</xref> Page is entered following
+                                                 74 ('Enter'), but without an advance call. <hi
+                                                  rend="bold">110</hi> &lt;En&gt;ter Sr /
+                                                 &lt;Jo&gt;hn (advance call for Falstaff, Bardolph,
+                                                 Pistol, and Nym at 76-81; same advance call
+                                                 [canceled] above 107 in top left corner of F p.
+                                                 40). <hi rend="bold">196</hi> No exit marked for
+                                                 Anne Page here, although there is an advance call
+                                                 for her re-entry following 267 ('Enter'). <hi
+                                                  rend="bold">204</hi> No exit marked for all other
+                                                 characters except Shallow, Slender, and Evans. <hi
+                                                  rend="bold">206</hi> The advance call for Simple
+                                                 at 174 has been crossed through, though his entry
+                                                 is marked ('Enter') following 206; probably crossed
+                                                 through because wrongly attached to the advance
+                                                 call for Anne Page, Mrs. Ford, and Mrs. Page at
+                                                 170-173. If an advance call for Simple was
+                                                 restored, it must have been in the bottom left
+                                                 margin of F p. 40, where the corner has been torn
+                                                 off. <hi rend="bold">274</hi> No exit marked for
+                                                 Shallow and Evans. </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.3">
+                                          <head> I.iii </head>
+                                          <p><hi rend="bold"> (opening) Enter . . . Page.]</hi> The
+                                                 advance call (at I.i.306-317) converts F
+                                                  '<hi>Page</hi>' into 'Boy', i.e., Robin (Qq read
+                                                  '<hi>the boy</hi>'; the <!-- </page> -->
+                                                 <!-- <page n=50><ID>ShaMWWP50</ID> --> change was
+                                                 presumably made to avoid confusion with Mr. Page;
+                                                 edited and theatre texts convert to 'Robin'). Bell
+                                                 begins I.iii with 39, thus omitting Bardolph from
+                                                 the scene; Kemble delays the entry of Pistol, Nym,
+                                                 and Robin until after 29 (cutting 30-38). <hi
+                                                  rend="bold">93</hi> Robin is presumably included
+                                                 with Falstaff in Hand I's 'Exet' following 29.
+                                                 Bell, following Rowe, exits both at 95; Kemble,
+                                                 anticipating Dyce, first exits Robin after 89. </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.4">
+                                          <head> I.iv </head>
+                                          <p><hi rend="bold">36</hi> Hand I marks a re-entry here
+                                                 for Rugby, but there is no exit marked after 10 and
+                                                 no advance call for his re-entry following 36,
+                                                 though such a call may have been inserted on the
+                                                 missing bottom left corner of F p. 42. <hi
+                                                  rend="bold">93, 112</hi> Hand I exits Caius and
+                                                 Rugby here, with an advance call at 92-93 for their
+                                                 re-entry after 112 (so Kemble); Bell omits both
+                                                 s.dd.; Collier MS apparently exits and re-enters
+                                                 only Caius after 93 and 112, but, nevertheless,
+                                                 exits both Caius and Rugby after 133. <hi
+                                                  rend="bold">119</hi> No exit marked for Simple.
+                                          </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.1">
+                                          <head> II.i </head>
+                                          <p><hi rend="bold">141</hi> Hand I places 'Enters after
+                                                 141 in error for 'Exet', apparently intending both
+                                                 Nym and Pistol to exit together, though an 'Exet'
+                                                 for Pistol may have preceded 129 on the torn-off
+                                                 left bottom corner of F p. 44; edited and theatre
+                                                 texts, following Rowe, exit Pistol and Nym
+                                                 separately after 129 and 141. <hi rend="bold"
+                                                  >195</hi> Hand I, with an advance call at 153-156,
+                                                 brings the Host and Shallow on together (so Bell,
+                                                 following Rowe; Kemble, anticipating Dyce, brings
+                                                 them on separately, the Host after 195, Shallow
+                                                 after 201). <hi rend="bold">240</hi> No exit marked
+                                                 for Host, Shallow, and Page. </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.2">
+                                          <head> II.ii </head>
+                                          <p><hi rend="bold">156</hi> No exit marked for Bardolph,
+                                                 hence no re-entry marked after 159, no exit after
+                                                 166. <hi rend="bold">139</hi> No exit marked for
+                                                 Mrs. Quickly and Robin. <hi rend="bold">143</hi> No
+                                                 exit marked for Pistol. </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.3">
+                                          <head> II.iii </head>
+                                          <p><hi rend="bold">85</hi> No exit marked for Page,
+                                                 Shallow, and Slender. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.1">
+                                          <head> III.i </head>
+                                          <p><hi rend="bold">10</hi> No exit marked for Simple (as
+                                                 in Qq) or for his re-entry after 26 (an arrangement
+                                                 followed by editors until Cambridge1 [Collier
+                                                 inserted '<hi>Retiring</hi>' and '<hi>Coming
+                                                  forward</hi>' (26)], though anticipated by
+                                                 Kemble). <hi rend="bold">35</hi> Point of entry for
+                                                 Page, Shallow, and Slender (advance call at 1-4)
+                                                 marked with a crossed horizontal line in right
+                                                 margin opposite F s.d. '<hi>Enter</hi>
+                                                 <!-- </page> -->
+                                                 <!-- <page n=51><ID>ShaMWWP51</ID> -->
+                                                 <hi> All</hi>.' ( a misleading s.d. first
+                                                 introduced in F2).<hi rend="bold"> 74</hi> Rugby
+                                                 (later addressed in the text) not entered with
+                                                 Caius and Host (as in Qq) or included in the
+                                                 advance call at 31-33; Hand I here corrects the F
+                                                 s.d. (introduced in F2) '<hi>Enter Caius</hi>.' by
+                                                 inserting 'Host' before and '<hi>Enter</hi>' after
+                                                 it. <hi rend="bold">114, 116</hi> Hand I exits the
+                                                 Host after 114 (as in Qq) and Shallow and Page
+                                                 after 116; Slender appears to be left on with Caius
+                                                 and Evans; edited (until Neilson) and theatre texts
+                                                 exit Shallow, Slender, Page, and Host after 117.
+                                                  <hi rend="bold">129</hi> Hand I fails to supply
+                                                 the final 'exeunt.' omitted in Ff and Q3. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.2">
+                                          <head> III.ii </head>
+                                          <p><hi rend="bold">14-27</hi> Hand I includes Ford, who
+                                                 has already entered after 8, in the advance call
+                                                 for Shallow, Page, Caius, Host, and Evans to enter
+                                                 after 50. As in all texts before Capell (including
+                                                 Bell), Hand I fails to enter Rugby (omitted in the
+                                                 Ff massed entry) with Shallow, etc. after 50, even
+                                                 though Caius addresses him at 87.<hi rend="bold">
+                                                  86</hi> As in all texts before Capell (including
+                                                 Bell), Hand I exits all characters together at the
+                                                 end of the scene. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.3">
+                                          <head> III.iii </head>
+                                          <p><hi rend="bold"> (opening)</hi> The advance call for
+                                                 Mrs. Ford and Mrs. Page at III.ii.52-56 includes
+                                                 'Seruants', but '<hi>Servants</hi>' in the F s.d.
+                                                 in the massed entry is excluded in Hand I's
+                                                 selection of the characters initially entering. As
+                                                 in all texts before Capell (including Qq and Bell),
+                                                 Hand I, nevertheless, probably intended 'Seruants'
+                                                 to enter initially with Mrs. Ford and Mrs. Page.
+                                                  <hi rend="bold">20 </hi>No exit marked for
+                                                  '<hi>Servants</hi>' (so Bell), an arrangement
+                                                 followed by editors until Johnson; Qq exit one
+                                                 Servant; Folger MS exits both (as in Kemble). <hi
+                                                  rend="bold">38, 41</hi> No exit marked for Robin
+                                                 after 38 or Mrs. Page after 41. <hi rend="bold"
+                                                  >51-54</hi> An advance call ('&lt;Rob&gt;in be /
+                                                 &lt;Redy&gt; to speak / &lt;wit&gt;hin') prepares
+                                                 for Robin's speech (92-95) and the F s.d.
+                                                 (introduced in F2) 'Within.' after gl; the point at
+                                                 which Robin speaks within is marked with a crossed
+                                                 horizontal line in left margin. <hi rend="bold"
+                                                  >99</hi> No exit marked for Falstaff, though there
+                                                 is an advance call at 111 for his re-entry after
+                                                 143 (so Rowe, Bell); Falstaff, however, announces
+                                                 that he will hide behind the arras in 97, so
+                                                 presumably Hand I's 'Enter' after 143 means that he
+                                                 just steps out from behind the arras; Kemble exits
+                                                 Falstaff after 99 and re-enters him after 143. <hi
+                                                  rend="bold">100</hi> No advance call for Robin to
+                                                 enter with Mrs. Page (so all edited texts and Bell
+                                                 before Dyce; Kemble anticipates Dyce). <hi
+                                                  rend="bold">154</hi> No point of entry marked for
+                                                 the re-entry of '2 Serua&lt;nts&gt;' (so described
+                                                 in the <!-- </page> -->
+                                                 <!-- <page n=52><ID>ShaMWWP52</ID> --> advance call
+                                                 at 113). <hi rend="bold">184</hi> Hand I fails to
+                                                 adjust the F '<hi>Exeunt</hi>.' from 184 to 186 so
+                                                 as to include Page (as in Rowe, Bell); Kemble gives
+                                                 Page, Evans, and Caius separate exits. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.4">
+                                          <head> III.iv </head>
+                                          <p><hi rend="bold">21</hi> As in Bell, no indication that
+                                                 Anne Page and Fenton stand aside. <hi rend="bold"
+                                                  >70</hi> Although the point of entry is indicated
+                                                 ('Enter'), there is no advance call for Page and
+                                                 Mrs. Page unless it was inserted in the bottom
+                                                 right corner of F p. 51, which has been torn off.
+                                                  <hi rend="bold">80</hi> No exit marked for Page,
+                                                 Shallow, and Slender. </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.5">
+                                          <head> III.v </head>
+
+                                          <p><hi rend="bold">4</hi> No exit marked for Bardolph
+                                                 after 4 or for his re-entry after 19 (his exit may
+                                                 have been inserted on the bottom left corner of F
+                                                 p. 52, which has been torn off). <hi rend="bold"
+                                                  >26</hi> No advance call for Mrs. Quickly's entry
+                                                 after 26 (see 4 above for possible explanation).
+                                          </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.5">
+                                          <head> [III.v </head>
+                                          <p><hi rend="bold">89-IV.v.41</hi> These scenes fall
+                                                 within Hand III's MS transcription from F2 (see the
+                                                 Introduction, p. 42). Hand III retains the Ff
+                                                 "massed entries," except at IV.v, where he enters
+                                                 only 'Host: Simple: &amp; ffalstaffe' (Falstaff is
+                                                 not entered in edited and theatre texts until after
+                                                 19 or 24) in preparation for joining up with the F
+                                                 text at IV.v.41 ('go to ye printed page (57)'); he
+                                                 inserts no advance character calls or new s.dd. and
+                                                 omits five F2 s.dd. (III.v.155; IV.ii.1 1, 49, 113,
+                                                 196), but adds 'The End of the Third Act.' at the
+                                                 conclusion of Act III.] </p>
+                                   </div2>
+                                   <div2 type="scene" n="4.5">
+                                          <head>IV.v </head>
+                                          <p><hi rend="bold">57</hi> No exit marked for Simple. <hi
+                                                  rend="bold">94</hi> No exit marked for Bardolph.
+                                          </p>
+                                   </div2>
+                                   <div2 type="scene" n="5.1">
+                                          <head> V.i </head>
+                                          <p><hi rend="bold">9</hi> No exit marked for Quickly or
+                                                 entry for Ford (advance call at opening of scene).
+                                          </p>
+                                   </div2>
+                                   <div2 type="scene" n="5.5">
+                                          <head> V.v </head>
+                                          <p><hi rend="bold"> (opening)</hi> No advance call for
+                                                 Falstaff's entry. <hi rend="bold">22-24</hi> Hand I
+                                                 places 'Dauns / Redy' in left margin; an advance
+                                                 call for the dance following 106, which is there
+                                                 signaled by 'Dauns' (between horizontal lines) in
+                                                 right margin. <hi rend="bold">34</hi> Hand I places
+                                                 'Song heer' left of center rule; this anticipates
+                                                 Dennis' '<hi>Terrible Symph</hi>.' and Rowe's
+                                                  '<hi>Noise within</hi>.'; Kemble, '<hi>Noise by
+                                                  the Fairies within</hi>.'; Qq, '<hi>There is a
+                                                  noise of homes, . . .</hi>'.<hi rend="bold">
+                                                  41</hi> Pistol and Anne Page are not included in
+                                                 the advance call at 8-10 for the entry here (so
+                                                 Qq), an entry signaled in Ff only by '<hi>Enter
+                                                  Fairies</hi>.'; Bell, Kemble omit Pistol from the
+                                                 scene and Bell does not enter Anne Page until after
+                                                 227. <hi rend="bold">78</hi> Hand <!-- </page> -->
+                                                 <!-- <page n=53><ID>ShaMWWP53</ID> --> here places
+                                                 an advance call ('Song R&lt;edy&gt;' for 'The
+                                                 Song.') following 97; Bell omits the song; Kemble
+                                                 retains only the last two lines (99-100). <hi
+                                                  rend="bold">106 </hi>No advance call for the
+                                                 re-entry of Mrs. Page and Mrs. Ford; only Page and
+                                                 Ford included in the advance call at 81-82. <hi
+                                                  rend="bold">175-179</hi> In the advance call here
+                                                 for Caius' entry after 216, Hand I appears to
+                                                 include three other names ( &lt;Ca&gt;ius / &lt;
+                                                 &gt;on / &lt; &gt;e / &lt; &gt;s'); the first two
+                                                 could be Fenton and Anne Page, though there is an
+                                                 advance call for them at 187-188, but the fourth,
+                                                 of which even the final 's' is uncertain, may be
+                                                 '&lt;Evan&gt;s', although Evans is already on stage
+                                                 at least since 136, or '&lt;Daun&gt;s', although
+                                                 the only place a dance might later be executed
+                                                 would be at the end of the play just before all the
+                                                 characters make their final exit. <hi rend="bold"
+                                                  >223</hi> No exit marked for Caius (so Bell);
+                                                 Kemble, following Capell, exits Caius. </p>
+                                   </div2>
+                            </div1>
+                            <div1 type="cuts">
+                                   <head> Textual cuts </head>
+                                   <div2 type="summary">
+                                          <head/>
+                                          <p>All cuts are almost certainly made by Hand I. </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.1">
+                                          <head> II.i </head>
+                                          <p><hi rend="bold">52-53 these Knights . . . Gentry.]</hi>
+                                                 Circled (Bell, Kemble cut 51 ['Sir <hi>Alice</hi> .
+                                                 . .']-53; Bell reads 'you jest' [51] for F 'thou
+                                                 liest'). <hi rend="bold">81-82</hi> I hand . . .
+                                                  <hi>Pelion</hi>:] Circled (Bell, Kemble cut 77 [
+                                                 (sue. . . ]-83). </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.4">
+                                          <head> III.iv </head>
+                                          <p><hi rend="bold">83-86 In such . . . retire.]</hi>
+                                                 Circled (so Bell). </p>
+                                   </div2>
+                                   <div2 type="scene" n="4.6">
+                                          <head> IV.vi </head>
+                                          <p><hi rend="bold">13-18 Of such . . . large]</hi> Circled
+                                                 (Bell, Kemble cut the whole scene, a scene
+                                                 described by Gentleman as "that scene which
+                                                  <hi>Shakespeare</hi> tacked to" the fourth act).
+                                                  <hi rend="bold">30-45 While other . . . him.]</hi>
+                                                 Circled (see 13-18; Folger MS omits 30). </p>
+                                   </div2>
+                                   <div2 type="scene" n="5.3">
+                                          <head> V.iii </head>
+                                          <p><hi rend="bold">19-24</hi>
+                                                 <hi>Mist. Page</hi>. If he . . . trechery.] Circled
+                                                 (Bell, Kemble cut 'and their Lechery,' in 23). </p>
+                                   </div2>
+                                   <div2 type="scene" n="5.5">
+                                          <head> V.v </head>
+                                          <p><hi rend="bold">67-77 Each fair . . .
+                                                  Characterie,]</hi> Circled (Bell cuts 38-106,
+                                                 omitting 'The Song.'; Kemble cuts 38-50, 53-78,
+                                                 82-83, 87-104, retaining two lines of 'The song.';
+                                                 both cut the whole Fairy Queen-Garter business).
+                                                  <hi rend="bold">238-243 Th'offence . . .
+                                                  her.]</hi> Circled (so Bell, though Gentleman
+                                                 notes: "These lines, tho' they usually are, should
+                                                 not be omitted."; Kemble cuts 239- 240). </p>
+                                   </div2>
+                                   <!-- </page> -->
+                                   <!-- <page n=54><ID>ShaMWWP54</ID> -->
+                            </div1>
+                            <div1 type="changes">
+                                   <head>
+                                          <hi>Textual changes</hi>
+                                   </head>
+                                   <div2 type="summary">
+                                          <head/>
+                                          <p>Hand I makes relatively few textual changes. Hand II,
+                                                 an intrusive later eighteenth-century hand (see
+                                                 Introduction, p. 42), "corrects" the F text some
+                                                 thirty times, drawing almost entirely on
+                                                 eighteenth-century edited texts from Rowe (1709) to
+                                                 Hanmer (1744). Since there is no reason to suppose
+                                                 that Hand II's changes are in any way connected
+                                                 with theatrical performance, only those readings
+                                                 that are apparently original with Hand II, a few
+                                                 readings that are questionably Hand II's (possibly
+                                                 Hand I's), and readings where either Bell or
+                                                 Kemble, singly, disagrees with Hand I, are included
+                                                 in the following collation. For Hand III,
+                                                 responsible for transcribing from a copy of F2 four
+                                                 pages (pp. 53-56) missing from the Smock Alley PB,
+                                                 see Introduction, p.42. Hand III contributes
+                                                 occasional verbal variants and omits two lines
+                                                 (IV.iv.26-27). The lemmata for Hand III's variants
+                                                 are taken from the F2 text. </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.1">
+                                          <head> I.i </head>
+                                          <p><xref doc="mww1126">26 marrying]</xref> marring
+                                                  <hi>Hand ?II</hi> (so Folger MS, Rowe, Bell,
+                                                 Kemble). <hi rend="bold">121 it were known]</hi> it
+                                                 were not known <hi>Hand II</hi> (so Folger MS,
+                                                 Pope, Bell; Kemble, ' 'twere known'). <hi
+                                                  rend="bold">148 discreetly]</hi> discresions
+                                                  <hi>Hand II</hi> (so Pope, Bell). </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.3">
+                                          <head> I.iii </head>
+                                          <p><hi rend="bold">27 Ba.]</hi> Falstaf <hi>Hand I</hi>
+                                                 (corrects an error first appearing in F). <hi
+                                                  rend="bold">54-55 will . . . will]</hi> well . . .
+                                                 well <hi>Hand II</hi> (so Pope, Bell). <hi
+                                                  rend="bold">67 examin'd]</hi> min'd <hi>Hand
+                                                  ?II</hi> (F 'ex' appears to be crossed through,
+                                                 but probably an accidental ink blot). <hi
+                                                  rend="bold">111 the revolt]</hi> this revolt
+                                                  <hi>Hand II</hi> (so Pope; Kemble cuts 109-114).
+                                          </p>
+                                   </div2>
+                                   <div2 type="scene" n="1.4">
+                                          <head> I.iv </head>
+                                          <p><hi rend="bold">28 Warrener.]</hi> Warrener. But he
+                                                 Beat him <hi>Hand I</hi> (Hand I's sole addition to
+                                                 the text). <hi rend="bold">170 we will]</hi> I will
+                                                  <hi>Hand ?II</hi> (so Folger MS, Hanmer). </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.1">
+                                          <head> II.i </head>
+                                          <p><hi rend="bold">77 sue more]</hi> nay more <hi>Hand
+                                                  II</hi> (so Rowe; Bell, Kemble cut 77 ['sue more:
+                                                 . . .']-83). <hi rend="bold">116 thy wife]</hi> my
+                                                 wife <hi>Hand II</hi> (so F1-2,Rowe; Bellcuts
+                                                 113-173; Kemble cuts 116-118). <hi rend="bold">148
+                                                  English]</hi> Humour <hi>Hand II</hi> (so Qq,
+                                                 Pope, Kemble; Bell cuts 113-173). <hi rend="bold"
+                                                  >145 affecting]</hi> affected <hi>Hand II</hi> (so
+                                                 Dennis, Hanmer; Bell cuts 113-173; Kemble cuts
+                                                 145-146; Folger MS omits preceding 'a drawling').
+                                                  <hi rend="bold">222</hi>
+                                                 <hi>Shall</hi>.] Mr. Ford <hi>Hand I</hi>, heavily
+                                                 inked (so Q3, Rowe, Bell, Kemble). </p>
+                                   </div2>
+                                   <div2 type="scene" n="2.2">
+                                          <head> II.ii </head>
+                                          <p><hi rend="bold">7 Coach-fellow]</hi> Couch-fellow
+                                                  <hi>Hand II</hi> (so Theobald, Bell). <hi
+                                                  rend="bold">18 throng]</hi> thong <hi>Hand
+                                                  ?II</hi> (so Dennis, Pope; Bell, Kemble cut 18-19
+                                                 ['a short . . . go,']). <hi rend="bold">142
+                                                  fights]</hi> Lights <hi>Hand II</hi> (Bell, <!-- </page> -->
+                                                 <!-- <page n=55><ID>ShaMWWP55</ID> --> Kemble cut
+                                                 141-143; Folger MS reads 'flags'). <hi rend="bold"
+                                                  >151-158</hi>
+                                                 <hi>Broom . . . Broomes</hi>] Brooks . . . Brookes
+                                                  <hi>Hand II</hi> (so Qq, Pope, Bell, Kemble; Hand
+                                                 II alters '<hi>Broom</hi>' only in these two
+                                                 instances; Folger MS, Dennis retain
+                                                 '<hi>Broom</hi>' throughout). <hi rend="bold">288
+                                                  you]</hi> Accidentally blotted? </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.2">
+                                          <head> III.ii </head>
+                                          <p>
+                                                 <hi rend="bold">38 plots]</hi> Accidentally
+                                                 blotted? </p>
+                                   </div2>
+                                   <div2 type="summary">
+                                          <head/>
+                                          <p>[The following variants, for which the lemmata are
+                                                 taken from F2, record Hand III's substantive and
+                                                 semi-substantive changes in transcribing the text
+                                                 from III.v.89-IV.v.41 (see Introduction, p. 42).]
+                                          </p>
+                                   </div2>
+                                   <div2 type="scene" n="3.5">
+                                          <head> III.v </head>
+                                          <p><hi rend="bold">132 ambassie]</hi> Embassie (so Folger
+                                                 MS, Theobald, Bell, Kemble). </p>
+                                   </div2>
+                                   <div2 type="scene" n="4.1">
+                                          <head>IV.i </head>
+                                          <p><hi rend="bold">43</hi>
+                                                 <hi>h&aelig;c</hi>] hec (the digraph &aelig; is
+                                                 unclear in F2 (Bell, Kemble omit IV.i entirely).<hi
+                                                  rend="bold">79</hi>
+                                                 <hi>que</hi>] qu&aelig; (so Folger MS, Pope). <hi
+                                                  rend="bold">84 spray memory]</hi> Sprag Memory (so
+                                                 F4, Rowe). </p>
+                                   </div2>
+                                   <div2 type="scene" n="4.2">
+                                          <head> IV.ii </head>
+                                          <p><hi rend="bold">5 Accoustrement]</hi> Accoutrement (so
+                                                 Capell, Kemble). <hi rend="bold">27 lines]</hi>
+                                                 runes (altered from 'lines' by Hand III; so
+                                                 Theobald, Bell, Kemble). <hi rend="bold">28 this
+                                                  his]</hi> his Hand III first wrote 'this' but
+                                                 alters to 'his (Kemble, Collier MS omit 'his'; Bell
+                                                 cuts 24-29 ['so curses . . . now:']). <hi
+                                                  rend="bold">56 creepe up into]</hi> creep into 78,
+                                                 96 <hi>Brain-ford . . . Brainford</hi>] Branford .
+                                                 . . Branford (changed to 'Branford' only in these
+                                                 two instances; Bell, Kemble, following Capell, reed
+                                                 'Brentford' throughout). <hi rend="bold">101
+                                                  misuse]</hi> misse (Bell cuts 100-l05). <hi
+                                                  rend="bold">105 draugh]</hi> draught (Bell, see
+                                                 101; Kemble reads 'draff', following Capell, who
+                                                 was anticipated by Folger MS). <hi rend="bold"
+                                                  >108-l09 him: quickly, dispatch]</hi> him quickly,
+                                                 Dispatch 139 Heaven] Heavens 194 dove] doors (so
+                                                 Kemble). <hi rend="bold">232-233 unvertuous]</hi>
+                                                 adventurous 240-241 with it, then shape] with it,
+                                                 then, shape (Forger MS reads 'with it, there
+                                                 shape'; Kemble, 'with it then, shape', following
+                                                 Hanmer). </p>
+                                   </div2>
+                                   <div2 type="scene" n="4.4">
+                                          <head> IV.iv </head>
+                                          <p><hi rend="bold">7 gold]</hi> Cold <hi>Hand ?III</hi>
+                                                 alters from 'gold'; so Rowe, Bell, Kemble). <hi
+                                                  rend="bold">28</hi>
+                                                 <hi>M. Page</hi>.] Mrs Fford (altered because 26-27
+                                                 are omitted by Hand III in error, F '<hi>M.
+                                                  Ford.</hi>' being the speech-prefix for 26). <hi
+                                                  rend="bold">28-29</hi> As two verse lines (so
+                                                 Pope, Bell, Kemble). <hi rend="bold">54 song]</hi>
+                                                 Songs (final 's' possibly crossed through). <hi
+                                                  rend="bold">61 sound]</hi> round (so Pope; Bell
+                                                 cuts 46 ['and thus . . .']-79). <hi rend="bold">65
+                                                  nev'r]</hi> never (so Folger MS; Bell, see 61;
+                                                 Kemble cuts 63 ['The truth . . .']-65). <hi
+                                                  rend="bold">76 in name]</hi> in the name (so Q3,
+                                                 Folger MS; <!-- </page> -->
+                                                 <!-- <page n=56><ID>ShaMWWP56</ID> --> Bell, see
+                                                 61; Kemble cuts 72-79). <hi rend="bold">85
+                                                  <hi>Nann</hi>]</hi> Hand III first wrote 'Anne'
+                                                 but alters to 'Nann' (Bell cuts 82-90; Kemble here
+                                                 gives Evans' 'Let us about it,' to Mrs. Ford, adds
+                                                  '<hi>All</hi>. Come, come.', cuts 82-90). </p>
+                                   </div2>
+                                   <div2 type="scene" n="4.5">
+                                          <head> IV.v </head>
+                                          <p><xref doc="mww4541">41 other things]</xref> other
+                                                 things &amp;c. / go to ye printed page (57) (F text
+                                                 now resumes with p. 57). </p>
+                                   </div2>
+                                   <div2 type="scene" n="5.5">
+                                          <head> V.v </head>
+                                          <p><hi rend="bold">20 black]</hi> Accidentally blotted?
+                                                  <hi rend="bold">55 Raise]</hi> Rein <hi>Hand
+                                                  II</hi> (so Hanmer; Bell cuts 38-106; Kemble cuts
+                                                 38-50, 53-78, 82-83, 87-104). <hi rend="bold">81
+                                                  Pray you]</hi> Crossed through by Hand III,
+                                                 following Pope (so Collier MS; Bell, Kemble, see
+                                                 55). <hi rend="bold">87</hi>
+                                                 <hi>Pist</hi>.] Ev. <hi>Hand ?II</hi> (the reading
+                                                 is uncertain, but if the line is reassigned to
+                                                 Evans it seems likely that the change was made in
+                                                 order to give Evans a rejoinder to Falstaff's
+                                                 reference to 'that Welch Fairie' in 85; Bell,
+                                                 Kemble, see 55). <hi rend="bold">107 watcht]</hi>
+                                                 match'd <hi>Hand II</hi> (so Collier MS). <hi
+                                                  rend="bold">120 <hi>M. Ford</hi>.]</hi>
+                                                 <hi>Ms Ford. Hand I</hi> (the change merely
+                                                 clarifies the F speech-prefix). <hi rend="bold"
+                                                  >209, 215 green . . . white]</hi> white . . .
+                                                 green <hi>Hand II</hi> (so Pope [209], Rowe 3
+                                                 [215], Bell, Kemble). <hi rend="bold">213
+                                                  <hi>George</hi>]</hi> Thomas <hi>Hand I</hi> (Page
+                                                 is referred to as 'George' three times, here and in
+                                                 II.i.153, 161, but the earliest reference to Page
+                                                 calls him 'Thomas' [I.i.46], as does PB; Hand I
+                                                 alters F '<hi>George</hi>' to 'Thomas' here only;
+                                                 Bell, Kemble, following Theobald, read 'George'
+                                                 throughout). <hi rend="bold">221 white]</hi> Green
+                                                  <hi>Hand I</hi> (so Pope, Bell, Kemble). </p>
+                                          <!-- </page> -->
+                                   </div2>
+                            </div1>
+                     </div0>
+              </body>
+       </text>
+</TEI.2> 
+               
+ 

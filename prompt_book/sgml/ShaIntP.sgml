@@ -1,0 +1,1451 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
+<!NOTATION jpg SYSTEM "JPEG"> 
+
+<!ENTITY int-p4a SYSTEM "int-p4a.jpg" NDATA jpg> 
+<!ENTITY int-p4b SYSTEM "int-p4b.jpg" NDATA jpg> 
+<!ENTITY int-p4c SYSTEM "int-p4c.jpg" NDATA jpg> 
+<!ENTITY int-p4d SYSTEM "int-p4d.jpg" NDATA jpg> 
+
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
+]> 
+<TEI.2> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>Shakespearean prompt-books of the seventeenth century, vol. 1 
+(Preface and General Introduction) [a machine-readable transcription] 
+</title>  
+<author>Shakespeare, William 
+</author>  
+<respStmt> 
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Electronic Text Center, University of Virginia Library 
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Electronic Text center, University of Virginia Library 
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>University of Virginia Library Electronic Text Center. 
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>ca. 70 kilobytes  
+</extent>  
+<publicationStmt> 
+<publisher>University of Virginia Library. 
+</publisher>  
+<pubPlace>Charlottesville, Va. 
+</pubPlace>  
+<idno>Studies in Bibliography, ShaIntP  
+</idno>  
+<availability> 
+<p>Publicly-accessible 
+</p>  
+<p n=public>URL: http://etext.lib.virginia.edu/modeng/modeng0.browse.html
+</p>  
+<p n=public>URL: http://etext.lib.virginia.edu/bsuva/ 
+</p>  
+</availability>  
+<date>1997 
+</date>  
+</publicationStmt>  
+<seriesStmt> 
+<p>Shakespearean prompt-books of the seventeenth century 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note> 
+</note>  
+</notesStmt>  
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Shakespearean prompt-books of the seventeenth century, vol. 1 
+(General Introduction and Padua Macbeth) 
+</title>  
+<title> 
+</title>  
+<author>William Shakespeare 
+</author>  
+<respStmt> 
+<resp>Editor 
+</resp>  
+<name>G. Blakemore Evans 
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt> 
+<p>Issued in portfolios. The prompt-books are reproduced in collotype facsimile. 
+</p>  
+</editionStmt>  
+<extent> 
+</extent>  
+<publicationStmt> 
+<publisher>University Press of Virginia 
+</publisher>  
+<pubPlace>Charlottesville, VA 
+</pubPlace>  
+<date>1960 
+</date>  
+<idno>Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.1 
+pt. 1-2 Copy 2 
+</idno>  
+</publicationStmt>  
+<seriesStmt> 
+<p>Shakespearean prompt-books of the seventeenth century 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>Published for the Bibliographical Society of the University of Virginia  
+</note>  
+<note>The production of this volume was supervised by Fredson Bowers and 
+Sears Jayne 
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc> 
+<projectDesc> 
+<p>Prepared for the University of Virginia Library Electronic Text Center. 
+</p>  
+</projectDesc>  
+<editorialDecl> 
+<p>All quotation marks retained as data. 
+</p>  
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line. 
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
+</p>  
+</editorialDecl>  
+<refsDecl> 
+<p> 
+</p>  
+</refsDecl>  
+<classDecl> 
+<taxonomy> 
+<bibl> 
+<title>Library of Congress Subject Headings 
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc> 
+<creation> 
+<date>1960 
+</date>  
+</creation>  
+<langUsage> 
+<language>English 
+</language>  
+</langUsage>  
+<textClass> 
+<keywords> 
+<term>drama; prose; non-fiction 
+</term>  
+</keywords>  
+<keywords> 
+<term>LCSH 
+</term>  
+</keywords>  
+<keywords> 
+<term> 
+</term>  
+<term> 
+</term>  
+<term type="format">24-bit color; 400 dpi 
+</term>  
+</keywords>  
+</textClass>  
+</profileDesc>  
+<revisionDesc> 
+<change> 
+<date>February 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Catherine Tousignant 
+</name>  
+</respStmt>  
+<item>Added TEI header 
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+<text id=ShaIntP> 
+
+<front>
+<titlePage>
+<docTitle>
+<titlePart type="main">
+SHAKESPEAREAN<lb>
+PROMPT BOOKS<lb>
+of the<lb>
+SEVENTEENTH CENTURY<lb>
+Vol. I: Part i<lb>
+</titlePart>
+<titlePart type="sub">
+General Introduction<lb>
+Introduction to the Padua Macbeth<lb>
+Collations
+</titlePart>
+</docTitle>
+<byline>
+Edited by<lb>
+G. Blakemore Evans
+</byline>
+
+<docImprint>
+The Bibliographical Society of the University of Virginia<lb>
+University Press of Virginia, Charlottesville<lb>
+1960<lb>
+EDITORIAL ADVISORY COMMITTEE<lb>
+The Bibliographical Society of the University of Virginia<lb>
+Arthur F. Stocker, Chairman<lb>
+Fredson Bowers<lb>
+John Cook Wyllie<lb>
+The production of this volume was supervised by Fredson Bowers and Sears Jayne
+</docImprint>
+</titlePage>
+</front>
+
+ 
+<body> 
+ 
+<!-- <page n=1> --> 
+ 
+<div0 type="preface"> 
+<head>Preface</head> 
+ 
+<p>THE Padua <hi rend="italics">Macbeth</hi> prompt-book forms the first 
+volume in a series of seventeenth-century Shakespearean prompt-books to be 
+published under the auspices of the Bibliographical Society of the 
+University of Virginia. The prompt-book is reproduced in collotype 
+facsimile (reduced in size by 10 per cent), accompanied by a critical 
+Introduction and a complete collation and description of all cuts, 
+changes, prompt-calls, property notes, etc.  and a detailed comparison of 
+these with later seventeenth- and eighteenth-century acting versions. A 
+General Introduction to the whole series prefaces this first volume.  
+ 
+</p><p> Other plays to be issued in the same format will include the 
+Padua <hi rend="italics">Measure for Measure</hi>, the 'Nursery'  
+<hi rend="italics">Comedy of Errors</hi>, and the Smock Alley  
+<hi rend="italics">Hamlet</hi>, <hi rend="italics">Macbeth</hi>, 
+<hi rend="italics">Lear</hi>, <hi rend="italics">Othello</hi>,  
+<hi rend="italics">Henry VIII</hi>, <hi rend="italics">Midsummer Night's 
+Dream</hi>, and <hi rend="italics">Merry Wives of Windsor</hi>. The remaining plays (see 
+the General Introduction, pp. 4-5) will, with two exceptions, be 
+presented in a final volume, but without facsimiles of the complete 
+prompt-books. The exceptions, the Padua <hi rend="italics">Winter's Tale</hi> and the 
+'Nursery' <hi rend="italics">Midsummer Night's Dream</hi>, will be included in earlier 
+volumes in order to complete the Dering and 'Nursery' groups. 
+ 
+</p><p> The following libraries have most kindly granted me permission 
+to publish special materials from their collections:  the Folger 
+Shakespeare Library, Washington, D.C.; the Library of the University of 
+Edinburgh, Scotland; the Huntington Library, San Marino, California; and 
+the Yale University Library, New Haven, Connecticut. Further individual 
+acknowledgement will be made as the materials appear in the series. 
+ 
+</p><p>Many people have been helpful and unselfish in the preparation of this 
+work, but my gratitude is especially owing to Professor 
+ 
+<!-- </page> --><!-- <page n=2> --> 
+ 
+Giordano Orsini for allowing me to trespass on his pioneer work with the 
+Padua First Folio prompt-books; to Dr. L. W. Sharp for his kindness in 
+waiving his first rights in the 'Nursery' and Smock Alley prompt-books 
+belonging to the University of Edinburgh Library; to my friends and 
+colleagues Professor T.  W. Baldwin, Dr. Giles Dawson, Professor Harris 
+Fletcher, Professor Sears Jayne, Dr. J. G. McManaway, Professor R. W. 
+Rogers, Professor Arthur Sherbo, Dr. Allan Stevenson, Professor Jack 
+Stillinger, and Professor William Van Lennep, each of whom expended 
+precious time in advice and criticism; to Dr. Arthur Pennell who for four 
+years served indefatigably as my research assistant; and to Professor 
+Fredson Bowers to whom I owe much both in form and substance and through 
+whose sympathetic interest these volumes have been brought to press. It is 
+with the deepest regret that I cannot once again, as always before, thank 
+my old teacher and friend, the late Professor Hyder E. Rollins.  
+ 
+</p><p> 
+I should also like to thank Miss Eva Faye Benton, Miss Alma DeJordy, and 
+Miss Isabelle F. Grant, all of the University of Illinois Library, and Mr.  
+C. P. Finlayson of the University of Edinburgh Library. Particular thanks 
+are also due to the Research Board of the University of Illinois for 
+continually generous financial assistance and to the Board of Trustees for 
+sabbatical leave granted to me in 1956 to pursue my studies in England.  
+Finally, I owe a special debt to the Bibliographical Society of the 
+University of Virginia for undertaking the publication of my work in this 
+form.</p> 
+ 
+<closer><signed><name>G. B. E.</name></signed><lb> 
+<dateline>The University of Illinois</dateline></closer> 
+ 
+<!-- </page> --><!-- <page n=3> -->     
+ 
+</div0>
+<div0 type="introduction"> 
+<head>General Introduction</head> 
+ 
+<p>I am concerned in the present study with a comparatively small 
+collection of special Shakespeare materials: printed texts of 
+Shakespeare's plays which give evidence of a seventeenth-century 
+theatrical provenience and thus record for us some of the acting 
+innovations, readings, and traditions current on the stage during that 
+period. In general, such texts may be described as prompt-books, though 
+I have included several acting versions which strictly do not fall into 
+this category.   
+ 
+</p><p>The complete study will afford a large body of detailed evidence 
+about the text of Shakespeare's plays as they were presented on the 
+stage during the last three-quarters of the seventeenth century.  Since 
+the time of Capell and Jennens in the second half of the eighteenth 
+century the textual guesses, sometimes inspired and sometimes not, of a 
+whole army of learned editors have been reverently and meticulously 
+recorded, an accumulation which resulted finally in the Cambridge 
+Shakespeare and the New Variorum of Furness and his successors. 
+Curiously, however, although there are numerous excellent general 
+studies of seventeenth- and eighteenth-century Shakespearean acting 
+versions, both published and manuscript, there is little detailed study 
+or record of the actual texts as such.  For eighteenth-century printed 
+theatre versions C. B.  Hogan's recent and invaluable <hi rend="italics">Shakespeare  
+in the Theatre, 1701-1800</hi> (1952-57) must 
+be noticed as an exception, though even Mr. Hogan does not pretend to be 
+complete in his lists of cuts and (particularly) textual changes.  This 
+study, therefore, is an attempt, using special and generally unavailable 
+materials, partially to fill this gap in our knowledge of Shakespeare in 
+the theatre for the seventeenth century. It should be emphasized, 
+ 
+ 
+ 
+<!-- </page> --><!-- <page n=4> --> 
+ 
+perhaps, that seventeenth-century printed texts such 
+as the 1681 <hi rend="italics">Othello</hi> or the 1676 <hi rend="italics">Hamlet</hi>, which 
+represent published acting 
+texts, are included only so far as they serve to illustrate the theatre 
+prompt-book under discussion.  Since in this study I have aimed at a 
+measure of completeness, every effort has been made to establish the 
+relationship between the seventeenth-century and the principal 
+eighteenth-century acting versions. In order to do this it has been 
+necessary to compare in detail each cut, textual change, setting, etc. 
+with its several seventeenth- and eighteenth-century counterparts and to 
+record the results in the notes to the collations and, more generally, 
+in the separate introductions to each play. Only in this way can the 
+uniqueness or community of a cut or reading in the seventeenth- and 
+eighteenth-century versions be recognized and a picture of the oral 
+stage tradition (for the text especially) begin to emerge. 
+Nineteenth-century acting versions, except for an occasional use of Mrs.  
+Inchbald's <hi rend="italics">British Theatre</hi> (1808), I have considered outside the scope 
+of the present study. 
+ 
+</p><p>The materials may be divided into four groups. (I) Three 
+pre-Restoration prompt-books (<hi rend="italics">Macbeth</hi>,  
+<hi rend="italics">Measure for Measure</hi>, <hi rend="italics">Winter's 
+Tale</hi>) which belong together, being found in a copy of the First 
+Folio now in the University Library at Padua, and may be linked, as I 
+shall try to show, with Sir Edward Dering of Surrenden in Kent (<hi rend="italics">c.</hi>  
+1625-35).  
+(II) Two prompt-books (<hi rend="italics">Comedy of Errors</hi>, <hi rend="italics">Midsummer 
+Night's Dream</hi>), both from a copy of the First Folio, connected with 
+the Hatton Garden Nursery (<hi rend="italics">c.</hi> 1672). (III) 
+Eleven prompt-books (<hi rend="italics">Hamlet</hi>, <hi rend="italics">Macbeth</hi>,  
+<hi rend="italics">Othello</hi>, <hi rend="italics">King Lear</hi>,  
+<hi rend="italics">Twelfth Night</hi>, 
+<hi rend="italics">Midsummer Night's Dream</hi>, <hi rend="italics">Henry VIII</hi>,  
+<hi rend="italics">I Henry IV</hi>, <hi rend="italics">Comedy of Errors</hi>,  
+<hi rend="italics">Merry Wives</hi>, and <hi rend="italics">Winter's 
+Tale</hi>), all from a copy of the Third Folio, belonging to the Smock 
+Alley Theatre in Dublin (<hi rend="italics">c.</hi> 1676-85). (IV) A 
+prompt-book of <hi rend="italics">Twelfth Night</hi> (Second Folio) 
+which, though it is of unknown provenience, is almost certainly 
+seventeenth-century; an incomplete cutting of <hi rend="italics">Merchant of Venice</hi>,  
+Second Folio, which, though also 
+of uncertain provenience, is probably seventeenth-century in origin; and 
+three texts (<hi rend="italics">Romeo and Juliet</hi>, 1599 quarto; <hi rend="italics">Merry 
+Wives</hi>, 1633 quarto; 
+
+<p><figure entity="int-p4a">
+<head>Inside front board: Padua First Folio</head>
+<figDesc>Image of Inside Front Board: Padua First Folio</figDesc>
+</figure></p>
+
+<p><figure entity="int-p4b">
+<head>Inside back board: Padua First Folio</head>
+<figDesc>Image of Inside Back Board: Padua First Folio</figDesc>
+</figure></p>
+
+<p><figure entity="int-p4c">
+<head>Sig. 3b6v: Padua First Folio</head>
+<figDesc>Image of Sig. 3b6v: Padua First Folio</figDesc>
+</figure></p>
+
+<p><figure entity="int-p4d">
+<head>Sig. 3M4v: Smock Alley Third Folio<lb>
+Julius Ceasar acting list</head>
+<figDesc>Image of Sig. 3M4v: Smock Alley Third Folio, Julius Ceasar
+acting list</figDesc>
+</figure></p>
+
+<!-- </page> --><!-- <page n=5> --> 
+ 
+<hi rend="italics">Much Ado</hi>, 1600 quarto), of which the theatrical provenience is doubtful. 
+Finally, as an appendix, I have included a complete list of the 
+deletions marked in the notorious Collier-Perkins Second Folio. 
+ 
+</p><p><hi rend="italics">Group I: Pre-Restoration prompt-books.</hi> The Padua prompt-books, part of a First 
+Folio in the University Library at Padua, have been 'discovered' several 
+times. Attention was first called to them by an 'Occasional 
+Correspondent' in the <hi rend="italics">Scotsman</hi> (11 July 1895). Sir Sidney Lee then 
+listed the Padua Folio in the Supplement to his facsimile of the First 
+Folio (Oxford, 1902) and described it as having "early MS. notes, made 
+apparently by an acting manager." It was not until 1932, however, that 
+anyone seems to have paid further attention; in that year G. N. Giordano 
+Orsini published an account of them as part of an article entitled 
+"Nuovi orientamenti della Filologia shakespeariana" in <hi rend="italics">Civilt&agrave; 
+moderna</hi> 
+(1932, IV, 3-46), an account which contained, as an appendix, a nearly 
+complete list of the textual deletions in the three prompt-books. 
+Giordano Orsini's study seems to have passed almost unnoticed in this 
+country.<note target="ShaGI1">[1]</note> In 1936, Leslie F. Casson, apparently independently 
+of 
+Giordano Orsini's article, offered a general discussion of all three 
+prompt-books, noting the principal changes (and some of the deletions), 
+and made an attempt to date them by trying to associate the actors' 
+names and initials with particular actors in the Restoration.<note target="ShaGI2">[2]</note> 
+That 
+Casson was mistaken in his identifications will I think appear from the 
+discussion below. Like Giordano Orsini's, Casson's article passed 
+unnoticed, except for a listing in <hi rend="italics">Studies in Philology</hi>. Finally, in 
+1950, I 'discovered' the Padua prompt-books all over again and was 
+subsequently considerably chagrined to find that I had been anticipated 
+not once, but three times! 
+ 
+</p><p>It is not known how or when this copy of the First Folio  
+ 
+<!-- </page> --><!-- <page n=6> --> 
+ 
+ 
+came into the hands of the University Library at Padua. The volume was 
+accidentally discovered about 1895 "amongst a number of uncatalogued 
+books".<note target="ShaGI3">[3]</note> My letter of enquiry has received no response, and 
+Casson, 
+though on the spot, was unable to uncover any further information. The 
+book is bound in brown leather, almost certainly its original English 
+binding.<note target="ShaGI4">[4]</note> A label which reads 'Tutte le Opere di: / Sakespear / 
+Commedie 
+e Tragedie. / manca il Frontispizio' has been pasted on the inside of 
+the front board (the front and back end-papers, sig. A1, and the 
+engraved title-page are lacking). The handwriting is eighteenth-century, 
+or possibly seventeenth, and suggests that the volume arrived in Italy 
+fairly early in its career. Below the label, in the same hand, is 
+written 'F in capsa / ad L&aelig;uam' (i.e., ?Folio in the left-hand chest or 
+drawer).<note target="ShaGI5">[5]</note> The number '385' appears in the upper left corner. 
+On 
+sig.  
+3b6<hi rend="sup">v</hi> another hand has written a phrase of which I can make no sense 
+whatever: 'in / &lt;Som.are&gt; content<hi rend="italics">um</hi>.'. The letters recorded for 
+the 
+second word are very uncertain: 'S' might well be read as 'T', 'm' as 
+'ui' or 'ni', etc.; and the form 'content<hi rend="italics">um</hi>' should perhaps be read 
+'contentionem'. Below, on the same page, another hand has added what may 
+be a date 'M'y 6'. The inner back board contains what may possibly be 
+either a library number or acquisition date (?1695), perhaps both (see 
+the reproduction opposite page 4), and a scrawl in English, in yet 
+another hand, beginning 'and one y &lt;.n.&gt; & &lt;ta.n.&gt; &lt;etc&gt;' (all but the 
+first two words badly smudged). Finally, we may notice what appears, 
+when disentangled, to be the name 'joh: B ffort' scribbled down the left 
+margin of sig. F6<hi rend="sup">v</hi> in the prompt-book of <hi rend="italics">Measure for 
+Measure</hi>. I cannot 
+associate the hand with that in the prompt-book or with any other in the 
+volume. 
+ 
+<!-- </page> --><!-- <page n=7> --> 
+ 
+</p><p>The full importance of the Padua prompt-books has not hitherto 
+been recognized; they are, I believe, our earliest examples of 
+Shakespearean prompt-books and should be dated about 1625-35. The 
+evidence for such dating must now be considered in full. 
+ 
+</p><p>The Padua prompt-books contain 
+no indication of location or scene setting. Restoration prompt-books, 
+except in unusual circumstances, regularly indicate the set to be used 
+with each change of scene.<note target="ShaGI6">[6]</note> In <hi rend="italics">Macbeth</hi>  
+and <hi rend="italics">Measure for Measure</hi> the 
+prompter's calls are not anticipatory (except in one or two cases). This 
+fact at once distinguishes these two Padua promptbooks from Restoration 
+prompt-books and in itself suggests a date in the later 1620's, for, as 
+W. J. Lawrence observes, " . . . so far as the prompter was concerned, 
+the system of advance calls for players, musicians, and properties first 
+came into vogue somewhere in the period 1625-31."<note target="ShaGI7">[7]</note>  
+ 
+</p><p>Other points also 
+serve to support an early date. A 'Senett' is called for at the opening 
+of IV.iv in <hi rend="italics">Macbeth</hi>, where the Folio stage direction makes no such 
+provision. By 1660 the technical theatre term 'sennet' seems to have 
+been completely obsolete; indeed the <hi rend="italics">NED</hi> records no later use than 
+1619. The  
+ 
+<!-- </page> --><!-- <page n=8> --> 
+ 
+calls 'Bee ready Group II:' (<hi rend="italics">Measure for Measure</hi>, IV.iii) and 'Bee ready' 
+(V.i.259) are definitely on a pre-Restoration formula found 
+occasionally in prompt-books belonging to the second and third decades 
+of the century.<note target="ShaGI8">[8]</note> I have seen no cases of this particular 
+imperative 
+warning in Restoration promptbooks. Again, the complete absence of any 
+attempt to 'modernize' Shakespeare's language immediately distinguishes 
+the Padua prompt-books from most Restoration acting versions, 
+particularly among the tragedies. There is also the evidence of the 
+handwriting. Two quite distinct hands are et work: Hand I, that in 
+<hi rend="italics">Macbeth</hi> and <hi rend="italics">Measure  
+for Measure</hi>;<note target="ShaGI9">[9]</note> and Hand II,  
+that in <hi rend="italics">The Winter's 
+Tale</hi>. Both hands give the impression of early rather than late 
+seventeenth-century formation, though this is a matter on which it is 
+possible to be badly misled.   
+ 
+</p><p>Finally, there is the important matter of 
+provenience. Like a number of others, the Padua prompt-books contain the 
+names or initials of certain minor actors among the prompt-calls, and it 
+is possible, I believe, to identify three of these individuals with 
+persons who took part in an amateur performance of Fletcher's <hi rend="italics">Spanish 
+Curate</hi> produced by Sir Edward Dering at his estate, Surrenden, in Kent, 
+between 22 October 1622 (the date on which the play was licensed) and 
+"the summer of 1624".<note target="ShaGI10">[10]</note> Among the names listed by Sir 
+Edward for 
+<hi rend="italics">The 
+Spanish Curate</hi> are 'Jhon Carlile', 'Tho: Slender', and 'Mr. Kemp'. 
+<note target="ShaGI11">[11]</note> In 
+the Padua <hi rend="italics">Macbeth</hi> we  
+find 'M<hi rend="sup">r</hi> Carlile' (and 'M<hi rend="sup">r</hi> Carl'), 
+ 
+<!-- </page> --><!-- <page n=9> --> 
+ 
+'T S', and 'M<hi rend="sup">r</hi> K'. The other three names which appear  
+in <hi rend="italics">Macbeth</hi> are 'M<hi rend="sup">r</hi> 
+G', 'E H', and 'M<hi rend="sup">r</hi> H&lt;e&gt;w&lt;it&gt;', none of which occurs  
+in <hi rend="italics">The Spanish 
+Curate list.</hi> Trying to link these with Sir Edward Dering is perhaps 
+hazardous. I would, however, suggest that 'M<hi rend="sup">r</hi> G' may be a certain 'Georg 
+Perd' who figures in <hi rend="italics">The Spanish Curate</hi> list and who knew Sir Edward 
+well enough to subscribe a letter with 'Thus in hast with my service to 
+you<hi rend="sup">r</hi> dearr self and &lt;vert&gt;uous Lady in some hast I end  
+You<hi rend="sup">r</hi> most 
+affectionate friend Geo: Pearde.'<note target="ShaGI12">[12]</note> The only 'E H' I can 
+associate with 
+Sir Edward is the well-known Sir Edward Hales and that he should appear 
+as a mere 'E H' seems highly unlikely. The third name, which should 
+prove most helpful, is unfortunately very questionable. Giordano Orsini 
+reads 'H.wit'<note target="ShaGI13">[13]</note> and Casson 'H&lt;ewi&gt;t', remarking, "This 
+name is difficult 
+to decipher, but is possibly 'Mr. H&lt;ewi&gt;t'".<note target="ShaGI14">[14]</note> I am fairly 
+sure of two 
+letters: 'H<.>w<. .>'. There are two possible candidates. One is a 
+certain 'Geo: Haule' or 'Cosen Hawle' as Dering calls him.<note target="ShaGI15">[15]</note> 
+The other is an individual called 'Hugett', an acceptable spelling of 'Hewit'', who 
+figures in a long list of names at the end of Sir Edward's 'pocket-book' 
+for the year 1637.<note target="ShaGI16">[16]</note>  
+ 
+</p><p>That Sir Edward Dering was interested in the 
+theatre and in Shakespeare is apparent from the telescoped version of <hi rend="italics">I</hi> 
+and <hi rend="italics">II Henry IV</hi> which is now generally known as 
+the Dering MS. This 
+manuscript, the first page of which is in Dering's hand,<note target="ShaGI17">[17]</note>  
+contains 
+numerous corrections and additions by him.   
+ 
+<!-- </page> --><!-- <page n=10> --> 
+ 
+We also hear, in 1619, of nine shillings spent for 'twenty-seven 
+play-bookes'<note target="ShaGI18">[18]</note> and, in 1637, eighteen years later, Dering was 
+still 
+buying more 'playbookes'. In his pocket-book for that year a list of 
+'Bookes in print' begins with 'Duche armes in print / Epitaphes. 
+epithalamy's. playbookes / witchery.' and ends with 'Lat. Bible. 
+Septuagint / Tertullian / Shakespeare / &lt;....&gt; &lt;....&gt; painted / virgel 
+and other poets of y<hi rend="sup">e</hi> best / qu: de omni modis biblijs / Lat Graec 
+Anglic.'.<note target="ShaGI19">[19]</note> The exact purpose of this list (mostly crossed 
+through) is 
+not clear, though it most probably represents a collection of books sent 
+to be bound and not necessarily recent purchases. Dates of individual 
+volumes range from 1573 to 1632, and the 'Shakespeare' so temptingly 
+exhibited could be either a First or Second Folio.   
+ 
+</p><p>In setting out the 
+evidence for the Dering provenience I have tried to avoid pressing the 
+claim too strongly. The case hangs essentially on one name and two 
+initials and cannot be considered conclusive. Nevertheless, it may, I 
+think, be admitted as at least persuasive, especially as the Dering 
+provenience squares perfectly with the other evidences of date already 
+discussed. One point, however, must now be noticed which may be 
+considered to argue against attaching the Padua prompt-books to the 
+amateur Dering group. This is their apparently professional appearance.  
+In format they give the impression of having been prepared by persons 
+thoroughly familiar with the conventions of prompt-book makers during 
+the later 1620's and 1630's. It might be argued that Dering had 
+procured professional assistance in preparing these copies from 
+ 
+<!-- </page> --><!-- <page n=11> --> 
+ 
+the official prompt-book, but this approach seems to be ruled out by the 
+fact that where an actor is named as playing one of the minor roles, the 
+hand is the same in both call and actor's name. Moreover The Winter's 
+Tale, which is cut only up to I.iii, assigns two small roles to 'T S', 
+showing that here at least the roles were assigned as the calls were 
+written in. Various solutions might be advanced, but none could be more 
+than the merest hypothesis.   
+ 
+</p><p>But even if we cannot argue very warmly for 
+professional help with the actual preparation of the prompt-books, the 
+question remains of how far Dering's changes, if we accept them as 
+either his or changes made by one of his associates, may be taken to 
+reflect contemporary theatre practice. Considering Dering's known 
+interest in the drama, it seems fair to assume that in some part at 
+least the alterations may be taken to represent what Dering had seen on 
+the professional stage during his visits to London, and it is 
+interesting to notice how often the changes in <hi rend="italics">Macbeth</hi> are reflected in 
+the Restoration D'Avenant and Smock Alley versions. Such continuity 
+suggests a professional source, however come by, for some of the changes 
+in the Padua <hi rend="italics">Macbeth</hi>, and, by association, in the  
+Padua <hi rend="italics">Measure for 
+Measure</hi> and <hi rend="italics">The Winter's Tale</hi>. This last argument will hold, of 
+course, even if we refuse to accept the Dering provenience.   
+ 
+</p><p>Detailed discussion of the individual prompt-books will be given 
+in the separate introduction to each play. 
+ 
+</p><p><hi rend="italics">Group II: Restoration 'Nursery' 
+prompt-books.</hi> These prompt-books of <hi rend="italics">The Comedy of Errors</hi> and 
+<hi rend="italics">Midsummer 
+Night's Dream</hi>, now preserved in the University of Edinburgh Library, the 
+gift of Halliwell-Phillipps, are our only extant examples of 
+seventeenth-century ?London prompt-books of Shakespeare's plays. Only 
+<hi rend="italics">The Comedy of Errors</hi> reached production; <hi rend="italics">Midsummer 
+Night's Dream</hi> merely 
+shows evidence of cutting (no prompt-calls, etc.).  Both are part of a 
+First Folio, and the cutting in both seems to be the work of the same 
+hand. On the basis of the cast for <hi rend="italics">The Comedy of Errors</hi>, which it is 
+ 
+<!-- </page> --><!-- <page n=12> --> 
+ 
+possible to reconstruct completely from the prompter's calls, we may 
+with some assurance date these prompt-books <hi rend="italics">c.</hi> 1672. A full discussion 
+of the provenience, cast, and dating may be reserved for the separate 
+introduction to <hi rend="italics">The Comedy of Errors</hi>.   
+ 
+</p><p><hi rend="italics">Group III: The Smock Alley 
+prompt-books.</hi> The eleven prompt-books in this group (<hi rend="italics">Hamlet</hi>, <hi 
+rend="italics">Macbeth</hi>, 
+<hi rend="italics">Othello</hi>, <hi rend="italics">King Lear</hi>, <hi rend="italics">Twelfth 
+Night</hi>, <hi rend="italics">Midsummer Night's Dream</hi>, <hi rend="italics">Henry 
+VIII</hi>, 
+<hi rend="italics">I Henry IV</hi>, <hi rend="italics">Comedy of Errors</hi>, <hi 
+rend="italics">Merry Wives</hi>, <hi rend="italics">Winter's Tale</hi>) have been 
+known since the middle of the nineteenth century and were once in the 
+possession of Halliwell-Phillipps.<note target="ShaGI20">[20]</note> All but two now form part 
+of the Folger Shakespeare Library collection of prompt-books.<note target="ShaGI21">[21]</note> 
+The remaining 
+two (<hi rend="italics">Hamlet</hi> and <hi rend="italics">Midsummer Night's Dream</hi>) are 
+preserved in the University of Edinburgh Library.   
+ 
+</p><p>Originally there appear to have been similar 
+promptbooks of <hi rend="italics">Julius Caesar</hi> and <hi rend="italics">II Henry IV</hi>, 
+possibly also of <hi rend="italics">Measure 
+for Measure</hi>, <hi rend="italics"><hi rend="italics">The 
+Tempest</hi></hi>, and <hi rend="italics">Troilus and 
+Cressida</hi>.<note target="ShaGI22">[22]</note> The copies of 
+<hi rend="italics">Troilus and Cressida</hi> and <hi rend="italics">Julius Caesar</hi> were 
+presented by 
+Halliwell-Phillipps to the Shakespeare Memorial Library at Birmingham 
+and were there unfortunately destroyed in the fire of 1879.<note target="ShaGI23">[23]</note> 
+For <hi rend="italics">Julius Caesar</hi>, however. a cast  
+ 
+<!-- </page> --><!-- <page n=13> --> 
+ 
+(written on the last page of <hi rend="italics">Timon of Athens</hi>) has survived, as well as a 
+manuscript couplet scrawled down the right margin of the first page of 
+<hi rend="italics">Macbeth</hi> (facing the final page of <hi rend="italics">Julius Caesar</hi>). 
+The cast, which can be 
+dated as not later than 1676, gives us important information on the 
+personnel of the Smock Alley Theatre.<note target="ShaGI24">[24]</note> The cast is as 
+follows:</p>  
+ 
+<list> 
+<item>&lt;Jull&gt;ius Cesszer the Acto&lt;rs&gt; naims</item> 
+<item>Flauius  M<hi rend="sup">r</hi> Wamsly</item> 
+<item>Murillus  M<hi rend="sup">r</hi> Williams</item> 
+<item>Cobler  M<hi rend="sup">r</hi> Lysle</item> 
+<item>Carpenter  Cotts</item> 
+<item>Ceazer [M<hi rend="sup">r</hi> Richards]<note target="ShaGI25">[25]</note>  
+M<hi rend="sup">r</hi> Cudworth</item> 
+<item>Antoni  M<hi rend="sup">r</hi> Smith</item> 
+<item>Calphurnia  M<hi rend="sup">rs</hi> Smith</item> 
+<item>Portia   M<hi rend="sup">rs</hi> Richards</item> 
+<item>Desius  M<hi rend="sup">r</hi> Wamsley</item> 
+<item>Bruttus  M<hi rend="sup">r</hi> Richards</item> 
+<item>Cassius  M<hi rend="sup">r</hi> Ashbury</item> 
+<item>Caska  M<hi rend="sup">r</hi> Baker <note target="ShaGI26">[26]</note></item> 
+</list> 
+ 
+<p>Only 
+two of these actors occur with certainty among the prompter's 
+annotations in the other Shakespearean plays:  Walmesley in <hi rend="italics">Othello</hi> 
+(I.iii) and Smith in <hi rend="italics">Henry VIII</hi> (IV.ii) and  
+<hi rend="italics">Macbeth</hi> (V.iii).<note target="ShaGI27">[27]</note> It is 
+possible, however, that Williams appears 
+ 
+<!-- </page> --><!-- <page n=14> --> 
+ 
+pears as '&lt;W&gt;illian' in <hi rend="italics">Hamlet</hi> (V.ii) in the role of  
+Laertes.<note target="ShaGI28">[28]</note> Other actors whose names appear in the Shakespeare 
+promptbooks are: 
+Andrews (<hi rend="italics">Henry VIII</hi>, I.i), Barnes (<hi rend="italics">Othello</hi>, 
+I.iii), Charles [?Ashbury] (<hi rend="italics">Othello</hi>, I.iii; II.i),  
+Farlow (<hi rend="italics">Macbeth</hi>, III.i), Freeman (<hi rend="italics">Othello</hi>, II.i), (Mistress) 
+Kaine (<hi rend="italics">Henry VIII</hi>, V.i), Longmore (<hi rend="italics">I Henry IV</hi>, 
+II.i), Totterdale (<hi rend="italics">Henry VIII</hi>, IV.i; <hi rend="italics">Macbeth</hi>, 
+V.v.; <hi rend="italics">Othello</hi>, I.ii), and Trefusis (<hi rend="italics">Hamlet</hi>, IV.v, 
+vii; <hi rend="italics">Othello</hi>, I.ii; II.i). What may be illegible or mutilated actors' 
+names occur in <hi rend="italics">Othello</hi> (I.ii.63), <hi rend="italics">Henry VIII</hi> 
+(I.i.161), and <hi rend="italics">Hamlet</hi> (IV.v.113; V.ii.153).<note 
+target="ShaGI29">[29]</note> Barnes and Freeman 
+also appear in the Smock Alley manuscript prompt-book of Wilson's <hi rend="italics">Belphegor</hi>  
+(<hi rend="italics">c.</hi> 1677 or 1682) and Totterdale in the Smock Alley cast for Fletcher's 
+<hi rend="italics">Night-Walker</hi> (between 1670 and 1676). 
+ 
+</p><p>The couplet from a Smock Alley production of <hi rend="italics">Julius Caesar</hi>  
+which appears in the left margin of the first page of <hi rend="italics">Macbeth</hi> reads: 
+ 
+<q>poore slavish rome far well: Ceaser now be still<lb> 
+I Kild not thee w<hi rend="sup">th</hi> half so good a will<lb> 
+Dyes</q> 
+ 
+ 
+R. C. Bald notes that this couplet first appears, spoken by Brutus, in 
+the so-called D'Avenant-Dryden version of the play published in 1719 and 
+that it seems likely that "the London alterations were known in the 
+Dublin theatre some years at least before they were available in 
+print."<note target="ShaGI30">[30]</note> This would seem to suggest 
+that Bald does not consider the possibility that the acting 
+ 
+<!-- </page> --><!-- <page n=15> --> 
+ 
+list, which may be dated before 1677, and the hand that is responsible 
+for the couplet are contemporary (admittedly they are not the same). 
+Though there is nothing to prove that these two hands are contemporary, 
+there is certainly nothing to prove that they are not. Bald's caution is 
+dictated, I suppose, by Hazelton Spencer's rather categorical statement 
+that the "limits <hi rend="italics">of composition</hi> of this version [the D'Avenant-Dryden] 
+are thus 1691 and 1719."<note target="ShaGI31">[31]</note> But the arguments by which 
+Spencer reaches this conclusion do not seem to me entirely satisfactory, and the 
+appearance of this couplet possibly in connection with a production of 
+the play in the middle 1670's (before the appearance of the 1684 
+Betterton quarto) at least opens up once again the whole question of 
+D'Avenant's and Dryden's possible implication in producing the 
+'improvement'.<note target="ShaGI32">[32]</note>  
+ 
+</p><p>Our knowledge of the one-time existence of a Smock 
+Alley prompt-book of <hi rend="italics">II Henry IV</hi> we owe to S. W. Singer. In his attack 
+on Collier, <hi rend="italics">The Text of Shakespeare Vindicated</hi> (1853), Singer 
+describes (pp. vi-vii) a "tattered copy of the third folio edition of 
+Shakespeare" which "chance has furnished" him ('chance' here being 
+presumably Halliwell-Phillipps). He then gives a list of twelve plays 
+with which he says "the greatest liberties have been taken" in revising 
+them for the stage. This list includes, besides the lost <hi rend="italics">Julius Caesar</hi> 
+and ten plays now preserved in the Folger and at Edinburgh, <hi rend="italics">II Henry 
+IV</hi>.<note target="ShaGI33">[33]</note>  
+ 
+</p><p>Finally, the possibility that there were also Smock Alley 
+ 
+<!-- </page> --><!-- <page n=16> --> 
+ 
+prompt-books of <hi rend="italics">Measure for Measure</hi>, <hi rend="italics">Troilus and 
+Cressida</hi>, and <hi rend="italics">The 
+Tempest</hi> was first brought to light by J. G.  McManaway.<note target="ShaGI34">[34]</note> 
+He was able to trace Halliwell-Phillipps' 'tattered copy' back to the library of John 
+Dent. It was sold at the sale of Dent's books in 1827. The auction 
+catalogue carefully describes the volume and offers four examples of the 
+kind of manuscript corrections it contained: one each from <hi rend="italics">Troilus and 
+Cressida</hi> and <hi rend="italics">Measure for Measure</hi> and two  
+from <hi rend="italics">The 
+Tempest</hi>. Unfortunately 
+the cataloguer was interested only in textual emendations later 
+suggested by either Rowe or Hanmer. McManaway considers these readings 
+as anticipations of Rowe and Hanmer and does not believe it necessary to 
+"postulate the intrusion of an otherwise unknown literary hand" in these 
+three plays in view of the fact that "the various hands (Bald counts six 
+in <hi rend="italics">Othello</hi>) in the Folger copies of the plays appear to be connected 
+with performances". But this is an oversimplification of the state of 
+some of the extant Smock Alley promptbooks. In <hi rend="italics">King Lear</hi>,  
+<hi rend="italics">Hamlet</hi>, 
+<hi rend="italics">Twelfth Night</hi>, <hi rend="italics">Midsummer Night's Dream</hi>, and 
+<hi rend="italics">Merry Wives</hi> it is certain 
+that some hand (described below as Hand H) about the middle of the 
+eighteenth century busied itself (with what purpose is not clear) with 
+incorporating the readings of various editors through at least  
+Hanmer.<note target="ShaGI35">[35]</note> 
+It is also, I think, significant that Singer, who saw the volume before 
+it was broken up by Halliwell-Phillipps, did not include <hi rend="italics">Measure for 
+Measure</hi>, <hi rend="italics">Troilus and Cressida</hi>, or <hi rend="italics">The 
+Tempest</hi> among those plays "with 
+which the greatest liberties have been taken". In view of these 
+considerations we must, I believe, accept the one-time existence of 
+actual theatre prompt-books of these plays with some caution.<note target="ShaGI36">[36]</note> 
+ 
+<!-- </page> --><!-- <page n=17> --> 
+ 
+</p><p>A particularly difficult problem in the study of the Smock Alley 
+prompt-books arises from the number of different prompt hands. Yet the 
+identification and isolation of these hands is most often the only clue 
+to distinguishing the work of different individuals in the preparation 
+of a prompt-book. Several prompt-books contain as many as five or six 
+principal hands and it is frequently hard, sometimes impossible, to 
+assign to its proper hand each prompt-note or textual change. The 
+difficulty becomes even greater when, under changed conditions imposed 
+by new pens, ink, etc., one tries to identify hands in one prompt-book 
+with those appearing in other prompt-books. As in dealing with the Padua 
+and 'Nursery' prompt-books, I have assigned all readings to a particular 
+hand whenever possible, but with the Smock Alley prompt-books I have 
+more frequently been forced to question the exact identification or to 
+admit defeat. 
+   
+</p><p>Eight hands appear in more than one Smock Alley prompt-book. The following table will 
+help to establish their interrelationships:<note target="ShaGI37">[37]</note></p> 
+ 
+<list> 
+ 
+<label>HAND A:</label><item><hi rend="italics">Hamlet</hi> (Hand I); <hi rend="italics">Lear</hi> 
+(Hand I); <hi rend="italics">Macbeth</hi> (Hand I); <hi rend="italics">Twelfth Night</hi> 
+(Hand I)</item> 
+ 
+<label>HAND B:</label><item> 
+<hi rend="italics">Hamlet</hi> (Hand III); <hi rend="italics">Julius Caesar</hi> (acting list);  
+<hi rend="italics">Macbeth</hi> (Hand IV); <hi rend="italics">Merry Wives</hi> (Hand I);  
+<hi rend="italics">Othello</hi> (Hand VI); [Wilson's <hi rend="italics">Belphegor</hi> (main 
+prompt hand)]</item> 
+ 
+<label>HAND C:</label><item><hi rend="italics">Hamlet</hi> (Hand II); <hi rend="italics">Henry 
+VIII</hi> (Hand I); <hi rend="italics">Macbeth</hi> (Hand II); <hi rend="italics">Othello</hi> (Hand II);  
+<hi rend="italics">I Henry IV</hi> (Hand II)</item> 
+ 
+<label>HAND D:</label><item><hi rend="italics">Macbeth</hi> (Hand III); <hi rend="italics">Othello</hi> 
+(Hand I)</item> 
+ 
+<label>HAND E:</label><item><hi rend="italics">Henry VIII</hi> (Hand II); <hi rend="italics">Lear</hi> 
+(Hand II); <hi rend="italics">Hamlet</hi> (?Hand V)</item> 
+ 
+<label>HAND F:</label><item><hi rend="italics">Othello</hi> (Hand V); 
+<hi rend="italics">I Henry IV</hi> (Hand III)</item> 
+ 
+<label>HAND G:</label><item><hi rend="italics">Hamlet</hi> 
+(Hand VI); <hi rend="italics">Merry Wives</hi> (Hand III, copyist); 
+[Wilson's <hi rend="italics">Belphegor</hi> (copyist)]</item> 
+ 
+<!-- </page> --><!-- <page n=18> --> 
+ 
+<label>HAND H:</label><item><hi rend="italics">Hamlet</hi> (Hand IV);  
+<hi rend="italics">Lear</hi> (Hand III);  
+<hi rend="italics">Midsummer Night's Dream</hi> (Hand II);  
+<hi rend="italics">Twelfth Night</hi> (Hand II);  
+<hi rend="italics">Merry Wives</hi> (Hand II). This is an 
+intrusive mid-eighteenth-century hand.</item> 
+ 
+</list> 
+   
+<p>This listing leaves two major 
+hands, each of which, so far as I can determine, appears in only a 
+single prompt-book:  Hand I in <hi rend="italics">Midsummer Night's Dream</hi> and Hand I in 
+<hi rend="italics">Comedy of Errors</hi>.   
+ 
+</p><p>Exact dates for the Smock Alley Shakespeare 
+productions are unfortunately impossible to arrive at. The presence of 
+particular actors in certain of the plays can be useful in setting date 
+limits, but even such evidence may sometimes be ambiguous, the addition 
+of particular actors' names being possible at various times after the 
+first use of the prompt-book. With this warning, however, a few 
+tentative dates may be suggested. <hi rend="italics">Julius Caesar</hi>, as we noticed above, 
+can be dated before 1677 and not earlier than 1670; Jeremiah Lisle, who 
+played the Cobble,<note target="ShaGI38">[38]</note> was not with the Smock Alley players 
+before 1670 and died in 1681, and Richards, who played Brutus, left for the London 
+stage in the summer of 1676.<note target="ShaGI39">[39]</note> Both Lisle and Richards also 
+appear in 
+the Smock Alley <hi rend="italics">Night-Walker</hi> cast (which thus also falls between 1670 
+and 1676) but they do not appear by name in any of the other 
+Shakespearean productions. This fact would seem to suggest that the 
+other productions are later, but again the nature of the evidence may be 
+somewhat misleading. For both <hi rend="italics">Julius Caesar</hi> and <hi rend="italics">The 
+Night-Walker</hi> we have 
+more or less complete casts; for the other Shakespearean plays we have 
+only occasional names attached to minor roles.  Richards, then, or even 
+Lisle, may well have taken part in some of these other plays; the fact 
+that their names do not occur may simply mean that they did not happen 
+to double in a small 
+ 
+<!-- </page> --><!-- <page n=19> --> 
+ 
+part (as Smith probably did in <hi rend="italics">Macbeth</hi>, for example) and so were not 
+particularly singled out for mention by the prompter. Even with this 
+proviso, however, it still seems likely that the other Shakespeare 
+productions may be grouped after the <hi rend="italics">Julius Caesar</hi> cast.   
+ 
+</p><p>The appearance of Henry Smith, who died in August, 1682, in <hi rend="italics">Macbeth</hi> (Hand III) and 
+<hi rend="italics">Henry VIII</hi> (Hand I) affords us a definite terminal date for these two 
+plays, and the fact that Smith is the only actor there named who also 
+appears in the <hi rend="italics">Julius Caesar</hi> cast might be interpreted, always 
+remembering the dangers involved, as an indication of some lapse of time 
+between these plays and the <hi rend="italics">Julius Caesar</hi> production. It will be noted, 
+however, that Smith's name occurs in <hi rend="italics">Macbeth</hi> in Hand III and may be 
+related to a second state of the prompt-book; in other words the 
+prompt-book may represent an earlier production with which Smith had no 
+connection, a production of the play essentially unaffected by the 
+influence of D'Avenant's version, an influence clearly reflected in the 
+work of Hand III.  The presence of Totterdale in both <hi rend="italics">Macbeth</hi> (Hand 
+III) and <hi rend="italics">Henry VIII</hi> (Hand I), though it links these plays with  
+<hi rend="italics">Othello</hi> (Hand V), does not help in fixing an earlier date limit, since, though he is 
+absent from the <hi rend="italics">Julius Caesar</hi> cast, he is found in the contemporary, 
+perhaps even earlier, <hi rend="italics">Night-Walker</hi> cast.  
+Clark<note target="ShaGI40">[40]</note> suggests a date 
+between 1674 and 1682 for <hi rend="italics">Macbeth</hi>; I would, on the whole, favor the 
+later rather than the earlier limits of this period for both <hi rend="italics">Macbeth</hi> and 
+<hi rend="italics">Henry VIII</hi>.   
+ 
+</p><p><hi rend="italics">Othello</hi>, which gives us a greater number of actors' names 
+than any of the other plays, the <hi rend="italics">Julius Caesar</hi> cast excepted, shares 
+Walmesley (Hand V) with the <hi rend="italics">Julius Caesar</hi> cast and Totterdale (Hand 
+V), as I noticed above, with <hi rend="italics">Macbeth</hi> and <hi rend="italics">Henry 
+VIII</hi>. The several new names 
+(Trefusis, Freeman, Barnes, and Charles, all in Hand V) suggest perhaps 
+that we should place <hi rend="italics">Othello</hi> after <hi rend="italics">Macbeth</hi> and 
+<hi rend="italics">Henry VIII</hi>. Unfortunately 
+nothing is known about when any of these new names 
+ 
+<!-- </page> --><!-- <page n=20> --> 
+ 
+first put in an appearance at Smock Alley, though Freeman and Barnes 
+figure in the Smock Alley cast of Wilson's <hi rend="italics">Belphegor</hi>, a production which 
+may be dated 1677-78 or 1682-83.<note target="ShaGI41">[41]</note> I would suggest 
+1680-82 as a probable date for <hi rend="italics">Othello</hi>.   
+ 
+</p><p>The <hi rend="italics">Hamlet</hi> prompt-book mentions Trefusis and possibly 
+Williams (both Hand VI). If the '&lt;W&gt;illian' who played Laertes was 
+indeed the David Williams who figures in the <hi rend="italics">Julius Caesar</hi> cast, we may 
+claim a terminal date for this prompt-book in 1679, David Williams 
+having gone to London early in that year.<note target="ShaGI42">[42]</note> Nor is the 
+appearance here of Trefusis inconsistent with a date prior to 1679; we know nothing of 
+Trefusis' whereabouts before the early 1680's.  An early limit for the 
+production is indicated by the strong influence throughout the text of 
+the 1676 actors' quarto of <hi rend="italics">Hamlet</hi>. Thus we may, though with proper 
+hesitation, suggest a date between 1676 and 1679 for the Smock Alley 
+<hi rend="italics">Hamlet</hi>.   
+ 
+</p><p>Although the Smock Alley <hi rend="italics">King Lear</hi> mentions no actors' names, 
+it is linked with the prompt-books already discussed by several prompt 
+hands and unquestionably belongs to the same general period. Since, 
+however, it gives evidence of influence from Tate's adaptation, it must 
+be dated after 1681.   
+ 
+</p><p><hi rend="italics">I Henry IV</hi>, of which only a fragment remains, must 
+certainly have been produced at Smock Alley some years before 1685, at 
+which date Baker, who played Falstaff, was well received on the London 
+stage for his performance in that role. The only name mentioned in the 
+surviving half-leaf is that of Longmore. It occurs twice: once as 
+'Longmo' and once as '&lt;&gt;more' in a hand which I have called Hand II. 
+Hand II links this prompt-book with <hi rend="italics">Hamlet</hi>, <hi 
+rend="italics">Othello</hi>, <hi rend="italics">Macbeth</hi>, and <hi rend="italics">Henry 
+VIII</hi>. Clark on the evidence here of Longmore's name associates him, 
+probably correctly, with Smock Alley before 1685, although any 
+references we have to him as a Smock Alley actor date from the 1690's.<note 
+target="ShaGI43">[43]</note> 
+ 
+<!-- </page> --><!-- <page n=21> --> 
+ 
+</p><p>Using Baker's Falstaff again as an argument for dating, we may also 
+place The <hi rend="italics">Merry Wives</hi> prompt-book before 1685. Prompt hand links 
+with <hi rend="italics">Hamlet</hi>, <hi rend="italics">Othello</hi>,  
+<hi rend="italics">Macbeth</hi>, the <hi rend="italics">Julius Caesar</hi> cast, and Wilson's  
+<hi rend="italics">Belphegor</hi> 
+also support a date in the late '70's or early '80's.   
+ 
+</p><p>The Smock Alley 
+<hi rend="italics">Twelfth Night</hi> also almost certainly belongs to this same period. It 
+contains no actors' names, but it is linked with <hi rend="italics">Hamlet</hi>, <hi 
+rend="italics">Lear</hi>, and 
+<hi rend="italics">Macbeth</hi> by a single prompt hand.   
+ 
+</p><p>Three Smock Alley prompt-books remain: 
+<hi rend="italics">Comedy of Errors</hi>, <hi rend="italics">Midsummer Night's Dream</hi>, 
+and <hi rend="italics">Winter's Tale</hi>. None of 
+them is strictly speaking a prompt-book and none shows evidence of 
+actual use in the theatre. <hi rend="italics">The Winter's Tale</hi> is simply an unfinished 
+cutting (to IV.iv.442) with no markings of any kind except rough 
+circling for suggested deletions. <hi rend="italics">The Comedy of Errors</hi> and  
+<hi rend="italics">Midsummer 
+Night's Dream</hi>, although they show signs of a good deal of careful 
+preparation, by heavy cutting and rewriting, contain no calls or other 
+prompter's notes. Nor can the reviser's hand in either be associated 
+with any of the revisers' or prompters' hands in the other Smock Alley 
+prompt-books.   
+ 
+</p><p>Certain general characteristics of the Smock Alley 
+promptbooks may be noticed here. (1) The usual first step in preparing a 
+play for the stage seems to have been a rough preliminary cutting. Such 
+a step may be seen in the Smock Alley <hi rend="italics">Winter's Tale</hi>, <hi 
+rend="italics">Midsummer Night's 
+Dream</hi>, and <hi rend="italics">Comedy of Errors</hi>, none of which, at least in their 
+present form, ever reached production; the remains of this initial cutting are 
+also clearly marked in the Smock Alley <hi rend="italics">Hamlet</hi>, and probably in  
+<hi rend="italics">Macbeth</hi>. 
+But even in this initial step differences in approach must be pointed 
+out. The reviser who worked on <hi rend="italics">Winter's Tale</hi> did nothing except circle 
+passages for deletion (as did the first reviser, I believe, of <hi rend="italics">Hamlet</hi>); 
+the reviser of <hi rend="italics">Comedy of Errors</hi>, and particularly the reviser of 
+<hi rend="italics">Midsummer Night's Dream</hi>, went much further, not only marking cuts but 
+adding new lines or rewriting speeches, and, in the case of <hi rend="italics">Midsummer 
+Night's Dream</hi>, including scene settings. (2) The 
+ 
+<!-- </page> --><!-- <page n=22> --> 
+ 
+order of events after the initial cutting of the play is difficult to 
+determine. In some cases, the initial cutting was subjected to a 
+thorough revision (as in <hi rend="italics">Hamlet</hi> and probably  
+<hi rend="italics">Macbeth</hi>). One hand usually seems to be responsible for the advance calls; 
+another hand for the 
+indication of scene settings (though in <hi rend="italics">King Lear</hi> and  
+<hi rend="italics">Merry Wives</hi> the 
+same hand is responsible for both). The calls themselves are regularly 
+anticipative, though at no set number of lines in advance. They are, 
+moreover, by character name, not as in the 'Nursery' <hi rend="italics">Comedy of Errors</hi>, 
+for example, by actor's name. Where actors' names occur in the Smock 
+Alley prompt-books they are always associated with the character name 
+and they appear only in very minor roles, probably where some confusion 
+might arise from doubling. No calls are made at the beginning of an act. 
+(3) Advance calls for the act break ('Act ready') occur regularly, and 
+in <hi rend="italics">Othello</hi> the prompter's note 'ring' is used at the end of the act to 
+indicate the point at which the music should begin. (4) The symbol <figure></figure> 
+to indicate 'whistle for a change of scene' appears only in <hi rend="italics">Othello</hi> 
+(I.iii; II.i, iv; IV.i; V.ii) and in the <hi rend="italics">I Henry IV</hi> fragment 
+(II.ii).<note target="ShaGI44">[44]</note> 
+The Smock Alley <hi rend="italics">Hamlet</hi> warns of a change of scene by an advance call 
+'scean' about ten or twelve lines before a change is necessary. (5) 
+Point of entry is marked in three of the prompt-books by a slanted and 
+crossed line usually in the margin (<hi rend="italics">Hamlet</hi>, <hi 
+rend="italics">Othello</hi>, <hi rend="italics">I Henry IV</hi>); the 
+same symbol is also used in the 'Nursery' <hi rend="italics">Comedy of Errors</hi>, the King's 
+Company Sisters, and the unassigned <hi rend="italics">Twelfth Night</hi> (mentioned in Group 
+IV above). The Shakespearean prompt-books do not use indications of the 
+exact point from which an actor enters, though such indications ('E.L.' = East Lower; 
+'W. up.' =West Upper; 'W.L.'=West Lower; 'E upp'= East Upper) occur regularly in the contemporary Smock  
+Alley <hi rend="italics">Belphegor</hi> MS 
+prompt-book.<note target="ShaGI45">[45]</note>  (6)  Calls for special properties or sound 
+effects are usually in a hand (or hands) other than those responsible 
+ 
+<!-- </page> --><!-- <page n=23> --> 
+ 
+for the scene notations and character calls. The same is true 
+of the sporadic appearance of actors' names; except in <hi rend="italics">Henry VIII</hi>, they 
+are in a different hand from that appearing in the character call to 
+which the name is attached.   
+ 
+</p><p>One of the most interesting aspects of the 
+Smock Alley prompt-books is the record they a: ford of the scenic 
+resources of this company during the 1670's and early '80's. Particular 
+aspects of the scenery will be discussed in the separate introductions 
+to each play, but it will be useful here to give a complete list of the 
+scenes.<note target="ShaGI46">[46]</note></p> 
+ 
+<list> 
+ 
+<item>'Anti-chamber', <hi rend="italics">Othello</hi>, IV.ii; ? <hi rend="italics">I Henry 
+IV</hi>, II.iii</item> 
+ 
+<item>'the baudy house', <hi rend="italics">Midsummer Night's Dream</hi>, I.ii</item> 
+ 
+<item>'bed chamber', <hi rend="italics">Hamlet</hi>, II.i;  <hi rend="italics">Othello</hi>, 
+V.ii</item> 
+ 
+<item>'Castle', <hi rend="italics">Hamlet</hi>, I.i, I.iv, IV.vi; <hi rend="italics">Macbeth</hi>, 
+V.v; Othello, II.i, V.i</item> 
+ 
+<item>'Caue', <hi rend="italics">Macbeth</hi>, IV.i</item> 
+ 
+<item>'Chamber', <hi rend="italics">Hamlet</hi>, I.iii, II.i, III.iv, IV.ii, IV.v;  
+<hi rend="italics">Lear</hi>, 
+II.i, IV.v, V.vii; <hi rend="italics">Macbeth</hi>, (III.iv); <hi rend="italics">Merry Wives</hi>,  
+III.iii, III.iv; <hi rend="italics">Othello</hi>, III.iv</item> 
+ 
+<item>'Chamber without y<hi rend="sup">e</hi> Bed', <hi rend="italics">Merry Wives</hi>, 
+I.iv</item> 
+ 
+<item>'Church', <hi rend="italics">Hamlet</hi>, V.i.240</item> 
+ 
+<item>'Court', Hamlet, I.ii, II.ii, IV.i, IV.iii, I' '.vii, (V.ii.236); <hi rend="italics">Lear</hi>, I.i, 
+II.ii, III.vii; <hi rend="italics">Macbeth</hi>, 
+I.ii, I.iv, 1 vi, III.i, III.iv, V.i;  <hi rend="italics">Othello</hi>, (IV.i);  
+<hi rend="italics">Twelfth Night</hi>, I.iii, I iv, I.ii, III.i, III.iv, IV.ii, V.i</item> 
+ 
+<item>'Forrest', <hi rend="italics">I Henry IV</hi>, (II.ii);  <hi rend="italics">Midsummer 
+Night's Dream</hi>, III.i, III.ii.345, IV.i, (IV.i.106)</item> 
+ 
+<item>'Garden', <hi rend="italics">Macbeth</hi>, I.v, IV.ii</item> 
+ 
+<item>'Great Forrest', <hi rend="italics">Merry Wives</hi>, V.ii</item> 
+ 
+<item>'Groue', <hi rend="italics">Lear</hi>, III.i, IV.i, IV.vi, V.i;  
+<hi rend="italics">Macbeth</hi>, III.iii, V.iv; <hi rend="italics">Merry Wives</hi>, II.iii;  
+<hi rend="italics">Midsummer Night's Dream</hi>, (III.i.206)</item> 
+ 
+<item>'The little wood', <hi rend="italics">Midsummer Night's Dream</hi>, II.ii.34</item> 
+ 
+<item>'new scaen', <hi rend="italics">Hamlet</hi>, IV.ii, V.ii (probably refers to 
+change of scene)</item> 
+ 
+<item>'new Grove', Midsummer Night's Dream, II.i, (III.i)</item> 
+ 
+<item>'Pallace', <hi rend="italics">Midsummer Night's Dream</hi>, I i;  
+<hi rend="italics">Othello</hi>, IV.i</item> 
+ 
+<item>'Presence', <hi rend="italics">Othello</hi>, I.iii, (IV.ii); <hi rend="italics">Twelfth 
+Night</hi>, I.i</item> 
+ 
+<item>'Rock', <hi rend="italics">Macbeth</hi>, I.i, I.iii, II.iv, III.v, IV.i</item> 
+ 
+<!-- </page> --><!-- <page n=24> --> 
+ 
+<item>'y<hi rend="sup">e</hi> Shipps', <hi rend="italics">Othello</hi>, II.i</item> 
+ 
+<item>'Tauern', <hi rend="italics">Merry Wives</hi>, I.iii, II.ii, III.v, V.i</item> 
+ 
+<item>'Towne', <hi rend="italics">Hamlet</hi>, V.i, (V.ii); <hi rend="italics">Macbeth</hi>, 
+(II.iv), IV.iii, V.ii; 
+<hi rend="italics">Merry Wives</hi>, I.i, II.i, III.i, III.ii; <hi rend="italics">Othello</hi>, I.i;  
+<hi rend="italics">Twelfth Night</hi>, I.ii, 
+II.i, IV.i (also <hi rend="italics">Belphegor</hi>, III.iv)</item> 
+ 
+<item>'Wood', <hi rend="italics">I Henry IV</hi>, II.ii</item> 
+ 
+<item>'Worst Chamber', <hi rend="italics">Merry Wives</hi>,  
+(I.iii)<note target="ShaGI47">[47]</note></item> 
+ 
+</list>  
+ 
+<p>A full account of each of the Smock 
+Alley prompt-books will be given in the separate introduction to each 
+play.   
+ 
+</p><p><hi rend="italics">Group IV:</hi> Each of the five plays in this group offers special 
+problems of provenience, dating, etc., and will be dealt with in the 
+separate introductions.</p> 
+ 
+</div0>
+<div0 type="notes"> 
+<head>Footnotes</head> 
+
+<note id="ShaGI1">1. There is passing comment in <hi rend="italics">Shakespeare 
+Jahrbuch</hi> (1933), LXIX, 188, and the article as a whole, with 
+no reference to the prompt-book material, is listed in <hi rend="italics">SP</hi> (1934), XXXI, 277. 
+</note> 
+ 
+<note id="ShaGI2">2. L. F. Casson, "Notes on a Shakespearean First Folio in Padua," 
+<hi rend="italics">MLN</hi> (1936), LI, 417-423.</note> 
+ 
+<note id="ShaGI3">3. <hi rend="italics">Scotsman</hi>, 11 July 1895, p. 10.</note> 
+ 
+<note id="ShaGI4">4. Casson (p. 417) notes that the backstrip is recent. The boards, 
+however, are original and contain on their inner sides a waste 
+sheet (sig. A) of John Speed's <hi rend="italics">The Genealogies 
+Recorded</hi> (?undated, in 12<hi rend="sup">o</hi>) used as a 
+pastedown or binding reinforcement.</note> 
+ 
+<note id="ShaGI5">5. The 'Occasional Correspondent' in the  
+<hi rend="italics">Scotsman</hi> reads  
+the words as 'In capsa ad L&aelig;ons,' though he translates 
+correctly. The error is probably a newspaper garble.</note> 
+ 
+<note id="ShaGI6">6. Compare the theatre copies of Shirley's  
+<hi rend="italics">The Sisters</hi> (discussed by Montague Summers,  
+<hi rend="italics">Essays in Peto</hi> [1928], pp. 103-110), Cartwright's 
+<hi rend="italics">The Lady-Errant</hi> and <hi rend="italics">The 
+Ordinary</hi> (discussed, with complete collation of all changes, 
+deletions, directions, etc., in my <hi rend="italics">Plays and Poems of 
+William Cartwright</hi> [1951], pp. 85-86, 260-262), Marmion's  
+<hi rend="italics">Fine Companion</hi> (British Museum, 82.c.25[2]), 
+Wilson's <hi rend="italics">The Cheats</hi> (MS in Worcester College, 
+Oxford; ed. M. C. Nahm, 1935), <hi rend="italics">Belphegor</hi> (MS in 
+Folger Shakespeare Library), Fletcher's <hi rend="italics">The 
+Night-Walker</hi> (Folger Shakespeare Library), and Dryden's  
+<hi rend="italics">Tyrannick Love</hi> (Folger Shakespeare Library).  Of 
+these all but <hi rend="italics">The Cheats</hi> and  
+<hi rend="italics">The Night-Walker</hi> indicate scene settings;  
+<hi rend="italics">The Cheats</hi> is early enough (1662) to have been acted 
+without change of scene, and its status as a prompt-book is open to 
+question; <hi rend="italics">The Night-Walker</hi> does not show 
+evidence of actual prompt use. Of the fourteen Restoration Shakespeare 
+promptbooks, only five are without scene settings  
+(<hi rend="italics">Comedy of Errors</hi> and <hi rend="italics">Midsummer 
+Night's Dream</hi>, both 'Nursery' plays; <hi rend="italics">Comedy of 
+Errors</hi> and <hi rend="italics">Henry VIII</hi>, both Smock Alley). 
+Neither <hi rend="italics">Comedy of Errors</hi> (Smock Alley) nor  
+<hi rend="italics">Midsummer Night's Dream</hi> ('Nursery') ever reached 
+production. The fifth is the prompt-book of <hi rend="italics">Twelfth 
+Night</hi> of uncertain provenience and date.</note> 
+ 
+<note id="ShaGI7">7. "Early Prompt-Books," <hi rend="italics">Pre-Restoration Stage 
+Studies</hi> (1927), p.  406. The partially completed prompt-book 
+of <hi rend="italics">The Winter's Tale</hi> employs anticipatory 
+prompt-calls, but it is in a quite different hand.</note> 
+ 
+<note id="ShaGI8">8. See W. W. Greg's discussion of the prompt-books of 
+<hi rend="italics">The Welsh Embassador</hi> (<hi rend="italics">c.</hi> 
+1623) and <hi rend="italics">Believe as you List</hi> (1631) in  
+<hi rend="italics">Elizabethan Dramatic Documents</hi> (1931), pp. 217-219, 
+279-282, 293-300. The several independent additions of 'fflurrish' by 
+the prompter-reviser in the Padua <hi rend="italics">Winter's Tale</hi> 
+may perhaps be taken as evidence of a pre-Restoration date. The point 
+will be discussed in the Introduction to that play.</note> 
+ 
+<note id="ShaGI9">9. The same hand alters a speech-prefix in <hi 
+rend="italics">Twelfth Night</hi>, p. 256.</note> 
+ 
+<note id="ShaGI10">10. The evidence for this dating may be found in S. B. Hemingway's 
+Variorum <hi rend="italics">I Henry IV</hi> (1936), p. 497.</note> 
+ 
+<note id="ShaGI11">11. Professor Hemingway says that nothing further is known of 
+these men (Variorum, p. 497), but I suspect that 'Jhon Carlile' is 
+the same as 'Johannes Carlell', second son of Jonathan Carlell of 
+Barham in Kent (see <hi rend="italics">The Visitation of 
+Kent, Taken in the Years 1619-1621</hi>, 
+by John Philipot, ed. Robert Hevenden [1898], Harleian Society, 
+XLII, 30-31), and that 'Mr. Kemp' is the same 'Edw:  Kempe' who 
+addressed a letter to Sir Edward Dering '15<hi rend="sup">th</hi> 
+Dec: 1640' (British Museum, Add. MS 26,785, fols. 25-26).</note> 
+ 
+<note id="ShaGI12">12. From an unpublished letter dated '24<hi rend="sup">th</hi> of 
+June 1640' (British Museum, Add. MS 34,195, article 20).</note> 
+ 
+<note id="ShaGI13">13. P. 41.'Mr H&lt;e&gt;w&lt;it&gt;' may, of course, be the same 
+person as 'E H'.</note> 
+ 
+<note id="ShaGI14">14. P. 421.</note> 
+ 
+<note id="ShaGI15">15. See an unpublished letter dated by Dering '2. Octob. 1640' and 
+signed 'Geo: Haule' (British Museum, Add. MS 26,785, fols. 9-10). 
+The name also occurs in an index list in Dering's 'pocket-book' 
+for 1637 (British Museum, Add. MS 47,787) with the spelling 
+'Hawle'.</note> 
+ 
+<note id="ShaGI16">16. British Museum, Add. MS 47,787. The list, which is intended to 
+serve as an index to the volume, has obviously been copied from an 
+earlier 'pocket-book' containing names which Dering expected to 
+figure in the coming year's business. Only a comparatively small 
+number actually achieved a page reference, though the references 
+are by no means exhaustive.</note> 
+ 
+<note id="ShaGI17">17. See my article, "The 'Dering MS' of Shakespeare's  
+<hi rend="italics">Henry IV</hi> and Sir Edward Dering,"  
+<hi rend="italics">JEGP</hi> (1955), LIV, 498 503.</note> 
+ 
+<note id="ShaGI18">     
+18. Quoted from an entry in Dering's household-book for 1619 by J.  
+O. Halliwell (<hi rend="italics">Works of William 
+Shakespeare</hi>, IX [1859], 253)</note> 
+ 
+<note id="ShaGI19">19. Pocket-book of Dering's dated '25 Martij. 1637.' 
+(British Museum, Add.  MS 47,787, pp. 5-9). On p. [112] at the end of a 
+list of things recently bought, mostly 'Books', we read 'att 
+Charles--122 bookes / att M<hi rend="sup">rs</hi> Taylers--59 bookes / 
+beside pap<hi rend="italics">er</hi> and playbookes.' I recognize, of 
+course, the danger of identification through names and initials. On the 
+same basis some case might be made out for the group of Cambridge 
+students who performed Peter Hausted's <hi rend="italics">The Rival 
+Friends</hi> in 1631/32 (see W.  W. Greg, <hi rend="italics">A 
+Bibliography of the English Printed Drama to the Restoration</hi>, III 
+[1957], 1274-75) or for the <hi rend="italics">Julius Caesar</hi> cast 
+at the Theatre Royal in 1681 (<hi rend="italics">ibid.</hi>, pp. 
+1268-69).  But neither, I believe, fits all the requirements as well as 
+the suggested Dering association.</note> 
+ 
+<note id="ShaGI20">20. All were originally parts of a single copy of the 
+Third Folio, but are bound separately (by Halliwell-Phillipps). The 
+inserted manuscript leaves in <hi rend="italics">Merry Wives</hi> are 
+based on the text of the Second Folio. J. G. McManaway ("Additional 
+Prompt-Books of Shakespeare from the Smock Alley Theatre,"  
+<hi rend="italics">MLR</hi> [1950], XLV, 64) notes that the original volume 
+came from the library of John Dent, whose books were sold in 
+1827.</note> 
+ 
+<note id="ShaGI21">21.  R. C. Bald (<hi rend="italics">PMLA</hi> 
+[1941], LVI, 369) in his important article on the Smock Alley 
+prompt-books notes that they were "acquired by Mr.  Folger from a 
+variety of sources: the majority were bought from a bookseller in 
+Munich, one was purchased in London, and another came with the 
+Warwick Castle collection of Shakespeariana."</note> 
+ 
+<note id="ShaGI22">22. Bald, p. 370; McManaway, p. 64.</note> 
+ 
+<note id="ShaGI23">23. Bald, p. 370. A personal search at the Shakespeare Memorial Library 
+in Birmingham has placed the loss of these prompt-books beyond doubt.  Also 
+lost in the same fire was an <hi rend="italics">Othello</hi> (1630 quarto) 
+which is described in the <hi rend="italics">Catalogue of the Shakespeare 
+Memorial Library</hi>, Birmingham (ed.  J. 0. Mullins [1873], First Part, 
+Second Section, No. 2498) as follows: "This copy exhibits an immense 
+number of changed and suppressed passages, run through with a pen. The 
+whole piece is overturned, <hi rend="italics">whole scenes</hi> and  
+<hi rend="italics">dramatic person&aelig;</hi> being cut out.  Judging from 
+the ink, it would appear that these incon ceivable mutilations, etc. have 
+been made in the XVIIth Century, probably for the stage, by ignorant 
+players, who have not even hesitated to substitute their own verses for 
+those of Shakespeare" [Extract from the sale catalogue of  
+<hi rend="italics">Libri Collection</hi>, Reserved Portion, 1862].  
+Execrations upon Vulcan!</note> 
+ 
+<note id="ShaGI24">24. W. S. Clarke, <hi rend="italics">The Early Irish Stage</hi> (1955), 
+pp. 74-75. The actor John Richards left Dublin in the summer of 1676 and 
+acted in London until the union of the companies in 1682. Jeremiah Lisle 
+died in July, 1681 (Allen Stevenson, "The Case of the Decapitated Cast," 
+<hi rend="italics">SQ</hi> [1955], VI, 285), and Henry Smith died in 
+August, 1682 (Bald, pp. 371-372; Clark, p. 75).</note> 
+ 
+<note id="ShaGI25">25. 'M<hi rend="italics">r</hi> Richards' has been crossed through. The 
+'M<hi rend="sup">r</hi>' has been inserted above the line in the case of 
+Walmesley, Williams, Lisle, and Richards.</note> 
+ 
+<note id="ShaGI26">26. Such scant information as we possess about these 
+actors has been brought together by Bald, p. 372; Clark, pp. 72-77; Stevenson, pp. 
+275-296.</note> 
+ 
+<note id="ShaGI27">27. The appearance of Smith helps to date at least 
+one production of these two plays before 2 August 1682, by which time 
+Smith was dead (Bald, p.  372; Clark, p. 75).</note> 
+ 
+<note id="ShaGI28">28. Clark (p. 209) gives 'c. 1676' for Williams as an 
+actor at Smock Alley.</note> 
+ 
+<note id="ShaGI29">29. Stevenson (p. 289) lists four reconstructed actors' names for 
+<hi rend="italics">The Merry Wives</hi> (I.i.1 10; 
+sig. D2<hi rend="sup">v</hi>); close examination, however, reveals these 
+to be part of a canceled call for 
+Falstaff, Bardolph, Nym, and Pistol. Clark (p. 77) also mentions "Kaine, a 
+gentleman in Henry VIII" as well as "Mr. Kaine, the Old Lady 
+in <hi rend="italics">Henry VIII</hi>." 'Mr. Kaine' seems to be the 
+result of Bald's inadvertent reference to the 'Kaine' 
+in <hi rend="italics">Henry VIII</hi> as a man (p. 373). Both Clark (p. 
+76) and Stevenson (p. 289) list Smeton as 
+appearing in <hi rend="italics">Macbeth</hi>; I can find no such name in 
+the promptbook.</note> 
+ 
+<note id="ShaGI30">30. P. 378. The Julius Caesar published in Dublin in 1750 "As it is 
+acted at the Theatre-Royal in Smock-Alley" does 
+not contain this couplet or the other added lines found in the 1719 edition; in fact, it appears to 
+be a reprinting of the Folio text with no lines even marked for 
+cutting.</note> 
+ 
+<note id="ShaGI31">31. <hi rend="italics">Shakespeare Improved</hi> (1927), p. 368.</note> 
+ 
+<note id="ShaGI32">32. In "Shakespeare <hi rend="italics">Julius Caesar</hi>--A 
+Seventeenth-Century Manuscript" (<hi rend="italics">JEPG</hi> [1942], XLI, 402) 
+I called attention to the implication of an attribution on the first page 
+of the Folger manuscript of <hi rend="italics">Julius Caesar</hi> to 
+'Dyden' [<hi rend="italics">sic</hi>], an attribution later altered to 
+Shakesp<hi rend="italics">eare</hi>'. William Van Lennep ("The Smock Alley 
+Players of Dublin," <hi rend="italics">ELH</hi> [1946], XIII, 217) states 
+categorically that the Smock Alley version was the same as that later 
+published in 1719 "as the work of Davenant and Dryden". He believes, 
+however, that D'Avenant, at leaast, could not have had any hand in it 
+since it belonged to the King's Players until after his death.</note> 
+ 
+<note id="ShaGI33">33. Singer lists <hi rend="italics">Merry Wives</hi>, 
+<hi rend="italics">Comedy of Errors</hi>, <hi rend="italics">Midsummer 
+Night's Dream</hi>, <hi rend="italics">Twelfth Night</hi>, <hi 
+rend="italics">I</hi> and <hi rend="italics">II Henry IV</hi>, <hi 
+rend="italics">Henry VIII</hi>, <hi rend="italics">Julius Caesar</hi>, 
+<hi rend="italics">Macbeth</hi>, <hi rend="italics">Hamlet</hi>, <hi 
+rend="italics">Lear</hi> and <hi rend="italics">Othello</hi>.  There is 
+no doubt that Singer is referring to the Smock Alley Third Folio since 
+he quotes enough (p. vii) from certain changes made in  
+<hi rend="italics">Macbeth</hi></note> 
+ 
+<note id="ShaGI34">34. McManaway, pp. 64-65.</note> 
+ 
+<note id="ShaGI35">35. See particularly the separate introduction to  
+<hi rend="italics">Lear</hi>.</note> 
+ 
+<note id="ShaGI36">36.  Halliwell-Phillipps did at one time possess a 
+<hi rend="italics">Measure for Measure</hi> from the Fourth Folio (1685) 
+which is described as having eighteenth-century stage directions (see 
+<hi rend="italics">A Catalogue of the Books, Manuscripts, . . . 
+Preserved in the Shakespeare Library and Museum in Henley Street</hi> 
+[1868], p. 94 [item 512]). The same volume also lists a copy of  
+<hi rend="italics">As You Like It</hi> from the Third Folio (1663), p. 94 
+(item 517), "with some old alterations in manuscript", which may 
+originally have belonged to the Smock Alley volume, though it is not 
+described as coming from the Dent copy. I have found neither of these 
+copies.</note> 
+ 
+<note id="ShaGI37">37. I am extremely conscious of the pitfalls of trying to identify and 
+correlate several hands, particularly in this kind of document. The list 
+appears to be much more definitive than I feel.  For a discussion of (a) 
+the particular function of each hand within a particular prompt-book and 
+(b)  other hands appearing in a single promptbook, see the separate 
+introduction to each play.</note> 
+ 
+<note id="ShaGI38">38. Clark (p. 74) leaves a blank below Lisle followed 
+by '= the Soothsayer'; this might be interpreted to mean that he 
+supposes Lisle also played the Soothsayer. The character of the 
+Soothsayer, however, is not even included in the Smock Alley  
+<hi rend="italics">Julius Caesar</hi> cast.</note> 
+ 
+<note id="ShaGI39">39. W. Van Lennep, 217; 
+Stevenson, p. 285; Clark, p. 75. Dr. Stevenson has been most helpful in 
+correspondence with me on this very difficult matter of dating and I 
+should like to take this opportunity to thank him.</note> 
+ 
+<note id="ShaGI40">40.  Clark, p. 76.</note> 
+ 
+<note id="ShaGI41">41. Clark (pp. 80-83) argues for the 1677-78 date; Stevenson (pp. 
+290-293) 
+considers 1682-83 in some respects a more satisfactory date, though 
+admitting the possibility of the earlier period.</note> 
+ 
+<note id="ShaGI42">42. Clark, p. 77.</note> 
+ 
+<note id="ShaGI43">43. Clark, p. 76.</note> 
+ 
+<note id="ShaGI44">44. See W. S. Clark, "Restoration Prompt Notes and Stage Practices," 
+<hi rend="italics">MLN</hi> (1936), LI, 228-229.</note> 
+ 
+<note id="ShaGI45">45. As Van Lennep (p. 221) points out, this means that there were "two 
+proscenium doors on either side of the stage", as in the contemporary 
+London theatre.</note> 
+ 
+<note id="ShaGI46">46. See similar, but incomplete lists, in Bald, pp. 375-376 and Clark, 
+p. 74. Other sets used in the Smock Alley theatre at this time may be found 
+in the Smock Alley prompt-book (manuscript) of Wilson's <hi 
+rend="italics">Belphegor</hi> (<hi rend="italics">c.</hi> 1677 or 1682) in 
+the Folger Shakespeare Library. Canceled scenes are distinguished by 
+parentheses.</note> 
+ 
+<note id="ShaGI47">47. G. W. Stone, Jr.  ("Garrick's Handling of <hi rend="italics">Macbeth</hi>,"  
+<hi rend="italics">SP</hi> [1941], XXXVIII, 
+626)  notices a scene described as 'Best Chambe<hi rend="sup">r</hi>' in a 
+late ?eighteenth-century prompt-book of <hi rend="italics">Macbeth</hi> in 
+the Folger Shakespeare Library.</note> 
+ 
+</div0> 
+</body> 
+<!-- </page> --> 
+</text> 
+</TEI.2> 
+ 
+ 

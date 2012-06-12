@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (Smock Alley A
+          Midsummer Night's Dream) [a machine-readable transcription] </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 7 (Smock Alley A
+          Midsummer Night's Dream) [a machine-readable transcription] Shakespeare, William Creation of machine-readable version: Karen Wikander, Electronic Text Center Creation of digital images: Electronic Text Center Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. ca. 190 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographical Society, ShaMidP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1997 Shakespearean prompt-books of the seventeenth century The electronic text contains the Introduction and Collations. The prompt-book is
+          rendered as page images. Images of the manuscript have been included from volume 7, part 2. Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream) William Shakespeare Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype facsimile. University Press of Virginia Charlottesville, Virginia 1989 Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.7 Shakespearean prompt-books of the seventeenth century Published for the Bibliographical Society of the University of Virginia  Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a word
+          has been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general use, and
+          thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in establishing
+          analytical groupings. Library of Congress Subject Headings  1960-1989 English drama; prose; non-fiction LCSH 24-bit color; 400 dpi  July 1997 corrector Catherine Tousignant, Electronic Text Center Corrected errors in transcription; fixed broken or missing images. March 1997 corrector Karen Wikander, Electronic Text Center Added TEI header and tags </field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e140</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (Smock Alley A
+          Midsummer Night's Dream) [a machine-readable transcription] </field><field name="fulltext_t"> SHAKESPEAREAN PROMPT-BOOKS of the SEVENTEENTH CENTURY  Vol. VII: Part i Introduction to the Smock AlleyA Midsummer Night's Dream Collations  Edited by G. Blakemore Evans  A Publication of The Bibliographical Society of the University of
+          Virginia University Press of Virginia, Charlottesville 1989 THE SMOCK ALLEY
+          A MIDSUMMER NIGHT'S DREAM PROMPT-BOOK was composed in Linotype Baskerville and Monotype
+          Goudy Old Style by Heritage Printers, Charlotte, N. C. It was printed by Science Press,
+          Ephrata, Pa. and bound by Hoster Bindery, Hatboro, Pa. THE UNIVERSITY PRESS OF
+          VIRGINIA Copyright 1989 by the Rector and Visitors of the University of Virginia
+          First published 1989  ContentsIntroduction to the Smock Alley A Midsummer Night's Dream . . . 1Collations . . . . . . . . . . . . . . . . . . . . . . . . . . 11</field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e189</field><field name="section_s">introduction</field><field name="title_s">Introduction Smock AlleyA Midsummer Night's Dream Third Folio </field><field name="fulltext_t">Introduction Smock AlleyA Midsummer Night's Dream Third Folio  UNLIKE the other Smock Alley prompt-books already published in this series
+            (Hamlet, Macbeth, Othello), the Smock Alley A Midsummer
+            Night's Dream (entitled 'A Midsummers nights DREAM' in the Third Folio, 1664 [F3]) is not properly speaking a full-fledged prompt-book. 1 It shows no evidence of actual stage production, lacking the usual
+          advance calls for entering actors and act breaks or the occasional use of actors' names
+          for minor characters which turn up sporadically in most Smock Alley prompt-books. What we
+          have here, rather, is the first stage in the preparation of a potential
+          prompt-book—an extensive cutting of the play with unusually substantial revisions
+          and occasional additions. In contrast to the 'Nursery' Midsummer Night's Dream2 and the Smock Alley Comedy of Errors and Winter's
+            Tale,3 however, also cuttings that never reached
+          production, it does indicate scene settings throughout, except for IV.ii and V.i. The dating, even the approximate dating, of the Smock Alley revision of A Midsummer
+            Night's Dream and its relation to the  other
+          seventeenth-century Smock Alley prompt-books or revisions is complicated by several
+          factors. (1) Two revising hands may be readily distinguished: Hand I, responsible for
+          nearly all the revisions and the additions, and, presumably, for all the cutting; Hand II,
+          an intrusive mid-eighteenth-century hand, probably having no connection with the theatre,
+          which inserts occasional emendations first introduced by editors from Nicholas Rowe (1709)
+          through Thomas Hanmer (1744). 4 But, since Hand I, like Hand I in
+          the Smock Alley Comedy of Errors, appears, so far as I can judge, nowhere else in
+          the Smock Alley prompt-books or revisions, the only certain link tying this revision of
+            Midsummer Night's Dream to the Smock Alley copy of the Third Folio (before it
+          was broken up and dispersed by Halliwell-Phillipps in the nineteenth century)5 is the presence of Hand II, which also appears occasionally in
+          other Smock Alley plays (i.e., Hamlet, Lear, Twelfth Night, and
+            Merry Wives of Windsor). 6 (2) The absence of any
+          actors' names, often helpful in setting an approximate date for some of the Smock Alley
+            prompt-books,7 again isolates this revision from most of the
+          other Smock Alley materials. (3) The existence of a carefully prepared Smock Alley
+          revision of Midsummer Night's Dream, even though it never reached the stage, is
+          in itself somewhat puzzling. The Smock Alley company tended to follow the lead of the
+          London theatres in its choice of plays, and the fact that London audiences evinced an
+          almost complete lack of interest in this play 8 raises the
+          question why, or when, such a substantial and time-consuming revision was undertaken. Only
+          a single London performance of Midsummer Night's Dream is recorded for the years
+          1660-1700, a performance by the King's Company (29 September 1662) that, except for "some
+          good dancing and some handsome women," greatly displeased Samuel Pepys ("the most insipid
+          ridiculous play that ever I saw in my life"). 9 Indeed, no
+          version of Midsummer Night's Dream comparable in length and comparative fidelity
+          to the Smock Alley revision was to be performed even in the eighteenth century. Thus,
+          except for the  1662 London performance, about which we
+          have no details aside from Pepys' acid comment, only selected bits and pieces of the play
+            (The Merry Conceited Humours of Bottom the Weaver, 1661; 10The Comick Masque of Pyramus and Thisbe, 1716, by Richard Leveridge; and The
+            Fairies, 1755, by David Garrick) were performed until 1763, when Garrick and George
+          Colman produced a version that cut roughly half Shakespeare's text (including the whole of
+          Act V, except for lines 1-18) and was tricked out with 240 lines of non-Shakespearean song
+          lyrics, ten of them held over from The Fairies.11 It was an
+          immediate failure and was at once replaced by Colman's A Fairy Tale (1763), in
+          two short acts, based on the fairy characters and the 'rude mechanicals,' but again
+          without the Pyramus and Thisbe play. The Smock Alley revision, at least as we have it, cannot be earlier than 1664 since it
+          employs a copy of the Third Folio text. By that date the apparent failure of Shakespeare's
+          play on the London stage (September 1662) must surely have been known to the management of
+          Dublin's Smock Alley Theatre, which had opened its doors to the public in October of
+            1662.12 This, I think, makes a date in the 1660s at least
+          unlikely. W. S. Clark dates the Smock Alley revision, along with the other extant
+          seventeenth-century Smock Alley prompt-books, in the 1670s, 13
+          but at the time he wrote he was not aware that, like the Smock Alley Comedy of
+            Errors and Winter's Tale, it was only a preparatory revision and showed no
+          evidence of stage production or contemporary internal links with the other Smock Alley
+            plays.l4 Clark's 1670s dating cannot be ruled out,15 but there is  some, admittedly
+          slight and sporadic, evidence that may point to 1692 as a terminus a quo and
+          furnish a possible answer to the question raised in (3) above. The evidence for this date
+          grows out of what appear to be some verbal links between the revisions of Hand I and
+            The Fairy-Queen. An Opera produced at the Dorset Garden Theatre in May of 1692
+          with much fanfare and great expense.l6 As the title suggests,
+          the opera was based on Shakespeare's play, the text (published the same year) most
+          probably by Elkanah Settle, the incidental music by Henry Purcell. Shakespeare's lines are
+          heavily cut, many others substantially rewritten (see the Collations), and a strange
+          assortment of new characters, ranging from personified abstractions and pastoral figures
+          to Juno and Chinese with dancing monkeys, are introduced in four elaborately staged
+          extravaganzas of singing and dancing awkwardly inserted near the ends of Acts II through
+          V. As I have noted, these verbal links between Hand I's revisions and the text of The
+            Fairy-Queen are slight and sporadic. Of the twenty-seven possible links that I have
+          observed, only about fifteen suggest more than coincidence or a common desire to modernize
+          archaic forms. Among these fifteen, the following seem to me to be the strongest and will
+          serve to illustrate the kind and extent of the postulated connection. I.i.71, F3, 'For aye to be in shady Cloister mew'd,'; Hand I, 'Immurd For ever in
+          a shady Cloister.'; Fairy-Queen, 'To be immur'd for ever in a Cloister.'.
+          II.i.151, F3, 'Uttering such dulcet and harmonious breath,'; Hand I,
+          'Uttering such sweet and such harmonious breath,'; Fairy-Queen, 'Sing with such
+          sweet, with such Harmonious breath,'. II.i.220-221, F3, 'Your virtue
+          is my priviledge: for that / It is not night when I do see your Face.'; Hand I, 'Your
+          virtue's my protection / wth me It is not night when I behold your
+          Face.'; Fairy-Queen, 'Your Virtue is my Guard, Demetrius: / It is not
+          night when I behold that Face,'. III.ii.377, F3, 'and all things shall
+          be peace.'; Hand I, 'and all shall be at peace.'; Fairy-Queen, 'and all shall be
+          at peace.'. III.ii.428, F3, 'Now go thy way: faintnesse
+           constraineth me,'; Hand I, 'but go thy way: faintnesse
+          now forces me,'; Fairy-Queen, 'My faintness forces me to rest a while,'.
+          IV.i.122-124, Hand I, marking 117-132 for omission, here inserts a new stage direction,
+          '&lt;S&gt;ong of / &lt;hu&gt;nting / &lt;h&gt;ere'; Fairy-Queen calls for 'A
+            Composition in imitation of Hunting,' following line 143. IV.i.171-172, F3, 'Seems to me now as the remembrance of an idle gaude,'; Hand I,
+          'Seems to me now, but the remembrance of an idle toy,'; Fairy-Queen, 'And now she
+          seems but as an idle Toy,'. IV.i.184, F3, 'Egæus, I
+          will over-bear your will;'; Hand I, 'Egæus, I must over-rule in this';
+            Fairy-Queen, 'Egæus, I must over-rule your will;'. V.i.185, F3, 'No in truth sir, he should not.'; Hand I, 'No but he should not.
+          though'; Fairy-Queen, 'No, but he shou'd not.' Evidence of the kind just cited is notoriously difficult to evaluate. None of these
+          verbal links is beyond simple coincidence, but some small weight may, perhaps, be allowed
+          to the number of such links. One thing is clear. Even admitting the hypothesis of possible
+          influence, Hand I had at best only a vague recollection of the text of The
+            Fairy-Queen. Certainly there is nothing to suggest that he worked with an actual
+          copy, printed or manuscript, of Settle's opera. The case for influence is not strong. At
+          most, we must content ourselves, I think, with noting the Hand I-Settle links and allowing
+          for the possibility of some kind of interconnection. It is tempting, of course, to accept
+          Settle's influence, thus giving a date for the Smock Alley revision as 1692 or later and
+          suggesting an answer to the question of why the Smock Alley management suddenly became
+          interested in a revival of Shakespeare's play despite its earlier failure in London.
+          Tempting, but I am not fully convinced. One last point on dating. Hand I's use of a mixed Secretary-Italian script (unlike that
+          of Hand II) may probably be interpreted to indicate a seventeenth-century provenience for
+          the Smock Alley revision. He nearly always employs Secretary 'e', 'c', 'r', and 'd' and
+          occasionally Secretary 'h', 's', 'ff' (for upper case 'F'), and, once (V.i.208-215) a
+          tilde over 'o' for an '-ion' termination ('imaginatōn'). He also sometimes uses 'y
+            e' for 'the' (not a helpful indicator) and abbreviations like 'yor', 'Or', 'yt', 'yn', and 'wth'. The general use of Secretary forms
+          was on the wane after about 1650, and Hand I's fairly consistent adherence to them
+          suggests that he had been educated in the earlier part of the century when a mixed
+          Secretary-Italian hand was commonplace.  &lt;/page&gt;   &lt;page n=6&gt;  Hand I's handling of the text shows him to have been an intelligent reviser. Although, in
+          an attempt to shorten an overlong play, he cuts quite substantially (in all about 600
+          lines, a figure that includes 34 half-lines, but does not include lines cut but replaced
+          by alternative lines),17 the play as a whole emerges basically
+          intact. Nothing comparable to the attempt to excise the role of Titania found in the
+          probably earlier 'Nursery' cutting of the play occurs here. 18
+          The low comedy scenes in which Bottom figures, including those with Titania, remain
+          essentially untouched, though some of the Court commentary on the Pyramus and Thisbe play
+          in V.i has been dropped. Of the some 96 cuts in other parts of the play, only 16 are of
+          ten lines or more: I.i.135-l49, 230-245; II.i.48-57, 88-111; II.ii.16-26, 41-65;
+          III.ii.64-87, 122-148 (retaining 136-137), 193-216, 220-235, 256-343; IV.i.53-68, 117-132;
+          V.i.7-22, 85-105, 402-422. As about half of these longer deletions indicate, Hand I's
+          cutting-edge falls most heavily (some 228 lines, which do not include numerous shorter
+          cuts in related passages) on the Helena / Hermia and Demetrius / Lysander love
+          entanglements and squabbles. These scenes admittedly lend themselves to substantial
+          cutting and suffered a somewhat similar fate in the adaptations by Settle, Garrick, and
+          Garrick-Colman. Only one of Hand I's cuts, Theseus' lines on 'The Lunatick, the Lover, and
+          the Poet' (V.i.7-22), would, I believe, outrage modern sensibilities, but even here we may
+          remind ourselves that some of these famous lines were probably an afterthought on
+          Shakespeare's part. In addition to marking passages for cutting, Hand I, more frequently than any other
+          reviser in the Smock Alley promptbooks, rewrites many lines and, particularly in some of
+          the more substantial cuts, substitutes one or more reworked lines, usually drawing their
+          wording at least in part from Shakespeare. Occasionally, he adds new dialogue of his own
+          and introduces stage directions to indicate stage business or action. In all these
+          respects, Hand I's attitude toward the text reflects, to be sure in a modified form,
+          rather the work of an adaptor, such as Dryden, Otway, Tate, or Settle, than the kinds of
+          revision usually associated with the ordinary theatre reviser. In most cases it is not difficult to understand why Hand I, like his contemporaries
+          generally, felt it necessary to meddle with 
+          Shakespeare's language. Although he only sporadically gets rid of comparatively archaic
+          forms ('does' for 'doth', 'has' for 'hath', 'ever' for 'aye', 'yes' for 'yea'
+          (consistently), 'hates' for 'hateth', 'you' for 'thou'), he has a sharp eye for 'hard' or
+          outmoded words or possibly difficult phrasing. Thus, for example, 'gaude' becomes 'knack'
+          and 'toy'; 'Belike', 'Perhaps'; 'Beteem', 'afford'; 'Steep', 'part'; 'gleek', 'be witty';
+          'misprision', 'mistake'; 'does square', 'contest'; 'coy', 'kiss'; 'wot', 'know';
+          'Recorder', 'flagolet' (first citation in OED 1659); 'abridgement', 'diversion'.
+          For similar reasons 'It stands as an Edict in Destiny' (I.i.151) is changed to 'Sure 'tis
+            ye inevitable law of fate'; 'passing fell and wrath' (II.i.20) to
+          'much incensd with'; 'Near this lack-love, this kill-curtesie' (II.ii.77) to 'near the man
+          / loves Enemy'; 'new in amity' (IV.i.92) to 'fresh agen in love'; 'in fancy followed me.'
+          (IV.i.168) to 'followed me. wth passion'; and 'with parted eye'
+          (IV.i.194) to 'scarce awake'. Three somewhat more substantial passages will illustrate Hand I's revisional technique
+          further: (1)Before the time I did Lysander see,Seem'd Athens like a Paradise to me.O then, what graces in my Love do dwell,That he hath turn'd a heaven into Hell?(F3, I.i.204-207) Compare Hand I's neat couplet paraphrase: for since I cannot wth Lysander be,at Athens, tis a perfect hell to me (2)Where Demetrius? oh how fit a wordIs that vile name, to perish on my sword?Hel. Do not say so Lysander, say not so:What though he love your Hermia? Lord, what though?Yet Hermia still loves you, then be content,(F3, II.ii.106-110) Compare Hand I: Where is Demetrius? ytdisdainful Ldtis iust yt he shoud perish by my sword?Hel. Now you're unkind Lysander, say not so:What though he love your Hermia? what though?while Hermia still is yours, be you content,  &lt;/page&gt;   &lt;page n=8&gt;  (3)Why should you think that I should wooe in scorn?Scorn and derision never comes in teares:Look when I vow I weep, and vowes so born,In their nativity all truth appears,(F3,III.ii.122-125) Compare Hand I: Why do you think I follow you in scorn?Scorn cannot well be masqud in sighs &amp; teares:See while I vow I weep, and vowes so born,like truth her selfe in her first dresse appeares Here, as often elsewhere, Hand I is careful to preserve the original rhymes, and
+          sometimes he introduces new rhymes in order to retain the rhymed verse pattern (e.g.,see
+          (1) and (2) above end II.ii.77, 86, 88-89, 144; III.i.169; III.ii.372-373,409-410). Only rarely does Hand I venture his talents much beyond rephrasing Shakespeare's lines.
+          In a few places, however, he adds new dialogue and stage directions, emends, or calls for
+          extra stage business.19 Six of these additions are worth a brief
+          comment. (1) I.ii.109: Hand I uniquely calls for a dance by the 'rude mechanicals' by
+          inserting '&lt;bu&gt;t let us / &lt;reh&gt;earse Or / &lt;dan&gt;ce' at the end of
+          Quince's admonitory lines. (2) III.i.165s.d.-167: in a series of changes and deletions
+          (not necessary to repeat here; see Collations), Hand I gives Titania two new lines (the
+          first later deleted) and furnishes Bottom with an original aside: Bot: I am afraid [written above a deleted Whoknows but] she may have a mind to ravish me whenshe has discoverd &lt;my&gt; parts why shoud I bea skittish nice Asse (3) III.ii.256-343: replacing the longest of his cuts, Hand I concludes the scene with a
+          speech for Hermia of some seven or eight original lines, so badly shaved in binding that
+          they are unfortunately only fragmentarily legible (see Collations), except for a final
+          workman-like couplet: &lt;?or&gt; in some / &lt;?plac&gt;e I may / &lt;for&gt;gotten fall/&lt;of a&gt;ll forsaken / &lt;?and fo&gt;rsaking all  &lt;/page&gt;   &lt;page n=9&gt;  (4) V.i.182 s.d.: Hand I here introduces new stage business when Pyramus says 'Curst be
+          thy stones for thus deceiving me.' by adding the stage direction '(kicks wall' and
+          underlines the action by altering Theseus' 'should curse again' (183) to 'should kick
+          again'. (5) V.i.220-221: Hand I here first attempts the emendation of a recognized crux.
+          In common with all seventeenth century texts, F3 reads 'Here comes two
+          noble beasts, in a Man and a Lion.', which Hand I emends to 'Here comes two noble beasts,
+          a Man and a Lion. in one'. His reading, although it ignores Moonshine's entrance with
+          Lion, is not impossible. Several other emendations have been proposed (see the Cambridge
+          collations), but modern texts, surely correctly, read with Rowe (1714 ed.), who switched
+          the F comma to follow 'in'. And (6) V.i.260: following Lysander's 'Proceed Moon.', Hand I
+          inserts a new speech for Theseus, 'Duke. Calfe', a play on 'moon-calf' and suggested
+          perhaps by the term as applied five times to Caliban in Shakespeare's The Tempest
+          or, more probably, in the Davenant-Dryden-Shadwell adaptations of The Tempest
+          (1667, 1674). In setting up his act divisions, Hand I eventually accepted those as indicated in F3, except for Act IV, which he begins at III.ii.345, a change probably
+          made to avoid the awkwardness for Restoration staging of following the F direction
+            ('They sleep all the Act.'), which appears, in F1-4, at the
+          end of Act III, a direction he deletes, substituting 'Sleepers lie still'. Before arriving
+          at his final arrangement, however, Hand I had tried out beginning Act III at both III.i.
+          167 and at what in modern texts is distinguished as III.ii, and Act IV at III.ii.122
+          before he eventually settled for beginning it at III.ii.345. In addition to two scene settings that occur elsewhere in the Smock Alley prompt-books
+          ('Scen A Palace' I.i; 'Scen is ye fforrest' III.i; 'fforrest / Scen'
+          III.ii.344 s.d.; 'fforrest' IV.i and IV.i.107 s.d.),20 Hand I
+          calls for three scenes that appear only in A Midsummer Night's Dream ('Scen the
+          baudy house' I.ii; 'Scen is the New Grove' II.i, or 'Grove / agen' III.ii [the last
+          notation deleted]; 'Scene / is / The little / wood' II.ii.34 s.d.). No scene settings are
+          indicated for IV.ii and V.i. In the case of IV.ii, it seems likely that Hand I, like
+          Settle in The Fairy-Queen, thought of the reunion of Bottom with Quince and Co.
+          as taking place in the 'fforrest'; indeed, Theobald (1733) was the first editor
+           to mark a change of locale here. The failure to mark
+          a change of setting for V.i is more puzzling. One would expect 'Scen A Palace' as in I.i
+          (Bottom's 'meet presently at the Palace' was retained at IV.ii.37-38). Most probably Hand
+          I simply forgot to indicate a change of scene, but it is curious that Settle also fails to
+          call for a return to the Palace at his equivalent of V.i; and he too keeps Bottom's
+          direction at IV.ii.37-38, even though the 'rude mechanicals' were excluded from the final
+          scene and the Pyramus and Thisbe play had been transferred from Act V to follow III.i.82,
+          where Robin (Puck) is its only audience. For Acts II through IV, Hand I, unlike Settle, who, apart from his four specially
+          introduced scenic extravaganzas, satisfies himself with a single setting ('SCENE a
+            Wood, by Moon-light.', noted only at the beginning of Act II), envisages three
+          different settings. He places II.i in 'the New Grove', with a note ('Scen continues.')
+          preceding the entrance of Oberon and Titania at II.i.60. This setting is continued,
+          through the beginning of what is now generally considered II.ii, to II.ii.35, where, with
+          the entry of Lysander and Hermia, Hand I begins a new scene set in 'The little / wood',
+          which serves for the remainder of Act II. With the beginning of Act III, however, he
+          appears to have decided on a single setting ('ye fforrest' III.i;
+          'fforrest / Scen' III. ii.345; 'fforrest' IV.i and IV.i.107), although, when considering
+          beginning Act III at III.ii, he calls for 'Grove / agen' (deleted) and may have called for
+          the same scene when he made a second canceled attempt to begin Act III at III.i.167 (if so
+          the notation has been shaved away in binding). The Smock Alley revision of A Midsummer Night's Dream has been compared
+          throughout with the following stage adaptations (see the Collations): (1) the 'Nursery'
+          revision (c.1672-78); 21 (2) Elkanah Settle's The
+            Fairy-Queen (1692); (3) David Garrick's The Fairies (1755); (4) a revision
+          (now in the Folger Shakespeare Library) prepared in a copy of the 1734 Tonson edition by
+          David Garrick and George Colman; (5) David Garrick and George Colman's A Midsummer
+            Night's Dream (1763), based on (4) above; and (6) A Midsummer Night's Dream in
+            Bell's Shakespeare's Plays, Vol. VIII (1774), with notes and suggested cuts by
+          Francis Gentleman. The so-called Collier MS (in the Perkins-Collier Second Folio, 1632, in
+          the Huntington Library) and an adaptation of Shakespeare's play by Frederick Reynolds
+          (1816) are occasionally referred to. 1. This Smock Alley revision of A Midsummer Night's Dream was
+          presented to the University of Edinburgh Library by J. 0. Halliwell- Phillipps and is here
+          reproduced and edited by the kind permission of its Librarian, the late Dr. L. W. Sharp.
+          Although, as noted above, it is not strictly a promt-book. it will be referred to in the
+          Collations as PB. 2. See Shakespearean Prompt-Books of the Seventeenth Century, Vol.
+          III (1964), pp. 27-35. Hereafter this series will be referred to as SPSC. 3. See SPSC, Vol. I (1960), General Introduction, p. 21. 4. Ibid., p. 16. 5. Ibid. 6. Ibid. 7. Ibid., pp. 18-20. 8. W. S. Clark (The Early Irish Stage:The Beginnings to 1720, 1955,
+          p. 72), commenting on the Smock Alley promptbooks, mistakenly includes A Midsummer
+            Night's Dream among "Shakespeare plays popular with London audiences of the
+          day." 9. See The London Stage 1660-1800, Part I: 1660-1700 (ed. William Van
+          Lennep, 1965), pp. 55-56. 10. This so-called 'droll' was later included in Francis Kirkman's The
+            Wits, or, Sport upon Sport (1673). The title page of the 1661 edition claims that
+            Bottom the Weaver 'hath been often publikely Acted by some of his Majesties
+          Comedians, and lately, privately presented, by several APPRENTICES for their harmless
+          recreation, with Great Applause.', but the first part of this claim almost certainly looks
+          back to performances of Shakespeare's original play by the King's Men in the earlier years
+          of the century (see The Wits, or, Sport upon Sport, ed. John J. Elson, 1932, pp.
+          412-413). I have found no textual connections between Bottom the Weaver and the
+          Smock Alley revision of A Midsummer Night's Dream. 11. See George Winchester Stone, "A Midsummer Night's Dream in the
+          Hands of Garrick and Colman," PMLA, 54 (1939), 467-482. 12. Clark, p. 56. 13. Ibid, pp. 73, 205. 14. Clark knew of the existence of a Smock Alley Midsummer Night's
+            Dream through a reference to it in S. W. Singer's Text of Shakespeare vidicated
+            from the Interpolations and Corruptions advocated by John Payne Collier, Esq.
+          (1853), a reference cited by R. C. Bald in "Shakespeare on the Stage in Restoration
+          Dublin" (PMLA, 56 [1941], 370); Bald, however, considers the Smock Alley version
+          to be lost. Alexander Cargill (Shakespeare the Player, 1916, Appendix D, p. 144)
+          had called attention to several Halliwell-Phillipps "old playhouse copies" in the
+          University of Edinburgh Library, but the Midsummer Night's Dream he lists is
+          certainly the 'Nursery' cutting, not the Smock Alley revision. Neither Bald nor Clark
+          seems to have been aware of Cargill's note. 15. What may just possibly be interpreted as the date '1670' appears in the
+          Smock Alley revision (see the Collations at III.ii.24), but this reading of the manuscript
+          notation is so uncertain that no weight can be attached to it. 16. See The London Stage, pp. lv, 397, 408-409. 17. In SPSC, III, 28, I gave the amount of cutting as "around 611
+          lines"—a slight overstatement. 18. See ibid., pp. 28-29. 19. See the Collations at I.ii.109; II.ii.2-8; III.i.l65 s.d.-167; III.ii.244
+          s.d.; III.ii.256-343; IV.i.84s.d.; IV.i.122-124s.d.; IV.ii.31-32; V.i.182 s.d.;
+          V.i.220-221; V.i.260. 20. See SPSC, I, 23-24. 21. See ibid., III, 31-35.  &lt;/page&gt;   &lt;page n=11&gt; </field><field name="file_s">ShaMidP</field></doc></add>

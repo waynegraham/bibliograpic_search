@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//ELEMENTS TEI Lite XML ver. 1//EN"
+                       "http://www.tei-c.org/Lite/DTD/teixlite.dtd" [
+<!NOTATION jpg SYSTEM "JPEG"> 
+ 
+<!ENTITY mndspine SYSTEM "mndspine.jpg" NDATA jpg> 
+<!ENTITY mnd1cov SYSTEM "mnd1cov.jpg" NDATA jpg> 
+<!ENTITY mnd1ti SYSTEM "mnd1ti.jpg" NDATA jpg> 
+<!ENTITY mnd2cov SYSTEM "mnd2cov.jpg" NDATA jpg> 
+<!ENTITY mnd2ti SYSTEM "mnd2ti.jpg" NDATA jpg> 
+<!ENTITY mnd-p146 SYSTEM "mnd-p146.jpg" NDATA jpg> 
+<!ENTITY mnd-p154 SYSTEM "mnd-p154.jpg" NDATA jpg> 
+<!ENTITY mnd1179 SYSTEM "mnd1179.jpg" NDATA jpg> 
+<!ENTITY mnd1181 SYSTEM "mnd1181.jpg" NDATA jpg> 
+<!ENTITY mnd1184 SYSTEM "mnd1184.jpg" NDATA jpg> 
+<!ENTITY mnd11132x SYSTEM "mnd11132x.jpg" NDATA jpg> 
+<!ENTITY mnd11132y SYSTEM "mnd11132y.jpg" NDATA jpg> 
+<!ENTITY mnd11166 SYSTEM "mnd11166.jpg" NDATA jpg> 
+<!ENTITY mnd3292 SYSTEM "mnd3292.jpg" NDATA jpg> 
+<!ENTITY mnd32128 SYSTEM "mnd32128.jpg" NDATA jpg> 
+<!ENTITY mnd32139 SYSTEM "mnd32139.jpg" NDATA jpg> 
+<!ENTITY mnd32149 SYSTEM "mnd32149.jpg" NDATA jpg> 
+<!ENTITY mnd32157 SYSTEM "mnd32157.jpg" NDATA jpg> 
+<!ENTITY mnd32177 SYSTEM "mnd32177.jpg" NDATA jpg> 
+<!ENTITY mnd32196 SYSTEM "mnd32196.jpg" NDATA jpg> 
+ 
+ 
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOnum  SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub  SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech; 
+]> 
+<TEI.2 id="ShaMndP">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shakespearean prompt-books of the seventeenth century, vol. 3 (Midsummer
+                    Night's Dream) [a machine-readable transcription] </title>
+                <author>Shakespeare, William </author>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Electronic Text Center, University of Virginia </name>
+                    <resp>Creation of digital images: </resp>
+                    <name>Electronic Text Center, University of Virginia </name>
+                    <resp>Conversion to TEI.2-conformant markup: </resp>
+                    <name>University of Virginia Library Electronic Text Center. </name>
+                </respStmt>
+            </titleStmt>
+            <extent>25 kilobytes </extent>
+            <publicationStmt>
+                <publisher>University of Virginia Library. </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno>Bibliographic Society, ShaMndP </idno>
+                <availability>
+                    <p>Publicly-accessible </p>
+                    <p n="public">URL: http://etext.lib.virginia.edu/bsuva/promptbook/ </p>
+                </availability>
+                <date>1997 </date>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Shakespearean prompt-books of the seventeenth century </p>
+            </seriesStmt>
+            <notesStmt>
+                <note>The electronic text contains the Introduction and the Collations.
+                    Corresponding images of the prompt-book have been taken from volume III, part
+                    ii. </note>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Shakespearean prompt-books of the seventeenth century, vol. 3 </title>
+                        <title> </title>
+                        <author>William Shakespeare </author>
+                        <respStmt>
+                            <resp>Editor </resp>
+                            <name>G. Blakemore Evans </name>
+                        </respStmt>
+                    </titleStmt>
+                    <editionStmt>
+                        <p>Issued in portfolios. The prompt-books are reproduced in collotype
+                            facsimile. </p>
+                    </editionStmt>
+                    <extent> </extent>
+                    <publicationStmt>
+                        <publisher>University Press of Virginia </publisher>
+                        <pubPlace>Charlottesville, VA </pubPlace>
+                        <date>1964 </date>
+                        <idno>Print copy consulted: UVa Library call number PR 2757 .E9 1960 v. 3
+                            pt. 1-2 Copy 3 </idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Shakespearean prompt-books of the seventeenth century </p>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>Published for the Bibliographical Society of the University of
+                            Virginia </note>
+                        <note>The production of this volume was supervised by Fredson Bowers </note>
+
+                        <note/>
+
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared for the University of Virginia Library Electronic Text Center. </p>
+            </projectDesc>
+            <editorialDecl>
+                <p>All quotation marks retained as data. </p>
+                <p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+                    word has been joined to the preceding line. </p>
+                <p>The images exist as archived TIFF images, one or more JPEG versions for general
+                    use, and thumbnail GIFs. </p>
+                <p>Keywords in the header are a local Electronic Text Center scheme to aid in
+                    establishing analytical groupings. </p>
+            </editorialDecl>
+            <refsDecl>
+                <p> </p>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Library of Congress Subject Headings </title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date>1960-1964 </date>
+            </creation>
+            <langUsage>
+                <language>English </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>drama; prose </term>
+                </keywords>
+                <keywords>
+                    <term>LCSH </term>
+                </keywords>
+                <keywords>
+                    <term> </term>
+                    <term> </term>
+                    <term type="format">24-bit color; 400 dpi </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>July 1997 </date>
+                <respStmt>
+                    <resp>corrector </resp>
+                    <name>Catherine Tousignant, Electronic Text Center </name>
+                </respStmt>
+                <item>Corrected various transcription errors. </item>
+            </change>
+            <change>
+                <date>January 1997 </date>
+                <respStmt>
+                    <resp>corrector </resp>
+                    <name>Catherine Tousignant, Electronic Text Center </name>
+                </respStmt>
+                <item>Added TEI header </item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="cover">
+                <p><figure entity="mndspine">
+                        <figDesc>Image of the spine: Shakespearean Prompt-Books, The Comedy of
+                            Errors and Midsummer Night's Dream</figDesc>
+                    </figure></p>
+                <p><figure entity="mnd1cov">
+                        <figDesc>Image of the cover, part 1: Shakespearean Prompt-Books, The Comedy
+                            of Errors and Midsummer Night's Dream</figDesc>
+                    </figure></p>
+                <p><figure entity="mnd1ti">
+                        <figDesc>Image of the titlepage, part 1: Shakespearean Prompt-Books, The
+                            Comedy of Errors and Midsummer Night's Dream</figDesc>
+                    </figure></p>
+                <p><figure entity="mnd2cov">
+                        <figDesc>Image of the cover, part 2: Shakespearean Prompt-Books, The Comedy
+                            of Errors and Midsummer Night's Dream</figDesc>
+                    </figure></p>
+                <p><figure entity="mnd2ti">
+                        <figDesc>Image of the cover, part 1: Shakespearean Prompt-Books, The Comedy
+                            of Errors and Midsummer Night's Dream</figDesc>
+                    </figure></p>
+            </div>
+
+            <titlePage>
+                <docTitle>
+                    <titlePart type="main"> SHAKESPEAREAN <lb/> PROMPT-BOOKS <lb/>
+                        <hi>of the</hi> SEVENTEENTH CENTURY<lb/>
+                    </titlePart>
+                    <titlePart type="sub"> Vol. III: Part i<lb/> Introductions to the 'Nursery'<lb/>
+                        <hi>The Comedy of Errors</hi><lb/>
+                        <hi>Midsummer Night's Dream</hi><lb/> Collations<lb/>
+                    </titlePart>
+                </docTitle>
+                <byline>
+                    <hi>Edited by</hi><lb/> G. Blakemore Evans<lb/>
+                </byline>
+                <docImprint>
+                    <hi>Published for</hi>
+                    <lb/> The Bibliographical Society of the University of Virginia<lb/> University
+                    Press of Virginia, Charlottesville<lb/> 1964<lb/> EDITORIAL ADVISORY
+                    COMMITTEE<lb/> The Bibliographical Society Of the University Of Virginia<lb/>
+                    ARTHUR F. STOCKER, <hi>Chairman</hi><lb/> FREDSON BOWERS<lb/> JOHN COOK
+                    WYLLIE<lb/> The production of this volume was supervised by Fredson Bowers
+                </docImprint>
+            </titlePage>
+            <div type="contents">
+                <list>
+                    <head>Contents</head>
+                    <item>Introduction to <hi>The Comedy of Errors</hi> . . . . . . 1 </item>
+                    <item><hi>The Comedy of Errors</hi>: Collations . . . . . . . . . 13 </item>
+                    <item>Introduction to <hi>A Midsummer Night's Dream</hi> . . . 27 </item>
+                    <item><hi>A Midsummer Night's Dream</hi>: Collations . . . . . . . 31 </item>
+                </list>
+            </div>
+        </front>
+
+        <body>
+
+            <!-- <page n=27> -->
+
+            <div0 type="introduction">
+                <head>Introduction <lb/>
+                    <hi>A Midsummer Night's Dream</hi>
+                    <lb/> First Folio </head>
+
+                <p>THE 'Nursery' version of <hi>A Midsummer Night's Dream</hi> is not a prompt-book,
+                    but a simple cutting of the play.<note target="mnd1">1</note> It contains no
+                    prompter's notations. It is possible, however, to link this cutting with the
+                    'Nursery' promptbook of <hi>The Comedy of Errors</hi> by the appearance in it of
+                    a common hand (Hand I in <hi>Comedy of Errors</hi>) and by the general method of
+                    marking cuts. It is, moreover, fairly certain that at one time the two
+                    separately bound volumes were parts of the same copy of the First Folio. <note
+                        target="mnd2">2</note></p>
+
+                <p>As the collations show there are almost no verbal alterations, but the hand in
+                    the three that do occur (see for example I.i.79), as I have noted, is the same
+                    as Hand I in <hi>The Comedy of Errors</hi>, and in both versions the cutting
+                    seems to be connected with this hand. It may also be observed that there is very
+                    little verbal alteration in <hi>The Comedy of Errors</hi>. Unfortunately
+                    everything from the end of act three (and a leaf containing parts of acts one
+                    and two) is missing, making it essentially impossible to say much about the
+                    cutting as a whole. Judging from what is left, however, the amount of deletion
+                    seems heavy: 511 lines in the first three acts, a figure which does not include
+                    what I suspect to be heavy cutting at the beginning of Act II
+                    <!-- </page> --><!-- <page n=28> --> and some probable cutting at the end of Act
+                    I.i. I should judge, therefore, a figure of 575 lines for the first three acts
+                    would be a fair estimate. With this we may compare the 460 lines cut in the
+                    first three acts of the Smock Alley prompt-book (in all, Smock Alley cuts around
+                    611 lines), in itself an example of rather heavy cutting. The Smock Alley
+                    version thus runs to roughly 1,491 lines; allowing for around 575, lines in the
+                    first three acts and about 170 for the last two (by analogy with Smock Alley),
+                    the 'Nursery' version will work out at about 1,357. <note target="mnd3">3</note>
+                </p>
+
+                <p>The most interesting cut is the attempt to get rid entirely of the character of
+                    Titania or at least so much of her role as is concerned with the quarrel with
+                    Oberon over the little Indian boy and the consequent Bottom-enchantment episode.
+                    It is unfortunate that even in this case the loss of the leaf containing the end
+                    of Act I and the beginning of Act II makes the full extent of the cut somewhat
+                    conjectural. But it is certain, that lines 60-97 must have been deleted since
+                    they are entirely concerned with the Titania-Oberon quarrel, and almost
+                    certainly lines 19-31. In fact as the cutting now stands Oberon's first speech
+                    comes at line 245" just after the exits of Demetrius and Helena. In the
+                    prompt-book, however, there is a cross in the left margin opposite this speech.
+                    Since, in order to make the speech, Oberon must have entered at least fifteen to
+                    twenty lines (perhaps more) earlier, this cross cannot indicate his point of
+                    entry. In the Smock Alley prompt-books a cross is frequently used to mark the
+                    place of an insertion. Here, although no insertion
+                    <!-- </page> --><!-- <page n=29> --> was written in, there is an obvious need
+                    for some explanation of the "flower" referred to by Oberon in line 247,
+                    Shakespeare's earlier handling of the matter having been cut entirely. It may be
+                    noticed that this drastic cut also removes the Bottom-Asshead incident and would
+                    necessitate the later cutting of Bottom's dream (IV.i.203-23). As a result it is
+                    not clear what exactly is supposed to frighten the "hempen homespuns" at
+                    III.i.108. Presumably, however, Puck, although both his speeches have been cut,
+                    was meant to appear and scare them away; his entry has been preserved at line
+                    55. Such, at any rate, is the way ?Settle handles the situation in his operatic
+                    version of the play called <hi>The Fairy Queen</hi> (1692). Puck watches them
+                    perform the Pyramus and Thisbe parody (inserted here by ?Settle) and then
+                    without a word 'Robin <hi>runs in amongst them</hi>' and the mechanicals
+                        '<hi>Exeunt, running several ways</hi>!'.</p>
+
+                <p>Since like the Padua <hi>Winter's Tale</hi>, the 'Nursery' <hi>Midsummer Night's
+                        Dream</hi> is merely a cutting of the play which apparently never reached
+                    production, only two pages have been reproduced in facsimile: sigs. N1<hi
+                        rend="sup">v</hi> (p 146) and N5<hi rend="sup">v</hi> (p 154). The
+                    collation, however, records, as usual, all the cuts and notations for the whole
+                    play.</p>
+
+                <p>The cutting of the 'Nursery' <hi>Midsummer Night's Dream</hi> has been compared
+                    throughout with: (1) the Smock Alley prompt-book (almost certainly before 1700);
+                    (2) <hi>The Fairy Queen</hi> (1692), an operatic version frequently attributed
+                    to Elkanah Settle; (3) David Garrick's operatic version, <hi>The Fairies</hi>
+                        (1755)<note target="mnd4">4</note>; (4) George Colman's and David Garrick's
+                    acting version (1763)<note target="mnd5">5</note>; (5) Francis Gentleman's
+                    suggested cutting in Bell's <hi>Shakespeare</hi> (1774), vol. VIII.</p>
+
+                <note id="mnd1">1. For a discussion of the probable 'Nursery' provenience, see the
+                    Introduction to the 'Nursery' <hi>Comedy of Errors</hi>.</note>
+
+                <note id="mnd2">2. This relationship can be deduced from the pattern of staining in
+                    the upper, outer corner of the leaves in both.</note>
+
+                <note id="mnd3">3. The eighteenth-century acting versions have been so drastically
+                    shortened that comparative figures are not very helpful. Garrick's <hi>The
+                        Fairies</hi> (1755) reduces the play to about 695 lines (of which 133 are
+                    song lyrics) and omits the whole of the fifth act; the Colman-Garrick version
+                    (1763) runs to about "364 lines (of which 189 are again song lyrics) and also
+                    omits all but 18 lines of Act V. Francis Gentleman (Bell's <hi>Shakespeare</hi>,
+                    1774, vol. VIII) marks only 176 lines for cutting, but the version he presents
+                    (despite William Jaggard's entry [<hi>Shakespeare Bibliography</hi>, 191 l, p.
+                    410]) makes no claim to be 'regulated' from the prompt-book of either house. In
+                    a note at the end of Act I he adds; ". . . a little of the serious part might
+                    perhaps be spared, but so small a portion, we have not marked the different
+                    lines."</note>
+
+                <note id="mnd4">4. There are actually two editions of Garrick's text, both dated
+                    1755. See my note in <hi>Notes and Queries</hi>, N.S. (1959), X, 410-411.</note>
+
+                <note id="mnd5">5. This version seems to owe its final published form to George
+                    Colman (see George Winchester Stone, "<hi>A Midsummer Night's Dream</hi> in the
+                    Hands of Garrick and Colman," <hi>PMLA</hi> (1939), LIV, 467-482). I have not
+                    included George Colman's <hi>A Fairy Tale</hi> (1763) in the versions
+                    examined.</note>
+
+                <!-- </page> -->
+                <!-- <page n=31> -->
+
+            </div0>
+            <div0 type="collations">
+
+                <head>Collations<lb/> A <hi>Midsummer Night's Dream</hi><lb/> Prompt-Book</head>
+
+                <div1 type="introduction">
+                    <head/>
+                    <p>THE act, scene, and line numbering is that of the standard Globe text (1911
+                        ed.) Angle-brackets are used to indicate (1) missing words or letters; (2)
+                        illegible words or letters; (3) doubtful or conjectural readings. The
+                        following abbreviations are employed:</p>
+
+                    <list>
+
+                        <item>Bell . . . . . . . text of <hi>Midsummer Night's Dream</hi> in Bell's
+                                <hi>Shakespeare</hi>(1774) Vol. VIII</item>
+
+                        <item>Colman . . . . . . George Colman and David Garrick's acting version of
+                                <hi>Midsummer Night's Dream</hi> (1763)</item>
+
+                        <item>F . . . . . . . . here used for First Folio (1623)</item>
+
+                        <item>Ff . . . . . . . . the four Folios of 1623, 1632, 1664, 1685</item>
+
+                        <item>Garrick . . . . . David Garrick's operatic version, <hi>The
+                                Fairies</hi> (1755)</item>
+
+                        <item>PB . . . . . . . 'Nursery' <hi>Midsummer Night's Dream</hi> promptbook
+                            s.d...stage direction</item>
+
+                        <item>Settle . . . . . . Elkanah Settle's (?) operatic version, <hi>The
+                                Fairy Queen</hi> (1692) Smock Alley PB...text of <hi>Midsummer
+                                Night's Dream</hi> in Smock Alley prompt-book, Dublin (almost
+                            certainly before 1700)</item>
+                    </list>
+
+
+                    <!-- </page> -->
+                    <!-- <page n=32> -->
+
+                </div1>
+                <div1 type="act" n="1">
+                    <head>I.</head>
+                    <div2 type="scene" n="1.1">
+                        <head>I.i.</head>
+
+                        <p><figure entity="mnd-p146">
+                                <figDesc>Image of prompt-book page 146</figDesc>
+                            </figure></p>
+
+                        <p>13-19 Awake the . . . reuelling.] Circled. Settle cuts 1-20; Garrick,
+                            17.</p>
+
+                        <p>33-35 With bracelets . . . youth) ] Circled. Smock Alley PB cuts 34-38 ('
+                            . . . harshnesse.'); Settle, with some rewriting, 29-32, 34; Garrick,
+                            28-35; Colman, 28-38 ('thou hast . . . harshnesse.') .</p>
+
+                        <p>48-51 One that. . . it:] Circled. Smock Alley PB cuts 48 ('yea ) -51; 48
+                            ('yea ...') -55; Colman, 47-51.</p>
+
+                        <p>67-78 Therefore faire . . .blessednesse.] Circled. Smock Alley PB cuts
+                            72-78; Settle, 72-92, substituting 6 lines of his own; Garrick, 67-70;
+                            Colman, 68, 71-73, 75.</p>
+
+                        <p><xref doc="mnd1179">79 I will doe either]</xref> The PB reviser
+                            substitutes these words for F 'So will . . . Lord,' (crossed through.)
+                            Smock Alley PB cuts 'grow, so'.</p>
+
+                        <p><xref doc="mnd1181">81-82 whose vnwished . . . soueraignty.]</xref>
+                            Crossed through.</p>
+
+                        <p><xref doc="mnd1184">84-86 The sealing . . . day]</xref> Crossed through.
+                            Garrick and Colman cut 85.</p>
+
+                        <p><xref doc="mnd11132x">132-156</xref>
+                            <hi>Lys.</hi>For ought . . . <xref doc="mnd11132y">therefore]</xref>
+                            Circled (156 crossed through and separately circled). Smock Alley PB
+                            rewrites 132-134 ('I . . . did'), 151, 156 ('A . . . therefore') and
+                            cuts 135-149, 153-155; Settle, with some rewriting, 137-140, 144,
+                            150-155; Garrick, 136, 138, 140, 145-149; Colman, 136, 138, 140, 151,
+                            153-155.</p>
+
+                        <p><xref doc="mnd11166">166-167 (Where I . . . May) ]</xref> Crossed
+                            through. Smock Alley PB cuts 167; Settle rewrites 166-168 (' . . .
+                            thee'.).</p>
+
+                        <p>I.i.205-II.i.97 O then . . . flocke, (pp. 147-148; sig. N2) is lacking, a
+                            page from another copy of F1 being inserted. For a discussion of
+                            possible cuts in these lines, see the Introduction, p. 28. The principal
+                            cuts in Smock Alley PB occur at I.i.230-245, II.i.9-l5, 35-42 (. . .
+                            he?), 48-57, 82-85 ('since . . . sea,'), 88-111 ('the winds . . .
+                            set.'); in Settle at I.i.203-207, 220-224
+                            ('...<hi>Hermia</hi>.'),230-233, I.ii.92 ('What . . .')-114, II.i.54-57,
+                            88-117; in Garrick at I.i.220-224 ('pray . . .
+                            <hi>Hermia</hi>.'),229-233, 240-251, I.ii (complete scene), I.i.10-13,
+                            26-57, 63-118; in Colman at I.i.229-241, II.i.10-l3, 26-29, 34-42 ('Are
+                            . . . he?'), 64-68 ('but . . . <hi>Phillida</hi>.'),88-111('. . .
+                            set.').</p>
+
+                    </div2>
+                </div1>
+                <div1 type="act" n="2">
+                    <head>II.</head>
+                    <div2 type="scene" n="2.1">
+                        <head>II.i.</head>
+
+                        <p>98-l87 The nine . . . conference.] Circled. Smock Alley PB cuts 88-111
+                            ('the winds . . . set.'), 158 ('throned . . .')-165; Settle, 88-117,
+                            124-135; Garrick, 63-118, 121, 126-134, 145, 149-168, 173-174, 180-181;
+                            Colman, 88-111 (' . . . set.'), 131, 144 (Fairies . . . )-145, 148
+                            ('Thou . . .')-168, 181.</p>
+
+                        <p>208-210 What worser . . . dogge.] Crossed through. So Smock Alley PB;
+                            Settle and Colman cut 208-213; Garrick, 194-213.</p>
+
+                        <p>245] PB reviser places a cross in the left margin opposite this line. See
+                            Introduction, p. 28.</p>
+
+                        <p>249-258 I know . . . fantasies.] Circled. Smock Alley PB cuts
+                            <!-- </page> --><!-- <page n=33> --> 249-256, substituting 'ye place / I
+                            &lt;kn&gt;ow where / Titania / &lt;slee&gt;ps'; Settle cuts 258 and
+                            rewrites 264-267 completely; Garrick cuts 250-252, 254-256, 267-268;
+                            Colman, 251-252, 255-256, 265-266.</p>
+
+                        <p>259 &amp; Take thou] PB reviser places '&amp;' in left margin before F
+                            'Take thou'.</p>
+
+                    </div2>
+                    <div2 type="scene" n="2.2">
+                        <head>II.ii.</head>
+
+                        <p>1 s.d.-34 <hi>Enter Queen</hi>...neere.] Circled. Part of the cutting to
+                            get rid of Titania (see Introduction, p. 28). F, PB, and Smock Alley PB
+                            mark no new scene here. Smock Alley PB cuts 2-7, 16-26; Settle retains
+                            1-8 and parts of the 'Song', but greatly expands with 'A Prelude',
+                            dances, elaborate scene change, etc; Garrick cuts 7 ('Sing . . .') -8,
+                            25-26.</p>
+
+                        <p>98-99 What wicked . . . eyne?] Crossed through. Smock Alley PB cuts
+                            94-99; Settle, 94-99; Garrick, 88-89, 94-99; Colman, 90-99; Gentleman
+                            suggests cutting 92-97.</p>
+
+                        <p>117-122 Things growing . . . booke.] Circled. Gentleman suggests cutting;
+                            Smock Alley cuts 117-120; Settle heavily re-writes; Garrick cuts
+                            115-122; Colman, 117-119.</p>
+
+                        <p>143-144 And all . . . Knight.] Crossed through. So Colman; Smock Alley PB
+                            substitutes 'Ile all my powers addresse with love and might / To
+                            Ho&lt;nour&gt; Helle&lt;na&gt; / favor &lt;me&gt; y<hi rend="sup">e</hi>
+                            nig&lt;ht&gt;'; Settle substitutes 'O may I never, never see thee more;
+                            / <hi>Helen</hi> the Goddess I must now adore.'; Garrick cuts
+                            136-144.</p>
+
+                    </div2>
+                </div1>
+                <div1 type="act" n="3">
+                    <head>III.</head>
+                    <div2 type="scene" n="3.1">
+                        <head>III.i.</head>
+
+                        <p>79 s.d-82 <hi>Enter Robin</hi>...cause.] Circled. Cut because of the
+                            reference to Titania (see Introduction, p. 28). Note that Puck's entry
+                            is retained above at 55 but that he says nothing since his speeches here
+                            and at go are cut. Garrick cuts III.i entirely and reports as part of
+                            Puck's speech in III.ii.6-34 (reduced to 6 lines) how Titania has fallen
+                            in love with a 'clown'.</p>
+
+                        <p>90 <hi>Puck</hi>. A stranger . . . here.] Crossed through. Settle cuts
+                            because he handles what follows quite differently.</p>
+
+                        <p>108 s.d.-III.ii.40 <hi>The Clownes</hi>...eyde.] Circled through 166; the
+                            remainder criss-crossed diagonally. The exit for the 'Clownes' should
+                            not presumably have been included in the cut. The cut as a whole gets
+                            rid of business relating to Titania (see Introduction, p. 28). Smock
+                            Alley PB cuts 143 and III.ii.20-23, 27-30; Settle, 157-162, 174, 182-201
+                            and III.ii. 3, 7-30 (35-40 completely rewritten); Garrick, III.i
+                            entirely and III.ii. 1-4 (' . . . messenger:'), 8, 9-l 1 ('rude . . .
+                            to'), 12-32, 37; Colman, 143, 175-176, 181 and III.ii.9-11('Mechanicals
+                            . . to'), 13-16, 18-30, 32, 39-40; Gentleman suggests cutting
+                            III.ii.1-34.</p>
+
+                    </div2>
+                    <div2 type="scene" n="3.2">
+                        <head>III.ii</head>
+
+                        <p><figure entity="mnd-p154">
+                                <figDesc>Image of prompt-book page 154</figDesc>
+                            </figure></p>
+
+                        <p><xref doc="mnd3292">42, 92, 100]</xref> PB reviser deletes F speech-heads
+                                '<hi>Rob</hi>.' (42, 92) and '<hi>Robin</hi>.' (100) and substitutes
+                            'Puc' (42, 92) and 'Puck' (100). There is no entry marked for Oberon in
+                            this scene; <!-- </page> --><!-- <page n=34> --> Puck may be supposed to
+                            have remained on stage from III.i.55.</p>
+
+                        <p><xref doc="mnd32128">128-129 You doe . . . fray!]</xref> Crossed through.
+                            Smock Alley PB cuts 122-148, substituting a few partly illegible lines;
+                            Garrick, 126-136; Colman, 129. 131-133 Weigh oath . . . tales.] Crossed
+                            through. See above for Smock Alley PB and Garrick; Settle and Colman cut
+                            130 ('will...')-133. 138 thee.] PB reviser crosses through F 'shine
+                            eyne!' and, following, substitutes 'thee.'. Settle and Colman substitute
+                            'Eyes' for 'eyne'.</p>
+
+                        <p><xref doc="mnd32139">139-144 Christall is . . . blisse.]</xref> Circled.
+                            So Colman; Smock Alley PB cuts 122-148, substituting a few partially
+                            illegible lines; Garrick, 141-148.</p>
+
+                        <p><xref doc="mnd32149">149-154 Can you . . . hearts.]</xref> Circled. Smock
+                            Alley PB cuts 152-154; Garrick, 151-162; Colman, 145-152 ('0 hell . . .
+                            not'), 153-154; Gentleman suggests cutting 149-161.</p>
+
+                        <p><xref doc="mnd32157">157-161 A trim . . . sport.]</xref> Circled. So
+                            Smock Alley PB; Settle cuts 157-176; Colman, 156-157, 159 ('none . .
+                            .')-161; see above for Garrick and Gentleman.</p>
+
+                        <p><xref doc="mnd32177">177-180 Dark night . . . recompence.]</xref>
+                            Circled. Settle cuts 179-181; Garrick, 179-182; Colman, 179-180.</p>
+
+                        <p><xref doc="mnd32196">196-216 Haue you . . . friend?]</xref> Circled.
+                            Smock Alley PB cuts 193-216; Settle, 193,194 (telescopes 196-197),
+                            198-231; Garrick, 192-194, 202-242; Colman, 193-194, 196-197, 205,
+                            211-215, 217-21 (marking 198-210 as appropriate for cutting); Gentleman
+                            suggests cutting 210-214.</p>
+
+                        <p>222-231 Haue you . . . consent?] Circled. Smock Alley PB cuts 220-235;
+                            Garrick, 202-242; Colman, 225, 226-227 ('nimph . . . celestial!?'),
+                            228-230; Gentleman suggests cutting 225.</p>
+
+                        <p>237-240 I, doe . . . chronicled.] Circled. Smock Alley PB cuts 238,
+                            240-243; Settle, 236-242; Garrick, 202-242; Colman, 238-239.</p>
+
+                        <p>247-31 <hi>Hel</hi>. O excellent . . . am.] Circled. Smock Alley PB cuts
+                            246-247 ('fair . . . excellent!'), 250, 254-343 (substitut- some lines
+                            only partly legible); Settle, 247-253, 260-268, 279, 288, 293, 297 ('I
+                            am . . .')-320; Garrick, 247-253, 257-272, 274-278, 279 ('of question .
+                            . . ') -280, 282-344; Colman, 247 Sweet . . .')-250, 256-335; Gentleman
+                            suggests cutting 247 (Sweet . . .') -284.</p>
+
+                        <p>325-335 And though . . . not,] Circled (325 perhaps separately crossed
+                            through) . Settle cuts 329-330 (' . . . acorne.'), 331-335 (' . . .
+                            it.'); see above for Smock Alley PB, Garrick, and Colman.</p>
+
+                        <p>374-394 Whiles I . . . notwithstanding] Circled (394 crossed through).
+                            374-377 cut because of reference to Titania. Smock Alley PB cuts 386-393
+                            (rewriting 394); Settle, 389-393 (with
+                            <!-- </page> --><!-- <page n=35> --> a new line after 388, rewriting
+                            394); Garrick, 370-395 (adding some new lines to allow for the omission
+                            of Bottom); Colman, 373-374, 378-393; Gentleman suggests cutting
+                            373-375.</p>
+
+                        <p>402, 403, 407, 4122, 421, 425, 437, 448] PB reviser deletes F
+                            speech-heads '<hi>Rob</hi>.' and substitutes 'Puc.' or 'Puc:'.</p>
+
+                        <p>[PB lacks everything after III.ii.457 (' . . . former Ladies eye,'),
+                            pages 157-162 (sigs. O1- O3<hi rend="sup">v</hi>); the missing leaves
+                            have been supplied from another copy of F1, the same copy used to supply
+                            the missing leaf, sig. N2.]</p>
+
+                        <!-- </page> -->
+                    </div2>
+                </div1>
+            </div0>
+        </body>
+    </text>
+</TEI.2>  
+  
+ 

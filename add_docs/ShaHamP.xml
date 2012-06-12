@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 4 (Smock Alley
+                    Hamlet) [a machine-readable transcription] </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 4 (Smock Alley
+                    Hamlet) [a machine-readable transcription] Shakespeare, William Creation of machine-readable version: Lorrie Chisholm, Electronic Text Center Creation of digital images: Catherine Tousignant, Electronic Text Center Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. 150 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographic Society, ShaHamP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1996 Shakespearean prompt-books of the seventeenth century. The electronic text contains the Introduction and the Collations. The
+                    prompt-book is rendered as page images. Images of the manuscript have been included from volume 4, part 2. Act V, scene ii, lines 201-203 have erroneously been referred to as lines
+                    101-103 on page 46 of the Collations. The electronic text contains both the
+                    original and the corrected reference.Shakespearean prompt-books of the seventeenth century, vol. 4 (Smock
+                            Alley Hamlet) Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype
+                            facsimile. University Press of Virginia Charlottesville, VA 1966 Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.4
+                        Shakespearean prompt-books of the seventeenth century Published for the Bibliographical Society of the University of
+                            Virginia The production of this volume was supervised by Fredson Bowers.
+                         Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+                    word has been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general
+                    use, and thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in
+                    establishing analytical groupings. Library of Congress Subject Headings  1960-1966 English drama; prose; non-fiction LCSH 24-bit color; 400 dpi  July 1997 corrector Catherine Tousignant, Electronic Text Center Corrected various transcriptional errors; fixed missing or broken images.
+                January 1997 corrector Catherine Tousignant, Electronic Text Center Added TEI header and tags. Corrected the following errors: p.6: At I.i. 78 th
+                    ] the; p.10: [(4) Word B] Ward B; p. 33: III.ii] III.iii </field><field name="file_s">ShaHamP</field></doc><doc><field name="id">d1e142</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 4 (Smock Alley
+                    Hamlet) [a machine-readable transcription] </field><field name="fulltext_t">Image of the spine: Shakespearean Prompt-Books, Smock Alley
+                            HamletImage of the cover, part 1: Shakespearean Prompt-Books, Smock Alley
+                            Hamlet Introduction and CollationsImage of the titlepage, part 1: Shakespearean Prompt-Books, Smock
+                            Alley Hamlet Introduction and CollationsImage of the cover, part 2: Shakespearean Prompt-Books, Smock Alley
+                            Hamlet TextImage of the titlepage, part 2: Shakespearean Prompt-Books, Smock
+                            Alley Hamlet Text  SHAKESPEAREAN  PROMPT-BOOKS of the SEVENTEENTH CENTURY  Vol. IV: Part i Introduction to the Smock AlleyHamlet Collations Edited by G. Blakemore Evans Published for The Bibliographical Society of the University of Virginia University
+                    Press of Virginia, Charlottesville 1966 EDITORIAL ADVISORY
+                    COMMITTEE The Bibliographical Society Of the University Of Virginia
+                    ARTHUR F. STOCKER, Chairman FREDSON BOWERS JOHN COOK
+                    WYLLIE The production of this volume was supervised by Fredson Bowers
+                 ContentsIntroduction to The Smock Alley Hamlet . . . . . . 1 Collations . . . . . . . . . . . . . . . . . . . . . . . 11 </field><field name="file_s">ShaHamP</field></doc><doc><field name="id">d1e225</field><field name="section_s">introduction</field><field name="title_s">Introduction Smock Alley Hamlet Third Folio</field><field name="fulltext_t">Introduction Smock Alley Hamlet Third Folio THE apparent connection, somewhat confused though that connection may seem to be,
+                    of the Smock Alley Hamlet (preserved in the University of Edinburgh
+                    Library) with one of the two 1676 actors' quartos, 1
+                    would appear to afford a date before which the prompt-book cannot have been
+                    prepared. There is, of course, the slight possibility that this connection may
+                    be explained through something like a common source, for example, the
+                    prompt-book in use at the Duke of York's Theatre. But as we shall see the weight
+                    of the evidence is against such a possibility, though influence from the London
+                    productions may, I believe, be postulated apart from the direct contribution of
+                    the actors' quartos. Other evidence for dating may be found in the names
+                    Trefusis and Williams (see IV.v.96; IV.vii.35; V.ii.172). Joseph Trefusis acted
+                    at the Smock Alley Theatre from about 1675 to 1688; David Williams left Smock
+                    Alley in 1679. 2 Prompt hands found elsewhere in the
+                    Smock Alley promptbooks (in Lear, Macbeth, Othello, Henry VIII, Merry Wives,
+                        Twelfth Night, and the Julius Caesar cast) can be identified
+                    in this prompt-book and serve to link it closely with these plays, several of
+                    which can be dated between 1674 and 1682. We may,
+                     therefore, with some assurance place
+                        Hamlet within a period most probably not earlier than 1676 and not
+                    later than 1679. Such a date makes the Smock Alley Hamlet by more than
+                    seventy years the earliest prompt-book of Hamlet now extant. 3 I have, with some trepidation, distinguished nine
+                    separate hands among the various revisions and prompt-notations. Hand I (the
+                    same as Hand I in Macbeth, Lear, and Twelfth Night) writes in
+                    the stage setting called for at the beginning of a new scene; and the same hand
+                    is also probably responsible for the anticipatory 'scean' calls which precede
+                    each scene change (see, for example, I.i. opening s.d. and 164). Hand II (the
+                    same as Hand II in Macbeth, Othello, and IHenry IV and Hand I in Henry VIII) is responsible for most of
+                    the entry calls for characters and for most of the textual changes and
+                    deletions; it is thus the most important hand in the promptbook (see, for
+                    example, I.i.1, 72-80). Hand III (the same as Hand IV in Macbeth, Hand
+                    VI in Othello, Hand I in Merry Wives, the hand in the
+                        Julius Caesar acting list, and the main prompt hand in Wilson's
+                        Belphegor) furnishes a few speech-prefixes and prompt-notes for
+                    sound effects (see I.ii.17-41; I.iii.90-92; V.i.307). Hand IV is a
+                    mid-eighteenth-century hand which seems to make its corrections from
+                    eighteenth-century edited texts; it appears again as Hand II in Twelfth
+                        Night, Merry Wives, and Midsummer Night's Dream and
+                    Hand III in Lear (see, for example, II.i.87; II.ii.197). Hand V
+                    (perhaps ,the same as Hand II in Lear and Henry VIII) limits
+                    itself to a  few textual changes (see
+                    III.i.173-175; IV.iii.3, 4; IV.vii.14). Hand VI (the same as that of the copyist
+                    in Merry Wives and Wilson's Belphegor)4 adds one actor's name, a property note, and sound
+                    effects (see I.iv.6; III.i. opening; IV.vii.35 s.d.; V.ii.291). Hand VII writes
+                    'Redy' under Hand II's calls, adds a few additional calls (see I.i.19-20;
+                    II.ii.116; IV.iii.89; V.i.27; V.ii.172-179) and is probably responsible for the
+                    crossed diagonal lines marking point of entry. Hand VIII occurs rarely and is
+                    concerned with changes in scene settings and with properties (see IV.ii.
+                    opening; IV.v. opening; V.ii. opening, 236 s.d.). Hand IX makes a few textual
+                    changes (see I.iii.2-4, 20; IV.v.103-106; IV.vii.6; V.i.281). What may probably
+                    be considered as a tenth hand appears in certain passages marked with a red
+                    pencil (see I.iii.22-28; II.i.80; III.iv.118-122; V.ii.338-339). As I noted at the beginning of the last paragraph, it is with considerable
+                    trepidation that I have attempted to sort out these nine hands. The evidence is
+                    frequently so fragmentary that often one is left grasping at a single word or
+                    even a few letters. Moreover the conditions under which the notations were made
+                    were many times unfavorable, so that the writer was cramped and his writing
+                    distorted. Two hands trouble me particularly. Is Hand II really responsible not
+                    only for the majority of the character calls and act divisions, but also for the
+                    greater part of the actual cutting and textual revision? I am not absolutely
+                    sure, and it is possible that we have here two distinct hands at work under what
+                    I have called Hand II. Again, is Hand V, in fact, only Hand II in a more formal
+                    (and secretary) guise? Since I cannot be sure of the answers to either of these
+                    questions, I have decided to allow the designations to stand and to let my
+                    comments here serve as a warning. The question of cutting in the Smock Alley Hamlet presents several
+                    problems. Because of the difference in length between the quarto and folio
+                    texts, the text used by the Smock Alley performers was already, before any
+                    cutting was undertaken, about 115 lines shorter than the quarto version employed
+                    by the Duke of York's players in London. 5 This fact
+                     has been kept in mind in arriving at some of
+                    the following figures. In the 1676 quartos (here called Q6, since the two
+                    quartos of that year are essentially identical for our purposes) and in all the
+                    later quartos (the last 1703) approximately 845 lines have been marked for
+                    deletion. Of the six other theatre versions here compared, Ward A and B (c.
+                    1745) and the 1703 Folger prompt-book employ quarto editions as the bases of
+                    their acting texts; 6 the Tonson 1734 edition
+                    (representing the play as staged at Drury Lane about 1723) and the Garrick 1763
+                    edition 7 are composite texts based on both quarto and
+                    folio and influenced by Rowe and later editors. The Garrick prompt-book (1772),
+                    to be distinguished from the 1763 Garrick version, is based on a 1747 text very
+                    close to that in the 1734 edition. Ward A cuts roughly 1,237 lines, Ward B about
+                    1,056 lines; the 1734 edition marks approximately 1,081 lines for deletion and
+                    the 1763 Garrick version omits about 1,220 lines. The Garrick prompt-book and
+                    the1703 Folger promptbook (obviously related versions) 8 cut too drastically at the end to make comparative figures very
+                    helpful. 9 In comparing these figures with the amount of cutting in the Smock Alley
+                        Hamlet one is confronted not only by the discrepancy in length
+                    between the quarto and folio texts, but also by the difficulty of determining
+                    the exact amount of cutting intended. Two distinct layers of cutting may be
+                    distinguished. The earlier layer is, in general, indicated by a rough circling
+                    of a line or group of lines; the second layer by a crossing through of
+                    individual lines (or occasionally by rough crisscrossing of a group of lines).
+                        10 Someone apparently went
+                     through the play (possibly with a copy of Q6
+                    beside him) and circled lines and groups of lines with a view to preliminary
+                    cutting. This individual circled, in all, about 607 lines. Following this, Hand
+                    II (possibly, of course, the same person as the first 'circler') went through
+                    the play again, straightening out some of the tangles created by the circling,
+                    crossing through roughly 427 of the circled lines, at the same time crossing
+                    through an additional 175, making a total of 602 lines clearly marked for
+                    deletion. To these must be added 8 lines at IV.iv (the momentary entrance of
+                    Fortinbras in the folio text) which, though only circled, were certainly meant
+                    to be deleted, and another 7 lines in a torn section at II.ii.244 and
+                    III.iii.26. In all, then, the Smock Alley Hamlet would appear to cut
+                    around 617 lines. Allowing for the difference in length between quarto and folio
+                    texts, this figure gives a version only slightly longer than that of Q6. 11 There still remain, however, about 169 lines which
+                    have been circled but not otherwise marked, a number of which 'cuts' agree with
+                    suggested cuts in Q6. In many cases, moreover, I find it difficult to believe
+                    that these cuts were not finally intended, particularly, for example, in the
+                    play-within-the-play, which otherwise remains completely uncut. 12 If, then, we may suppose that the cutting includes
+                    all the circled passages not otherwise marked for deletion by partial crossing
+                    through, we arrive at a final total of around 786 lines, leaving a play of
+                    approximately 2,860 lines, 13 version nearly the same
+                    length as that of the suggested cutting of Q6 (2,832 lines). The relation of the Smock Alley Hamlet to Qq. 6-7 (1676) must now be
+                    examined. Some connection with the text of Hamlet as it is found in Qq.
+                    6-7 (and in the succeeding quartos) is certain, but whether the connection comes
+                    through the use of a copy, or copies, of Qq. 6-7 or through the reviser's
+                    (largely Hand II) knowledge of the London production on which Qq. 6-7 are based,
+                    requires consideration. The evidence is confusing. Many of the cuts, both those
+                    circled and those crossed through, agree exactly with cuts marked in Qq. 6-7.
+                     Moreover, passages omitted from the quarto
+                    version are often circled or crossed through, and many readings (mostly
+                    introduced by Hand II) which appear in print for the first time in Qq. 6-7 have
+                    been inserted throughout in the folio text. 14 On the
+                    other hand, many passages marked for deletion in Qq. 6-7 are not cut in the
+                    Smock Alley Hamlet; it makes independent cuts, and it sometimes follows
+                    the Qq. 6-7 reading only in part, giving the appearance of a reviser working
+                    rather from memory than from a printed text. 15
+                    Occasionally, moreover, Hand II will alter phrasing in the folio (also revised
+                    or different in Qq. 6-7), but produce something quite unlike the Qq. 6-7
+                    reading. 16 There is, however, one piece of evidence
+                    which points with some certainty to the use, at some stage, of a copy of Q6 (or
+                    Q7). At I.i.78 the Folio has been altered to read (Hand ?II): 'makes the night
+                        joynt-laborouror with the day:' to bring it into
+                    agreement with the reading of Qq. 6-7: 'Makes the night joynt labour with the
+                    day?' The word 'labour' in Qq. 6-7 is obviously an error (shared with Q5 [1637]
+                    and corrected in Q8 [1683]) and the only way in which I can explain the
+                    redundant form 'laborouror' in the Smock Alley PB is to
+                    postulate careless copying from a corrected copy of Q6 (or Q7). The evidence, as
+                    a whole then, suggests considerable but not very systematic use of Qq. 6-7, eked
+                    out, as I shall suggest below, with what the reviser (or revisers) remembered
+                    from London performances. At certain places the handling of the text in the Smock Alley Hamlet
+                    might seem to be more closely connected with eighteenth-century usage than with
+                    that in Q6. The most obvious example is the omission of the dumb show in III.ii
+                    and the changes in the dialogue between Hamlet and Ophelia immediately
+                    following. Actually, however, Q6 here most probably fails to record contemporary
+                    London stage usage, while the Smock Alley PB preserves it, since it is most
+                    unlikely that the direction of influence would have been from Dublin to the
+                    later English stage. Other examples, where the Smock Alley PB may certainly or
+                    probably be interpreted as revealing contemporary
+                     London production or cutting, may be
+                    studied, in the text or collations, at I.i.30-31, 33-34, 70 (discussed below);
+                    I.ii.202-204; I.iii.2-4; I.iv.65; I.v.135, 142, 156; I.ii.489; III.ii.192-195;
+                    IV.i.1-2, 14-23, 25-27; IV.iii.8, 58-70; IV.v.147-148, 152; IV.vii.162; V.i.240
+                    s.d.; V.ii.278. In his article on the Ward prompt-books, Dr. McManaway discusses the method there
+                    followed for getting the Ghost on and off stage in I.i, I.iv-v, and III.iv. It
+                    is clear that a trap was used for the Ghost's exit in I.v and for his entrance
+                    in III.iv. In I.i he seems to have 'stalked' on and off both times. 17 But Dr. McManaway and the late W. J. Lawrence would
+                    like to postulate the use of a trap for entrance and exit in I.i and for
+                    entrance in I.iv on the Elizabethan stage. The Smock Alley Hamlet,
+                    however, does not support this view; no trap seems to have been used in any of
+                    the scenes in question. 18 One piece of 'business' in
+                    I.i should perhaps be particularly noticed since it may have some bearing on the
+                    presentation of the Ghost's two entrances. The quarto and folio texts contain
+                    lines which make it clear that Horatio, Marcellus, and Barnardo are meant to be
+                    seated just before each appearance of the Ghost, but the Smock Alley PB, Ward A
+                    and B, Folger 1703 quarto, the Garrick 1763 text, and the 1734 Tonson text
+                    (though the last does not for some reason appear to cut the reference in line
+                    30) all agree in deleting the several references to sitting. Such a change, of
+                    course, makes it unnecessary to have something 'on stage' upon which the three
+                    men can sit and hence cuts down on stage props, but it is also possible that the
+                    change was made to facilitate the entrance of the Ghost 'OP' or 'PS' instead of
+                    by way of the 'long trap' in the centre of the stage. If this argument may be
+                    allowed any weight, it would imply that a change took place in the Restoration
+                    London staging of this scene, a change not 
+                    reflected in Q6, and that the failure of the Smock Alley PB to employ a trap
+                    entrance for the Ghost need not be interpreted as evidence against Elizabethan
+                    use of the trap in this scene. The Smock Alley Hamlet makes use of a number of the stock scenes, all
+                    but one appearing in several of the other plays: Castle (I.i, iv; IV.vi), Court
+                    (I.ii; II.ii; IV.i, iii, vii; ?V.ii), 19 Chamber
+                    (I.iii; III.iv; IV.ii, v), bed chamber (II.i), Towne (V.i, ii [cancelled]),
+                    Church (V.i.240). The change of scene to 'Church' in V.i at line 240 introduces
+                    a setting not used elsewhere in the Smock Alley prompt-books; moreover a change
+                    of scene at this point, where the original text does not call for it, is
+                    interesting in itself, especially when it is also found in the 1734 Tonson and
+                    1763 Garrick texts, suggesting once again that the Smock Alley Hamlet
+                    reflects Restoration London usage. The scene opens, we may suppose, with the
+                    'graveyard' set up against a flat depicting houses and perhaps the outside of a
+                    church (this 'Towne' setting is employed in five other Smock Alley plays); at
+                    line 240 the scene is drawn, 20 discovering some sort
+                    of 'church interior' out of which the procession with Ophelia's body issues. At
+                    the conclusion of the scene, the scene would be 'closed,' as Hand I indicated
+                    with his setting 'Towne' at the beginning or V.ii. This scene was later
+                    recognized as unsatisfactory and resulted in the cancelling of 'Towne' and the
+                    call for a 'new sceen' by Hand VI. In its handling of the soliloquies the Smock Alley Hamlet is close to Q6
+                    and to most eighteenth-century versions. 21 'To be, or
+                    not to be' and "Tis now the very witching time' escape untouched (though Q6 and
+                    the later versions cut the last three lines of the second); 'Now might I do it
+                    pat' also appears to be uncut, though the Smock Alley PB is imperfect here (Q6
+                    cuts 'Then trip . . . goes:' [93-95], but nothing in the earlier
+                     part of the speech which is missing from
+                    Smock Alley PB); 'How all occasions do inform' is, of course, omitted in the
+                    Folio text and hence in the Smock Alley PB, but in most of the later versions
+                    this speech was also cut entirely. 22 In his attitude toward Shakespeare's language, the reviser (largely Hand II)
+                    honors, for the most part, the modernizations found in the Q6 text. Occasionally
+                    he introduces variants of Q6's forms, 23 and from time
+                    to time makes changes or additions of his own (see, I.ii.64; I.ii. 126, 133-134,
+                    202-204; I.iii.56, 108-109; I.iv.73-74; I.v.91; II.ii.6-12, 15-18;
+                    III.i.173-175; III.ii.146, 149, 152, 153, 154; III.iii.37; III.iv. 19; IV.iii.3,
+                    4, 45, 46-47, 58-70; IV.v.77-94, 94, 101, 103-106, 151, 171, 172; IV.vii.6, 162;
+                    V.ii.294).  &lt;/page&gt;   &lt;page n=10&gt;  The Smock Alley Hamlet has been compared throughout with the following
+                    seven stage versions: (1) the Betterton cutting first published in 1676 (here
+                    represented by a copy of the four-line imprint edition and referred to as Q6);
+                    the remaining quartos (1676, 1683, 1695, 1703) all present essentially the same
+                    text. (2) The 1734 Tonson edition, representing the Wilks' text of 1723
+                    (referred to as 1734). (3) Ward A and (4) Ward B (see Note 3, above). (5) The
+                    first Garrick version, represented by the 1763 edition referred to as 1763. (6)
+                    The autograph Garrick prompt-book of his 1772 version (referred to as Garrick
+                    PB). (7) The 1703 quarto Folger prompt-book, dating sometime after 1772
+                    (referred to as 1703 Folger). 24 The cuts in the
+                    Collier-Perkins Second Folio (1632) have also been compared. 1. A later quarto (Q8, 1683, etc.) is almost certainly ruled out by
+                    (a) the evidence in I.i.78 (see discussion below) and (b) the supporting
+                    evidence of the other related Smock Alley prompt-books. 2. W. S. Clark, The Early Irish Stage (Oxford, 1955), pp.
+                    208-209. The identification of '&lt;?W&gt;illian' in the call at V.ii.153 as
+                    Williams is not, of course, certain. Williams appears elsewhere only in the
+                        Julius Caesar cast, a cast which can be dated as not later than
+                    1676. 3. The nearest contestants are two prompt-books prepared by the actor
+                    John Ward probably around 1745 (hereafter referred to as Ward A [Tudor and
+                    Stuart Club, Johns Hopkins University] and Ward B [Folger Shakespeare Library]).
+                    Ward A makes use of one of the 1676 quartos (four-line imprint); Ward B, of a
+                    copy of the 1683 quarto. See James G. McManaway, "The Two Earliest Prompt Books
+                    of Hamlet," PBSA, XLIII (1949), 288-320. Dr. McManaway dates these two
+                    Ward prompt-books 'shortly after 1740' (p. 310), but Ward's use of Warburton's
+                    emendation 'Hernshaw' at II.ii.398 (Ward A) ) would suggest a date after 1744.
+                    When Dr. McManaway wrote his article, the whereabouts of the Smock Alley
+                        Hamlet was unknown and it is to his kindness that I owe my
+                    knowledge of it.  A copy of the 1703 quarto (Folger Shakespeare
+                    Library, hereafter referred to as 1703 Folger) which shows definite evidence of
+                    stage provenience is much later and can be closely associated with Garrick's
+                    1772 version (see, below, note 22). Another theatre version in the Folger
+                    Library, employing a 1750 Dublin edition of Hamlet, dates from Richard
+                    Daly's management of the Crow Street Theatre, Dublin (i.e. 1788-97). It has
+                    interesting notes on the acting of Hamlet's role, but is not properly speaking a
+                    prompt-book. I have not included it among the theatre versions compared in the
+                    Collations. 4. I have mistakenly described Hand VI as the same as Hand V in
+                        Othello and Hand III in I Henry IV in the General
+                    Introduction, p. 17, found in Volume I, Macbeth. 5. The Folio text lacks roughly 200 lines found in Quarto 2 (1604) and
+                    in all the later quartos, but it also contains about 85 lines not found in the
+                    quarto texts. The large amount of prose in Hamlet further complicates
+                    the counting of lines in texts which range from double column folio to duodecimo
+                    format. 6. See note 3, above. 7. I have not been able to see a copy of the 1751 edition of the first
+                    Garrick version, but C. B. Hogan (Shakespeare in the Theatre, II
+                    (1957), 188) asserts that the 1763 edition is identical with the 1751 edition
+                    'save for minor omissions or restorations.' See Hogan's list of the more
+                    important omissions in the 1751 edition (pp. 187-188).  8. See note 22, below. 9. The 1703 Folger prompt-book cuts about 712 lines through IV.v; the
+                    Garrick prompt-book appears to cut only about 361 lines down to IV.vi, though I
+                    am somewhat suspicious of the apparent lack of cutting in the first four acts in
+                    view of the relationship between the Garrick prompt-book and the 1703 Folger
+                    version.  10. For the evidence establishing the relative order, see the text or
+                    collations at I.i.72-80, 90-96, 99-107; I.ii.17-41; II.i.1-74; II.ii.6-12;
+                    IV.iv.123-125. A third layer of cutting may be indicated by the use of a red
+                    crayon at II.ii.172, 173; III.iv.118-122, V.ii.338.  11. The omission of the dumb show in III.ii (retained by Q6) by Smock
+                    Alley PB would further serve to level the playing time.  12. By this I mean circled passages in which none of the lines has
+                    been separately deleted by being crossed through. There are, in support of the
+                    view that circling also implies cutting, two places where circled passages have
+                    been marked 'stet' (see III.iii.40-64 and III.iv.118-122).  13. My count is based on Alfred Hart's total of 3,761 lines for
+                        Hamlet, with allowance made for the Folio text (see RES,
+                    VIII [1932], 21) .  14. See, for example, I.ii.141, 195; I.iii.7, 20, 46; I.v.187;
+                    II.ii.437; IV.vii.10, 14.  15. See, for example, I.ii.77-81, 195; I.iii.30; I.v.91, 133; II.ii.
+                    553; III.i.30-31; IV.iii.46-47; IV.v.123-125, 147-148; IV.vii.63, 128-129.
+                    Compare the use of the D'Avenant Macbeth in the Smock Alley PB.  16. See, for example, I.v.186; II.i.77, 79; IV.v.123-125, 151;
+                    IV.vii.63.  17. McManaway, op.cit., 315-317. It is interesting
+                    to compare also the handling of these scenes in the 1703 Folger PB. In I.i the
+                    Ghost walks on 'OP' and exits 'PS'; he then re-enters 'PS' and exits 'OP'
+                    (incidentally the 'cock crowing' is here deleted). In I.iv the Ghost walks on
+                    'PS' and exits with Hamlet 'PS', re-entering immediately with Hamlet 'OP'. A
+                    trap, however, is used for his exit, the direction reading 'Ghost sinks PS' (the
+                    understage swearing is here cut to a single 'Swear' on the Ghost's part at line
+                    149, lines 150-163 being deleted). In III.iv the Ghost walks on 'OPd' and off
+                    (his exit position not noted since he only appears and does not move).  18. That the Smock Alley theatre was equipped for trap appearances is
+                    proved by two such entrances in the Smock Alley prompt-book of Wilson's
+                        Belphegor (c. 1677), a play more or less exactly
+                    contemporary with the Smock Alley Hamlet. 19. V.ii was originally marked 'Towne' (Hand I), but this was crossed
+                    through and altered to 'new sceen' (Hand VII), by which is meant probably the
+                    'Court' scene (Hand I having originally suggested a change of scene to 'Court'
+                    at line 235, also crossed through).  20. Compare the s.d. in the 1734 Tonson version: 'Scene draws, and
+                    discovers the King, Queen, Laertes and - Priest, with a Corse.' Rowe
+                    describes the whole setting of V.i as 'SCENE A Church.' 21. See Hazelton Spencer, 'Hamlet under the Restoration,'
+                        PMLA, XXXVIII (1923), 770-791, and 'Seventeenth-Century Cuts in
+                    Hamlet's Soliloquies,' RES, IX (1933), 257-265. G. W. Stone, Jr.
+                    ('Garrick's Alteration of Hamlet,' PMLA, XLIX [1934], 890-921) also
+                    offers some interesting figures on cutting in several eighteenth-century printed
+                    versions.  22. First restored in Garrick's 1772 version (see Stone, op.cit.,
+                        p. 903). It is also restored (and arranged as in the Garrick version,
+                    except that Rosincrantz takes the Captain's place instead of Guildenstern) in
+                    the 1703 Folger PB, which concludes IV.iv and begins IV.v as follows (beginning
+                    with line 59) :  "And let all sleep, Awake my Soul awake! 
+                    Wake Nature, Manhood Vengeance [wake deleted;] rouse at once 
+                    My Father's Spirit calls! the hour is come!  From this time forth--My
+                    thoughts be bloody all  I'll fly my Keepers--Sweep to my Revenge.
+                     Exit PS. Scene Enter King &amp; Queen PS.  King:
+                    See where She comes--it is a piteous Sight. Queen. O She Cleaves my heart--her distemperd mind 
+                    Communicates Infection to my own. Enter Ophelia distracted Where is the beauteous &amp;c"  The
+                    connection with Garrick's concluding lines in Hamlet's soliloquy is obvious: 'O
+                    from this Time forth,/ My Thoughts be bloody all! the hour is come-- / I'll fly
+                    my Keepers--sweep to my revenge.' (see Stone, op.cit., p. 912). On the
+                    other hand, the beginning of Garrick's equivalent of IV.v shows no connection
+                    with the opening lines as given in the 1703 Folger PB. Later in IV.v, however,
+                    we find 1703 Folger PB following Garrick's insertion of lines 203-219 ('go but .
+                    . . with me.') after line 152 ('.. . your eye.'). These points of contact with
+                    Garrick's 1772 version explain why the prompt-markings stop with the end of
+                    IV.v, what little remains in Garrick's version having been separately copied out
+                    by the prompter (and since lost). The fact that the lines quoted from the
+                    conclusion of Hamlet's soliloquy (IV.iv) agree exactly with the conclusion of
+                    that soliloquy as quoted by the younger Boswell (Boswell's edition of Malone's
+                        Shakespeare, 1821, II, 692) from another copy of the 1703 quarto
+                    prepared by William Hopkins, Garrick's prompter (see Stone, op.cit., p.
+                    891) would suggest perhaps that this version, rather than that quoted directly
+                    from Garrick's autograph copy by Stone (op.cit., p. 912), was the final
+                    stage form and that the opening lines inserted in the 1703 Folger PB for IV.v
+                    also represent Garrick's final version. If this is so, then the 1703 Folger
+                    version deserves further study since a number of the earlier cuts agree only in
+                    part with the cuts listed by Stone for Garrick's adaptation.  23. See Note 14, above.  24. The version in Bell's Shakespeare (1773), Vol.III, is
+                    essentially a reprint of the 1751 Garrick text.   &lt;/page&gt;   &lt;page n=11&gt; </field><field name="file_s">ShaHamP</field></doc></add>

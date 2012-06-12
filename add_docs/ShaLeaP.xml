@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8 (King Lear) [a
+          machine-readable transcription] </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 8 (King Lear) [a
+          machine-readable transcription] Shakespeare, William Creation of machine-readable version: Electronic Text Center, University of Virginia Creation of digital images: Electronic Text Center, University of Virginia Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. 55 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographic Society, ShaLeaP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1997 Shakespearean prompt-books of the seventeenth century The electronic text contains the Introduction and the Collations. The selected pages
+          of the Prompt-Book included in this Volume have been rendered as images. Shakespearean prompt-books of the seventeenth century, vol. 8 William Shakespeare Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype facsimile. Bibliographical Society of the University of Virginia Charlottesville, VA 1996 Print copy consulted: First Edition provided by the BSUVA Shakespearean prompt-books of the seventeenth century In Memoriam Fredson T. Bowers  Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a word
+          has been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general use, and
+          thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in establishing
+          analytical groupings. Library of Congress Subject Headings  1960-1996 English drama; prose LCSH 24-bit color; 400 dpi  July 1997 corrector Catherine Tousignant, Electronic Text Center Corrected various transcription errors May 1997 corrector Michele Ierardi, Electronic Text Center Added TEI header </field><field name="file_s">ShaLeaP</field></doc><doc><field name="id">d1e139</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8 (King Lear) [a
+          machine-readable transcription] </field><field name="fulltext_t">Image of the spine: Shakespearean Prompt-Books, Vol. VIIIImage of the cover, part 1: Shakespearean Prompt-Books, Vol. VIII: King Lear,
+              Henry VIII, The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The
+              Winter's TaleImage of the titlepage, part 1: Shakespearean Prompt-Books, Vol. VIII: King
+              Lear, Henry VIII, The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The
+              Winter's Tale   SHAKESPEAREAN PROMPT-BOOKS of the SEVENTEENTH
+            CENTURY  Vol. VIII King Lear, Henry VIII,The Merry Wives of WindsorTwelfth Night, The Comedy of ErrorsThe Winter's TaleEdited byG. Blakemore Evans A Publication ofThe Bibliographical Society of the University of Virginia
+            Charlottesville1996   &lt;page n=ii&gt;&lt;ID&gt;ShaLeaPii&lt;/ID&gt;  In memoriam Fredson T. Bowers   &lt;/page&gt;   &lt;page n=iii&gt;&lt;ID&gt;ShaLeaPiii&lt;/ID&gt;   Contents Prefatory Note.............................v  The Smock Alley King Lear Introduction ............................ 1  Collations .................................5  Partial Text ............................15  The Smock Alley Henry VIIIIntroduction ...........................17 Collations............................... 21 Partial Text.............................36  The Smock Alley Merry Wives of Windsor Introduction ...........................41  Collations .............................. 45  Partial Text ............................57  The Smock Alley Twelfth Night and the Folger Second Folio Twelfth
+              NightIntroduction ........................59 Collations ............................64 Partial Text ..........................70  The Smock Alley Comedy of ErrorsIntroduction ..........................73 Collations ..............................77 Partial Text ............................87  The Smock Alley The Winter's TaleIntroduction ...........................89 Collations................................91 Partial Text..............................95   &lt;/page&gt;   &lt;page n=v&gt;&lt;ID&gt;ShaLeaPv&lt;/ID&gt;   Prefatory Note THE present volume, the eighth and last, essentially completes the series I began in
+          1960, Shakespearean Prompt-Books of the Seventeenth Century . 
+            [1] The format of this volume, however, differs substantially from that of the
+          earlier volumes, a format designed to make it possible to include in a single volume the
+          remaining six, hitherto unedited, Smock Alley prompt-books (King Lear, Henry VIII, The
+            Merry Wives of Windsor, Twelfth Night, The Comedy of Errors, and The Winter's
+            Tale) and a second prompt-book (Folger Second Folio) of Twelfth Night of
+          unknown provenience. The reason for this change of format is simple enough: none of these
+          seven prompt-books (with the exception of Henry VIII , in which the great
+          majority of the prompt notations, however interesting, would be illegible if completely
+          reproduced in facsimile) sheds sufficient new light on the special characteristics of
+          Restoration prompt-books to warrant separate treatment of the kind accorded the Smock
+          Alley Hamlet (Vol. IV), Macbeth (Vol. V), Othello (Vol. VI),
+          and A Midsummer Night's Dream (Vol. VII), in which, in addition to a facsimile of
+          the whole prompt-book (Part ii), a transcription of all prompt notations was included
+          (Part i). Moreover, three of these prompt-books (The Comedy of Errors , although
+          considerably adapted for substantial shortening, The Winter's Tale , and the
+          Folger Second Folio Twelfth Night ) are only cuttings of the plays preliminary to
+          the preparation of a functional prompt-book, a category into which the Smock Alley
+            King Lear may also possibly fall.  The format here adopted for each play arranges, where applicable, the prompt notations,
+          not in seriatim order as in earlier volumes, but in nine categories: (1)
+            Scene settings ; (2) Act notations ; (3) Actors named for  comparatively minor roles  (Henry
+            VIII only); (4) Stage properties ; (5) Sound effects ; (6)
+            Advance character calls (see below); (7) F (= Third Folio) stage directions
+            altered; new stage directions added; (8) Textual cuts; (9) Textual
+            changes . In only three respects, none of them except the third of significance, is
+          the new format less complete than that followed in the earlier volumes: (1) advance
+          character calls are generally not included in the collations, although any anomalies in
+          such calls are noted and discussed under that heading; (2) the record of the "corrections"
+          inserted in several of the Smock Alley prompt-books (here, Lear, Merry Wives, Twelfth
+            Night ) by a late eighteenth-century hand, and derived for the most part from
+          editions of Shakespeare's works (from Rowe [1709] through Jennens [1770]), is selective,
+          since there is no evidence that associates this meddling hand with either Smock Alley or
+          the theatre; (3) only one to three pages of each prompt-book are reproduced in facsimile,
+          pages chosen to illustrate the one or more prompt-hands that worked on the various stages
+          through which a prompt-book might pass.  The seven prompt-books referred to above are now in the Folger Shakespeare Library,
+          Washington D.C., and are here discussed, analyzed, and partially reproduced by the kind
+          permission of the Trustees.  My special thanks are more than due to Ruthe Battestin and Penelope F. Weiss of the
+          Bibliographical Society of the University of Virginia and to Gerald Trett, my press
+          editor, who, uncomplainingly and charitably, turned an untidy and too often inconsistent
+          manuscript into publishable form.  Finally, I must thank my wife for her support and kind forbearance over this long
+          eight-volume haul (1960-1996). G. B. E.  The facsimile pages are reproduced by permission of the Folger Shakespeare Library.  1. The Smock Alley prompt-books of I and 2 Henry I V are
+          not included in the series. Until comparatively recently they were known only through a
+          fragment of I Henry IV in the Folger Shakespeare Library (see Shakespearean
+            PromptBooks of the Seventeenth Century , Vol. I: Part i (1960), p. 20), but about
+          1969 a considerable number of similar fragments of both plays (the butchery being the
+          unholy work of Halliwell-Phillipps to whom these prompt-books at one time belonged) were
+          discovered by Gunnar Sorelius in the Shakespeare Memorial Library in Stratford-upon-Avon;
+          see his article "The Smock Alley Prompt-Books of I and II Henry IV ,"
+            Shakespeare Quarterly , 22 (1971), 111- 128, in which these prompt-books are
+          discussed in considerable detail. </field><field name="file_s">ShaLeaP</field></doc><doc><field name="id">d1e401</field><field name="section_s">introduction</field><field name="title_s"> Smock Alley King Lear Third Folio Introduction </field><field name="fulltext_t"> Smock Alley King Lear Third Folio Introduction  ALTHOUGH the Smock Alley provenience of this King Lear prompt-book (PB), based
+          on a copy of the Third Folio (F) text, is proved by the appearance in it of two
+          prompt-hands common to some other seventeenth-century Smock Alley prompt-books (see
+          below), no exact dating limits, in the absence of any actors names among the prompt
+          notations, can be suggested. There is, however, one peculiar feature of the Lear
+          PB that makes it probable that the production for which it was prepared, though almost
+          certainly before 1700, was after 1681, the year in which Nahum Tate's notorious but
+          long-lived adaptation of Shakespeare's play was first acted and published. [1] Tate, among other less radical "improvements," invented a love
+          affair between Cordelia and Edgar (thus eliminating Cordelia's marriage to the French
+          king), cut out the role of the Fool (not restored until 1838), and, in a "happy"
+          denouement, turned the play from a tragedy into a kind of tragicomedy by allowing Lear,
+          Cordelia, and Gloucester to remain alive: Lear and Gloucester,  along with Kent, totter off to 'some cool Cell' to
+          reflect on 'our Fortunes past, / Cheer'd with relation of the prosperous Reign / Of this
+          celestial Pair [Cordelia and Edgar]'. The Smock Alley prompt-book shows no evidence,
+          structural or verbal, of influence from Tate's version until the final scene (V.iii). At
+          this point all advance character calls suddenly cease, the last such call being for Edgar
+          and Gloucester (at V.i.54) in preparation for their entry at the beginning of V.ii. The
+          cessation of advance calls at this particular point suggests, strongly, I think, despite a
+          few cuts by Hand II in V.iii, that Hand I (see below) intended to conclude the play with a
+          somewhat adapted version of Tate's "happy ending." Bizarre, even unlikely, as this may
+          sound, it is, in fact, exactly what George Colman concocted (except for much heavier
+          cutting, some occasional Tateification, and the omission of the Fool) in his alteration of
+            Lear first performed in 1768, restoring Cordelia's marriage to the French king
+          and omitting Tate's sentimental love business between Cordelia and Edgar. [2]  Three hands can clearly be distinguished in the Lear PB, two prompt-hands and a third
+          intrusive late eighteenth-century hand. Hand I, which appears also in the Smock Alley
+            Hamlet (Hands I and II) [3]Macbeth (Hands I and II), Twelfth Night (Hand I), Henry VIII
+          (Hand I), Othello (Hand II), and I Henry IV (Hand II), is responsible
+          for the scene notations, the advance character calls and sound effects, and for the
+          restoration of two cuts made by Hand II. Hand II, which appears also in the Smock Alley
+            Henry VIII (Hand II) and perhaps in Hamlet (Hand V) initially (i.e.,
+          before Hand I's work) went through the play circling lines, phrases, and single words for
+          cutting, occasionally substituting new readings for words that struck him as archaic or
+          "hard." Hand III, which also meddled in the Smock Alley Hamlet (Hand IV),
+            Midsummer Night's Dream (Hand II), Twelfth Night (Hand II), and
+            Merry Wives of Windsor (Hand II), inserts emended readings drawn from
+          eighteenth-century editors from Rowe (1709) through Jennens (1770),
+            [4] as well as a number  of apparently original readings.
+            [5] There is no reason to think that Hand III has any connection with the
+          prompt-book's earlier Smock Alley provenience. Hand III's work disappears after II.iv.
+          What may be a fourth hand (though possibly Hand I) may be responsible for the emended
+          reading at III.i.22-25.   The Lear PB is very lightly cut. Of the roughly 2,920 lines in the Folio text,
+          Hand II marks for deletion only 123 lines and 40 half-lines (plus a few phrases and single
+          words), and Hand I restores 11 of those lines, leaving a play (taking the 40 half-lines as
+          equivalent to 20 lines) of roughly 2,777 lines, [6] comparable in
+          length to the Smock Alley Hamlet (2,806) and Othello (2,808), the later
+          theatre texts of David Garrick (2,318; first acted 1756; first printed in John Bell's
+            Shakespeare's Plays, As they are now performed at the Theatres Royal in London
+          , Vol. II, 1773), George Colman (2,171; first acted and printed 1768), and John Philip
+          Kemble (2,009; first acted and printed 1795, here consulted in Mrs. Inchbald's British
+            Theatre , Vol. IV, 1808). [7]  Except for the postulated substitution of some form of Tate's "happy ending," discussed
+          above, the Smock Alley Lear (discounting Hand III's much later meddling) shows no
+          significant points of contact, verbally or in cutting, with either Tate's adaptation  or the three acting texts referred to above, and they
+          share with the prompt-book only a single scene setting (at IV.vii). All settings are stock
+          and appear in other Smock Alley promptbooks. [8]  Certain characteristics of the Lear PB may perhaps suggest that, like the Smock
+          Alley Midsummer Night's Dream, Comedy of Errors , and Winter's Tale , it
+          was laid aside and never reached actual production: (1) the absence of actors' names among
+          the prompt notes (contrast the Smock Alley Macbeth, Hamlet, Othello, Henry VIII,
+          and I and 2 Henry I V );  [9] (2) the failure
+          of Hand I (or some other hand) to insert advance warnings for a number of sound effects
+          called for by the Folio stage directions (see Sound effects ); and (3) the
+          absence of secondary cutting (contrast Smock Alley Macbeth, Hamlet, and
+            Othello ). [10] Although none of these points is
+          necessarily conclusive against stage production, the second being the strongest, taken
+          together they leave the final status of the Lear PB to some degree at least
+          questionable.   1. In any event, since only two London performances of Shakespeare's
+            Lear , which was assigned to the Duke's Company in 1660, are recorded (1664/65
+          and 1675) before Tate's 1681 adaptation and since Smock Alley tended to take its cue from
+          London successes, it is probably unlikely that Lear would have been seriously
+          considered for production before 1681.   2. In 1823 Edmund Kean reversed Colman's arrangement and tacked Shakespeare's
+          tragic denouement (V.iii) onto a text that was basically pure Tate, including the
+          Cordelia-Edgar love affair. For Kean's acting text, see Cumberland's British
+            Theatre , Vol. VI (1826).   3. In Vol. VI: Part i, of this series, p. 4, note 19, I declared that the
+          hands described as A and C (see the General Introduction, Vol. I: Part i, of this series,
+          p. 17) were in fact a single hand. I have allowed this decision to stand, but I should
+          warn the reader that I am no longer entirely convinced that Hands A and C should be
+          treated as one.   4. See Vol. I: Part i, of this series, pp. 15-16. I there described Hand III
+          as mid-eighteenth century, but the Lear PB shows that Hand III worked on the
+          Smock Alley prompt-books, or at least on this prompt-book, sometime after 1770, since he
+          appears to make use of Charles Jennens' edition of Lear published in that year.
+          Jennens was the first editor to publish a record of most of the Qq variants and the
+          emendations of editors from Rowe through Johnson (Capell's similar record, though compiled
+          earlier than Jennens', was not published until 1779). Five of Hand III's readings are
+          peculiar to Hanmer's text, which was first published in 1743 (I.i.15, II.i. 94, 97, 111
+          [not included in the collations], and II.i.70-74 [see Textual cuts ]), but Hand
+          III may have picked them up from Jennens' textual notes.   5. Three of Hand III's readings (II.i.96 [see Textual cuts ], 99
+          [see Textual changes ], 125 [see Textual cuts ]) appear elsewhere only
+          in the so-called Collier MS (see J. P. Collier's Notes and Emendations , 1852)
+          and in Collier's 1853 edition (the third reading was later adopted by Alexander Schmidt,
+          1879). Since the Collier MS (i.e., manuscript readings, supposedly contemporary, inserted
+          in what is known as the Perkins Second Folio [1632] by Collier himself) is a
+          mid-nineteenth-century forgery, it is tempting, though coincidence is barely possible, to
+          suppose that Collier had had access to the Smock Alley Third Folio (1663/64) and purloined
+          these three readings from the Lear PB. Collier may also have taken a hint from
+          Hand III's reading at I.i.230 (see Textual changes ).   6. My line-count is based on Alfred Hart's total (with allowance made for the
+          Folio text) of 3,205 lines for Lear (see Review of English Studies , 8 [1932],
+          21) The total of 2,777 for the Lear PB like the following totals for Hamlet,
+            Othello , Tate's adaptation, and the three theatre versions, is, given the
+          considerable amount of prose in these texts, necessarily somewhat of a rough estimate.   7. See C. B. Hogan, Shakespeare in the Theatre 1701-1800 , I (1952),
+          44; II (1957), 333-335.   8. See Vol. I: Part i, of this series, pp. 23-24.   9. For a full account of the Smock Alley I and II Henry IV
+          , see Gunnar Sorelius, "The Smock Alley Prompt-Books of I and 2 Henry I
+            V ," Shakespeare Quarterly, 22 (1971), 111-128. When I wrote (1960) my
+          General Introduction to this series (Vol. I: Part i, p. 20), I knew only of a single
+          fragment of I Henry IV preserved in the Folger Shakespeare Library. For further
+          comment on Sorelius' important discovery, see Vol. VI: Part i, of this series, p.2, note
+          4.   10. In this connection, it should be noted that the Smock Alley Henry
+            VIII PB, although it contains at least four actors' names and seems to show other
+          evidence of actual stage presentation, is without scene notations and omits some of the
+          sound effects.   &lt;/page&gt;   &lt;page n=5&gt;&lt;ID&gt;ShaLeaP5&lt;/ID&gt; </field><field name="file_s">ShaLeaP</field></doc></add>

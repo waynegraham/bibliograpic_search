@@ -1,0 +1,1499 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[  
+<!NOTATION jpg SYSTEM "JPEG">  
+  
+<!ENTITY mbe-p131 SYSTEM "mbe-p131.jpg" NDATA jpg>  
+<!ENTITY mbe-p132 SYSTEM "mbe-p132.jpg" NDATA jpg>  
+<!ENTITY mbe-p133 SYSTEM "mbe-p133.jpg" NDATA jpg>  
+<!ENTITY mbe-p134 SYSTEM "mbe-p134.jpg" NDATA jpg>  
+<!ENTITY mbe-p135 SYSTEM "mbe-p135.jpg" NDATA jpg>  
+<!ENTITY mbe-p136 SYSTEM "mbe-p136.jpg" NDATA jpg>  
+<!ENTITY mbe-p137 SYSTEM "mbe-p137.jpg" NDATA jpg>  
+<!ENTITY mbe-p138 SYSTEM "mbe-p138.jpg" NDATA jpg>  
+<!ENTITY mbe-p139 SYSTEM "mbe-p139.jpg" NDATA jpg>  
+<!ENTITY mbe-p140 SYSTEM "mbe-p140.jpg" NDATA jpg>  
+<!ENTITY mbe-p141 SYSTEM "mbe-p141.jpg" NDATA jpg>  
+<!ENTITY mbe-p142 SYSTEM "mbe-p142.jpg" NDATA jpg>  
+<!ENTITY mbe-p143 SYSTEM "mbe-p143.jpg" NDATA jpg>  
+<!ENTITY mbe-p144 SYSTEM "mbe-p144.jpg" NDATA jpg>  
+<!ENTITY mbe-p145 SYSTEM "mbe-p145.jpg" NDATA jpg>  
+<!ENTITY mbe-p146 SYSTEM "mbe-p146.jpg" NDATA jpg>  
+<!ENTITY mbe-p147 SYSTEM "mbe-p147.jpg" NDATA jpg>  
+<!ENTITY mbe-p148 SYSTEM "mbe-p148.jpg" NDATA jpg>  
+<!ENTITY mbe-p149 SYSTEM "mbe-p149.jpg" NDATA jpg>  
+<!ENTITY mbe-p150 SYSTEM "mbe-p150.jpg" NDATA jpg>  
+<!ENTITY mbe-p151 SYSTEM "mbe-p151.jpg" NDATA jpg>  
+<!ENTITY mbe1244 SYSTEM "mbe1244.jpg" NDATA jpg>  
+<!ENTITY mbe1267 SYSTEM "mbe1267.jpg" NDATA jpg>  
+<!ENTITY mbe12open SYSTEM "mbe12open.jpg" NDATA jpg>  
+<!ENTITY mbe13137 SYSTEM "mbe13137.jpg" NDATA jpg>  
+<!ENTITY mbe1329 SYSTEM "mbe1329.jpg" NDATA jpg>  
+<!ENTITY mbe1337 SYSTEM "mbe1337.jpg" NDATA jpg>  
+<!ENTITY mbe1388 SYSTEM "mbe1388.jpg" NDATA jpg>  
+<!ENTITY mbe1413 SYSTEM "mbe1413.jpg" NDATA jpg>  
+<!ENTITY mbe1444 SYSTEM "mbe1444.jpg" NDATA jpg>  
+<!ENTITY mbe1457 SYSTEM "mbe1457.jpg" NDATA jpg>  
+<!ENTITY mbe14open SYSTEM "mbe14open.jpg" NDATA jpg>  
+<!ENTITY mbe1530 SYSTEM "mbe1530.jpg" NDATA jpg>  
+<!ENTITY mbe1555 SYSTEM "mbe1555.jpg" NDATA jpg>  
+<!ENTITY mbe1631 SYSTEM "mbe1631.jpg" NDATA jpg>  
+<!ENTITY mbe169 SYSTEM "mbe169.jpg" NDATA jpg>  
+<!ENTITY mbe16open SYSTEM "mbe16open.jpg" NDATA jpg>  
+<!ENTITY mbe1724 SYSTEM "mbe1724.jpg" NDATA jpg>  
+<!ENTITY mbe1725 SYSTEM "mbe1725.jpg" NDATA jpg>  
+<!ENTITY mbe175 SYSTEM "mbe175.jpg" NDATA jpg>  
+<!ENTITY mbe1750 SYSTEM "mbe1750.jpg" NDATA jpg>  
+<!ENTITY mbe1760 SYSTEM "mbe1760.jpg" NDATA jpg>  
+<!ENTITY mbe1781 SYSTEM "mbe1781.jpg" NDATA jpg>  
+<!ENTITY mbe17open SYSTEM "mbe17open.jpg" NDATA jpg>  
+<!ENTITY mbe2160 SYSTEM "mbe2160.jpg" NDATA jpg>  
+<!ENTITY mbe217 SYSTEM "mbe217.jpg" NDATA jpg>  
+<!ENTITY mbe2256 SYSTEM "mbe2256.jpg" NDATA jpg>  
+<!ENTITY mbe2263 SYSTEM "mbe2263.jpg" NDATA jpg>  
+<!ENTITY mbe2268 SYSTEM "mbe2268.jpg" NDATA jpg>  
+<!ENTITY mbe2272 SYSTEM "mbe2272.jpg" NDATA jpg>  
+<!ENTITY mbe228 SYSTEM "mbe228.jpg" NDATA jpg>  
+<!ENTITY mbe22open SYSTEM "mbe22open.jpg" NDATA jpg>  
+<!ENTITY mbe231 SYSTEM "mbe231.jpg" NDATA jpg>  
+<!ENTITY mbe23100 SYSTEM "mbe23100.jpg" NDATA jpg>  
+<!ENTITY mbe2325 SYSTEM "mbe2325.jpg" NDATA jpg>  
+<!ENTITY mbe2347 SYSTEM "mbe2347.jpg" NDATA jpg>  
+<!ENTITY mbe2355 SYSTEM "mbe2355.jpg" NDATA jpg>  
+<!ENTITY mbe2368 SYSTEM "mbe2368.jpg" NDATA jpg>  
+<!ENTITY mbe2384 SYSTEM "mbe2384.jpg" NDATA jpg>  
+<!ENTITY mbe2390 SYSTEM "mbe2390.jpg" NDATA jpg>  
+<!ENTITY mbe2394 SYSTEM "mbe2394.jpg" NDATA jpg>  
+<!ENTITY mbe23open SYSTEM "mbe23open.jpg" NDATA jpg>  
+<!ENTITY mbe2420 SYSTEM "mbe2420.jpg" NDATA jpg>  
+<!ENTITY mbe2441 SYSTEM "mbe2441.jpg" NDATA jpg>  
+<!ENTITY mbe24open SYSTEM "mbe24open.jpg" NDATA jpg>  
+<!ENTITY mbe31141 SYSTEM "mbe31141.jpg" NDATA jpg>  
+<!ENTITY mbe3134 SYSTEM "mbe3134.jpg" NDATA jpg>  
+<!ENTITY mbe3138 SYSTEM "mbe3138.jpg" NDATA jpg>  
+<!ENTITY mbe3143 SYSTEM "mbe3143.jpg" NDATA jpg>  
+<!ENTITY mbe3148 SYSTEM "mbe3148.jpg" NDATA jpg>  
+<!ENTITY mbe3166 SYSTEM "mbe3166.jpg" NDATA jpg>  
+<!ENTITY mbe3168 SYSTEM "mbe3168.jpg" NDATA jpg>  
+<!ENTITY mbe3171 SYSTEM "mbe3171.jpg" NDATA jpg>  
+<!ENTITY mbe3172 SYSTEM "mbe3172.jpg" NDATA jpg>  
+<!ENTITY mbe318 SYSTEM "mbe318.jpg" NDATA jpg>  
+<!ENTITY mbe3215 SYSTEM "mbe3215.jpg" NDATA jpg>  
+<!ENTITY mbe326 SYSTEM "mbe326.jpg" NDATA jpg>  
+<!ENTITY mbe32open SYSTEM "mbe32open.jpg" NDATA jpg>  
+<!ENTITY mbe3314 SYSTEM "mbe3314.jpg" NDATA jpg>  
+<!ENTITY mbe338 SYSTEM "mbe338.jpg" NDATA jpg>  
+<!ENTITY mbe339 SYSTEM "mbe339.jpg" NDATA jpg>  
+<!ENTITY mbe33open SYSTEM "mbe33open.jpg" NDATA jpg>  
+<!ENTITY mbe3410 SYSTEM "mbe3410.jpg" NDATA jpg>  
+<!ENTITY mbe3436 SYSTEM "mbe3436.jpg" NDATA jpg>  
+<!ENTITY mbe347 SYSTEM "mbe347.jpg" NDATA jpg>  
+<!ENTITY mbe3487 SYSTEM "mbe3487.jpg" NDATA jpg>  
+<!ENTITY mbe34open SYSTEM "mbe34open.jpg" NDATA jpg>  
+<!ENTITY mbe3532 SYSTEM "mbe3532.jpg" NDATA jpg>  
+<!ENTITY mbe3535 SYSTEM "mbe3535.jpg" NDATA jpg>  
+<!ENTITY mbe3536 SYSTEM "mbe3536.jpg" NDATA jpg>  
+<!ENTITY mbe35conc SYSTEM "mbe35conc.jpg" NDATA jpg>  
+<!ENTITY mbe35open SYSTEM "mbe35open.jpg" NDATA jpg>  
+<!ENTITY mbe41110 SYSTEM "mbe41110.jpg" NDATA jpg>  
+<!ENTITY mbe41131 SYSTEM "mbe41131.jpg" NDATA jpg>  
+<!ENTITY mbe41134 SYSTEM "mbe41134.jpg" NDATA jpg>  
+<!ENTITY mbe41146 SYSTEM "mbe41146.jpg" NDATA jpg>  
+<!ENTITY mbe4142 SYSTEM "mbe4142.jpg" NDATA jpg>  
+<!ENTITY mbe4147 SYSTEM "mbe4147.jpg" NDATA jpg>  
+<!ENTITY mbe4167 SYSTEM "mbe4167.jpg" NDATA jpg>  
+<!ENTITY mbe4175 SYSTEM "mbe4175.jpg" NDATA jpg>  
+<!ENTITY mbe4186 SYSTEM "mbe4186.jpg" NDATA jpg>  
+<!ENTITY mbe41open SYSTEM "mbe41open.jpg" NDATA jpg>  
+<!ENTITY mbe4217 SYSTEM "mbe4217.jpg" NDATA jpg>  
+<!ENTITY mbe4236 SYSTEM "mbe4236.jpg" NDATA jpg>  
+<!ENTITY mbe4264 SYSTEM "mbe4264.jpg" NDATA jpg>  
+<!ENTITY mbe4279 SYSTEM "mbe4279.jpg" NDATA jpg>  
+<!ENTITY mbe42open SYSTEM "mbe42open.jpg" NDATA jpg>  
+<!ENTITY mbe43120 SYSTEM "mbe43120.jpg" NDATA jpg>  
+<!ENTITY mbe43139 SYSTEM "mbe43139.jpg" NDATA jpg>  
+<!ENTITY mbe43149 SYSTEM "mbe43149.jpg" NDATA jpg>  
+<!ENTITY mbe43158 SYSTEM "mbe43158.jpg" NDATA jpg>  
+<!ENTITY mbe432 SYSTEM "mbe432.jpg" NDATA jpg>  
+<!ENTITY mbe43213 SYSTEM "mbe43213.jpg" NDATA jpg>  
+<!ENTITY mbe43235 SYSTEM "mbe43235.jpg" NDATA jpg>  
+<!ENTITY mbe43240 SYSTEM "mbe43240.jpg" NDATA jpg>  
+<!ENTITY mbe4366 SYSTEM "mbe4366.jpg" NDATA jpg>  
+<!ENTITY mbe43open SYSTEM "mbe43open.jpg" NDATA jpg>  
+<!ENTITY mbe5120 SYSTEM "mbe5120.jpg" NDATA jpg>  
+<!ENTITY mbe52open SYSTEM "mbe52open.jpg" NDATA jpg>  
+<!ENTITY mbe5319 SYSTEM "mbe5319.jpg" NDATA jpg>  
+<!ENTITY mbe5320 SYSTEM "mbe5320.jpg" NDATA jpg>  
+<!ENTITY mbe538 SYSTEM "mbe538.jpg" NDATA jpg>  
+<!ENTITY mbe53open SYSTEM "mbe53open.jpg" NDATA jpg>  
+<!ENTITY mbe54open SYSTEM "mbe54open.jpg" NDATA jpg>  
+<!ENTITY mbe5513 SYSTEM "mbe5513.jpg" NDATA jpg>  
+<!ENTITY mbe5524 SYSTEM "mbe5524.jpg" NDATA jpg>  
+<!ENTITY mbe5527 SYSTEM "mbe5527.jpg" NDATA jpg>  
+<!ENTITY mbe556 SYSTEM "mbe556.jpg" NDATA jpg>  
+<!ENTITY mbe55open SYSTEM "mbe55open.jpg" NDATA jpg>  
+<!ENTITY mbe56open SYSTEM "mbe56open.jpg" NDATA jpg>  
+<!ENTITY mbe5711 SYSTEM "mbe5711.jpg" NDATA jpg>  
+<!ENTITY mbe5713 SYSTEM "mbe5713.jpg" NDATA jpg>  
+<!ENTITY mbe5723 SYSTEM "mbe5723.jpg" NDATA jpg>  
+<!ENTITY mbe5729 SYSTEM "mbe5729.jpg" NDATA jpg>  
+<!ENTITY mbe574 SYSTEM "mbe574.jpg" NDATA jpg>  
+<!ENTITY mbe57open SYSTEM "mbe57open.jpg" NDATA jpg>  
+<!ENTITY mbe583 SYSTEM "mbe583.jpg" NDATA jpg>  
+<!ENTITY mbe5834 SYSTEM "mbe5834.jpg" NDATA jpg>  
+<!ENTITY mbe5852 SYSTEM "mbe5852.jpg" NDATA jpg>  
+<!ENTITY mbe5859 SYSTEM "mbe5859.jpg" NDATA jpg>  
+<!ENTITY mbe588 SYSTEM "mbe588.jpg" NDATA jpg>  
+<!ENTITY mbe58open SYSTEM "mbe58open.jpg" NDATA jpg>  
+<!ENTITY mbespine SYSTEM "mbespine.jpg" NDATA jpg>  
+<!ENTITY mbe1co SYSTEM "mbe1co.jpg" NDATA jpg>  
+<!ENTITY mbe1ti SYSTEM "mbe1ti.jpg" NDATA jpg>  
+<!ENTITY mbe2co SYSTEM "mbe2co.jpg" NDATA jpg>  
+<!ENTITY mbe2ti SYSTEM "mbe2ti.jpg" NDATA jpg>  
+  
+  
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;  
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;  
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;  
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;  
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;  
+]>  
+<TEI.2>  
+<teiHeader>  
+<fileDesc>  
+<titleStmt>  
+<title>Shakespearean prompt-books of the seventeenth century, vol. 1  
+(Padua Macbeth) [a machine-readable transcription]  
+</title>  
+<author>Shakespeare, William  
+</author>  
+<respStmt>  
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Electronic Text Center  
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Electronic Text Center  
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>University of Virginia Library Electronic Text Center.  
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>60 kilobytes  
+</extent>  
+<publicationStmt>  
+<publisher>University of Virginia Library.  
+</publisher>  
+<pubPlace>Charlottesville, Va.  
+</pubPlace>  
+<idno>Bibliographic Society, ShaMbeP  
+</idno>  
+<availability>  
+<p>Publicly-accessible  
+</p>  
+<p n=public>URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 
+</p>  
+</availability>  
+<date>1997  
+</date>  
+</publicationStmt>  
+<seriesStmt>  
+<p>Shakespearean prompt-books of the seventeenth century.  
+</p>  
+</seriesStmt>  
+<notesStmt>  
+<note>The electronic text contains the Introduction and the  
+Collations.  The prompt-book is rendered as page images.  
+</note>  
+<note>Images of the manuscript have been included from volume 1, part 2.  
+</note>  
+</notesStmt>  
+<sourceDesc>  
+<biblFull>  
+<titleStmt>  
+<title>Shakespearean prompt-books of the seventeenth century, vol. 1  
+(Padua Macbeth)  
+</title>  
+<author>William Shakespeare  
+</author>  
+<respStmt>  
+<resp>Editor  
+</resp>  
+<name>G. Blakemore Evans  
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt>  
+<p>Issued in portfolios. The prompt-books are reproduced in collotype facsimile.  
+</p>  
+</editionStmt>  
+<extent>  
+</extent>  
+<publicationStmt>  
+<publisher>University Press of Virginia  
+</publisher>  
+<pubPlace>Charlottesville, VA  
+</pubPlace>  
+<date>1960  
+</date>  
+<idno>Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.1  
+</idno>  
+</publicationStmt>  
+<seriesStmt>  
+<p>Shakespearean prompt-books of the seventeenth century  
+</p>  
+</seriesStmt>  
+<notesStmt>  
+<note>Published for the Bibliographical Society of the University of Virginia  
+</note>  
+<note>The production of this volume was supervised by Fredson Bowers and Sears Jayne.  
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc>  
+<projectDesc>  
+<p>Prepared for the University of Virginia Library Electronic Text Center.  
+</p>  
+</projectDesc>  
+<editorialDecl>  
+<p>All quotation marks retained as data.  
+</p>  
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.  
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.  
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.  
+</p>  
+</editorialDecl>  
+<refsDecl>  
+<p>  
+</p>  
+</refsDecl>  
+<classDecl>  
+<taxonomy>  
+<bibl>  
+<title>Library of Congress Subject Headings  
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc>  
+<creation>  
+<date>1960  
+</date>  
+</creation>  
+<langUsage>  
+<language>English  
+</language>  
+</langUsage>  
+<textClass>  
+<keywords>  
+<term>drama; prose  
+</term>  
+</keywords>  
+<keywords>  
+<term>LCSH  
+</term>  
+</keywords>  
+<keywords>  
+<term>  
+</term>  
+<term>  
+</term>  
+<term type="format">24-bit color; 400 dpi  
+</term>  
+</keywords>  
+</textClass>  
+</profileDesc>  
+<revisionDesc>  
+<change>  
+<date>March 1997  
+</date>  
+<respStmt>  
+<resp>corrector  
+</resp>  
+<name>Catherine Tousignant, Electronic Text Center  
+</name>  
+</respStmt>  
+<item>Corrected various transcription errors.  
+</item>  
+</change>  
+<change>  
+<date>March 1997  
+</date>  
+<respStmt>  
+<resp>corrector  
+</resp>  
+<name>Catherine Tousignant, Electronic Text Center  
+</name>  
+</respStmt>  
+<item>Added TEI header and tags.  
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+  
+<text id=ShaMbeP>  
+  
+<front>  
+<div type="cover">  
+<p><figure entity="mbespine">  
+<figDesc>Image of the spine, vol. 1</figDesc>  
+</figure></p>  
+<p><figure entity="mbe1co">  
+<figDesc>Image of the cover, vol. 1 part 1</figDesc>  
+</figure></p>  
+<p><figure entity="mbe1ti">  
+<figDesc>Image of the title page, vol. 1 part 1</figDesc>  
+</figure></p>  
+<p><figure entity="mbe2co">  
+<figDesc>Image of the cover, vol. 1 part 2</figDesc>  
+</figure></p>  
+<p><figure entity="mbe2ti">  
+<figDesc>Image of the title page, vol. 1 part 2</figDesc>  
+</figure></p>  
+</div>  
+<titlePage>  
+<docTitle>  
+<titlePart type="main">  
+SHAKESPEAREAN<lb>  
+PROMPT BOOKS<lb>  
+of the<lb>  
+SEVENTEENTH CENTURY<lb>  
+Vol. I: Part i<lb>  
+</titlePart>  
+<titlePart type="sub">  
+General Introduction<lb>  
+Introduction to the Padua Macbeth<lb>  
+Collations  
+</titlePart>  
+</docTitle>  
+<byline>  
+Edited by<lb>  
+G. Blakemore Evans  
+</byline>  
+  
+<docImprint>  
+The Bibliographical Society of the University of Virginia<lb>  
+University Press of Virginia, Charlottesville<lb>  
+1960<lb>  
+EDITORIAL ADVISORY COMMITTEE<lb>  
+The Bibliographical Society of the University of Virginia<lb>  
+Arthur F. Stocker, Chairman<lb>  
+Fredson Bowers<lb>  
+John Cook Wyllie<lb>  
+The production of this volume was supervised by Fredson Bowers and Sears Jayne  
+</docImprint>  
+</titlePage>  
+</front>  
+  
+  
+<body>  
+<!-- <page n=25> -->  
+<div0 type="introduction">  
+<head>Introduction<lb>  
+Macbeth: Padua First Folio</head>  
+  
+<p>In the section of the General Introduction devoted to the Padua  
+prompt-books, I have attempted to link this prompt-book of <hi  
+rend="italics">Macbeth</hi>, as well as the other two Padua prompt-books,  
+with Sir Edward Dering's group of amateur actors at Surrenden in Kent. At  
+the same time I tried to show on grounds other than the coincidence of  
+actors' names and initials that this version of <hi  
+rend="italics">Macbeth</hi> (and the other Padua prompt-books likewise)  
+should probably be dated somewhere between 1625 and 1635.<note  
+target="n1">[1]</note> The evidence for this dating was not  
+conclusive; on the other hand there was no conflicting evidence to  
+challenge an early date.  If we accept such a date, the Padua <hi  
+rend="italics">Macbeth</hi> and the other Padua prompt-books represent the  
+only pre-Restoration Shakespearean prompt-books now extant.<note  
+target="n2">[2]</note>  
+  
+</p><p>Also examined in the General Introduction was the vexing and  
+finally insoluble question of the extent to which Dering's changes, cuts,  
+etc., allowing that they may be associated with him or another member of  
+his group, represent personal and unprofessional reactions to the text, or  
+whether the treatment of the text arises from a knowledge (however gained)  
+of what was being done on the professional stage in the first three  
+decades of the century.  
+  
+</p><p>The version of <hi>Macbeth</hi> which here emerges  
+from the  
+  
+<!-- </page> --><!-- <page n=26> -->  
+  
+reviser-prompter's grasp (only one hand can be distinguished)<note  
+target="n3">[3]</note> shows, if we compare it with the Smock Alley  
+prompt-book, comparatively slight alterations.<note  
+target="n4">[4]</note> Some  
+lines (actually fewer, since this figure includes a few half-lines)  are  
+cut. Of these 292 lines, 217 are accounted for by five substantial cuts:  
+  
+</p><p>II.iii.1-23 (the Porter scene). This cut would have pleased  
+Coleridge, but it is clearly made on the assumption not that it is poor  
+stuff (the Porter's conversation with Macduff remains untouched), but  
+because it is an easy passage to delete without any obvious complication.  
+The Smock Alley prompt-book retains only lines 1-5 and 24-27. In  
+D'Avenant's version the Porter (played by a Servant) is cut to one line, a  
+handling of the scene which survived even after Garrick 'restored' <hi  
+rend="italics">Macbeth</hi>. The Douai MS (1694) reduces the Porter scene  
+to: 'Enter a Porter dressing himselfe. / Knock all the while. / P: here's  
+a knocking indeed: who's there in the name of / belzebub? anon; anon; I am  
+Coming. (Opens the doore.) / Enter Macduffe and Lenox / Macd: was [<hi  
+rend="italics">sic</hi>] so late friend, ere you went to bed / That you  
+doe lye so long / P: faith sir we were carowsing till the second cock. /  
+Macd: is thy master  
+  
+<!-- </page> --><!-- <page n=27> -->  
+  
+stirring? / Enter Macbeth. / our knocking hath him here he comes.' Lee  
+gives the Servant three short speeches (one from D'Avenant and two  
+original efforts). The Collier MS cuts 5-23 ('Here's . .  . Bonfire') ,  
+27-47 ( And . . . him.).  
+  
+</p><p>III.i.71-140 (the first interview with the two Murtherers). The  
+alteration in line 48 ('bid em stay there for me') allows the reviser to  
+omit the whole interview between Macbeth and the Murtherers, lines 72-140  
+below. Since the reviser seems to have been interested in cutting  
+Macbeth's role, this deletion was an obvious choice, the theatrics of the  
+scene resembling the kind of thing Shakespeare was busy with in <hi  
+rend="italics">Richard III</hi>. D'Avenant cuts about 10 lines and  
+rewrites slightly; Smock Alley cuts 7 lines; Douai MS, 13; Garrick, 26;  
+and Lee, 22 (rephrasing a little).  
+  
+</p><p>III.vi (the scene of comment on Banquo's murder). This is clearly  
+the sort of scene which a reviser on the watch for material to cut would  
+single out. Though expository in nature, the scene contains nothing  
+essential to the understanding of the remainder of the play. The Smock  
+Alley prompt-book and the Garrick and Lee versions also omit this "flat,  
+uninteresting scene" (Bell, p. 44).  
+  
+</p><p>IV.iii.2-31, 66-100, 149-158 (part of the Malcolm-Macduff  
+interview). These lines are cut to shorten a long and "painfully tedious"  
+scene (Bell, p. 52). The scene is even more drastically reduced in  
+D'Avenant's text; the Douai MS cuts only 8 lines, Garrick about 80, and  
+Lee, eked out by bits of D'Avenant, about 116. D'Avenant, Smock Alley,  
+Garrick, and Lee cut the whole 'Doctor episode'. Why the reviser here  
+should decide to keep part of the episode I do not understand unless  
+perhaps it furnished a few lines for an actor ('T S') whose other part (or  
+parts) left him without anything to say. Apart from these major deletions  
+the play (originally a short one of 2,084 lines) is very slightly  
+reduced.<note target="n5">[5]</note>  
+  
+</p><p>Some of the cuts, changes, and prompt-notations deserve special  
+comment. In general much of the cutting seems to be aimed at reducing the  
+length of Macbeth's part; for this reason the deletion of the first  
+interview with the Murtherers (III.i. 71-140) was an inevitable cut and is  
+skillfully enough patched over by the reviser. At the opening of I.vii,  
+the prompter calls only for Macbeth and takes no notice of the <hi  
+rend="italics">'Ho boyes'</hi>,  
+  
+<!-- </page> --><!-- <page n=28> -->  
+  
+</p><p><hi>'Torches'</hi>, and <hi  
+rend="italics">'Sewer'</hi> for which the Folio calls (at I.vi a call for  
+<hi>'Hoboys'</hi> noted by the prompter has been crossed  
+through and he also ignores the Folio call for <hi  
+rend="italics">'Hoboyes'</hi> at IV.i. 106). Although the prompter tends  
+to ignore <hi>'Attendants'</hi> in his calls (e.g., I.ii,  
+I.vi, etc.), he is (except for <hi>'Hoboys'</hi>) more  
+careful about notations for musical soundings, etc. It would seem,  
+therefore, that it was intended to cut the 'show' of the banquet in  
+progress and to introduce <hi>Macbeth</hi> directly. The  
+same change is made in the D'Avenant, Smock Alley, and Garrick versions.  
+Again, stage business seems to be slightly changed at the beginning of  
+III.iv, where the reviser cuts line 10, a line which can be taken to mean  
+that Macbeth seats himself with his guests before joining the First  
+Murtherer (here altered to '2 Murtherer'). The deletion of line 10 implies  
+that Macbeth, after welcoming his guests, turns aside directly to talk  
+with the '2 Murtherer'. D'Avenant and Lee likewise cut.  We may also  
+notice that the physical appearance of the Ghost of Banquo in this scene  
+is twice vouched for by marginal prompt calls. Some evidence of a desire  
+by the reviser to cut down on the number of 'extras' may be seen in the  
+substitution at III.i and III.iv of 'Angus' in place of the Folio <hi  
+rend="italics">'Lords'</hi>, and of 'Angus Rosse, Y Seyward' at V.vi in  
+place of the Folio <hi>'their Army'</hi>. In V.viii,  
+however, <hi>'Thanes'</hi> is expanded to 'Angus Cathnes  
+Mentith Lenox'. We may also note that in III.i the reviser brings  
+Macbeth's Servant on at line 44, a handling of the scene found likewise in  
+the Smock Alley version.  Later edited texts consider the Servant as being  
+among the <hi>'Attendants'</hi> at the opening of the  
+scene. Some of the cuts are clearly made to get rid of difficult passages  
+or passages considered merely poetic. For the first, note the deletions at  
+I.vii.50-54; II.iii.55; III.ii.15; for the second, see I.vii.5-12;  
+V.iii.20-29. The cut at IV.iii.120-121 deletes a reference to the deity  
+and the deletion of the lines on the 'poore player' (V.v.24-26) may  
+reflect a histrionic touchiness.<note target="n6">[6]</note>  
+  
+<!-- </page> --><!-- <page n=29> -->  
+  
+</p><p>Little has been added in the way of props or offstage sounds. At  
+III.iii.8 there is a call for 'Treacle' to indicate the approach of  
+Banquo's and Fleance's horses;<note target="n7">7</note> and at IV.i a  
+'Cauldorne' is called for.  'Thunder' is duly called for, as in the Folio,  
+by the prompter at the beginning of III.v, but not at the opening of IV.i,  
+perhaps because this is the beginning of an act. For some reason it was  
+decided to dispense with the Folio call for <hi  
+rend="italics">'Musicke'</hi> at III.v.31-33 and IV.i.42-43; only 'Song'  
+is called for in both instances, though a call for 'musiq<hi  
+rend="sup">ue</hi>' has been crossed through at III.v.33, and Folio <hi  
+rend="sup">'Musicke'</hi> is again ignored in the call for the Witches'  
+dance at IV.i.132. We may also notice the prompter's addition of 'Senett'  
+at the opening of III.iv.<note target="n8">8</note>  
+  
+</p><p>Several of the minor roles have been assigned by the prompter to  
+individuals by name or initials. 'M<hi rend="sup">r</hi> Carlile' (or  
+'M<hi rend="sup">r</hi> Carl') doubled as one of the 'Murtherers' at the  
+end of IV.ii and as a 'Messenger' at V.v.27-29. A 'M<hi rend="sup">r</hi>  
+H &lt;.&gt; w &lt;. .&gt;', 'H.wit', or 'H&lt;ewi&gt;t' (the name is far  
+from clear)<note target="n9">9</note> played a messenger at  
+IV.ii.64. He is  
+perhaps the same person as the 'E H' who plays a 'Seruant' at I.v.31,  
+III.i.43-44, III.ii (opening), and V.iii.8-9. The Doctor at IV.iii.139 is  
+played by 'T S' and the Doctor in V.iii by 'M<hi rend="sup">r</hi> G'. A  
+'M<hi rend="sup">r</hi> K' plays the '2 Murtherer' in III.iv.7-8. It is on  
+the basis of these names ('T S' appears again as a 'Servant' and a 'Lord'  
+in <hi>Winter's Tale</hi>) that I have suggested an  
+association with Sir Edward Dering's group of amateurs.<note  
+target="n10">10</note>  
+  
+</p><p>The following characteristics of the prompt-book are worth pointing  
+out:<note target="n11">[11]</note>  
+  
+<!-- </page> --><!-- <page n=30> -->  
+  
+</p><p>a. A single hand seems to be responsible for all the markings,  
+whether prompt-calls or revisions affecting the text.  
+  
+</p><p>b. The prompt-calls and calls for sound effects are not  
+anticipative (except occasionally by a line or two).  
+  
+</p><p>c. There are no calls for characters entering at the beginning  
+of an act.  
+  
+</p><p>d. Act breaks are carefully marked; see especially the end of Act  
+III.  
+  
+</p><p>e. The calls for characters in a new scene are sometimes given at  
+the end of the preceding scene (e.g., I.iii, II.iii, IV.ii, V.iii) instead  
+of at the beginning of the new scene. This may imply the lack of much real  
+sense of break between scenes. Compare Sir E. K. Chambers' comments in his  
+<hi>William Shakespeare</hi> (1 930), I, 118.  
+  
+</p><p>f. Entrances and sound effects are frequently marked with a short  
+horizontal line following or preceding the line of the play before entry  
+or effect.  
+  
+</p><p>g. The prompter ignores regularly the Folio call for <hi  
+rend="italics">'Attendants'</hi> (e.g., I.ii, I.vi) and <hi  
+rend="italics">'Soldiers'</hi> (e.g., V.ii, V.iv).  
+  
+</p><p>h. Note the general expansion of the Folio stage directions in the  
+final scenes of Act V.  
+  
+</p><p>i. In I.vii, at Lady <hi>Macbeth</hi>'s entrance (l.  
+25), we can see that the cutting was done before the prompt-call was  
+written in; otherwise the call for Lady <hi>Macbeth</hi>  
+would have followed line 28 as in Folio. The order here implied is the  
+natural order, but it is sometimes difficult to establish.</p>  
+  
+<note id="n1"><p>  
+1. General Introduction, pp. 7-11.  
+</p></note><note id="n2"><p>  
+2. The First Folio text of <hi>Macbeth</hi>, of course,  
+shows signs of being printed from copy-text having connection with the  
+theatre. A prompt-book of <hi>Twelfth Night</hi>, of  
+unknown provenience (see General Introduction, p. 4), has been described  
+as pre-Restoration (see Halliwell-Phillipps, <hi>Some  
+Account of the Antiquities, Coins, Manuscripts . . . Illustrative of the  
+Life and Works of Shakespeare</hi>, Brighton Hill [1852], p. 115). The  
+evidence for a pre-Restoration date (Halliwell-Phillipps dates it about  
+1640) is quite inconclusive.  
+</p></note><note id="n3"><p>  
+3. The hand is not, I believe, that of Sir Edward Dering, though Sir  
+Edward seems to have written two fairly distinct hands and may have used  
+others. The same hand has inserted 'Troylus and Cressida' at the beginning  
+of the 'Tragedies' in 'The Catalogue' on sig. [A]<hi rend="sup">r</hi>.  
+</p></note><note id="n4"><p>  
+4. A detailed comparison has been made with D'Avenant's 1674 version (and  
+with the Yale MS of D'Avenant's version), the Smock Alley version (<hi  
+rend="italics">c.</hi> 1680), the Douai MS version (1694), and the much  
+later versions of Garrick (1744) and Lee (1753). Agreements in cutting  
+with the Collier-Perkins Second Folio have also been noted. The D'Avenant  
+text used is that in <hi>Dramatic Works</hi>, ed. Maidment  
+and Logan, V (1874), 297-394; the Yale MS adds nothing to the printed text  
+so far as this study is concerned. The Douai MS (in the Douai Public  
+Library, MS 7.87, fols. 171-209), entitled 'The Tragedye of Macbeth' and  
+dated 'Anno D&ntilde;i 1694', is based on the Second Folio text, but gives  
+evidence of influence from the First Folio (or possibly the 1673 quarto).  
+It shows no immediate connection with the theatre, but contains numerous  
+verbal 'improvements' and makes a good many cuts.  The MS, of which I  
+intend to make a separate study, is here used for the first time. The  
+Garrick cutting was printed in Bell's <hi>Shakespeare</hi>  
+(1773), I. Its connections with Garrick are established by G. W. Stone,  
+Jr. ("Garrick's Handling of <hi>Macbeth</hi>," <hi  
+rend="italics">SP</hi> [1941], XXXVIII, 609-628). Stone also gives some  
+details of other later eighteenth-century versions. John Lee's adaptation  
+was published in Edinburgh in 1753 as <hi>The Historical  
+Tragedy of Macbeth</hi> (Hogan, <hi>Shakespeare in the  
+Theatre</hi>, II [1957], 361, lists only a Dublin edition of 1761 and says  
+that Lee's alteration was first acted at Edinburgh 1 January 1754).  It is  
+still strongly tinctured with D'Avenant, but a good deal of the original  
+has been restored. This acting version is not mentioned by G. C.  D. Odell  
+(<hi>Shakespeare from Betterton to Irving</hi> [1920], 2  
+vols.), Stone (op. cit.), or A. C. Sprague (<hi>Shakespeare  
+and the Actors</hi> [1948]), though it contains a number of interesting  
+theatre characteristics.  
+</p></note><note id="n5"><p>  
+5. We may compare the approximately 352 lines deleted in the Smock Alley  
+version and the 310 lines which Garrick cut in the course of his  
+"restoration" of the original in 1744. The Lee version is too confused  
+with D' Avenant to make a comparison useful. The number of lines in <hi  
+rend="italics">Macbeth</hi> is based on Alfred Hart's count (<hi  
+rend="italics">RES</hi> [1932], VIII, 21). I count roughly 2,124 lines in  
+D'Avenant's version, 1,732 in Smock Alley, 1,846 in Garrick's, and 1,857  
+in Lee's (these figures are somewhat lower than those given by Stone [p.  
+621] for Shakespeare, D'Avenant, and Garrick).  
+</p></note><note id="n6"><p>  
+6. D'Avenant does not spare the profession, but Harry Rowe (an  
+actor-manager of sorts) makes the same cut on the plea that he considers  
+the lines "as a play-house interpolation, and what Shakespeare would never  
+have put into the mouth of a just man labouring under violent  
+perturbation" (Macbeth, ed. Harry Rowe, 2nd ed. [York, 1799], p. 105). Lee  
+softens to 'a mere player'.  
+</p></note><note id="n7"><p>  
+7. See W. J. Lawrence, Pre-Restoration Stage Studies (1927), p. 217. Mr.  
+Lawrence notes this scene (together with IV.i) as the earliest example in  
+English drama calling for this particular sound effect, and draws  
+attention to the lack of any "elucidative stage direction" in the Folio.  
+His inference that such a sound effect was intended here is nicely  
+supported by the Padua prompt-book.  
+</p></note><note id="n8"><p>  
+8. I have used this notation as part of my evidence for an early date for  
+the Padua prompt-books. See the General Introduction, p. 7.  
+</p></note><note id="n9"><p>  
+9. See the General Introduction, p. 9.  
+</p></note><note id="n10"><p>  
+10. See the discussion of this matter in the General Introduction, pp. 8-9.  
+</p></note><note id="n11"><p>  
+11. The heavy line which runs diagonally across sig. 2m2<hi rend="sup">r</hi> (p. 135) in the collotype reproduction of the Padua  
+Macbeth is the result of a break in the film from which the reproduction  
+was made.</p></note>  
+  
+<!-- </page> --><!-- <page n=31> -->  
+  
+</div0>  
+<div0 type="collations">  
+<head>Collations<lb> 
+Padua Macbeth<lb>
+Prompt-Book</head>  
+  
+<div1 type="introduction">  
+<head></head> 
+<p>The act, scene, and line numbering is that  
+of the standard Globe text (1911 ed.). Angle-brackets are used to indicate  
+(1) missing words or letters; (2) illegible words or letters; (3) doubtful  
+or conjectural readings. The following abbreviations are employed:</p>  
+  
+<list>  
+<item>Collier MS .............  the Collier-Perkins Second Folio (1632) now  
+in the Huntington Library</item>  
+<item>D'Avenant ..............  D'Avenant's alteration of Macbeth (1674)</item>  
+<item>Douai MS ...............  manuscript copy of Macbeth (1694) contained in Douai  
+Public Library MS 7.87</item>  
+<item>F ......................  here used for First Folio (1623)</item>  
+<item>Garrick ................  Garrick's acting version of Macbeth in Bell's  
+<hi>Shakespeare</hi> (1773), Vol. I</item>  
+<item>Lee ....................  John Lee's acting version of Macbeth, Edinburgh  
+(1753)</item>  
+<item>PB .....................  Padua Macbeth prompt-book</item>  
+<item>Smock Alley PB .........  Smock Alley Macbeth prompt-book  
+(<hi>c.</hi> 1680)</item>  
+<item>s.d. ...................  stage direction</item>  
+</list>  
+</div1>  
+  
+<div1 type="act" n=1>  
+<head>I.</head>  
+<div2 type="scene" n=1.2>  
+<head>I.ii</head>  
+  
+<p><figure entity="mbe-p131">  
+<figDesc>Image of prompt-book page 131</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe12open">(opening) [line] / Chardge florish / [line] / K:  
+Malcolme / Dunalbane / Lenox: / Captaine / [line] ]</xref> 'Chardge' is  
+PB's comment on F <hi>'Alarum within.'</hi> Note the  
+omission, usual in PB, of F <hi>'attendants'</hi>.</p>  
+  
+<p><xref doc="mbe1244">44 [line] / -- Rosse / Angus ]</xref> The line  
+before 'Rosse' marks point of entry. D'Avenant and Smock Alley PB  
+substitute Macduff for both; modern editors, since Steevens, omit  
+Angus.</p>  
+  
+<!-- </page> --><!-- <page n=32> -->  
+ 
+<p><figure entity="mbe-p132">  
+<figDesc>Image of prompt-book page 132</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe1267">67 [line] / florish / [line] / Thunder / [line] /  
+Witches / [line] ]</xref>  
+Prompt-note for end of scene ii and opening of scene iii.</p>  
+  
+</div2>  
+<div2 type="scene" n=1.3>  
+<head>I.iii.</head>  
+  
+  
+<p><xref doc=mbe1329>29 [line] / Drum / [line] ]</xref> A line has been  
+set opposite F <hi>'Drum  
+within.'</hi> to indicate moment of sounding.</p>  
+  
+  
+<p><xref doc="mbe1337">37-38 [line] / Macbeth / Banquo / [line] ]</xref> A  
+long line has been set after 'vp.' (37) to mark point of entry.</p>  
+  
+<p><xref doc="mbe1388">88 [line] / Ross Angus / [line]</xref></p>  
+  
+<p><figure entity="mbe-p133">  
+<figDesc>Image of prompt-book page 133</figDesc>  
+</figure></p>  
+    
+<p><xref doc="mbe13137">137-138 Present Feares . . . Imaginings:]</xref>  
+Circled for cutting as a parenthetical comment. D'Avenant completely  
+rewrites; Smock Alley PB cuts 137-142 ('present . . . not.').</p>  
+  
+</div2>  
+<div2 type="scene" n=1.4>  
+<head>iv.</head>  
+  
+<p><xref doc="mbe14open">(opening) florish / [line] / King: Malcolme  
+Donalbaine / Lenox / [line] ]</xref> This call for the entry of scene iv  
+appears at the foot of the first column instead of at the top of the  
+second column where <hi>'Scena Quarta.'</hi> actually  
+begins. PB also sets a line after 'friends.' in the last line (156) of  
+scene iii, possibly here indicating point of exit, though most usually in  
+this PB such a line is used to mark point of entry.</p>  
+  
+<p><xref doc="mbe1413">13-14 [line] / ---- Macbeth Banquo / Rosse Angus  
+/ [line]</xref></p>  
+  
+<p><xref doc="mbe1444">44 The Rest . . . you:]</xref> PB brackets, showing  
+that the reviser is on the lookout for ornamental padding; in this case  
+the line is also confusing in its circumlocution. So Smock Alley PB;  
+D'Avenant substitutes another compliment.</p>  
+  
+<p><figure entity="mbe-p134">  
+<figDesc>Image of prompt-book page 134</figDesc>  
+</figure></p>   
+  
+<p><xref doc="mbe1457">57-58 [line] / florish / [line] / Lady / [line]  
+]</xref> Prompt-note for end of scene iv and opening of scene v.</p>  
+  
+</div2>  
+<div2 type="scene" n=1.5>  
+<head>I.v.</head>  
+  
+<p><xref doc="mbe1530">30-32 [line] / Seru<hi rend="sup">t</hi>' E H /  
+[line] ]</xref> A short line, marking point of entry, has been placed  
+after 'withal!.' (31). F calls for a <hi>'Messenger'</hi>;  
+cf. the Padua <hi>Measure for Measure,</hi> IV.ii.103. See  
+General Introduction, p. 9, for 'E H'.</p>  
+  
+<p><xref doc="mbe1555">55 [line] / Macbeth / [line]</xref></p>  
+  
+</div2>  
+<div2 type="scene" n=1.6>  
+<head>I.vi.</head>  
+  
+<p><xref doc="mbe16open">(opening) Hoboys [<hi  
+rend="italics">deleted</hi>]: Torches / [line] / K: Malcolme / Donalbaine  
+Banquo / Lenox, Macduff, Ross Angus / [line] ]</xref> 'Hoboys' called for  
+by F has been deleted; PB later ignores the F call for '<hi  
+rend="italics">Ho-boyes</hi>' at the opening of I.vii.</p>  
+  
+<p><xref doc="mbe169">9-10 [line] / Lady / [line]</xref></p>  
+   
+<p><figure entity="mbe-p135">  
+<figDesc>Image of prompt-book page 135</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe1631">31 [line] / florish / [line] ]</xref> This is an  
+addition to F <hi>'Exeunt'</hi>.</p>  
+  
+</div2>  
+<div2 type="scene" n=1.7>  
+<head>I.vii.</head>  
+  
+<p><xref doc="mbe17open">(opening) [line] / Macbeth / [line] ]</xref> PB  
+in thus calling for Macbeth's entry ignores the F <hi  
+rend="italics">'Enter a Sewer . . . Stage.'</hi>; so too D'Avenant, Smock  
+Alley PB, Garrick, and Lee.</p>  
+  
+<p><xref doc="mbe175">5-12 Heere, / But . . . lips.]</xref> Circled. This  
+cut, and 25-28 below, seems dictated by a desire to shorten a long speech,  
+though this passage offers difficulties which may have encouraged the  
+reviser to take the easy way out. The omission obviously robs the speech  
+of much of its deeper significance. D'Avenant reduces to 4 lines and  
+rewrites completely; Smock Alley PB cuts 2-12 ('if . . . lips.').</p>  
+  
+<p><xref doc="mbe1724">24-25 [line] / Lady / [line] ]</xref> Call for  
+entry at 28, 25-28 being  
+  
+<!-- </page> --><!-- <page n=33> -->  
+  
+cut.  The position of the call shows that the following  
+lines were cut before the call was written in.</p>  
+  
+<p><xref doc="mbe1725">25-28 I haue . . . other.]</xref> Circled.  
+D'Avenant cuts through 'onely'  
+(26);  
+Garrick retains, but Gentleman (Bell, p. 18), remarking that the  
+"latter part of this speech exhibits strained and unnatural  
+imagery", would like to cut everything after 20.</p>  
+  
+<p><xref doc="mbe1750">50-54 And to . . . you.]</xref> Circled. The  
+reviser by this cut gets rid of one of the famous cruxes. Curiously,  
+D'Avenant, Smock Alley PB, Douai MS, Garrick, and Lee retain the  
+lines.</p>  
+  
+<p><xref doc="mbe1760">60-61 But screw . . . fayle:]</xref> Crossed  
+through, a form of deletion rare in this PB. Possibly the image or  
+language were considered 'low'; such an explanation, however, savors too  
+much of Restoration practice to fit the general treatment of the text.  
+Compare D'Avenant's colorless 'Bring but your courage to the fatal place,  
+/ And we'll not fail.'; Garrick's 'But bring your courage to the proper  
+place, / And we'll not fail.'; or Lee's 'Raise but your courage to the  
+proper pitch, / And we'll not fail.'</p>  
+  
+<p><xref doc="mbe1781">81-82 [line] / Act / [line] ]</xref> The prompter's  
+call for music between the acts or at least for an act break.</p>  
+  
+</div2>  
+  
+</div1>  
+  
+<div1 type="act" n=2>  
+<head>II</head>  
+<div2 type="scene" n=2.1>  
+<head>II.i.</head>  
+  
+<p><figure entity="mbe-p136">  
+<figDesc>Image of prompt-book page 136</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe217">7-9 [line] / Macbeth / Seru<hi rend="sup">t</hi> /  
+[line] ]</xref> PB sets a line after 'repose.' (9), marking point of  
+entry.</p>  
+  
+<p><xref doc="mbe2160">60-61 [line] / Bell / [line]</xref></p>  
+  
+</div2>  
+<div2 type="scene" n=2.2>  
+<head>I.ii.</head>  
+  
+<p><xref doc="mbe22open">(opening) [line ]</xref> / Lady / [line]</p>  
+  
+<p><xref doc="mbe228">8 [line] / Macbeth / [line] ]</xref> PB also  
+places the F <hi  
+rend="italics">'Enter Macbeth.'</hi>  
+between lines; Steevens was the first to delay Macbeth's entry  
+until 13.</p>  
+  
+<p><figure entity="mbe-p137">  
+<figDesc>Image of prompt-book page 137</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe2256">56-57 [line] / Knock / [line]</xref></p>  
+  
+<p><xref doc="mbe2263">63 [line] / --- Lady / [line]</xref></p>  
+  
+<p><xref doc="mbe2268">68-69 [line] / --- Knock / [line] ]</xref> PB  
+ignores the F <hi>'Knocke.'</hi> at 65 above.</p>  
+  
+<p><xref doc="mbe2272">72-73 [line] / --- Knock / [line]</xref></p>  
+  
+</div2>  
+<div2 type="scene" n=2.3>  
+<head>II.iii.</head>  
+  
+<p><xref doc="mbe23open">(opening) Porter. / [line] ]</xref> From the  
+position of the call here we might suppose that the deletion of the  
+Porter's speech was an afterthought, but since none of the F calls for <hi  
+rend="italics">'Knock.'</hi> are noted by the prompter this seems  
+unlikely.</p>  
+  
+<p><xref doc="mbe231">1-25 <hi>Porter.</hi> Here's . . .  
+Porter.]</xref> Circled.  See Introduction, p. 26, for discussion.</p>  
+  
+<p><xref doc="mbe2325">25 [line] / Macduff / Lenox / [line]</xref></p>  
+  
+<p><xref doc="mbe2347">47 [line] / --- Macbeth / [line]</xref></p>  
+  
+<p><xref doc="mbe2355">55 Physicks paine:]</xref> Circled. Cut to get rid  
+of a difficult locution?  D'Avenant made nonsense of the line by reading  
+'The labour we delight in, gives;' (1674 ea.; unfortunately the Yale MS is  
+defective at this point); in the 1710 ed. the end  
+  
+<!-- </page> --><!-- <page n=34> -->  
+  
+of the line has been completed to read 'gives Ease to it self.'. Douai MS  
+omits the whole line;  Lee cuts 53-55.</p>  
+  
+<p><xref doc="mbe2368">68-69 [line] / Macduff / [line]</xref></p>  
+  
+<p><figure entity="mbe-p138">  
+<figDesc>Image of prompt-book page 138</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe2384">84-85 [line] / Bell / [line] / Lady /  
+[line]</xref></p>  
+  
+<p><xref doc="mbe2390">90-91 [line] / Banquo / [line]</xref></p>  
+  
+<p><xref doc="mbe2394">94-95 [line] / Macbeth / Lenox and / Rosse /  
+[line] ]</xref> PB sets a short line after 'so.' (95) to mark point of  
+entry.</p>  
+  
+<p><xref doc="mbe23100">100-101 [line] / Malcome / &lt; De . . &gt; and /  
+Donalbaine / [line] ]</xref> Some word, which seems to begin 'De' has been  
+deleted before 'and'. PB sets a short line after 'of.' (101) to mark point  
+of entry.</p>  
+  
+</div2>  
+<div2 type="scene" n=2.4>  
+<head>II.iv.</head>  
+  
+<p><xref doc="mbe24open">(opening) Rosse and / Old man /  
+[line]</xref></p>  
+  
+<p><figure entity="mbe-p139">  
+<figDesc>Image of prompt-book page 139</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe2420">20 [line] / Macduff / [line] ]</xref> PB sets a  
+short line after 'vpon't.' to mark point of entry.</p>  
+  
+<p><xref doc="mbe2441">41 [line] / Act / [line]</xref></p>  
+  
+</div2>  
+  
+</div1>  
+  
+<div1 type="act" n=3>  
+<head>III</head>  
+  
+<div2 type="scene" n=3.1>  
+<head>III.i.</head>  
+  
+<p><xref doc="mbe318">8-10 [line] / ---Senett / [line] / Macbeth / Lady  
+Lenox Rosse / Angus / [line] ]</xref> Note that PB adds 'Angus' presumably  
+to take the place of the omitted F <hi>'Lords, and  
+Attendants.'</hi>. D'Avenant brings on only 'Macbeth, Lenox, and  
+Attendants'; Garrick and Lee cut Lady Macbeth. D'Avenant, Douai MS, and  
+Lee omit F <hi>'Senit'</hi>; Garrick substitutes <hi  
+rend="italics">'Trumpets sound'</hi>.</p>  
+  
+<p><xref doc="mbe3134">34-36 When therewithall . . . Night.]</xref>  
+Circled. The omission of these lines, and 38-39 below, weakens the ironic  
+comment of the scene. So D'Avenant; Douai MS cuts 34-35 (' . . .  
+ioyntly.'); Lee cuts 30-36 ('. . . Night.').</p>  
+  
+<p><xref doc="mbe3138">38-39 I wish . . . backs.]</xref> Circled. So Smock  
+Alley PB and Lee;  D'Avenant cuts 39.</p>  
+  
+<p><xref doc="mbe3143">43-44 [line] / Seruant / E H / [line] ]</xref>  
+Smock Alley PB also brings the Servant on at this point; editors, from  
+Rowe on, take the Servant as being one of the <hi  
+rend="italics">'Attendants.'</hi> entering at 11. See General  
+Introduction, p. 9, for 'E H'.</p>  
+  
+<p><xref doc="mbe3148">48 bid em stay there for me]</xref> PB substitutes  
+this line for F 'Bring them before vs.' (partly circled), preparing for  
+the deletion of 72-140.  It is possible that we should read 'then' instead  
+of 'there'.</p>  
+  
+<p><xref doc="mbe3166">66 the gracious Duncan I murther'd,]</xref> PB  
+crosses through F 'For them,' and 'haue'.</p>  
+  
+<p><xref doc="mbe3168">68-69 Onely for . . . Man,]</xref> Circled.  
+D'Avenant cuts 67-70; Lee cuts  
+68 ('Onely for them,').</p>  
+  
+<p><xref doc="mbe3171">71-72 Rather then . . . vtterance.]</xref> Circled.  
+These lines are deleted separately from the deletion of 72 ('Who's . .  
+.')-140 immediately following. The reason for this cut, and that in 68-  
+69, is difficult to explain. In the second instance, perhaps, the  
+suggestion of 'fatalism' frightened the reviser as it  
+  
+<!-- </page> --><!-- <page n=35> -->  
+  
+later frightened Francis Gentleman (Bell, p.  34), who remarks: "We would  
+not wish young, unsettled minds to peruse or hear this piece, without  
+proper companions, to prevent absurd prejudices."  He did not, however,  
+advocate cutting the lines.</p>  
+  
+<p><xref doc="mbe3172">72-140 Who's there</xref> . . .  
+<xref doc="mbe-p140">within,</xref>] Circled.  
+140 appears to be separately deleted. See Introduction, p. 27, for  
+discussion.</p>  
+  
+<p><figure entity="mbe-p140">  
+<figDesc>Image of prompt-book page 140</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe31141">141 No It is concluded:]</xref> PB inserts 'No'  
+at beginning of line, thus  
+linking 141 with 70.</p>  
+  
+</div2>  
+<div2 type="scene" n=3.2>  
+<head>III.ii.</head>  
+  
+<p><xref doc="mbe32open">(opening) Lady and / Seruant / E H / [line]  
+]</xref> See General Introduction, p. 9, for 'E H'.</p>  
+  
+<p><xref doc="mbe326">6-7 [line] / Macbeth / [line]</xref></p>  
+  
+<p><xref doc="mbe3215">15 of her former Tooth.]</xref> Crossed through.  
+D'Avenant alters 'Tooth' to 'sting'.</p>  
+  
+</div2>  
+<div2 type="scene" n=3.3>  
+<head>III.iii.</head>  
+  
+<p><figure entity="mbe-p141">  
+<figDesc>Image of prompt-book page 141</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe33open">(opening) Murtherers / [line]</xref></p>  
+  
+<p><xref doc="mbe338">8 [line] / Treade / [line] ]</xref> See  
+Introduction, p. 29.</p>  
+  
+<p><xref doc="mbe339">9 [line] / w<hi rend="sup">th</hi>in / [line]  
+]</xref> This refers to Banquo who in F std. speaks <hi  
+rend="italics">'within.'</hi>.</p>  
+  
+<p><xref doc="mbe3314">14 [line] / Banquo Fleans / [line] ]</xref> PB  
+ignores F <hi>'with a Torch.'</hi>.</p>  
+</div2>  
+<div2 type="scene" n=3.4>  
+<head>III.iv.</head>  
+  
+<p><xref doc="mbe34open">(opening) Senett Banquett / [line] / Macbeth Lady  
+Rosse / R Lenox, Angus / [line] ]</xref> The 'R' preceding 'Lenox' should  
+have been deleted, the scribe having started to repeat 'Rosse' from the  
+line above. This call for the entry of scene iv appears at the foot of the  
+first column instead of at the top of the second column where <hi  
+rend="italics">'Sc&aelig;na Quarta.'</hi> actually begins. PB places a  
+short line after 'done.' in the last line (22) of scene iii, presumably  
+here indicating an exit. Compare I.iv (opening).  Note that PB, as in  
+III.i.10, adds 'Angus' in place of the F <hi>'Lords, and  
+Attendants.'</hi>. D'Avenant substitutes Seyton for Ross. PB also adds  
+'Senett' to the F s.d.; see General Introduction, p. 7.</p>  
+  
+<p><xref doc="mbe347">7-8 [line] / 2 Murtherer. / M<hi rend="sup">r</hi> K  
+/ [line] ]</xref> In F std.  PB interlines '2' above deleted 'first'. See  
+General Introduction, pp.  8-9, for 'M<hi rend="sup">r</hi> K'.</p>  
+  
+<p><xref doc="mbe3410">10 Both sides . . . mid's",]</xref> Bracketed.  This  
+cut changes the stage business slightly. Instead of seating himself among  
+his guests, Macbeth moves directly to join the '2 Murtherer. M<hi  
+rend="sup">r</hi> K'.  D'Avenant also omits this bit of business; Lee  
+also, cutting 9-10.</p>  
+  
+<p><xref doc="mbe3436">36-37 [line] / Ghost: / [line]</xref></p>  
+  
+<p><figure entity="mbe-p142">  
+<figDesc>Image of prompt-book page 142</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe3487">87-88 [line] / Ghost: / [line] ]</xref> PB sets a  
+short line after 'full:'  
+(88) to mark point of entry.</p>  
+  
+</div2>  
+<div2 type="scene" n=3.5>  
+<head>III.v.</head>  
+  
+<p><xref doc="mbe35open">(opening) Thunder / [line] / Witches / Hecat /  
+[line]</xref></p>  
+  
+<p><figure entity="mbe-p143">  
+<figDesc>Image of prompt-book page 143</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe3532">32-33 [line] / musiq<hi rend="sup">ue</hi> Song /  
+[line] ]</xref> 'musiq<hi rend="sup">ue</hi>' has been crossed through. F  
+calls for <hi>'Musicke, and a Song.'</hi> and two lines  
+below notes <hi>'Sing within. Come away, come away,  
+&amp;c.'</hi>. The  
+  
+<!-- </page> --><!-- <page n=36> -->  
+  
+'Song' is presumably the same in both. D'Avenant retains the F  
+s.d.'s;  Smock Alley PB calls for 'Musicke' and 'boys redy' which implies  
+a 'Song';  Douai MS omits the second F s.d.; Garrick omits the  
+<hi>'Musicke'</hi> and <hi>'Song'</hi> at this point, having Witches calling Hecate  
+from within; Lee reads <hi>'Spirit in the clouds calls.'</hi> and, like  
+Garrick, follows essentially D' Avenant's text for the rest of the  
+scene.</p>  
+  
+<p><xref doc="mbe3535">35]</xref> PB sets a short vertical stroke after  
+this line, which presumably must have something to do with the 'Song'.</p>  
+  
+<p><xref doc="mbe3536">36 end]</xref> This is PB's indication that the  
+'Act' finishes at this  
+point,  
+scene vi being omitted. The treatment in the Smock Alley PB is very  
+similar.</p>  
+  
+<p><xref doc="mbe35conc">(conclusion) [line] / Act / [line] ]</xref> 
+What looks like a pen mark after 'Act' has soaked through from a 
+prompt-call on the verve of this page (IV.i.110-111) . Note the care 
+with which the act break here is emphasized.</p> 
+  
+</div2>  
+<div2 type="scene" n=3.6>  
+<head>III.vi</head>  
+<p><xref doc="mbe-p143">vi]</xref> PB circles this whole scene for  
+deletion. See Introduction, p.  
+27, for  
+discussion.</p>  
+  
+</div2>  
+</div1>  
+  
+<div1 type="act" n=4>  
+<head>IV</head>  
+  
+<div2 type="scene" n=4.1>  
+<head>IV.i.</head>  
+  
+<p><xref doc="mbe41open">(opening) [line] / Cauldorne / [line] ]</xref>  
+Rowe is the first to call for a 'cauldron' as part of the setting. Note  
+that PB omits the F call for <hi>'Thunder.'</hi>, perhaps  
+because this is the beginning of a new act; there are, however, no calls  
+for <hi>'Thunder'</hi> later in the scene with the  
+Apparitions.  D'Avenant and Lee omit initial call for <hi  
+rend="italics">'Thunder'</hi> (though it appears in the Yale MS of  
+D'Avenant's version).</p>  
+  
+<p><figure entity="mbe-p144">  
+<figDesc>Image of prompt-book page 144</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe4142">42-43 [line] / Song / [line] ]</xref> Note that F  
+<hi>'Musicke'</hi> is ignored; compare III.v.32 33. PB also  
+has no call for <hi>'Hecat, and the other three  
+Witches.'</hi> called for by F at 38, but it does not delete or reassign  
+Hecate's speech (39-43) . Smock Alley PB is ambiguous here, calling only  
+for 'Heccate';  D'Avenant, Douai MS, Garrick, and Lee keep all six witches  
+and Hecate, Lee calling those entering with Hecate <hi  
+rend="italics">'singing Witches'</hi>.</p>  
+  
+<p><xref doc="mbe4147">47 [line] / Macbeth / [line] ]</xref> Following  
+the F call for <hi  
+rend="italics">'Macbeth.'</hi> the  
+prompter has begun a call for the entry of 'Len' (i.e. Lenox) and then  
+crossed it through. Lenox does not actually enter until 135.</p>  
+  
+<p><xref doc="mbe4167">67-68 [line] / i Appa: / [line] ]</xref> PB sets  
+short line after 'show.' (68) to mark point of entry. Note that F call for  
+<hi>'Thunder.'</hi> (76, 87 also) is ignored.</p>  
+  
+<p><xref doc="mbe4175">75-76 [line] / 2 Appa / [line]</xref></p>  
+  
+<p><xref doc="mbe4186">86-87 [line] / 3 Appa / [line]</xref></p>  
+  
+<p><xref doc="mbe41110">110-lll [line] / Kings. / [line]</xref> ] F call  
+for 'Banquo' seems to be ignored; PB also omits F call for <hi  
+rend="italics">'Hoboyes'</hi> at 106 above.</p>  
+  
+<p><xref doc="mbe41131">131-132 [line] / Dance / [line] ]</xref> F call  
+for <hi>'Musicke.'</hi> is ignored (in Lee also).</p>  
+  
+<p><xref doc="mbe41134">134 [line] / Lenox / [line]</xref></p>  
+  
+<!-- </page> --><!-- <page n=37> -->  
+  
+  
+<p><figure entity="mbe-p145">  
+<figDesc>Image of prompt-book page 145</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe41146">146-149 From this . . . done:]</xref> Circled.  
+D'Avenant cuts or rewrites these lines and a good part of the rest of the  
+speech;  Douai MS omits 147-149, prefacing 150 with the std. ' (pauses) ';  
+Garrick cuts 148 ('And . .  .')-149; Lee cuts 149 (`be . . . done:').</p>  
+  
+</div2>  
+<div2 type="scene" n=4.2>  
+<head>IV.ii.</head>  
+  
+<p><xref doc="mbe42open">(opening) Macduffs wife / her Sonne &amp;c / Rosse /  
+[line]</xref></p>  
+  
+<p><xref doc="mbe4217">17-22 I dare . . . moue.]</xref> Circled.  Omitted  
+Douai MS, which also reduces 15-16 to 'your husband's wise judicious and  
+best knows', and omits 23-25 (' . . . before.'); Lee omits this scene.</p>  
+  
+<p><xref doc="mbe4236">36 Poore Birds . . . for:]</xref> Bracketed.  
+D'Avenant, Smock Alley PB, and Garrick cut out the 'Son's' role, though  
+Garrick retains him as a mute;  Douai MS cuts 34-36; Lee omits this  
+scene.</p>  
+  
+<p><xref doc="mbe4264">64 [line] / --- Messenger / M<hi rend="sup">r</hi>H  
+&lt;.&gt; w &lt;. .&gt; / [line] ]</xref> The reading of this name is very  
+uncertain.  What looks like the dot of an 'i' and the top of a 't' appears  
+after the 'w' (the 'w' itself could possibly be a 'u'). The letter before  
+'w' looks like the remains of an 'e'. Giordano Orsini, p. 41, reads 'Mr.  
+H.wit'; Casson, p.  421, reads 'Mr. H&lt;ewi&gt;'. For a discussion of the  
+name, see General Introduction, p. 9.</p>  
+  
+<p><xref doc="mbe4279">79 [line] / ---- Murtherers / M<hi  
+rend="sup">r</hi> Carl]</xref> For 'M<hi  
+rend="sup">r</hi> Carl', see the General  
+Introduction, p. 8.</p>  
+  
+</div2>  
+<div2 type="scene" n=4.3>  
+<head>IV.iii.</head>  
+  
+<p><figure entity="mbe-p146">  
+<figDesc>Image of prompt-book page 146</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe43open">(opening) Malcolme and / Macduff / [line]  
+]</xref> What looks like a deleted 'M' appears before 'Malcolme'. This  
+call for the entry of scene iii appears at the foot of the second column  
+on p. 145 instead of at the top of the first column on p. 146 where <hi  
+rend="italics">'Sc&aelig;na Tertia.'</hi> begins.</p>  
+  
+<p><xref doc="mbe432">2-31 <hi>Macd.</hi> Let . . .  
+thinke.]</xref> Circled.  D'Avenant reduces to 15 lines, with some  
+rewriting; Douai MS omits 4-8 ('each . . . Dolour.'), 23-24 ('Though . . .  
+so.'); Garrick cuts 3-4 ('and . . . Birthdome:'), 8 ('What . . .') -l 1,  
+20-24 ('But . . .  so.'), 26-28; Lee reduces to 14 lines based on  
+D'Avenant.</p>  
+  
+<p><xref doc="mbe4366">66-l00 <hi>Macd.</hi> Boundlesse  
+. . . earth.]</xref>  
+Circled. D'Avenant omits 61-l00 ('Your . . . earth.'); Garrick omits  
+61-97 ('Your . . . wayes.'); Lee, 53-100 ('and . . . earth.').</p>  
+  
+<p><figure entity="mbe-p147">  
+<figDesc>Image of prompt-book page 147</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe43120">120-121 but God . . . me;]</xref> Crossed  
+through and badly smeared.  Probably cut as a reference to the deity. So  
+D'Avenant and Lee; Smock Alley PB cuts 117-123 ('Diuellish . . .  
+detraction.'); Garrick replaces 'God' with 'Heav'n'.</p>  
+  
+<p><xref doc="mbe43139">139 [line] / Doctor T S / [line] ]</xref> See General  
+Introduction, p. 8, for 'T S'. The retention of a part of the 'Doctor  
+episode' is unusual; D'Avenant, Smock Alley PB, Garrick, Lee, and  
+Collier MS cut entirely (though Smock Alley PB at one point in its  
+preparation seems to have planned the scene as here).</p>  
+  
+<p><xref doc="mbe43149">149-158 How he . . . Throne,]</xref> Circled.  
+See 139 above.</p>  
+  
+<p><xref doc="mbe43158">158-159 [line] / --- Rosse / [line]</xref></p>  
+  
+<!-- </page> --><!-- <page n=38> -->  
+  
+<p><xref doc="mbe43213">213]</xref> After F 'comforted.' PB sets a small  
+cross.  I cannot explain its significance.</p>  
+  
+<p><figure entity="mbe-p148">  
+<figDesc>Image of prompt-book page 148</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe43235">235 This time goes manly:]</xref> Crossed  
+through. The cut gets rid of a textual difficulty. D'Avenant cuts;  
+Garrick and Lee adopt Rowe's 'tune'.</p>  
+  
+<p><xref doc="mbe43240">240 [line] / Act / [line]</xref></p>  
+  
+</div2>  
+</div1>  
+  
+<div1 type="act" n=5>  
+<head>V</head>  
+<div2 type="scene" n=5.1>  
+<head>V.i.</head>  
+  
+<p><xref doc="mbe5120">20-21 [line] / Lady / [line] ]</xref> PB sets a  
+short  
+line after 'speech.'  
+(21) to mark point of entry.</p>  
+  
+</div2>  
+<div2 type="scene" n=5.2>  
+<head>V.ii.</head>  
+  
+<p><xref doc="mbe52open">(opening) March / [line] / Mentith, Cathnes  
+Lenox Angus / [line] ]</xref> 'March' seems to be a substitute for F <hi  
+rend="italics">'Drum and Colours.'</hi>. Note the omission of F <hi  
+rend="italics">'Soldiers.'</hi>; compare PB's usual omission of <hi  
+rend="italics">'Attendants'</hi>. Garrick omits the scene.</p>  
+  
+</div2>  
+<div2 type="scene" n=5.3>  
+<head>V.iii.</head>  
+  
+<p><figure entity="mbe-p149">  
+<figDesc>Image of prompt-book page 149</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe53open">(opening) Macbeth and / Doctor M<hi rend="sup">r</hi>  
+/ G / [line] ]</xref> See General Introduction, p. 9, for 'M<hi  
+rend="sup">r</hi> G'. Note the omission of F <hi  
+rend="italics">'Attendants.'</hi>.</p>  
+  
+<p><xref doc="mbe538">8-9 [line] / Seru<hi rend="sup">t</hi>' / [line] / E  
+H]</xref> See General Introduction, p. 9, for 'E H'.</p>  
+  
+<p><xref doc="mbe5319">19 [line] / Seyton / [line] ]</xref> Call for entry  
+at 29, 20-29 being cut.</p>  
+  
+<p><xref doc="mbe5320">20-29 this push . . . <hi  
+rend="italics">Seyton?</hi>]</xref> Circled.  D'Avenant cuts and  
+replaces with other lines; Douai MS omits 20 ('When . . .')-21.</p>  
+  
+</div2>  
+<div2 type="scene" n=5.4>  
+<head>V.iv</head>  
+  
+<p><xref doc="mbe54open">(opening) [line] / M<hi rend="sup">r</hi>ch /  
+[line] / Malcolme, Seyward: Macduff Seywards Sonne / Mentith Cathnes  
+Angus Rosse]</xref> PB has crowded this entry call for scene iv under  
+the final lines of scene iii.  'Rosse' has been added to the F entry and  
+<hi>'Soldiers'</hi> omitted. 'M<hi rend="sup">r</hi>ch'  
+seems to be substituted for F <hi>'Drum and  
+Colours.'</hi>. D'Avenant adds Donalbain, Lenox, and Flean and omits  
+Macduff, Siward's Son, Menteith, Caithness, and Angus; Smock Alley PB  
+adds 'Rosse' and deletes <hi>'Seywards Son, Menteth,  
+Cathnes, Angus'</hi>; Garrick adds Lenox and omits Menteith and  
+Caithness; Lee adds Lenox and Ross and omits Menteith. D'Avenant, Douai  
+MS, and Garrick omit <hi>'Drum and Colours.'</hi>; Lee  
+substitutes, as in PB, <hi>'A march beat.'</hi>.</p>  
+  
+</div2>  
+<div2 type="scene" n=5.5>  
+<head>V.v</head>  
+  
+<p><figure entity="mbe-p150">  
+<figDesc>Image of prompt-book page 150</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe55open">(opening) [line] / Macbeth Seyton / [line] ]</xref>  
+PB omits F <hi>'Souldiers, with, Drum and Colours.'</hi>.  
+So Smock Alley PB; D'Avenant, Douai MS, Garrick, and Lee omit <hi  
+rend="italics">'Drum and Colours.'</hi>.</p>  
+  
+<p><xref doc="mbe556">6-7 [line] / Cry w<hi rend="sup">th</hi>in / [line]</xref></p>  
+  
+<p><xref doc="mbe5513">13-15 I haue . . . me.]</xref> Circled. D'Avenant replaces 10-15 ('. . .  
+me.')  
+with a line which reverses Shakespeare's idea:  'The time has been that  
+dangers have been my familiars.'.</p>  
+  
+<p><xref doc="mbe5524">24-26 a poore . . . more.]</xref> Circled. The  
+first part of 24 appears to have been originally cut. Lee reads 'a mere  
+player'.</p>  
+  
+<p><xref doc="mbe5527">27-29 [line] / Messeng<hi>er</hi>  
+/ M<hi rend="sup">r</hi> Carlile / [line] ]</xref> PB sets a short line  
+after 'nothing.' (28) to mark point of entry. See General Introduction,  
+p. 8, for 'M<hi rend="sup">r</hi> Carlile'.</p>  
+  
+<!-- </page> --><!-- <page n=39> -->  
+  
+</div2>  
+<div2 type="scene" n=5.6>  
+<head>V.vi.</head>  
+  
+<p><xref doc="mbe56open">(opening) Malcome Seyward / Macduff, Angus / Rosse, Y  
+Seyward / [line] ]</xref> PB adds 'Angus / Rosse' and 'Y Seyward' and  
+omits F <hi>'Drumme and Colours.'</hi> and 'their Army,  
+with Boughes.'; D'Avenant adds Lenox, Flean, Seyton, and Donalbain; Lee  
+adds 'young Seyward, Rosse, Lenox, Angus, Caithness'. D'Avenant, Douai  
+MS, Garrick, and Lee omit <hi>'Drumme and  
+Colours.'</hi>.</p>  
+  
+</div2>  
+<div2 type="scene" n=5.7>  
+<head>V.vii.</head>  
+  
+<p><xref doc="mbe57open">(opening) [line] / Macbeth]</xref> PB places this call  
+immediately under the  
+last line of scene vi, indicating an immediate entry.</p>  
+  
+<p><xref doc="mbe574">4 [line] / y Seyward / [line]</xref></p>  
+  
+<p><xref doc="mbe5711">11 [line] / Chardg / [line] ]</xref> Probably  
+intended as a comment on F 'Fight'.</p>  
+  
+<p><xref doc="mbe5713">13 [line] / Chardge / [line] ]</xref> A comment on F <hi  
+rend="italics">'Alarums.'</hi>. Note that PB  
+fails to enter a call for Macduff at this point. Curiously, Smock Alley PB  
+also fails to call for Macduff's entrance here.</p>  
+  
+<p><figure entity="mbe-p151">  
+<figDesc>Image of prompt-book page 151</figDesc>  
+</figure></p>  
+   
+<p><xref doc="mbe5723">23 [line] / Malcolme / Seward / [line]</xref></p>  
+  
+<p><xref doc="mbe5729">29 [line] / Chardge / [line] ]</xref> A comment on F <hi  
+rend="italics">'Alarum'</hi>.</p>  
+  
+</div2>  
+<div2 type="scene" n=5.8>  
+<head>V.viii.</head>  
+  
+<p><xref doc="mbe58open">(opening) [line] / Macbeth / [line] ]</xref> No  
+new scene marked in  
+F, PB,  
+D'Avenant, Smock Alley PB, Douai MS, Garrick, or Lee.</p>  
+  
+<p><xref doc="mbe583">3 [line] / Macduff / [line]</xref></p>  
+  
+<p><xref doc="mbe588">8 Chardg]</xref> A comment on F <hi>'Fight: Alarum'</hi>.</p>  
+	  
+<p><xref doc="mbe5834">34 [line] / Chardge Retreate / [line] / florish /  
+[line] / Malcolme Seyward Ross / Angus Cathnes Mentith / Lenox:]</xref>  
+'Chardge' seems to cover F <hi>'Exeunt fighting. Alarums.  
+Enter Fighting, and Macbeth slaine.'</hi>. PB adds 'Angus Cathnes  
+Mentith / Lenox:' as an expansion of F <hi>'Thanes'</hi>.  
+F <hi>'Drumme and Colours'</hi> and <hi  
+rend="italics">'Soldiers'</hi> are ignored.  D'Avenant adds Donalbain,  
+Flean, and Seyton in place of <hi>'Thanes'</hi>, and  
+omits Ross; Douai MS omits 'Thanes'; Lee adds Lenox, Angus, Caithness in  
+place of <hi>'Thanes'</hi>. D'Avenant, Garrick, and Lee  
+omit <hi>'Drumme and Colours'</hi>.</p>  
+  
+<p><xref doc="mbe5852">52 [line] / --- Macduff / [line]</xref></p>  
+  
+<p><xref doc="mbe5859">59]</xref> F <hi>'Flourish.'</hi> has  
+been placed between lines in the manner of a prompt call.</p>  
+  
+</div2>  
+</div1>  
+</div0>  
+</body>  
+<!-- </page> -->  
+</text>  
+</TEI.2>  
+  
+ 

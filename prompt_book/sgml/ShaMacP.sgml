@@ -1,0 +1,2563 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[ 
+<!NOTATION jpg SYSTEM "JPEG"> 
+ 
+<!ENTITY mac-p711 SYSTEM "mac-p711.jpg" NDATA jpg> 
+<!ENTITY mac-p712 SYSTEM "mac-p712.jpg" NDATA jpg> 
+<!ENTITY mac-p713 SYSTEM "mac-p713.jpg" NDATA jpg> 
+<!ENTITY mac-p714 SYSTEM "mac-p714.jpg" NDATA jpg> 
+<!ENTITY mac-p714b SYSTEM "mac-p714b.jpg" NDATA jpg> 
+<!ENTITY mac-p715 SYSTEM "mac-p715.jpg" NDATA jpg> 
+<!ENTITY mac-p715b SYSTEM "mac-p715b.jpg" NDATA jpg> 
+<!ENTITY mac-p716 SYSTEM "mac-p716.jpg" NDATA jpg> 
+<!ENTITY mac-p717 SYSTEM "mac-p717.jpg" NDATA jpg> 
+<!ENTITY mac-p718 SYSTEM "mac-p718.jpg" NDATA jpg> 
+<!ENTITY mac-p719 SYSTEM "mac-p719.jpg" NDATA jpg> 
+<!ENTITY mac-p720 SYSTEM "mac-p720.jpg" NDATA jpg> 
+<!ENTITY mac-p721 SYSTEM "mac-p721.jpg" NDATA jpg> 
+<!ENTITY mac-p722 SYSTEM "mac-p722.jpg" NDATA jpg> 
+<!ENTITY mac-p723 SYSTEM "mac-p723.jpg" NDATA jpg> 
+<!ENTITY mac-p724 SYSTEM "mac-p724.jpg" NDATA jpg> 
+<!ENTITY mac-p725 SYSTEM "mac-p725.jpg" NDATA jpg> 
+<!ENTITY mac-p726 SYSTEM "mac-p726.jpg" NDATA jpg> 
+<!ENTITY mac-p727 SYSTEM "mac-p727.jpg" NDATA jpg> 
+<!ENTITY mac-p728 SYSTEM "mac-p728.jpg" NDATA jpg> 
+<!ENTITY mac-p729 SYSTEM "mac-p729.jpg" NDATA jpg> 
+<!ENTITY mac116 SYSTEM "mac116.jpg" NDATA jpg> 
+<!ENTITY mac117 SYSTEM "mac117.jpg" NDATA jpg> 
+<!ENTITY mac11open SYSTEM "mac11open.jpg" NDATA jpg> 
+<!ENTITY mac121 SYSTEM "mac121.jpg" NDATA jpg> 
+<!ENTITY mac1211 SYSTEM "mac1211.jpg" NDATA jpg> 
+<!ENTITY mac1215 SYSTEM "mac1215.jpg" NDATA jpg> 
+<!ENTITY mac1226 SYSTEM "mac1226.jpg" NDATA jpg> 
+<!ENTITY mac1238 SYSTEM "mac1238.jpg" NDATA jpg> 
+<!ENTITY mac1241 SYSTEM "mac1241.jpg" NDATA jpg> 
+<!ENTITY mac1245a SYSTEM "mac1245a.jpg" NDATA jpg> 
+<!ENTITY mac1245b SYSTEM "mac1245b.jpg" NDATA jpg> 
+<!ENTITY mac1246 SYSTEM "mac1246.jpg" NDATA jpg> 
+<!ENTITY mac1247 SYSTEM "mac1247.jpg" NDATA jpg> 
+<!ENTITY mac1248 SYSTEM "mac1248.jpg" NDATA jpg> 
+<!ENTITY mac1250 SYSTEM "mac1250.jpg" NDATA jpg> 
+<!ENTITY mac1253 SYSTEM "mac1253.jpg" NDATA jpg> 
+<!ENTITY mac127 SYSTEM "mac127.jpg" NDATA jpg> 
+<!ENTITY mac12open SYSTEM "mac12open.jpg" NDATA jpg> 
+<!ENTITY mac13100 SYSTEM "mac13100.jpg" NDATA jpg> 
+<!ENTITY mac13109 SYSTEM "mac13109.jpg" NDATA jpg> 
+<!ENTITY mac1311 SYSTEM "mac1311.jpg" NDATA jpg> 
+<!ENTITY mac13120 SYSTEM "mac13120.jpg" NDATA jpg> 
+<!ENTITY mac13122 SYSTEM "mac13122.jpg" NDATA jpg> 
+<!ENTITY mac13125 SYSTEM "mac13125.jpg" NDATA jpg> 
+<!ENTITY mac13127a SYSTEM "mac13127a.jpg" NDATA jpg> 
+<!ENTITY mac13127b SYSTEM "mac13127b.jpg" NDATA jpg> 
+<!ENTITY mac13129 SYSTEM "mac13129.jpg" NDATA jpg> 
+<!ENTITY mac13135 SYSTEM "mac13135.jpg" NDATA jpg> 
+<!ENTITY mac13137 SYSTEM "mac13137.jpg" NDATA jpg> 
+<!ENTITY mac13145 SYSTEM "mac13145.jpg" NDATA jpg> 
+<!ENTITY mac13152 SYSTEM "mac13152.jpg" NDATA jpg> 
+<!ENTITY mac13154 SYSTEM "mac13154.jpg" NDATA jpg> 
+<!ENTITY mac133 SYSTEM "mac133.jpg" NDATA jpg> 
+<!ENTITY mac1339 SYSTEM "mac1339.jpg" NDATA jpg> 
+<!ENTITY mac1341 SYSTEM "mac1341.jpg" NDATA jpg> 
+<!ENTITY mac1344 SYSTEM "mac1344.jpg" NDATA jpg> 
+<!ENTITY mac1355 SYSTEM "mac1355.jpg" NDATA jpg> 
+<!ENTITY mac1362 SYSTEM "mac1362.jpg" NDATA jpg> 
+<!ENTITY mac1388 SYSTEM "mac1388.jpg" NDATA jpg> 
+<!ENTITY mac1389 SYSTEM "mac1389.jpg" NDATA jpg> 
+<!ENTITY mac1393 SYSTEM "mac1393.jpg" NDATA jpg> 
+<!ENTITY mac13open SYSTEM "mac13open.jpg" NDATA jpg> 
+<!ENTITY mac1414 SYSTEM "mac1414.jpg" NDATA jpg> 
+<!ENTITY mac1430 SYSTEM "mac1430.jpg" NDATA jpg> 
+<!ENTITY mac1432 SYSTEM "mac1432.jpg" NDATA jpg> 
+<!ENTITY mac1444 SYSTEM "mac1444.jpg" NDATA jpg> 
+<!ENTITY mac14opa SYSTEM "mac14opa.jpg" NDATA jpg> 
+<!ENTITY mac14opb SYSTEM "mac14opb.jpg" NDATA jpg> 
+<!ENTITY mac1532 SYSTEM "mac1532.jpg" NDATA jpg> 
+<!ENTITY mac1557 SYSTEM "mac1557.jpg" NDATA jpg> 
+<!ENTITY mac1565 SYSTEM "mac1565.jpg" NDATA jpg> 
+<!ENTITY mac15opa SYSTEM "mac15opa.jpg" NDATA jpg> 
+<!ENTITY mac15opb SYSTEM "mac15opb.jpg" NDATA jpg> 
+<!ENTITY mac1612 SYSTEM "mac1612.jpg" NDATA jpg> 
+<!ENTITY mac1620 SYSTEM "mac1620.jpg" NDATA jpg> 
+<!ENTITY mac163 SYSTEM "mac163.jpg" NDATA jpg> 
+<!ENTITY mac169 SYSTEM "mac169.jpg" NDATA jpg> 
+<!ENTITY mac16opa SYSTEM "mac16opa.jpg" NDATA jpg> 
+<!ENTITY mac16opb SYSTEM "mac16opb.jpg" NDATA jpg> 
+<!ENTITY mac172 SYSTEM "mac172.jpg" NDATA jpg> 
+<!ENTITY mac1745 SYSTEM "mac1745.jpg" NDATA jpg> 
+<!ENTITY mac17opa SYSTEM "mac17opa.jpg" NDATA jpg> 
+<!ENTITY mac17opb SYSTEM "mac17opb.jpg" NDATA jpg> 
+<!ENTITY mac2127 SYSTEM "mac2127.jpg" NDATA jpg> 
+<!ENTITY mac2138 SYSTEM "mac2138.jpg" NDATA jpg> 
+<!ENTITY mac2140 SYSTEM "mac2140.jpg" NDATA jpg> 
+<!ENTITY mac2153 SYSTEM "mac2153.jpg" NDATA jpg> 
+<!ENTITY mac2157 SYSTEM "mac2157.jpg" NDATA jpg> 
+<!ENTITY mac2158 SYSTEM "mac2158.jpg" NDATA jpg> 
+<!ENTITY mac2160 SYSTEM "mac2160.jpg" NDATA jpg> 
+<!ENTITY mac2163 SYSTEM "mac2163.jpg" NDATA jpg> 
+<!ENTITY mac218 SYSTEM "mac218.jpg" NDATA jpg> 
+<!ENTITY mac21open SYSTEM "mac21open.jpg" NDATA jpg> 
+<!ENTITY mac2221 SYSTEM "mac2221.jpg" NDATA jpg> 
+<!ENTITY mac2252 SYSTEM "mac2252.jpg" NDATA jpg> 
+<!ENTITY mac2262 SYSTEM "mac2262.jpg" NDATA jpg> 
+<!ENTITY mac2263 SYSTEM "mac2263.jpg" NDATA jpg> 
+<!ENTITY mac2274 SYSTEM "mac2274.jpg" NDATA jpg> 
+<!ENTITY mac22open SYSTEM "mac22open.jpg" NDATA jpg> 
+<!ENTITY mac231 SYSTEM "mac231.jpg" NDATA jpg> 
+<!ENTITY mac23105 SYSTEM "mac23105.jpg" NDATA jpg> 
+<!ENTITY mac23131 SYSTEM "mac23131.jpg" NDATA jpg> 
+<!ENTITY mac23135 SYSTEM "mac23135.jpg" NDATA jpg> 
+<!ENTITY mac23139 SYSTEM "mac23139.jpg" NDATA jpg> 
+<!ENTITY mac2323 SYSTEM "mac2323.jpg" NDATA jpg> 
+<!ENTITY mac2328 SYSTEM "mac2328.jpg" NDATA jpg> 
+<!ENTITY mac2349 SYSTEM "mac2349.jpg" NDATA jpg> 
+<!ENTITY mac2376 SYSTEM "mac2376.jpg" NDATA jpg> 
+<!ENTITY mac2378a SYSTEM "mac2378a.jpg" NDATA jpg> 
+<!ENTITY mac2378b SYSTEM "mac2378b.jpg" NDATA jpg> 
+<!ENTITY mac2379 SYSTEM "mac2379.jpg" NDATA jpg> 
+<!ENTITY mac2383 SYSTEM "mac2383.jpg" NDATA jpg> 
+<!ENTITY mac2388 SYSTEM "mac2388.jpg" NDATA jpg> 
+<!ENTITY mac2395 SYSTEM "mac2395.jpg" NDATA jpg> 
+<!ENTITY mac23open SYSTEM "mac23open.jpg" NDATA jpg> 
+<!ENTITY mac241 SYSTEM "mac241.jpg" NDATA jpg> 
+<!ENTITY mac2410 SYSTEM "mac2410.jpg" NDATA jpg> 
+<!ENTITY mac2421 SYSTEM "mac2421.jpg" NDATA jpg> 
+<!ENTITY mac2427 SYSTEM "mac2427.jpg" NDATA jpg> 
+<!ENTITY mac2439 SYSTEM "mac2439.jpg" NDATA jpg> 
+<!ENTITY mac244 SYSTEM "mac244.jpg" NDATA jpg> 
+<!ENTITY mac2440 SYSTEM "mac2440.jpg" NDATA jpg> 
+<!ENTITY mac24opa SYSTEM "mac24opa.jpg" NDATA jpg> 
+<!ENTITY mac24opb SYSTEM "mac24opb.jpg" NDATA jpg> 
+<!ENTITY mac24opc SYSTEM "mac24opc.jpg" NDATA jpg> 
+<!ENTITY mac3110 SYSTEM "mac3110.jpg" NDATA jpg> 
+<!ENTITY mac31101 SYSTEM "mac31101.jpg" NDATA jpg> 
+<!ENTITY mac31110 SYSTEM "mac31110.jpg" NDATA jpg> 
+<!ENTITY mac31122 SYSTEM "mac31122.jpg" NDATA jpg> 
+<!ENTITY mac31132 SYSTEM "mac31132.jpg" NDATA jpg> 
+<!ENTITY mac3116 SYSTEM "mac3116.jpg" NDATA jpg> 
+<!ENTITY mac3122 SYSTEM "mac3122.jpg" NDATA jpg> 
+<!ENTITY mac3124 SYSTEM "mac3124.jpg" NDATA jpg> 
+<!ENTITY mac3128 SYSTEM "mac3128.jpg" NDATA jpg> 
+<!ENTITY mac3138 SYSTEM "mac3138.jpg" NDATA jpg> 
+<!ENTITY mac3152 SYSTEM "mac3152.jpg" NDATA jpg> 
+<!ENTITY mac3180 SYSTEM "mac3180.jpg" NDATA jpg> 
+<!ENTITY mac31opa SYSTEM "mac31opa.jpg" NDATA jpg> 
+<!ENTITY mac31opb SYSTEM "mac31opb.jpg" NDATA jpg> 
+<!ENTITY mac3222 SYSTEM "mac3222.jpg" NDATA jpg> 
+<!ENTITY mac3244 SYSTEM "mac3244.jpg" NDATA jpg> 
+<!ENTITY mac3256 SYSTEM "mac3256.jpg" NDATA jpg> 
+<!ENTITY mac326 SYSTEM "mac326.jpg" NDATA jpg> 
+<!ENTITY mac32open SYSTEM "mac32open.jpg" NDATA jpg> 
+<!ENTITY mac3311 SYSTEM "mac3311.jpg" NDATA jpg> 
+<!ENTITY mac3314 SYSTEM "mac3314.jpg" NDATA jpg> 
+<!ENTITY mac331a SYSTEM "mac331a.jpg" NDATA jpg> 
+<!ENTITY mac331b SYSTEM "mac331b.jpg" NDATA jpg> 
+<!ENTITY mac335 SYSTEM "mac335.jpg" NDATA jpg> 
+<!ENTITY mac338 SYSTEM "mac338.jpg" NDATA jpg> 
+<!ENTITY mac339 SYSTEM "mac339.jpg" NDATA jpg> 
+<!ENTITY mac33opa SYSTEM "mac33opa.jpg" NDATA jpg> 
+<!ENTITY mac33opb SYSTEM "mac33opb.jpg" NDATA jpg> 
+<!ENTITY mac33opc SYSTEM "mac33opc.jpg" NDATA jpg> 
+<!ENTITY mac33opd SYSTEM "mac33opd.jpg" NDATA jpg> 
+<!ENTITY mac341 SYSTEM "mac341.jpg" NDATA jpg> 
+<!ENTITY mac34103 SYSTEM "mac34103.jpg" NDATA jpg> 
+<!ENTITY mac34105 SYSTEM "mac34105.jpg" NDATA jpg> 
+<!ENTITY mac34106 SYSTEM "mac34106.jpg" NDATA jpg> 
+<!ENTITY mac34108 SYSTEM "mac34108.jpg" NDATA jpg> 
+<!ENTITY mac34116 SYSTEM "mac34116.jpg" NDATA jpg> 
+<!ENTITY mac34120 SYSTEM "mac34120.jpg" NDATA jpg> 
+<!ENTITY mac34142 SYSTEM "mac34142.jpg" NDATA jpg> 
+<!ENTITY mac3415 SYSTEM "mac3415.jpg" NDATA jpg> 
+<!ENTITY mac3460 SYSTEM "mac3460.jpg" NDATA jpg> 
+<!ENTITY mac3469 SYSTEM "mac3469.jpg" NDATA jpg> 
+<!ENTITY mac3475 SYSTEM "mac3475.jpg" NDATA jpg> 
+<!ENTITY mac3476 SYSTEM "mac3476.jpg" NDATA jpg> 
+<!ENTITY mac34opa SYSTEM "mac34opa.jpg" NDATA jpg> 
+<!ENTITY mac34opb SYSTEM "mac34opb.jpg" NDATA jpg> 
+<!ENTITY mac3515 SYSTEM "mac3515.jpg" NDATA jpg> 
+<!ENTITY mac352 SYSTEM "mac352.jpg" NDATA jpg> 
+<!ENTITY mac3533 SYSTEM "mac3533.jpg" NDATA jpg> 
+<!ENTITY mac3536 SYSTEM "mac3536.jpg" NDATA jpg> 
+<!ENTITY mac357 SYSTEM "mac357.jpg" NDATA jpg> 
+<!ENTITY mac35opa SYSTEM "mac35opa.jpg" NDATA jpg> 
+<!ENTITY mac35opb SYSTEM "mac35opb.jpg" NDATA jpg> 
+<!ENTITY mac36x SYSTEM "mac36x.jpg" NDATA jpg> 
+<!ENTITY mac36y SYSTEM "mac36y.jpg" NDATA jpg> 
+<!ENTITY mac41107 SYSTEM "mac41107.jpg" NDATA jpg> 
+<!ENTITY mac41110 SYSTEM "mac41110.jpg" NDATA jpg> 
+<!ENTITY mac41125a SYSTEM "mac41125a.jpg" NDATA jpg> 
+<!ENTITY mac41125b SYSTEM "mac41125b.jpg" NDATA jpg> 
+<!ENTITY mac41135a SYSTEM "mac41135a.jpg" NDATA jpg> 
+<!ENTITY mac41135b SYSTEM "mac41135b.jpg" NDATA jpg> 
+<!ENTITY mac41136 SYSTEM "mac41136.jpg" NDATA jpg> 
+<!ENTITY mac41147 SYSTEM "mac41147.jpg" NDATA jpg> 
+<!ENTITY mac4122 SYSTEM "mac4122.jpg" NDATA jpg> 
+<!ENTITY mac4129 SYSTEM "mac4129.jpg" NDATA jpg> 
+<!ENTITY mac4155 SYSTEM "mac4155.jpg" NDATA jpg> 
+<!ENTITY mac4162 SYSTEM "mac4162.jpg" NDATA jpg> 
+<!ENTITY mac4168 SYSTEM "mac4168.jpg" NDATA jpg> 
+<!ENTITY mac4169a SYSTEM "mac4169a.jpg" NDATA jpg> 
+<!ENTITY mac4169b SYSTEM "mac4169b.jpg" NDATA jpg> 
+<!ENTITY mac417 SYSTEM "mac417.jpg" NDATA jpg> 
+<!ENTITY mac4171 SYSTEM "mac4171.jpg" NDATA jpg> 
+<!ENTITY mac4172 SYSTEM "mac4172.jpg" NDATA jpg> 
+<!ENTITY mac4174 SYSTEM "mac4174.jpg" NDATA jpg> 
+<!ENTITY mac4175 SYSTEM "mac4175.jpg" NDATA jpg> 
+<!ENTITY mac4179a SYSTEM "mac4179a.jpg" NDATA jpg> 
+<!ENTITY mac4179b SYSTEM "mac4179b.jpg" NDATA jpg> 
+<!ENTITY mac4181 SYSTEM "mac4181.jpg" NDATA jpg> 
+<!ENTITY mac4182 SYSTEM "mac4182.jpg" NDATA jpg> 
+<!ENTITY mac4186 SYSTEM "mac4186.jpg" NDATA jpg> 
+<!ENTITY mac4190a SYSTEM "mac4190a.jpg" NDATA jpg> 
+<!ENTITY mac4190b SYSTEM "mac4190b.jpg" NDATA jpg> 
+<!ENTITY mac4192 SYSTEM "mac4192.jpg" NDATA jpg> 
+<!ENTITY mac4199 SYSTEM "mac4199.jpg" NDATA jpg> 
+<!ENTITY mac41opa SYSTEM "mac41opa.jpg" NDATA jpg> 
+<!ENTITY mac41opb SYSTEM "mac41opb.jpg" NDATA jpg> 
+<!ENTITY mac4225 SYSTEM "mac4225.jpg" NDATA jpg> 
+<!ENTITY mac4230 SYSTEM "mac4230.jpg" NDATA jpg> 
+<!ENTITY mac4242 SYSTEM "mac4242.jpg" NDATA jpg> 
+<!ENTITY mac4269 SYSTEM "mac4269.jpg" NDATA jpg> 
+<!ENTITY mac4275 SYSTEM "mac4275.jpg" NDATA jpg> 
+<!ENTITY mac4279a SYSTEM "mac4279a.jpg" NDATA jpg> 
+<!ENTITY mac4279b SYSTEM "mac4279b.jpg" NDATA jpg> 
+<!ENTITY mac4279c SYSTEM "mac4279c.jpg" NDATA jpg> 
+<!ENTITY mac42opa SYSTEM "mac42opa.jpg" NDATA jpg> 
+<!ENTITY mac42opb SYSTEM "mac42opb.jpg" NDATA jpg> 
+<!ENTITY mac42opc SYSTEM "mac42opc.jpg" NDATA jpg> 
+<!ENTITY mac43113 SYSTEM "mac43113.jpg" NDATA jpg> 
+<!ENTITY mac43115 SYSTEM "mac43115.jpg" NDATA jpg> 
+<!ENTITY mac43117 SYSTEM "mac43117.jpg" NDATA jpg> 
+<!ENTITY mac43123 SYSTEM "mac43123.jpg" NDATA jpg> 
+<!ENTITY mac43125 SYSTEM "mac43125.jpg" NDATA jpg> 
+<!ENTITY mac43133 SYSTEM "mac43133.jpg" NDATA jpg> 
+<!ENTITY mac43139 SYSTEM "mac43139.jpg" NDATA jpg> 
+<!ENTITY mac43145 SYSTEM "mac43145.jpg" NDATA jpg> 
+<!ENTITY mac43171 SYSTEM "mac43171.jpg" NDATA jpg> 
+<!ENTITY mac43191 SYSTEM "mac43191.jpg" NDATA jpg> 
+<!ENTITY mac43201 SYSTEM "mac43201.jpg" NDATA jpg> 
+<!ENTITY mac43220 SYSTEM "mac43220.jpg" NDATA jpg> 
+<!ENTITY mac43221 SYSTEM "mac43221.jpg" NDATA jpg> 
+<!ENTITY mac4333 SYSTEM "mac4333.jpg" NDATA jpg> 
+<!ENTITY mac4362 SYSTEM "mac4362.jpg" NDATA jpg> 
+<!ENTITY mac438 SYSTEM "mac438.jpg" NDATA jpg> 
+<!ENTITY mac4382 SYSTEM "mac4382.jpg" NDATA jpg> 
+<!ENTITY mac4394 SYSTEM "mac4394.jpg" NDATA jpg> 
+<!ENTITY mac43open SYSTEM "mac43open.jpg" NDATA jpg> 
+<!ENTITY mac514 SYSTEM "mac514.jpg" NDATA jpg> 
+<!ENTITY mac5150 SYSTEM "mac5150.jpg" NDATA jpg> 
+<!ENTITY mac5163 SYSTEM "mac5163.jpg" NDATA jpg> 
+<!ENTITY mac51open SYSTEM "mac51open.jpg" NDATA jpg> 
+<!ENTITY mac5215 SYSTEM "mac5215.jpg" NDATA jpg> 
+<!ENTITY mac52opax SYSTEM "mac52opax.jpg" NDATA jpg> 
+<!ENTITY mac52opay SYSTEM "mac52opay.jpg" NDATA jpg> 
+<!ENTITY mac52opb SYSTEM "mac52opb.jpg" NDATA jpg> 
+<!ENTITY mac5313 SYSTEM "mac5313.jpg" NDATA jpg> 
+<!ENTITY mac5333 SYSTEM "mac5333.jpg" NDATA jpg> 
+<!ENTITY mac5336 SYSTEM "mac5336.jpg" NDATA jpg> 
+<!ENTITY mac5339a SYSTEM "mac5339a.jpg" NDATA jpg> 
+<!ENTITY mac5339b SYSTEM "mac5339b.jpg" NDATA jpg> 
+<!ENTITY mac5342 SYSTEM "mac5342.jpg" NDATA jpg> 
+<!ENTITY mac5348 SYSTEM "mac5348.jpg" NDATA jpg> 
+<!ENTITY mac5361 SYSTEM "mac5361.jpg" NDATA jpg> 
+<!ENTITY mac53opa SYSTEM "mac53opa.jpg" NDATA jpg> 
+<!ENTITY mac53opb SYSTEM "mac53opb.jpg" NDATA jpg> 
+<!ENTITY mac53opc SYSTEM "mac53opc.jpg" NDATA jpg> 
+<!ENTITY mac541 SYSTEM "mac541.jpg" NDATA jpg> 
+<!ENTITY mac5411 SYSTEM "mac5411.jpg" NDATA jpg> 
+<!ENTITY mac5414 SYSTEM "mac5414.jpg" NDATA jpg> 
+<!ENTITY mac5419 SYSTEM "mac5419.jpg" NDATA jpg> 
+<!ENTITY mac542 SYSTEM "mac542.jpg" NDATA jpg> 
+<!ENTITY mac54opa SYSTEM "mac54opa.jpg" NDATA jpg> 
+<!ENTITY mac54opb SYSTEM "mac54opb.jpg" NDATA jpg> 
+<!ENTITY mac5511 SYSTEM "mac5511.jpg" NDATA jpg> 
+<!ENTITY mac5530 SYSTEM "mac5530.jpg" NDATA jpg> 
+<!ENTITY mac5551 SYSTEM "mac5551.jpg" NDATA jpg> 
+<!ENTITY mac558 SYSTEM "mac558.jpg" NDATA jpg> 
+<!ENTITY mac55opa SYSTEM "mac55opa.jpg" NDATA jpg> 
+<!ENTITY mac55opb SYSTEM "mac55opb.jpg" NDATA jpg> 
+<!ENTITY mac566 SYSTEM "mac566.jpg" NDATA jpg> 
+<!ENTITY mac56open SYSTEM "mac56open.jpg" NDATA jpg> 
+<!ENTITY mac5710 SYSTEM "mac5710.jpg" NDATA jpg> 
+<!ENTITY mac5711 SYSTEM "mac5711.jpg" NDATA jpg> 
+<!ENTITY mac5713 SYSTEM "mac5713.jpg" NDATA jpg> 
+<!ENTITY mac5723 SYSTEM "mac5723.jpg" NDATA jpg> 
+<!ENTITY mac574 SYSTEM "mac574.jpg" NDATA jpg> 
+<!ENTITY mac575a SYSTEM "mac575a.jpg" NDATA jpg> 
+<!ENTITY mac575b SYSTEM "mac575b.jpg" NDATA jpg> 
+<!ENTITY mac57open SYSTEM "mac57open.jpg" NDATA jpg> 
+<!ENTITY mac5813 SYSTEM "mac5813.jpg" NDATA jpg> 
+<!ENTITY mac5814 SYSTEM "mac5814.jpg" NDATA jpg> 
+<!ENTITY mac583 SYSTEM "mac583.jpg" NDATA jpg> 
+<!ENTITY mac5832 SYSTEM "mac5832.jpg" NDATA jpg> 
+<!ENTITY mac5835 SYSTEM "mac5835.jpg" NDATA jpg> 
+<!ENTITY mac5842 SYSTEM "mac5842.jpg" NDATA jpg> 
+<!ENTITY mac5864 SYSTEM "mac5864.jpg" NDATA jpg> 
+<!ENTITY macopen SYSTEM "macopen.jpg" NDATA jpg> 
+ 
+ 
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1; 
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2; 
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum; 
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub; 
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech; 
+]> 
+<TEI.2> 
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>Shakespearean prompt-books of the seventeenth century, vol. 5 
+(Smock Alley Macbeth) [a machine-readable transcription] 
+</title>  
+<author>Shakespeare, William 
+</author>  
+<respStmt> 
+<resp>Creation of machine-readable version:  
+</resp>  
+<name>Electronic Text Center 
+</name>  
+<resp>Creation of digital images:  
+</resp>  
+<name>Electronic Text Center 
+</name>  
+<resp>Conversion to TEI.2-conformant markup:  
+</resp>  
+<name>University of Virginia Library Electronic Text Center. 
+</name>  
+</respStmt>  
+</titleStmt>  
+<extent>125 kilobytes  
+</extent>  
+<publicationStmt> 
+<publisher>University of Virginia Library. 
+</publisher>  
+<pubPlace>Charlottesville, Va. 
+</pubPlace>  
+<idno>Bibliographic Society, ShaMacP 
+</idno>  
+<availability> 
+<p>Publicly-accessible 
+</p>  
+<p n=public>URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 
+</p>  
+</availability>  
+<date>1996 
+</date>  
+</publicationStmt>  
+<seriesStmt> 
+<p>Shakespearean prompt-books of the seventeenth century. 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>The electronic text contains the Introduction and the 
+Collations.  The prompt-book is rendered as page images. 
+</note>  
+<note>Images of the manuscript have been included from volume 5, part 2. 
+</note>  
+</notesStmt>  
+<sourceDesc> 
+<biblFull> 
+<titleStmt> 
+<title>Shakespearean prompt-books of the seventeenth century, vol. 5  
+(Smock Alley Macbeth) 
+</title>  
+<author> 
+</author>  
+<respStmt> 
+<resp>Editor 
+</resp>  
+<name>G. Blakemore Evans 
+</name>  
+</respStmt>  
+</titleStmt>  
+<editionStmt> 
+<p>Issued in portfolios. The prompt-books are reproduced in collotype 
+facsimile. 
+</p>  
+</editionStmt>  
+<extent> 
+</extent>  
+<publicationStmt> 
+<publisher>University Press of Virginia 
+</publisher>  
+<pubPlace>Charlottesville, VA 
+</pubPlace>  
+<date>1970 
+</date>  
+<idno>Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.5  
+</idno>  
+</publicationStmt>  
+<seriesStmt> 
+<p>Shakespearean prompt-books of the seventeenth century 
+</p>  
+</seriesStmt>  
+<notesStmt> 
+<note>Published for the Bibliographical Society of the University of Virginia 
+</note>  
+</notesStmt>  
+</biblFull>  
+</sourceDesc>  
+</fileDesc>  
+<encodingDesc> 
+<projectDesc> 
+<p>Prepared for the University of Virginia Library Electronic Text Center. 
+</p>  
+</projectDesc>  
+<editorialDecl> 
+<p>All quotation marks retained as data. 
+</p>  
+<p>All unambiguous end-of-line hyphens have been removed, and the 
+trailing part of a word has been joined to the preceding line. 
+</p>  
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs. 
+</p>  
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings. 
+</p>  
+</editorialDecl>  
+<refsDecl> 
+<p> 
+</p>  
+</refsDecl>  
+<classDecl> 
+<taxonomy> 
+<bibl> 
+<title>Library of Congress Subject Headings 
+</title>  
+</bibl>  
+</taxonomy>  
+</classDecl>  
+</encodingDesc>  
+<profileDesc> 
+<creation> 
+<date>1960-1970 
+</date>  
+</creation>  
+<langUsage> 
+<language>English 
+</language>  
+</langUsage>  
+<textClass> 
+<keywords> 
+<term>drama; prose 
+</term>  
+</keywords>  
+<keywords> 
+<term>LCSH 
+</term>  
+</keywords>  
+<keywords> 
+<term> 
+</term>  
+<term> 
+</term>  
+<term type="format">24-bit color; 400 dpi 
+</term>  
+</keywords>  
+</textClass>  
+</profileDesc>  
+<revisionDesc> 
+<change> 
+<change> 
+<date>July 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Catherine Tousignant, Electronic Text Center 
+</name>  
+</respStmt>  
+<item>Corrected various transcription errors.  Corrected errors in the print text, page 32: 
+because necessary] became necessary; page 33: Mentieth] Menteith; Fixed missing or broken images.   
+</item>  
+</change>  
+<date>March 1997 
+</date>  
+<respStmt> 
+<resp>corrector 
+</resp>  
+<name>Catherine Tousignant, Electronic Text Center 
+</name>  
+</respStmt>  
+<item>Added TEI header and tags.  
+</item>  
+</change>  
+</revisionDesc>  
+</teiHeader>  
+ 
+<text id=ShaMacP> 
+ 
+<front> 
+<titlePage> 
+<titlePart type="main"> 
+SHAKESPEAREAN<lb> 
+PROMPT BOOKS<lb> 
+of the<lb> 
+SEVENTEENTH CENTURY<lb> 
+Vol. V: Part i<lb> 
+</titlePart> 
+<titlePart type="sub"> 
+Introduction to the Smock Alley Macbeth<lb> 
+Collations 
+</titlePart> 
+ 
+<byline> 
+Edited by<lb> 
+G. Blakemore Evans 
+</byline> 
+ 
+<docImprint> 
+A Publication of<lb> 
+The Bibliographical Society of the University of Virginia<lb> 
+University Press of Virginia, Charlottesville<lb> 
+1970<lb> 
+THE UNIVERSITY PRESS OF VIRGINIA<lb> 
+Copyright 1970 by the Rector and Visitors 
+of the University of Virginia<lb> 
+ 
+First published 1970<lb> 
+ 
+Standard Book Number 8139 0301 7<lb> 
+Library of Congress Catalog Card Number: 60 2680<lb> 
+Printed in the United States of America 
+</docImprint> 
+</titlePage> 
+ 
+<div type="contents"> 
+<head>Contents</head> 
+<list> 
+<item>Introduction to the Smock Alley Macbeth .  . 1</item> 
+<item>Collations     .   .   .    .   .   .    .   9</item> 
+</list> 
+</div> 
+</front> 
+<body> 
+<!-- <page n=1> -->        
+<div0 type="introduction"> 
+<head>Introduction<lb> 
+Smock Alley <hi>Macbeth</hi><lb> 
+Third Folio</head> 
+ 
+<p>THE Smock Alley prompt-book of Macbeth has suffered a somewhat 
+adventurous career. After the play was separated from the original copy 
+of the Third Folio (1664) by Halliwell Phillipps, <note target="n1">[1]</note>  
+four pages (pp. 711, sig.  3O4; 714 
+[misnumbered], sig. 3O6<hi rend="sup">V</hi>; 719, sig. 3P3; 722, sig. 
+3P4<hi rend="sup">V</hi>) were exhibited in the "Rustic Wigwam" at 
+Hollingbury Copse, Brighton, and the last page of the play (p. 729, sig. 
+3Q2) was eventually bound up with the Smock Alley <hi>Hamlet</hi>, the 
+first page of <hi>Hamlet</hi> (p. 730, sig.  3Q2<hi rend="sup">V</hi>) 
+being the verso of the last page of Macbeth. <note target="n2">[2]</note>  
+All but the last page found their way to the 
+Folger Shakespeare Library, where they were reassembled.  <note target="n3">[3]</note>  
+The last page has only recently come to light 
+with the discovery of the Smock Alley <hi>Hamlet</hi> prompt book in the 
+Halliwell Phillipps collection of the University of Edinburgh Library. 
+All these leaves unfortunately bear the marks of their exhibition: wavy 
+ink lines running vertically through the text on the side of the leaf 
+not intended for exhibition. The damage to the last page of Macbeth is 
+especially heavy (see below, pp. 6-7) and indicates that the first page 
+of <hi>Hamlet</hi> was also exhibited at some stage in its history, 
+probably at Hollingbury Copse. 
+ 
+<!-- </page> --><!-- <page n=2> --> 
+ 
+</p><p>Professor R. C. Bald's identification of 'Smyth' (Hand III), who plays 
+Seyton in V.iii, with the Smock Alley actor Henry Smith who died in 1682 
+sets a definite date after which what may be considered as probably the first 
+acted form of the Smock Alley prompt book cannot have been prepared. 
+<note target="n4">[4]</note> 
+The only other actors named are John Totterdale (at V.v.8, Hand III), who 
+also played in Henry VIII and Othello, and 'farlow' (at III.i.22, 101-104, 
+Hand  ?III ). Nothing further is certainly known of Farlow, but Totterdale 
+seems to have been acting in Dublin from about 1674 to 1688. 
+<note target="n5">[5]</note> Totterdale's 
+name, therefore, would seem to suggest an early limit of about 1674 for this  
+form of the prompt book. Further possible narrowing of the two limits  
+(1674 and 1682) will be discussed later. 
+ 
+</p><p>It is possible, as Professor Bald points out, 
+<note target="n6">[6]</note> to distinguish what 
+appear to be three layers in the prompt markings and four principal 
+hands. Hand I (which appears as Hand I in <hi>Hamlet</hi>, <hi>Lear</hi>,  
+and <hi>Twelfth Night</hi> and as Hand II in <hi>I Henry IV</hi>) does nothing but mark the scene 
+settings. Hand II, probably the earliest of the prompt hands, indicates 
+the characters to be called and seems responsible for much of the 
+cutting and occasional textual changes. It appears again as Hand II in 
+<hi>Hamlet</hi> and <hi>Othello</hi> and is perhaps the same hand responsible for the 
+<hi>Julius Caesar</hi> couplet. 
+<note target="n7">[7]</note> Hand III, another prompt hand and the same as 
+Hand I in <hi>Othello</hi>, marks a second stage in the preparation of the play 
+and is largely associated with bringing the performance, as originally 
+outlined by Hand II, into closer conformity with certain aspects of 
+D'Avenant's version of Macbeth (published 1674), particularly in 
+III.iii, IV.i, and V.viii. Hand IV, a peculiarly coarse and heavily 
+formed hand, occasionally makes changes in Hand III's notations, cuts a 
+few lines, supplies prompt notes on off-stage effects, and tidies up 
+generally. It occurs also in <hi>Hamlet</hi> 
+ 
+ 
+<!-- </page> --><!-- <page n=3> --> 
+ 
+(Hand III), <hi>Merry Wives</hi> (Hand I), <hi>Othello</hi> (Hand VI), and the 
+<hi>Julius Caesar</hi> acting list and is the principal prompt hand in the Smock 
+Alley <hi>Belphegor</hi> manuscript prompt-book. It is also possible to distinguish 
+a fifth hand (Hand V) in connection with a few textual emendations near the 
+beginning of the play which appear  to be echoes of Pope's text (1723). 
+<note target="n8">[8]</note> 
+What seem to be other hands occur occasionally, but I have been unable to 
+associate them with any of the hands in the other Smock Alley prompt-books.  
+In the collation which follows all changes and additions and most 
+deletions are either assigned to one of the five hands listed above 
+(sometimes with a query) or marked as by an unidentified hand. The 
+attempt to determine the hands responsible for the deletions (by circling, 
+crossing through, and criss-crossing) is based on a study of the various inks 
+usually associated with a particular hand. There is, of course, considerable 
+danger in this method, and I have tried to indicate those cases where the 
+evidence seemed especially ambiguous. 
+ 
+</p><p>In the collation I have compared the Smock Alley Macbeth with the 
+following stage or stage related versions:  
+(1) the Padua prompt-book (see Volume 1 of this series; referred to as 
+Padua PB);  
+(2) Sir William D'Avenant's adaptation, 1674 (edited by Christopher 
+Spencer in <hi>Five Restoration Adaptations of Shakespeare</hi>, Urbana, 1965; 
+referred to as D'Avenant) and the Yale manuscript of D'Avenant's 
+adaptation (edited by Christopher Spencer, <hi>D'Avenant's "Macbeth" from the 
+Yale Manuscript</hi>, New Haven, 1961; referred to as Yale MS, but not 
+included in the collation unless differing significantly from the 1674 printed 
+text).  
+(3) The Douai manuscript, 1694 (in the Douai Public Library, MS 7.87, 
+fols. 171-209; referred to as Douai MS).<note target="n9">[9]</note>  
+(4) The Garrick version, 1744 (in Bell's <hi>Shakespeare</hi>, 1773, Vol. I; referred 
+to as Bell).<note target="n10">[10]</note>  
+(5) The John Lee version, Edinburgh, 1753 (referred to as Lee);  
+(6) The Lee Edward Salmon prompt-book 
+ 
+<!-- </page> --><!-- <page n=4> --> 
+ 
+(in a copy of the 1753 edition, now in the Harvard Theatre Collection, 
+marked by Edward Salmon, the prompter, and belonging to West Digges, 
+who played the role of Macbeth in Edinburgh on 26 December 1757; 
+referred to as Lee Salmon PB, but only where it differs from Lee). 
+<note target="n11">[11]</note> I have 
+also included the cuts indicated in the Collier Perkins Second Folio, 1632 
+(referred to as Collier MS). 
+ 
+</p><p>Two distinct versions of Macbeth emerge from the work of Hands II and 
+III. Hand II seems to have blocked the play out, making a few verbal 
+changes (I.iii.120, 145-146; I.vi.9; III.i. 16-17, 28), marking certain 
+passages or scenes (III.vi, V.ii) for cutting, a total of roughly 163 
+lines, and writing in the prompt calls for the characters. He regularly 
+omits the characters of Angus and Lennox, except for one occasion each 
+(V.i.63-64 and IV.ii. 125), when they were inadvertently, I think, 
+included. In the General Introduction to this series (I,i,19) I 
+suggested, following R. C. Bald, <note target="n12">[12]</note>  
+that Hand II's version may 
+represent the original form in which Smock Alley played Macbeth. This 
+view I no longer consider seriously tenable. It is much more likely that 
+Hand II's version represents a preliminary draft for prompt use and that 
+this "prepared book" was then taken over by Hand III and further adapted 
+for the stage with additional emphasis on D'Avenant's version. An 
+analogous situation may be found in the Smock Alley <hi>Hamlet</hi>, where, I 
+have suggested, possibly the same hand (Hand II) performed essentially 
+the same kind of preliminary spadework. <note target="n13">[13]</note> 
+ 
+</p><p>Hand III initiates less cutting than Hand II (roughly 127 lines as 
+compared with some 163),<note target="n14">[14]</note>  
+although in a number of cases he reinforces 
+Hand II's suggested cuts by further marks of deletion.  On the other 
+side, his individual textual revisions are much more numerous, 
+particularly in III.iii, IV.i, and V.viii, scenes in which D'Avenant's 
+influence is particularly marked. Hand II's 
+ 
+<!-- </page> --><!-- <page n=5> --> 
+ 
+few verbal changes suggest some vague knowledge of D'Avenant, and his 
+cuts sometimes parallel those in D'Avenant's version. Hand III's changes, 
+however, quite apart from the three scenes noted above, reflect a closer 
+recollection of D'Avenant's wording, although almost invariably with 
+slight verbal inaccuracies or changes. This strongly suggests that Hand III 
+worked from memory, without having a text of D'Avenant's version to 
+consult.<note target="n15">[15]</note>  
+Such a view might be considered one reason why the Third Folio 
+text was employed as a prompt-book. But all the Smock Alley productions 
+of Shakespeare used the Third Folio text as a source for the prompt-book. It 
+is, moreover, conceivable that the company preferred Shakespeare's basic 
+text, using D'Avenant only in those scenes (the murder of Banquo and the 
+handling of the Apparitions) where his revision did not interfere materially 
+with the original. A somewhat similar case occurs in the Smock Alley <hi>King 
+Lear</hi>, in which Shakespeare's text is used until V.ii, at which point some 
+form of Tate's happy ending appears to have been tacked on. 
+ 
+</p><p>The suggested absence of a printed text of D'Avenant's version, first 
+published in 1674 but performed as early as 1664, may also be advanced as 
+an argument for placing the Smock Alley production of Macbeth at the 
+earliest possible date--Totterdale's advent in the company in 1674. If, indeed, 
+a printed copy of D'Avenant's text was literally not available, this would 
+explain the apparent reliance of Hands II and III on recollections of the 
+London performances. While an early limit (1674) must be allowed as a 
+possibility, I still incline to the opinion I expressed in the General 
+Introduction to this series (I,i,19): between 1674 and 1682, with some 
+preference for a later rather than an earlier date. 
+ 
+</p><p>Hand IV seems certainly to be the latest of the main prompt hands. 
+Although it is principally concerned with prompt notations, particularly off-stage  
+effects or special business, e.g., I.iii.3-4; II.iv.10-13, 21; III.ii.22-23;  
+III.iii (opening); III.v (opening and end); V.vii (opening), it makes a 
+few cuts (about 38 lines, limited to IV.iii, V.iii, V.iv, and V.viii), one 
+change of scene (IV.i), and occasional verbal substitutions ( IV.iii.8, 
+ 
+<!-- </page> --><!-- <page n=6> --> 
+ 
+ 
+123, 191-192; V.v.11). Hand IV also restores Folio 'Rosse' for Hand 
+III's'Macduffe' in I.ii.45 s.d. and I.iii.88 s.d. (from D'Avenant) and Folio 
+'Saward' for Hand III's 'Rosse' in V.vii.4 s.d. (D'Avenant, 'Lennox'). There 
+is, I believe, some evidence to suggest that Hand IV worked on the prompt-book  
+at two different times. The changes made in Hand III's notations and 
+some other notations are written in a faded black-brown ink, while those 
+calls which seem merely to tidy up Hand III's work are generally in a light 
+brown ink. It seems possible, therefore, that some of Hand IV's changes 
+may reflect a somewhat later version of the play. But the evidence is 
+tenuous, sometimes uncertain, and resists any definite conclusion. 
+ 
+</p><p>It is difficult to give a very satisfactory account of the total number of lines 
+cut in the Smock Alley <hi>Macbeth</hi>. But as the play finally emerged under 
+Hand IV about 328 lines seem to have been deleted from the original and 
+about five lines, which do not merely substitute for deletions (see III.iii.11-22;  
+V.vii.11; V.viii.32-34), added. Also probably another twenty lines (the 
+second (?) song from D'Avenant's version called for in II.iv.10-13, 21) 
+must be included as an addition. All this leaves a production of about 1,781 
+lines, somewhat shorter than the Padua PB, D'Avenant, Douai MS, Garrick, 
+Lee, and Lee-Salmon versions.<note target="n16">[l6]</note>  
+The principal cuts are as follows: II.iii.5-23, 28 ('of three . . .')-46  
+(the Porter scene); III.vi (the scene of comment 
+between Lennox and a Lord); IV.ii.30-64,  
+79-85 (the last part of the scene of Lady Macduff's murder); IV.ii.117-123  
+('Devilish . . . detraction.'), 125-137 ('I am . . . Quarrel.'), 139 s.d.-159 (' . 
+. . Grace. ') (parts of the Malcolm Macduff interview); and V.ii (scene of 
+comment by Macbeth's enemies). 
+ 
+</p><p>The final scene (V.viii) requires special comment. This scene occurs on the 
+last page of <hi>Macbeth</hi> (p. 729, sig. 3Q2 ) and has been defaced by the 
+nineteenth-century exhibitor. In addition to double verticle lines down each 
+column, two of Hand II's advance calls, Hand III's added lines at the 
+bottom of the page, the running title, and the catchword have been crossed 
+through, each with a single pen stroke. All these deletions must, I think, 
+ 
+<!-- </page> --><!-- <page n=7> --> 
+ 
+be "credited" to the vandal exhibitor. They are made more neatly, if 
+that is a virtue, than the usual run of deletions in this prompt-book. 
+If this explanation is accepted, the general intention in the final 
+scene is clear enough, although the cutting in lines 35-53 is somewhat 
+confusing. Even so, however, the scene as here developed does nothing to 
+clear up the difficulty in the Folio text as to where Macbeth dies, on- 
+or off-stage. Here, as in the Folio, he seems to die on-stage, with a 
+line lifted from D'Avenant's version of the scene in which he does 
+indeed die on-stage. At this point, Macduff, with a line original to the 
+Smock Alley prompt-book 'Soe may all tyrants fall.' exits, re-entering 
+immediately after the entrance of Malcolm, Siward, Ross, etc. (lines 35-53  
+being cut) with Macbeth's head. Unless he cuts it off before exiting, 
+where does Macduff get the head? At best this suggests an awkward bit of 
+stage business, all the more surprising in the Smock Alley 
+production in view of D'Avenant's handling of the matter, by more 
+decorously substituting Macbeth's sword, which Macduff takes from the 
+dying Macbeth just before his exit and produces triumphantly on his re-entry  
+some lines later. Was the taste of an Irish audience more Elizabethan  
+than Augustan? 
+ 
+</p><p>In a number of instances the changes made in the Smock Alley prompt-book  
+parallel those found both in the earlier Padua prompt-book and in 
+eighteenth-century productions; all such parallels are recorded in the 
+running notes to the collation. It should be noticed, however, that the 
+attitude here dictating the cutting in the Porter scene differs from that at 
+work in the Padua prompt-book. In Smock Alley "decorum" and D'Avenant 
+are pretty clearly responsible, although I do not believe that there is 
+otherwise much evidence of a desire to "refine" Macbeth except in the 
+matter of language. As usual in Restoration versions (contrast the Padua 
+prompt-book), Shakespeare's diction and syntax have been simplified, 
+sometimes, but not always, with the aid of D'Avenant 
+(e.g., I.iii.55-57, 120, 145-146; II.iii.131-133; II.iv.40;  
+III.i.16-17, 110; III.iv.60, 75, 103, 105, 106; IV.i.69, 90, 
+92-94; IV.ii.75; IV.iii.8, 133, 191-192; V.iv.11; V.Viii.14, 32-34),  
+or "poetic" passages simply deleted (e.g., I.iii.125-126, 137-142; 
+I.vi.3-9; I.vii.2-12; II.iii.135-138;  
+III.i.122-126; IV.iii.117-123, 125-137, 171-173). The desire 
+to clarify what seemed involved, difficult, or obsolete accounts for a large 
+number of the changes and cuts, and sometimes the poetic quality of the 
+play  
+ 
+<!-- </page> --><!-- <page n=8> --> 
+ 
+suffers though considerably less so than in D'Avenant's "flattened" 
+adaptation. 
+ 
+</p><p>Two further points may be mentioned. Hand III's importation of Banquo 
+into II.iv in the place of the Old Man is so far as I know unique to the 
+Smock Alley production. His presence there may perhaps be explained by 
+the implied inclusion of the Witches in Hand IV's call for a song and dance 
+at lines 4-5 and 10-13, since Banquo would be a more suitable spectator for 
+this extra effect than an anonymous Old Man. In V.iii.36, 48, and V.v.51-52,  
+Hand IV deletes the references to Macbeth's armor (missing, however, 
+the first one at V.iii.33-34), and Hand III cuts the reference to his shield at 
+V.viii.32-34. Such deletions point to a costuming of Macbeth more in 
+keeping with Restoration military dress than with Shakespeare's conception, 
+a view borne out by several eighteenth-century theatrical paintings and 
+engravings.<note target="n17">[17]</note> 
+ 
+</p><p>The scenes employed in the Smock Alley Macbeth are for the most part 
+stock: Court (I.ii,iv,vi; III.i,iv; V.i), Towne (II.iv,deleted; 
+IV.iii; V.ii), Groue (III.iii; V.iv), Castle (V.v), and Chamber (II.i; 
+III.iv, deleted).  These scenes all appear in other Smock Alley 
+plays,<note target="n18">[18]</note>  
+but three scenes are found only in Macbeth: Rock (I.i,iii; 
+II.iv; III.v; IV.i, deleted), Garden (I.v; IV.ii), and Caue (IV.i). The 
+'Rock' scene is regularly associated with the Witches and must have been 
+specially prepared for this play. It is possible that the 'Caue' scene 
+substituted by Hand IV in IV.i represents a refinement introduced at 
+perhaps some later date. The only setting which raises any particular 
+question is the use of 'Towne' for the interview between Malcolm and 
+Macduff (IV.iii), a scene which according to Shakespeare's text is 
+supposed to take place at the court of Edward the Confessor in England. 
+Possibly some slight influence of the unity of place may be detected 
+here and in D'Avenant, who, curiously enough, sets the scene in Birnam 
+Wood.</p> 
+ 
+ 
+ 
+<note id="n1">1. See the General Introduction in the first volume of 
+this series (I,i,16). I would like to thank Mr. C. P. Finlayson, Keeper 
+of Manuscripts, Edinburgh University Library, for his kindness in 
+checking various ink shades on the last page of the Smock Alley Macbeth.</note> 
+ 
+<note id="n2">2. The Smock Alley <hi>Hamlet</hi> was published as Vol. IV (1966) of 
+this series.</note> 
+ 
+<note id="n3">3. R.C. Bald ("Shakespeare on the Stage in Restoration Dublin," <hi>PMLA</hi>, LVI 
+[1941], 369) was thus slightly misleading when he wrote: "The four 
+missing leaves in Macbeth were discovered mounted in a large portfolio 
+as item 233 of the <hi>Shakespearean Rarities</hi> preserved at Hollingbury 
+Copse."  This find did not complete the Smock Alley <hi>Macbeth</hi>.</note> 
+ 
+<note id="n4">4. Bald, pp. 371-372; W. S. Clark, <hi>The Early Irish Stage</hi> 
+(Oxford, 1955), p. 75.</note> 
+ 
+ 
+<note id="n5">5. Clark, p. 208. Totterdale also appears in the Smock Alley cast for 
+Fletcher's <hi>Night-Walker</hi> (see Allan Stevenson, "The Case of the 
+Decapitated Cast," <hi>SQ</hi>, VI [1955], 285-286). Stevenson notes that 
+Totterdale had a son baptized at St. John's in Dublin in November, 1675. 
+He also notes (p. 289) that Mrs. Elizabeth Farlowe or Farlee was a 
+member of the King's company.  She disappears from the London stage 
+after April, 1678 (see <hi>The London Stage</hi>, Part I, ed.  William 
+Van Lennep [Carbondale, 1965], p. 15 <hi>et passim</hi>) . It is 
+possible, though not, I think, very likely, that Mrs. Farlowe played the 
+role of the Servant. If so, this would place the date of the Smock Alley 
+production between 1678 and 1682.</note> 
+ 
+<note id="n6">6. Bald, p. 373.</note> 
+ 
+<note id="n7">7. See the General Introduction (I,i,14-15).</note> 
+ 
+<note id="n8">8. Although Hand V does not appear to be the same as the eighteenth 
+century hand which occurs in the Smock Alley <hi>Twelfth Night</hi>, 
+<hi>Hamlet</hi>, <hi>King Lear</hi>, <hi>Midsummer Night's Dream</hi>, 
+and <hi>Merry Wives</hi>, I do not believe that Hand V's changes predate 
+Pope's edition.  The isolation of the readings in two scenes (I.i and 
+ii) is extremely suspicious.</note> 
+ 
+<note id="n9">9. See my analysis of the Douai manuscript, "The Douai Manuscript--Six 
+Shakespearean Transcripts (1694-95)," in Charles B. Woods and Curt A. 
+Zimansky, eds., <hi>Studies in English Drama Presented to Baldwin 
+Maxwell</hi> (Iowa City, 1962), pp. 158-172.</note> 
+ 
+<note id="n10">10. See George W. Stone, "Garrick's Handling of <hi>Macbeth</hi>," <hi>SP</hi>, 
+XXXVIII (1941), 609-628. Professor Stone's article also contains some 
+comments on later eighteenth-century stage versions.</note> 
+ 
+<note id="n11">11. The Lee-Salmon prompt-book is used by permission of the Harvard 
+College Library. The 1734 Tonson edition of <hi>Macbeth</hi> is taken from 
+Theobald's 1733 text and shows no connection with the theatre. An 
+edition of <hi>Macbeth</hi> published in 1785 (with casts for that year at Drury 
+Lane and Covent Garden) reproduces essentially the Garrick version as it 
+appears in Bell (1773).</note> 
+ 
+<note id="n12">12. Bald, p. 373.</note> 
+ 
+<note id="n13">13. See the Introduction to the Smock Alley <hi>Hamlet</hi> (IV,i,4-5).</note> 
+ 
+<note id="n14">14. The figures given for the cutting by Hands II, III, and IV are 
+necessarily tentative, since, frequently, the only clue to which hand is 
+at work is the color of the ink used in the marks of deletion--a 
+dangerous criterion. I have included a cut as belonging to a particular 
+hand even when I have felt it necessary to query the attribution.</note> 
+ 
+<note id="n15">15. It may be noted that a somewhat similar situation exists in the 
+Smock Alley <hi>Hamlet</hi>. There is, however, some slight evidence 
+that, despite the inaccuracies of Hand II's changes when compared with 
+the so called actors' quarto (1676), an actual copy of the printed text 
+of that quarto was used to some degree.</note> 
+ 
+<note id="n16">16. I have used Alfred Hart's figure of 2,084 lines for Macbeth ("The 
+Number of Lines in Shakespeare's Plays," <hi>RES</hi>, VIII [1932], 21). 
+D'Avenant's version runs to roughly 2,124 lines; Padua PB to 1,808; 
+Douai MS to 1,888; Garrick (Bell) to 1,846; Lee to 1,857; Lee-Salmon to 
+1,826. The figure of 352 lines cut in the Smock Alley Macbeth as given 
+in my General Introduction (I,i,27) was a careless error.</note> 
+ 
+ 
+<note id="n17">17. Compare the illustration by du Guernier to Macbeth (IV.i) in Rowe's 
+1709 edition (actually it represents a scene from D'Avenant's version), 
+the famous painting by Zoffany of Garrick in the role of Macbeth (II.i), 
+and Dawes' painting (IV.i). See W. M. Merchant, <hi>Shakespeare and the 
+Artist</hi> (Oxford, 1959), pp. 53, 58-59.</note> 
+ 
+<note id="n18">18. See the General Introduction (I,i,23-24).</note> 
+ 
+<!-- </page> --><!-- <page n=9> --> 
+ 
+</div0> 
+<div0 type="collations"> 
+<head>Collations<lb> 
+<hi>Macbeth</hi><lb> 
+Prompt-Book</head> 
+ 
+<div1 type="introduction"> 
+<head></head> 
+<p>THE act, scene, and line numbering is that of the standard Globe text (1911 
+ed.). Angle brackets are used to indicate (1) missing words or letters; (2) 
+illegible words or letters; (3) doubtful or conjectural readings. The 
+following abbreviations are employed:</p> 
+ 
+<list> 
+<item>Bell ..........................................  Garrick's acting version of 
+<hi>Macbeth</hi> as printed in Bell's <hi>Shakespeare</hi> (1773), Vol. I</item> 
+ 
+<item>Collier MS ....................................  the Collier Perkins Second 
+Folio (1632), now in the Huntington Library</item> 
+ 
+<item>D'Avenant .....................................  D'Avenant's adaptation of 
+<hi>Macbeth</hi> (1674)</item> 
+ 
+<item>Douai MS ......................................  manuscript copy of <hi>Macbeth</hi> 
+contained in Douai Public Library MS 7.87 (1694), fols. 171-209</item> 
+ 
+<item>F..............................................  here used for Third Folio (1664)</item> 
+ 
+<item>Lee ...........................................  John Lee's acting version 
+of <hi>Macbeth</hi>, Edinburgh (1753)</item> 
+ 
+<item>Lee-Salmon PB .................................  copy of the Edinburgh 
+(1753) edition with the prompt markings of Edward Salmon, now in the 
+Harvard Theatre Collection</item> 
+ 
+<!-- </page> --><!-- <page n=10> --> 
+ 
+<item>PB ............................................  Smock Alley <hi>Macbeth</hi> 
+prompt-book, now in the Folger Shakespeare Library</item> 
+ 
+<item>Padua PB ......................................  Padua Macbeth prompt-book,  
+now in the University of Padua Library</item> 
+ 
+<item>Yale MS .......................................  manuscript copy of D'Avenant's version of 
+<hi>Macbeth</hi>, now in the Yale University Library</item> 
+</list> 
+ 
+<p>[In the lower left margin of p. 711 (sig. 3O3), running vertically, Hand ?II 
+has written Brutus' concluding couplet as it appears in the so called Dryden 
+D'Avenant version of Julius Caesar: 'poore slavish rome far well: Ceaser 
+now be still / I Kild not thee w<hi rend="sup">th</hi>. half so good a will Dye'. 
+The Smock Alley PB of <hi>Julius Caesar</hi> has not survived, and the problems 
+raised by the appearance of the couplet here may be found discussed in the 
+General Introduction to this series, I,i,14-15.]</p> 
+ 
+</div1> 
+<div1 type="act" n=1> 
+<head>I.</head> 
+<div2 type="scene" n=1.1> 
+<head>I.i.</head> 
+
+<figure entity="mac-p711"> 
+<figDesc>Image of prompt-book page 711</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac11open">(opening) Rock]</xref> Hand I. This setting is regularly associated with the 
+appearance of the Witches by Hand I, though Hand IV substitutes 'Caue' in IV.i. Bell, Lee: 
+'<hi>an open Place</hi>' (after Theobald); Lee adds '[<hi>Stage dark</hi>.]'.</p> 
+ 
+<p><xref doc="mac116">6 King &amp;c.]</xref> Hand II. This is the only example of such a generalized 
+prompt call in this PB.</p> 
+ 
+<p><xref doc="mac117">7 There I go to meet]</xref> Hand V interlines 'I 
+go', with a caret, above F 'to'. So Pope, Bell; D'Avenant reads: 'There 
+we resolve to meet'; Lee, 'There we'll go to meet'.</p> 
+ 
+</div2> 
+<div2 type="scene" n=1.2> 
+<head>I.ii.</head> 
+ 
+<p><xref doc="mac12open">(opening s.d.) <hi>Donalbaine, with 
+attendants</hi>]</xref> Hand ?II deletes F '<hi>Lenox</hi>,' following 
+'<hi>Donalbaine</hi>,'. PB omits Lennox throughout. D'Avenant, Lee 
+substitute Seyton for the F '<hi>bleeding Captain</hi>'.</p> 
+ 
+<p><xref doc="mac121">1 Court]</xref> Hand I. Part of the <hi>Julius 
+Caesar</hi> couplet has been written over 'Court'. Bell, Lee: '<hi>a 
+Palace at</hi> Foris' (after Theobald, Rowe); Lee adds '[<hi>Stage 
+light</hi>.]'.</p> 
+ 
+<p><xref doc="mac127">7 Doubtful long]</xref> Hand V interlines 'long', 
+with a caret, after F 'Doubtful'. So Pope, Bell, Lee; D'Avenant reads: 
+'It was doubtful ;' for F 'Doubtful . . . stood,'.</p> 
+ 
+<p><xref doc="mac1211">11-15 Rosse. [<hi>crossed through by Hand III</hi>] / 
+macduffe [<hi>crossed through by Hand IV</hi>] / Rosse]</xref> Hands II, 
+III, IV. See below, 45 s.d.</p> 
+ 
+<p><xref doc="mac1215">15 all too]</xref> Hand ?V crosses through 's' in F 
+'all's too'. So Pope, Bell, Lee; D'Avenant rewrites 14-15.</p> 
+ 
+<!-- </page> --><!-- <page n=11> --> 
+ 
+<p><xref doc="mac1226">26 break]</xref> Hand ?V crosses through 'ing' in F 
+'breaking'. So Pope, Bell; D'Avenant, Lee rewrite the passage.</p> 
+ 
+<p><xref doc="mac1238">38 So they redoubled stroaks upon]</xref> Hand ?V deletes F 'doubly' and 
+interlines 'up', with a caret, above F 'on' ('vpon' F1 ) . So Pope, Bell, Lee; 
+D'Avenant rewrites 36-41; Douai MS reads: 'for doubly they redoubled 
+stroakes on'.</p> 
+ 
+<p><xref doc="mac1241">41 I cannot tell:]</xref> Crossed through (Hand ?II).</p> 
+ 
+<p><xref doc="mac1245a">45 s.d.]</xref> Hand II first deletes F 'and Angus.'; 
+next Hand III deletes F '<hi>Enter Rosse</hi>' and writes above F s.d. 
+'Enter Macduffe'; this in turn is deleted by Hand IV, which then 
+restores 'Rosse', following deleted F s.d., but neglects to restore 
+'<hi>Enter</hi>' (compare the prompt call at 11-15, above) . In 
+substituting Macduff for Ross, Hand III was following D'Avenant, who 
+completely omits the characters of Ross and Angus from his version of 
+the play. PB cuts the character of Angus throughout, though Hand II 
+inadvertently included his name in the prompt call (later cancelled) for 
+V.ii. Lee retains Angus, but Lee-Salmon PB deletes him here and 
+elsewhere; both retain Ross. Gentleman (Bell) remarks that at Covent 
+Garden the "characters of <hi>Rosse</hi> and <hi>Angus</hi> have been 
+judicially blended . . . into those of Macduff and Lenox, to make them 
+more worthy the attention of good performers and the audience"; Drury 
+Lane, however, with Garrick, retained all four characters.</p> 
+ 
+<p><xref doc="mac1245b">45 <hi>Thane of Rosse</hi>. [<hi>crossed through</hi>]  
+Macduffe [<hi>crossed through</hi>]]</xref> Hand 
+III first crosses through F '<hi>Thane of Rosse</hi>.' and writes 'Macduffe', but 
+Hand IV, after deleting 'Macduffe', fails to restore Ross. Something 
+(perhaps 'Ma') has been written in the extreme right margin opposite Hand 
+III's 'Macduffe', but the leaf has been shaved. D'Avenant substitutes 'Noble 
+<hi>Macduff</hi>!'.</p> 
+ 
+<p><xref doc="mac1246">46-47 <hi>Lenox</hi>. Whathast . . . strange.]</xref>  
+Circled (Hand II). This deletion of 
+Lennox's speech follows the deletion of Lennox in the opening s.d. 
+D'Avenant, Bell, Lee omit 47.</p> 
+ 
+<p><xref doc="mac1247">47, 48, 58, 66 macd]</xref> Hand III deletes F 
+'<hi>Rosse</hi>.' and substitutes 'macd' or (66) 'Macd'. Although Hand IV removes 
+Macduff from the scene, the altered speech prefixes remain uncancelled. 
+Compare V.vii.5,6,8,10.</p> 
+ 
+<p><xref doc="mac1248">48 worthy Thane? [<hi>crossed through</hi>] braue 
+Mac&lt;duffe&gt; [<hi>crossed through</hi>]]</xref> Hand III deletes F 
+'worthy <hi>Thane</hi>?' and supplies 'braue Mac&lt;duffe&gt;' following 
+it; Hand IV then deletes 'braue Mac&lt;duffe&gt;'. No attempt is made to 
+restore the original F reading.  D'Avenant retains 'worthy <hi>Thane</hi>?'; so, 
+too, Bell, Lee.</p> 
+ 
+<!-- </page> --><!-- <page n=12> --> 
+ 
+<p><xref doc="mac1250">50 Witches]</xref> Hand 11.</p> 
+ 
+<p><xref doc="mac1253">53 gan]</xref> 'be' of F 'began' crossed through by 
+Hand ?V. So Pope, Bell, Lee.  D'Avenant substitutes 'long maintain'd'.</p> 
+ 
+</div2> 
+<div2 type="scene" n=1.3> 
+<head>I.iii.</head> 
+
+<figure entity="mac-p712"> 
+<figDesc>Image of prompt-book page 712</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac13open">(opening) &lt;Ro&gt;ck]</xref> Hand I. Bell, Lee: 
+'<hi>a Heath</hi>' (after Rowe). Lee adds '[<hi>Stage dark</hi>.]'.  D'Avenant brings on 
+the '<hi>Witches flying</hi>'; Lee-Salmon PB, interpreting the 'Witches <hi>rise 
+again</hi>' in Lee, precedes the scene with: `<figure></figure>  
+<hi rend="sup">x</hi> Ring for 3 Traps to rais 
+Witches / Stage Dark / Thunder Lightning &amp; Rain'; in Bell the 
+Witches 'rise from under the stage.'.</p> 
+ 
+<p><xref doc="mac133">3-4 drum / Redy]</xref> Hand IV. A warning note for F 
+'<hi>Drum within</hi>.' at 29. Lee-Salmon PB gives no advance call for the drum 
+at 29, although it keeps the F s.d. in the form of ' [<hi>Drum heard 
+within</hi>.]'. It does, however, call for 'Drum / ready' at 35 in 
+preparation for Macbeth's and Banquo's entry to a 'Scotch 
+Ma&lt;rch&gt;'.</p> 
+ 
+<p><xref doc="mac1311">11-13 Macbeth / Banquo.]</xref> Hand 11. For the entry at 37 D'Avenant adds 
+'<hi>Attendants</hi>' and Bell '<hi>A March.... Soldiers and other Attendants</hi>' (after 
+Rowe); Lee adds only 'A march beat.', but the Lee-Salmon PB notes in its 
+call for Macbeth and Banquo 'men to cry / halt', and the entry is made 'PS'.</p> 
+ 
+<p><xref doc="mac1339">39 How far . . . <hi>Soris</hi>?] Crossed through (Hand III).</p> 
+ 
+<p><xref doc="mac1341">41]</xref> PB appears to read 'Earth;' for F 'Earth,' 
+but the reading is probably the result of an ink smudge from the facing 
+page.</p> 
+ 
+<p><xref doc="mac1344">44-45 By each . . . Lips:]</xref> Crossed through (Hand II).</p> 
+ 
+<p><xref doc="mac1355">55-57 prediction hereafter / of Royal hope,]</xref> 
+Hand III crosses through F 'Of 
+. . . and' and 'That . . . withal'; 'hereafter' may have been deleted; at any rate 
+the ink is so badly smudged as to make the word almost illegible. 
+D'Avenant keeps the substance of F but rephrases (PB's 'hereafter' is not 
+from D'Avenant); Lee slightly rephrases but deletes 57 ('That . . . withal').</p> 
+ 
+<p><xref doc="mac1362">62 Rosse]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac1388">88 s.d. macduffe [<hi>crossed through</hi>] enter here. Rosse]</xref>  
+In the F s.d.  '<hi>Enter Rosse, and Angus</hi>.'  Hand II 
+originally deletes '<hi>and Angus</hi>.'; Hand III then deletes the rest of the F 
+s.d. and writes above it 'macduffe enter here.'; finally, Hand IV 
+deletes 'macduffe' and adds 'Rosse'. It should be noted that Hand II's 
+original call for Ross was never deleted. Hand III's 'macduffe' follows 
+D'Avenant; Bell, Lee retain the F s.d., but Lee-Salmon PB deletes '<hi>and</hi> 
+Angus' and adds 'Flourish' before the entry, which is made 'LD OP'.</p> 
+ 
+<p><xref doc="mac1389">89 Ma:]</xref> Hand III substitutes 'Ma:' for F 'Ross.' This speech-prefix 
+was not changed after Ross was restored by Hand IV, nor did Hand III 
+alter Ross's speech-prefix at 104.</p> 
+ 
+<!-- </page> --><!-- <page n=13> --> 
+ 
+<p><xref doc="mac1393">93-98 silenc'd with . . . post,]</xref> Circled (Hand III). D'Avenant reduces 
+and rewrites these lines.</p> 
+ 
+<p><xref doc="mac13100">100-103 <hi>Ang</hi>. We are . . . thee,]</xref> 
+Circled (Hand II). D'Avenant omits; Bell, Lee retain, but Lee-Salmon PB 
+deletes.</p> 
+
+<figure entity="mac-p713"> 
+<figDesc>Image of prompt-book page 713</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac13109">109 Ross]</xref> Hand III. 'Ross' written over F 
+'<hi>Ang</hi>.'. D'Avenant assigns to Macduff. The speech is still given 
+to Angus in Lee-Salmon PB despite his omission from the scene (see 88 
+s.d., above).</p> 
+ 
+<p><xref doc="mac13120">120 throughly beleiv'd]</xref> Hand 11 circles or doubly crosses through F 
+'trusted home,' adding 'throughly beleiv'd' after it. D'Avenant rephrases the 
+half line as 'If all be true,'.</p> 
+ 
+<p><xref doc="mac13122">122 Besides the . . . <hi>Cawdor</hi>.]</xref> 
+Circled or doubly crossed through (Hand II). D'Avenant and Lee both 
+rephrase slightly.</p> 
+ 
+<p><xref doc="mac13125">125-126 Winne us . . . consequence.]</xref> Crossed through (Hand ?III). 
+D'Avenant completely rephrases.</p> 
+ 
+<p><xref doc="mac13127a">127 Cousin]</xref> The 's' in F 'Cousins' has been deleted (Hand ?III). This 
+change was dictated by the omission of Angus. Although Lee-Salmon PB 
+deletes Angus, it fails to correct to the singular form; Ross is made to retire 
+'OP'. D'Avenant omits the half-line.</p> 
+ 
+<p><xref doc="mac13127b">127 King Malcolm / Donalbin]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac13129">129 I thank you Gentlemen:]</xref> Crossed through (Hand III). Lee omits, 
+and D'Avenant, in rephrasing Macbeth's whole speech, also omits.</p> 
+ 
+<p><xref doc="mac13135">135 fflourish]</xref> Hand II. Presumably an advance call for the F 
+'Flourish.' at the beginning of I.iv.</p> 
+ 
+<p><xref doc="mac13137">137-142 present fears . . . not.]</xref> Circled (Hand III). Except for 
+'present fears' D'Avenant completely recasts these lines; Lee keeps them 
+through 138 and then reverts to a cut version of D'Avenant.</p> 
+ 
+<p><xref doc="mac13145">145-146 Like strange Garments which weare / not easy but w<hi rend="sup">th</hi>  
+help of use.]</xref> Hand II substitutes these lines, crossing through F 'our' and 'cleave . . 
+. use.'. Compare D'Avenant: 'and resemble / New Garments, which but 
+seldom fit men well, / Unless by help of use.'. Lee retains F essentially, but 
+with some slight influence from D'Avenant.</p> 
+ 
+<p><xref doc="mac13152">152-155 Mackbeth / Banqo / Rosse]</xref> Hand IV. Hand II seems to have 
+omitted a call for these characters at I.iv.14, though it may have come at the 
+foot of the page (column one), which has been partly torn off.</p> 
+ 
+<p><xref doc="mac13154">154 The <hi>Interim</hi> . . . it,]</xref> Circled 
+(Hand III). D'Avenant rephrases.</p> 
+ 
+</div2> 
+<div2 type="scene" n=1.4> 
+<head>I.iv.</head> 
+<p><xref doc="mac14opa">(opening) Cou&lt;rt&gt;]</xref> Hand I. Following Rowe, Bell and 
+Lee give the setting as '<hi>the Palace</hi>'; Lee adds '[<hi>Stage light</hi>.]'; Lee-Salmon 
+ 
+<!-- </page> --><!-- <page n=14> --> 
+ 
+PB notes '<figure></figure> Door open OP.'.</p> 
+ 
+<p><xref doc="mac14opb">(opening s.d.)]</xref> F '<hi>Lenox</hi>' crossed through. Note that the F 
+'<hi>Attendants</hi>' are, as usual, not included 
+in Hand II's advance call for this entry at I.iii.127.</p> 
+ 
+<p><xref doc="mac1414">14 s.d. <hi>Banquo</hi> and Capt: Ros]</xref> Hand 
+III crosses through F '<hi>Ross, and Angus</hi>.' and writes above 'and Capt: R'; 
+Hand IV then adds 'os'. D'Avenant introduces Macduff in the place of 
+Ross and Angus; Lee-Salmon PB deletes Angus and marks the entry as 'LD 
+PS'.</p> 
+ 
+<p><xref doc="mac1430">30-31  nor must . . . so:]</xref> Circled (Hand III). Lee cuts; D'Avenant 
+rephrases; Bell retains but substitutes 'and' (Rowe) for F nor.</p> 
+ 
+<p><xref doc="mac1432">32 Lady.]</xref> Hand II. Lee-Salmon PB adds 'a written letter' below its call 
+for Lady Macbeth.</p> 
+ 
+<p><xref doc="mac1444">44 The Rest . . . you:]</xref> Circled (Hand III). 
+The last half of the line is missing in PB, since a tear at the bottom 
+of p. 713 (Sig. 3O5) affects the ends of lines 36-49. D'Avenant 
+completely rephrases.</p> 
+ 
+</div2> 
+<div2 type="scene" n=1.5> 
+<head>I.v.</head> 
+
+<figure entity="mac-p714a"> 
+<figDesc>Image of prompt-book page 714 (first one)</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac15opa">(opening) &lt;Gar&gt;den]</xref> Hand I. Bell, Lee 
+give '<hi>Apartment in</hi> Macbeth's <hi>Castle, at</hi> Inverness' 
+(from Pope, after Rowe).</p> 
+ 
+<p><xref doc="mac15opb">(opening) &lt;M&gt;essenger]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac1532">32 Macbeth]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac1557">57-62 King / Malcolme / Donalbin / Banquo / Macduffe / Rosse]</xref> 
+Hand II.</p> 
+ 
+<p><xref doc="mac1565">65 Lady]</xref> Hand IV.</p> 
+ 
+</div2> 
+<div2 type="scene" n=1.6> 
+<head>I.vi.</head> 
+ 
+<p><xref doc="mac16opa">(opening) Court]</xref> Hand I. Bell, Lee give '<hi>before</hi> Macbeth's 
+<hi>Castle-gate</hi>' (from Theobald, after Rowe).</p> 
+ 
+<p><xref doc="mac16opb">(opening s.d.)]</xref> PB deletes F '<hi>Lenox</hi>' 
+and '<hi>Angus</hi>'; these are presumably Hand II's deletions, since 
+these characters are omitted in the advance call at I.v.57-62. D'Avenant 
+omits Ross and Angus; Lee-Salmon PB deletes Angus and marks entry as 'OP'.</p> 
+ 
+<p><xref doc="mac163">3-9 This Guest . . . haunt:]</xref> Circled (Hand III) and underlined 
+(probably by Hand II), though the circling does not seem to include 'This 
+Guest of Summer,' (underlined), which is necessary to the cut. D'Avenant 
+slightly rephrases; Douai MS omits 3 ('This Guest . . . ')-9.</p> 
+ 
+<p><xref doc="mac169">9 observ'd it &amp;]</xref> Hand ?II adds 'it &amp;' 
+after F 'observ'd', probably influenced by D'Avenant's 'observ'd the 
+Air, / 'Tis delicate.'.</p> 
+ 
+<p><xref doc="mac1612">12-14 Herein I . . . trouble.]</xref> Circled (Hand 
+III). D'Avenant retains but substitutes 'us welcome' for F 'god-eyld 
+us'; Douai MS reads 13-14: 'how you shall thank us for your present 
+trouble.'; Bell retains but reads 'Heav'n-eyld us'; Lee retains, but 
+Lee-Salmon PB cuts 12-14 ('Which . . . trouble.').</p> 
+ 
+<p><xref doc="mac1620">20 Macbeth.]</xref> Hand II.</p> 
+ 
+<!-- </page> --><!-- <page n=15> --> 
+ 
+</div2> 
+<div2 type="scene" n=1.7> 
+<head>I.vii.</head> 
+
+<figure entity="mac-p715a"> 
+<figDesc>Image of prompt-book page 715 (first one)</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac17opa">(opening) Lady]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac17opb">(opening s.d.) ]</xref> F s.d. '<hi>Enter a Sewer, and 
+divers Servants with Dishes and Service over the Stage</hi>.' has been 
+crossed through by Hand III. PB marks no new scene setting, thus 
+continuing the 'Court' setting of scene vi.  Padua PB, D'Avenant, Bell, 
+and Lee also bring Macbeth on without the banquet preparations; Lee 
+enters him as '<hi>musing</hi>'; Lee-Salmon PB enters him 'PS'; Douai MS reduces 
+F s.d. to 'Divers Servants with dishes pass over / The Stage--'. 
+D'Avenant, Bell, and Lee omit F '<hi>Ho boyes. Torches</hi>.'; their retention 
+in PB is probably an oversight. Bell, Lee (subs.) change the scene to 
+'<hi>an Apartment in</hi> Macbeth's <hi>Castle</hi>' (from Theobald after Rowe).</p> 
+ 
+<p><xref doc="mac172">2-12 if th' Assassination . . . lips.]</xref> Circled (Hand ?II). F3 makes 
+nonsense of 10-11 by combining them. Padua PB cuts 5-12 ('Heere . . . lips.'); 
+D'Avenant reduces to five flat lines; Bell as in PB cuts through 'Success:' 
+(4).</p> 
+ 
+<p><xref doc="mac1745">45-46 Act / Banq [<hi>crossed through</hi>]]</xref> 
+Hand II starts to write 'Banquo' but does not even complete the 'q'. 
+Since the characters are not given advance calls for the first scene of 
+a new act, the call for Banquo was a slip of Hand II's and probably 
+deleted by him.</p> 
+ 
+</div2></div1> 
+<div1 type="act" n=2> 
+<head>II.</head> 
+<div2 type="scene" n=2.1> 
+<head>II.i.</head> 
+ 
+<p><xref doc="mac21open">(opening) Chambe&lt;r&gt;]</xref> Hand I. The 
+'m' in 'Chambe&lt;r&gt;' is far from clear. Bell, Lee (subs.) give the 
+scene as '<hi>a Hall in</hi> Macbeth's <hi>Castle</hi>'; Lee adds '[<hi>Stage dark</hi>.]', and 
+Lee-Salmon PB notes 'Door OP Shut'.</p> 
+
+<figure entity="mac-p714b"> 
+<figDesc>Image of prompt-book page 714 (second one)</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac218">8-9 Merciful Powers . . . repose.]</xref> Underlined (Hand II) and circled 
+(Hand III). D'Avenant rephrases; Bell retains but omits 'Give me my Sword ;' in 9; Lee 
+omits 8-9 (' . . . Sword:'). There is no advance call for Macbeth's and the 
+Servant's entry at 9 in PB.</p> 
+ 
+<p><xref doc="mac2127">27-28 Beell / Redy]</xref> Hand IV.</p> 
+ 
+<p><xref doc="mac2138">38 Lady]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac2140">40-45 I see . . . rest:]</xref> Circled (Hand II). D'Avenant omits all but the 
+last line-and-a-half.</p> 
+ 
+<p><xref doc="mac2153">53-54 Alarum'd by . . . pace,]</xref> Circled (Hand III). D'Avenant 
+rephrases.</p> 
+ 
+<p><xref doc="mac2157">57 which they may walk,]</xref> Crossed through (Hand ?II). Part of a 
+longer cut in D'Avenant; Lee substitutes 'feel not my tread,'; Douai MS 
+omits as in PB.</p> 
+ 
+<p><xref doc="mac2158">58 desines]</xref> Hand III substitutes 'desines' for F 'where about,' 
+(underlined by Hand ?III). Part of a cut in D'Avenant; Lee reads the line as: 
+'Thy very stones shou'd check my purpose,'.</p> 
+ 
+<p><xref doc="mac2160">60 Whilest]</xref> Hand ?III inserts 't' after F 
+'Whiles'. Part of a cut in Bell, Lee.</p> 
+ 
+<!-- </page> --><!-- <page n=16> --> 
+ 
+<p><xref doc="mac2163">63-64 Bell / Rings my coronation and thy 
+Knell.]</xref> Hand III substitutes 'Bell . 
+. . Knell.' for F 'Knell, That . . . hell.' (F 'Knell' crossed through by Hand III; 
+'That . . . hell.' by Hand II). Based on D'Avenant: 'bell / That rings my 
+Coronation, and thy Knell.'.</p> 
+ 
+</div2> 
+<div2 type="scene" n=2.2> 
+<head>II.ii.</head> 
+ 
+<p><xref doc="mac22open">(opening) Macbeth]</xref> Hand II. PB marks no change of scene 
+setting. Bell, Lee ignore F '<hi>Scaena Secunda</hi>.'. In an advance prompt note for 
+this scene Lee-Salmon PB calls for '2 Daggers / &amp; Blood / ready OP'.</p> 
+ 
+<p><xref doc="mac2221">21 Redy / to knok]</xref> Hand IV.</p> 
+
+<figure entity="mac-p715b"> 
+<figDesc>Image of prompt-book page 715 (second one)</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac2252">52 Mackduff / Rosse]</xref> Hand IV. This replaces a later call by Hand II 
+at the opening of scene iii. See below, II.iii.1-46.</p> 
+ 
+<p><xref doc="mac2262">62 multitudinous]</xref> This word appears to be crossed through, but what 
+looks like a deletion results from an ink show through from verso (p. 716, 
+sig. 3P1<hi rend="sup">V</hi>).</p> 
+ 
+<p><xref doc="mac2263">63 Porter.]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac2274">74 Macbeth]</xref> Hand IV.</p> 
+ 
+</div2> 
+<div2 type="scene" n=2.3> 
+<head>II.iii. </head> 
+ 
+<p><xref doc="mac23open">(opening) Macduffe / Rosse [<hi>both crossed through by Hand IV</hi>]] 
+</xref> Hand II. Hand ?II has also written something to the left of F '<hi>Scena 
+Tertia</hi>.' which may be the beginning of 'Macbeth', but only the first ?three 
+letters were written and then crossed through. PB marks no new scene  
+setting; Bell no new scene (after Rowe); Lee indicates '<hi>a hall</hi>' (but this was 
+the setting of the preceding scene); Lee-Salmon PB adds 'Door OP Shut' and 
+below 'Time giuen.'.</p> 
+ 
+<p><xref doc="mac231">1-46]</xref> The order of cutting and restoration in 
+these lines is uncertain. In what seems to be the final form, 5 ('Here's 
+. . . ' )-23 and 28 ('of three . . . ')-46 were cut. Judging by the inks 
+used, Hand II first deletes, by circling, the whole of 1-46, then 
+changes his mind and marks both circled sections with 'stet' and 
+'stett'. Hand III then crisscrosses 5-23 and 28-46 for deletion, adding 
+'to sle&lt;ep&gt;' at the end of 27 to complete the sense. Hand IV tidies 
+things up by placing an advance call for Macduff and Ross at II.ii.52 
+(deleting Hand II's call at the beginning of scene iii) and an advance 
+call for Macbeth at II.ii.74. Apparently Hand II neglected to mark an 
+advance call for Macbeth; however, see above, II.iii (opening). The 
+order of events as here described presents certain problems, but I am 
+unable to offer any more satisfactory alternative. Padua PB cuts the 
+whole of the Porter's soliloquy; D'Avenant also cuts the soliloquy, 
+reduces the Porter's role to one line (he, 
+here called Servant, and Lennox enter together and after three lines Macduff 
+enters), and replaces 23-46 with eleven lines  
+ 
+<!-- </page> --><!-- <page n=17> --> 
+ 
+between Lennox and Macduff based on F lines 59-66; Douai MS reduces 
+the Porter's soliloquy to 'P: here's a knocking indeed: who's there in the 
+name of belzebub? anon; anon; I am coming.  (Opens the doore.)' and 
+omits 27-46 ('and drink . . . him.'); Bell cuts everything down to Macduff's 
+entry (24), the Servant, who has opened the '<hi>door</hi>' to Macduff and Lennox, 
+being given F 26-27 ('Faith . . . cock:'), and then adds Lennox's speech from F (59-66). 
+These last two speeches are in italics, and Gentleman (Bell) remarks: ". . . 
+and the Italic lines, by transposition, judiciously introduced to give <hi>Macbeth</hi> 
+time for change of appearance, of which, even now, he is allowed too 
+little."; Lee cuts the Porter's soliloquy, bringing Lennox on alone (Lee-Salmon  
+PB notes 'PS' ), '<hi>who knocks at the chamber door several times 
+pretty hard, then a servant opens it</hi>.'  (Lee-Salmon PB adds 'OP'), follows 
+D'Avenant's opening two speeches, inserts F 47 ('Is . . . stirring?'), and adds: 
+'<hi>Serv</hi>. Not yet, Sir, but he'll scarce lye late; he's of an active spirit, that never 
+suffers his body to lye still when once his mind is up. / <hi>Len</hi>. Well, say I wait 
+his leisure. / <hi>Serv</hi>. I will, Sir.' Collier MS shows points of resemblance to 
+Smock Alley PB, since it cuts lines 5-22 ('Here's . . . Bonfire.'), 27-46 ( 'And 
+Drink . . . him.').</p> 
+ 
+<p><xref doc="mac2323">23 s.d. <hi>Enter Macduff</hi>, and Rosse [<hi>Hand 
+III</hi>] Rosse [<hi>Hand II, crossed through</hi>] and Ro&lt;sse&gt; [<hi>Hand III</hi>]]</xref> 
+Hand II first deletes F '<hi>and Lenox</hi>.' and writes 'Rosse' following the 
+deletion; then Hand III deletes Hand II's 'Rosse' and writes 'and Rosse' 
+above the deleted F '<hi>and Lenox</hi>.'; finally, Hand III writes 'and 
+Ro&lt;sse&gt;' following the deleted 'Rosse' by Hand II (the order of 
+Hand III's changes may, of course, have been reversed).</p> 
+ 
+<p><xref doc="mac2328">28 to sle&lt;ep&gt;]</xref> Hand III substitutes 'to 
+sle&lt;ep&gt;' for F 'of three things.'. See above, 1-46.</p> 
+ 
+<p><xref doc="mac2349">49 Lenox.]</xref> This speech-prefix has been crossed through but not 
+reassigned. Presumably Hand II deleted it but failed to give it to Ross, who 
+takes Lennox's place in the scene. Lennox's speech-prefixes otherwise 
+remain untouched in this scene, though his speeches must have been spoken 
+by Ross.</p> 
+ 
+<p><xref doc="mac2376">76 <hi>Macd</hi>.]</xref> Some hand has altered F '<hi>b</hi>' 
+in '<hi>Macb</hi>.' to '<hi>d</hi>', thus restoring the reading of F1.</p> 
+
+<figure entity="mac-p716"> 
+<figDesc>Image of prompt-book page 716</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac2378a">78 Lady]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac2378b">78 s.d. <hi>Macbeth and</hi> Rosse ['Rosse' crossed through]]</xref> Hand ?III 
+deletes F '<hi>Lenox</hi>.' and writes 'Rosse' below (also heavily deleted). Whoever 
+(Hand ?IV) here deleted 'Rosse' neglected to cancel the advance call for his 
+re entry at 85. Despite   
+ 
+<!-- </page> --><!-- <page n=18> --> 
+    
+this oversight, I suspect that he is not intended to exit with Macbeth at this 
+point but remains on stage to speak Lennox's speech (106-111).</p> 
+ 
+<p><xref doc="mac2379">79 Banquo]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac2383">83-85 Macbeth / &lt;R&gt;osse]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac2388">88-89 &lt;Ma&gt;lcolme / &lt;Don&gt;albine]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac2395">95 s.d.]</xref> Hand ?IV crosses through 
+F'<hi>Lenox</hi>,'. For Ross's re-entry, see above, 78 s.d.</p> 
+ 
+<p><xref doc="mac23105">105 <hi>Macd</hi>.]</xref> The ink blot on this speech-prefix does not indicate 
+deletion but is a smudge from the facing page (717, sig. 3P2).</p> 
+ 
+<p><xref doc="mac23131">131-133 Lady: &amp; instantly let us meet,]</xref> Hand II underlines and Hand 
+III crosses through 132-133 ( 'And . . . exposure: ' ) and inserts '&amp; instantly' (after 131).  
+See below, 135-138.</p> 
+ 
+<p><xref doc="mac23135">135-138 Feares and . . . all.]</xref> Underlined (Hand II) and crossed 
+through (Hand III). Considering this and the preceding deletion together, 
+one notes that D'Avenant also omits these lines (and a good many others) 
+and works part of 133-135 ('let . . . further.') into a speech by Macbeth a few 
+lines later. In Bell and Lee, Lady Macbeth does not appear in the scene at 
+all, apparently a long-standing practice (G. W. Stone, <hi>SP</hi>, XXXVIII [1941], 
+621-22); except for references to Lady Macbeth, Lee preserves 131-138 
+essentially intact, but Bell omits 132-133 ('And . . . exposure:') as in PB.</p> 
+ 
+<p><xref doc="mac23139">139-141 Banqo [<hi>Hand IV</hi>] / Rosse / Old man 
+[<hi>crossed through</hi>]] </xref> Hand II originally calls for 'Rosse/ 
+Old man'; then Hand IV deletes 'Old man' and inserts 'Banqo' above 
+'Rosse'. See scene iv, s.d. (opening).</p> 
+ 
+</div2> 
+<div2 type="scene" n=2.4> 
+<head>II.iv.</head> 
+ 
+<p><xref doc="mac24opa">(opening) Rock scan / Towne [<hi>crossed 
+through</hi>]]</xref> Hand I originally gave the setting as 'Towne'; 
+then Hand ? crossed through 'Towne' and inserted 'Rock scan' above. The 
+reading 'scan' is doubtful. Perhaps a form of 'scene'? Bell, Lee: 
+'<hi>Outside of</hi> Macbeth's <hi>Castle</hi>'; Lee adds '[<hi>Stage 
+light</hi>.]'</p> 
+ 
+<p><xref doc="mac24opb">(opening) Macduffe]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac24opc">(opening s.d. ) Banquo and Captaine [<hi>Hand 
+III</hi>, 'Captaine' <hi>crossed through</hi>] / Roose [<hi>Hand 
+IV</hi>]]</xref> The F s.d. remains untouched; Hand III inserts 'Banquo 
+and Captaine' above it; Hand IV then deletes 'Captaine' and adds 'Roose' 
+below (cf. I.iv.14 s.d.), clarifying the advance call at II.iii.139-141 
+by adding 'Banqo' and deleting 'Old man'. R. C. Bald (<hi>PMLA</hi>, LVI 
+[1941], 375 n., 377-78) explains the change of setting from 'Towne' to 
+'Rock' as the result of what seems to be an appearance of the Witches 
+later in the scene at Macduff's entrance (20) and suggests that "at 
+least one" of D'Avenant's witch songs was here used (see below, 10-13, 
+21). Of the two witch 
+ 
+<!-- </page> --><!-- <page n=19> --> 
+ 
+songs (D'Avenant, II.v) probably the second is the more likely choice, since 
+it alone is followed by a dance in D'Avenant's version (the first sixteen lines 
+of the song also appeared in the 1673 quarto of <hi>Macbeth</hi>, interpolated 
+between scenes iii and iv, which is otherwise substantially a reprint of 
+F1). The substitution of Banquo for the Old Man in PB may also perhaps be 
+explained by the importation of the Witches, since their song might seem 
+more suitable for Banquo's ears, though it should be noted that the 
+directions implying the Witches are in Hand IV. In D'Avenant the scene is 
+carried by Lennox and Seyton, down to Macduff's entrance; nor do the 
+witch songs appear in this scene. They are part of the following scene (II.v), 
+a scene ('<hi>An Heath</hi>.') almost entirely D'Avenant's own creation, and are 
+directed at Macduff and Lady Macduff. Bell, Lee retain Shakespeare's scene 
+with Ross and the Old Man, but place it at the beginning of Act III, inserting  
+a scene with all the Witch business, but minus the Macduffs, from 
+D'Avenant II.v. Bell, Lee-Salmon PB exit the Old Man just before 
+Macduff's entry. Clearly PB, Bell, Lee have one aim in mind: entertainment 
+at any cost. Lee gives no scene setting; in Bell '<hi>The SCENE changes to a  
+Wood. Thunder and Lightning</hi>.'.</p> 
+ 
+<p><xref doc="mac241">1-2 Threescore and . . . time,]</xref> Circled (Hand 
+III). This cut and those at 4-5 and 39 are obviously made to adapt the 
+lines in some sort to Banquo, but the Old Man's speech-prefixes remain 
+untouched. The D'Avenant Yale MS substitutes 'Three score and one' for F 
+'Threescore and ten', but the printed text cuts the whole phrase and 
+begins 'I can remember well,' thus better adapting the following lines 
+to Seyton.</p> 
+ 
+<p><xref doc="mac244">4-5 Ha, good . . . seest]</xref> Crossed through (Hand 
+III). D'Avenant reduces to 'Thou seest'. Collier MS cuts 6-20 ('by th' 
+clock . . . upon't').</p> 
+ 
+<p><xref doc="mac2410">10-13 Song / Redy / daunce]</xref> Hand IV. See above, II.iv (opening).</p> 
+
+<figure entity="mac-p717"> 
+<figDesc>Image of prompt-book page 717</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac2421">21 Sing heere / and daunce]</xref> Hand IV. See above, II.iv (opening).</p> 
+ 
+<p><xref doc="mac2427">27 Act]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac2439">39 Father.]</xref> Crossed through (Hand III). 
+D'Avenant, Bell, Lee cut 39-41.</p> 
+ 
+<p><xref doc="mac2440">40 all happenesse go with you and]</xref> Hand III 
+crosses through F 'God's benison' and, with a caret, substitutes 'all 
+happenesse', at the same time crossing through F 'Sir,'. Douai MS 
+substitutes 'blessing' for F 'benison'.</p> 
+ 
+<!-- </page> --><!-- <page n=20> --> 
+ 
+</div2></div1> 
+<div1 type="act" n=3> 
+<head>III.</head> 
+<div2 type="scene" n=3.1> 
+<head>III.i</head> 
+ 
+<p><xref doc="mac31opa">(opening) Court]</xref> Hand I. Bell, Lee: '<hi>an 
+Apartment in the Palace</hi>' (Theobald, after Rowe).</p> 
+ 
+<p><xref doc="mac31opb">(opening) Macbeth Lady Rosse ['Rosse' <hi>crossed through</hi>]]</xref> Hand II. 
+The deletion of 'Rosse', by Hand ?II, has been badly smudged.</p> 
+ 
+<p><xref doc="mac3110">10 s.d.]</xref> F '<hi>Lenox, Rosse</hi>,' crossed 
+through; '<hi>Lenox</hi>' by Hands II and III, '<hi>Rosse</hi>' very lightly, possibly by 
+Hand II, the hand probably responsible for deleting 'Rosse' in advance 
+call above.  D'Avenant gives only 'Macbeth, Lenox, <hi>and Attendants</hi>.'; 
+Bell, Lee, like D'Avenant, omit Lady Macbeth, but otherwise follow F.</p> 
+ 
+<p><xref doc="mac3116">16-17 Command me, and my dutie / is with most obedient ty]</xref> Hand II 
+circles and/or crosses through F 'upon', 'to the which' ('the' separately 
+circled), the 's' in 'duties', 'Are', 'a', and 'indissoluble tye' and substitutes 
+'and', 'is', and 'obedient ty'. Before inserting 'and' Hand II seems to have 
+intended reading 'to which'. D'Avenant rewrites; Douai MS reads 'lay your 
+commands on me, to which . . . tye'; Bell, Lee retain but read 'Lay' for F 
+'Let' in 15 (after D'Avenant and Rowe; compare Douai MS).</p> 
+ 
+<p><xref doc="mac3122">22 farlow]</xref> Hand ?III. Nothing seems to be known about this actor, 
+and his name appears in none of the other Smock Alley prompt-books. W. 
+S. Clark (<hi>The Early Irish Stage</hi>, 1955, p. 207) places him with the Smock 
+Alley company "<hi>c</hi>. 1674," but this date depends, I assume, on dating the 
+<hi>Macbeth</hi> PB somewhat earlier than I believe likely. See Introduction, p. 2. 
+Farlow here plays the Servant, and the position of the advance call at 22 
+suggests that he was intended to enter about 44 (as in the Padua PB); 
+editors, from Rowe on (followed by Bell, Lee), assume the Servant to be 
+one of the F '<hi>Attendants</hi>' who enter at 11.</p> 
+ 
+<p><xref doc="mac3124">24 Is't far]</xref> F 'far' appears to be heavily deleted, but the mark is only 
+the result of an ink smudge from the facing page (716, sig. 3P1).</p> 
+ 
+<p><xref doc="mac3128">28 two]</xref> Hand II crosses through F 'twain.' and writes 'two' following. 
+So D'Avenant, Douai MS, Lee.</p> 
+ 
+<p><xref doc="mac3138">38-39 I wish . . . backs.]</xref> The marks of deletion (by Hand III) are 
+ambiguous. Possibly (as in Padua PB) both lines are marked for deletion, 
+but it seems more likely that only 39 is meant to be deleted, since 
+D'Avenant omits only 39 (as does Lee) and the scene has earlier shown 
+signs of his influence.</p> 
+ 
+<p><xref doc="mac3152">52 53 Serva&lt;nt&gt; / Murt&lt;herers&gt;]</xref> Hand II. In connection 
+with Macbeth's interview with the two Murderers, it is worth noting that 
+Padua PB cuts the interview with the Murderers 
+ 
+<!-- </page> --><!-- <page n=21> --> 
+ 
+completely and that Lee-Salmon PB turns the interview into one between 
+Seyton and Macbeth, in which, with certain necessary slight omissions and 
+revisions, Seyton speaks the lines of both Murderers.</p> 
+
+<figure entity="mac-p718"> 
+<figDesc>Image of prompt-book page 718</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac3180">80 Past in . . . you:]</xref> Partly circled (Hand ?III). Cut in D'Avenant; 
+Douai MS, Bell cut 76-86 ('Know . . . meeting.'); Lee makes substantially 
+the same cut as in Douai MS and Bell but retains 84 ('You . . . us.') in revised form.</p> 
+ 
+<p><xref doc="mac31101">101-104 Lady / Servant / farlow]</xref> Hand II ('farlow' Hand ?III). For 
+'farlow' see above, 22.</p> 
+ 
+<p><xref doc="mac31110">110 care not]</xref> Hand III crosses through F 'am reckless' and substitutes 
+'care not' above end of line.  So D'Avenant, Lee; Douai MS replaces F 'that I 
+am reckless' with 'I'm careless'; Bell cuts the Second Murderer's speech.</p> 
+ 
+<p><xref doc="mac31122">122-126 Whose loves . . . Reasons.]</xref> Circled and x'd through (Hand 
+III). D'Avenant reduces to four lines and rewrites heavily; Bell cuts 121-125; 
+Lee, 122-123 (`but . . . down:').</p> 
+ 
+<p><xref doc="mac31132">132-133 alwayes thought . . . clearness;]</xref> Circled (Hand III). Cut in 
+Douai MS, Pope, Bell, Lee; D'Avenant rewrites.</p> 
+ 
+</div2> 
+<div2 type="scene" n=3.2> 
+<head>III.ii.</head> 
+ 
+<p><xref doc="mac32open">(opening) Macbeth]</xref> Hand II. PB marks no change of setting 
+here (so Rowe and Lee); D'Avenant interpolates a new scene (between 
+Macduff and Lady Macduff) between F scenes i and ii; Bell gives '<hi>another 
+Apartment in the Palace</hi>' (after Theobald).</p> 
+ 
+<p><xref doc="mac326">6-7 Curtaine / ready]</xref> Hand III. See 56, below.</p> 
+ 
+<p><xref doc="mac3222">22-23 Banqett / Redy]</xref> Hand IV. This is an advance call for III.iv.</p> 
+
+<figure entity="mac-p719"> 
+<figDesc>Image of prompt-book page 719</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac3244">44 Murtherers]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac3256">56]</xref> Below this line, Hand III inserts 'here y<hi rend="sup">e</hi> 
+Curtaine falls.'. R. C.  Bald (<hi>PMLA</hi>, LVI [1941], 375-76) 
+suggests that this direction indicates that the scene of Banquo's murder 
+was actually played before the front curtain, while the banquet for 
+scene iv was being 'set'; see above, 222-23 and III.iii (opening), 
+below. Such an arrangement would seem to ignore Hand I's setting for 
+III.iii as a 'Groue' (which remains undeleted). Lee-Salmon PB also adds 
+'Drop Curtain) Stage Dark.'.</p> 
+ 
+</div2> 
+<div2 type="scene" n=3.3> 
+<head>III.iii.</head> 
+ 
+<p><xref doc="mac33opa">(opening) Enter Banquo and boy]</xref> Hand 
+III. Fleance is described as 'Boy to <hi>Banquo</hi>' in the 1673 quarto list of 
+'<hi>The Persons Names</hi>' (followed by D'Avenant).</p> 
+ 
+<p><xref doc="mac33opb">(opening) Banqett Set / on]</xref> Hand IV.</p> 
+ 
+<p><xref doc="mac33opc">(opening) Groue]</xref> Hand I. See above, III.ii.56. 
+Bell gives '<hi>a Park; the Castle at a Distance</hi>' (after Rowe); Lee, '<hi>an 
+avenue to the palace</hi>'.</p> 
+ 
+<!-- </page> --><!-- <page n=22> --> 
+ 
+<p><xref doc="mac33opd">(opening s.d.) <hi>Enter</hi> two 
+<hi>Murtherers</hi>.]</xref> Hand III deletes F '<hi>three</hi>' and 
+writes 'two' above. This scene has been radically cut about by Hand III, 
+largely to bring it into line with D'Avenant's version.  Originally the 
+scene was planned as written; Hand II's calls for 'Murtherers' at 
+III.ii.44 and 'Banquo / ffleans' at the beginning of scene iii indicate 
+this (though the number of the 'Murtherers' is ambiguous). As Hand III 
+sets the scene up, Banquo and Fleance cross the stage first and are 
+immediately followed by the 'two' Murderers, whose dialogue has been 
+considerably cut to resemble D'Avenant's. The Murderers follow Banquo 
+and Fleance off-stage and the scene ends. R. C. Bald (<hi>PMLA</hi>, LVI [1941], 
+377) is surely mistaken when he says "it is interesting to note that, 
+while Davenant makes the actual murder occur off-stage, in the Dublin 
+version Banquo and Fleance do not even come on beforehand." In D'Avenant 
+the three Murderers enter first, speak nine lines, and exit; then Banquo 
+and Fleance enter, speak five lines, and exit; the Murderers re-enter, 
+speak four lines, and go out after Banquo and Fleance; finally, Fleance, 
+pursued by the Murderers, re-enters on the run and throws a single line at 
+the audience. Bell follows F1 (though with some cutting) down to 18 (' 
+. . . Slave!') and cuts the remainder of the Murderers' lines; Banquo 
+dies on stage. Lee follows a heavily cut version of F1 down to the 
+entrance of Banquo and Fleance and turns to D'Avenant for their 
+speeches; after their exit, the Murderers (First and Second) are given 
+an original line each and then pursue Banquo and Fleance off-stage; 
+finally, Fleance re-enters to deliver D'Avenant's single line.</p> 
+ 
+<p><xref doc="mac331a">1 Banquo / ffleans]</xref> Hand II. See above, opening s.d.</p> 
+ 
+<p><xref doc="mac331b">1-4 j: It is about y<hi rend="sup">e</hi> howre.]</xref> Hand III 
+substitutes this single line for F '1. But who . . . us.', which lines 
+are partly circled (in two stages) and x'd through. Compare D'Avenant: 
+'<hi>1. Mur</hi>. The time is almost come,'. Douai MS cuts F 'But' (1) and 2-4 
+(' . . . just.') and assigns 4 ('1. Then stand with us.') to `2:'.</p> 
+ 
+<p><xref doc="mac335">5  2 The West]</xref> Hand III, having deleted the 
+first half-line of the First Murderer's speech, assigns the rest to '2'. 
+D'Avenant gives 5-7 (' . . . Inn.') to First Murderer (6 slightly 
+rephrased) and cuts 7-8 ('and . . . Watch.'); Douai MS assigns 5-8 (' . . 
+. Watch.') to '1:'.</p> 
+ 
+<p><xref doc="mac338">8  1. Heark,]</xref> Hand III writes `1 over F `3 . D'Avenant assigns to 
+Second Murderer; so too, Lee.</p> 
+ 
+<p><xref doc="mac339">9 Banquo within. Give . . . hoa.]</xref> Crossed and x'd through (Hand III). 
+D'Avenant omits.</p> 
+ 
+<!-- </page> --><!-- <page n=23> --> 
+ 
+ 
+<p><xref doc="mac3311">11-22 1. Almost a mile: about the horse way is / therefore men / from hence 
+to th'Palace Gate / Make this their usuall walke / 2: come Lets away then 
+and Banquo if thy soule / can in her flight reach / heaven / thy happinesse / 
+begins to / night. / exeunt]</xref> Hand III crosses through 11 ('1. His 
+Horses go about.'), alters F '3.' to '1.', interlines 'about', with a caret, after F 
+'mile: ' (the blot over the 'e' may have been intended to delete the F colon), 
+crosses through 12-13 ('but . . . do,'), and substitutes 'the horse way is'; at this 
+point he apparently planned to keep the rest of the speech as it was, only 
+inserting 'usually' after F 'Gate', but he changes his mind, deletes 'usually' 
+and F 'it' (14), interlining 'this' above, deletes F 'walk.', and inserts 'usuall 
+walke' following. He then adds the speech for the Second Murderer, above 
+and below the F s.d. '<hi>Enter Banquo . . . Torch</hi>.', which curiously enough 
+remains undeleted. As a result of the crowding of Hand III's first changes, 
+his intention is not clear, and it is possible that he meant the first line to read 
+'1. the horse way is / almost a mile: about'. Lines 14-22 are circled and x'd 
+through, though perhaps Hand III's 'come Lets away' was suggested by F 
+'Well, let's away' (22). Compare D'Avenant: '<hi>1. Mur</hi>. His Horses go about 
+almost a Mile, / And men from hence to th' <hi>Pallace</hi> make it their usual 
+walk.'; and later, when the Murderers re-enter: '<hi>1. Mur. Banquo</hi>, thou little 
+think'st what bloody feast / Is now preparing for thee. / <hi>2. Mur</hi>. Nor to what 
+shades the darkness of this night, / Shall lead thy wandering spirit.'.</p> 
+ 
+<p><xref doc="mac3314">14-16 Macbeth / Lady / Rosse]</xref> Hand II.</p> 
+ 
+</div2> 
+<div2 type="scene" n=3.4> 
+<head>III.iv.</head> 
+ 
+<p><xref doc="mac34opa">(opening) Cham&lt;ber&gt; [<hi>crossed through</hi>] / Cour&lt;t&gt;]</xref> 
+Hand I. Bell gives setting as '<hi>a room of state in the castle</hi>' (Pope, after 
+Rowe); Lee, '<hi>a chamber of state</hi>'.</p> 
+ 
+<p><xref doc="mac34opb">(opening s.d.)]</xref> F '<hi>Lenox</hi>,' crossed through (Hand II). Lee-Salmon PB 
+notes 'Door Open OP'.</p> 
+ 
+<p><xref doc="mac341">1 Murth&lt;erer&gt;]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac3415">15-17 Banq&lt;uo&gt; / Gost]</xref> Hand II.</p> 
+
+<figure entity="mac-p720"> 
+<figDesc>Image of prompt-book page 720</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac3460">60 distract]</xref> Hand III interlines 'distract' above deleted F 'appal'. So 
+D'Avenant.</p> 
+ 
+<p><xref doc="mac3469">69 Behold, look, how]</xref> Hand III deletes F 'loe,' after 'look,'. D'Avenant 
+cuts 'Behold, look, loe,'; Douai MS reads 'looke, loe behold' and omits 'how 
+say you:'.</p> 
+ 
+<p><xref doc="mac3475">75 antient]</xref> Hand III deletes F 'olden' and writes 'antient' above. 
+D'Avenant rewrites the line; Douai MS changes the phrase to 'in former 
+times'; Lee alters to 'oldest'.</p> 
+ 
+<p><xref doc="mac3476">76 &lt;Ba&gt;nquo / &lt;Go&gt;st]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac34103">103 be again, reviue]</xref> Hand III deletes F 'alive' after 'be' and inserts 
+'reviue' after 'again,'. Hand II's version while possible is 
+ 
+<!-- </page> --><!-- <page n=24> --> 
+ 
+awkward; perhaps he intended to delete F 'be'. Compare D'Avenant's 'revive 
+a while'.</p> 
+ 
+<p><xref doc="mac34105">105 and if I meet the not proclaime then]</xref> Hand III crosses through F 
+105 ('If . . . me') and interlines above 'and . . . then'. In making the alteration 
+Hand III omits 'me' after 'proclaime'. Compare D'Avenant's 'If any Sinew 
+shrink, proclaim me then'. Bell, Lee accept Pope's 'inhibit' for F 'inhabit'.</p> 
+ 
+<p><xref doc="mac34106">106 horrid]</xref> Hand III alters F 'horrible' to 'horrid' by deleting 'le' and 
+changing 'b' to 'd'. So Lee.</p> 
+ 
+<p><xref doc="mac34108">108 now I am]</xref> Hand III inserts 'now' before F 'I am'. F3 necessitated 
+some change by misprinting F1 'being gone' as 'be gone' in 107. D'Avenant 
+cuts 107 and reads 'So, now I am'. </p> 
+ 
+<p><xref doc="mac34116">116 sights]</xref> Hand III corrects F3's 'signes' (inherited from F2) to the F1 
+'sights' by altering 'ne' to 'ht'.</p> 
+ 
+<p><xref doc="mac34120">120-121 Witches / Heccate]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac34142">142-144 My strange . . . indeed.]</xref> Circled (Hand II). Douai MS cuts; 
+D'Avenant rewrites 142-144 (followed substantially by Lee).</p> 
+ 
+</div2> 
+<div2 type="scene" n=3.5> 
+<head>III.v.</head> 
+ 
+<p><xref doc="mac35opa">(opening) Rock]</xref> Hand I. Bell changes scene to '<hi>the Heath</hi>'; Lee, 
+to '<hi>the open heath</hi>. [<hi>Stage dark</hi>.]' (both after Rowe). Lee-Salmon PB prefaces 
+the scene with 'Curtain down', indicating that the scene was to be played on 
+the forestage before some kind of inner curtain.</p> 
+ 
+<p><xref doc="mac35opb">(opening) Musiqe / boys redy]</xref> Hand IV. Presumably 'boys' are here 
+warned to be ready to '<hi>Sing within</hi>.', the song called for at 33 below.</p> 
+ 
+<p><xref doc="mac352">2 as you are]</xref> Crossed through (Hand III). So D'Avenant.</p> 
+
+<figure entity="mac-p721"> 
+<figDesc>Image of prompt-book page 721</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac357">7-9 Reddy / Curtin]</xref> Hand IV.</p> 
+ 
+<p><xref doc="mac3515">15 Act]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac3533">33-34 And you . . . Enemy.]</xref> Circled (Hand 
+?III). D'Avenant, Lee cut these and the two preceding lines.</p> 
+ 
+<p><xref doc="mac3536">36 end the ackt [<hi>Hand II</hi>] / ffall Curtten 
+[<hi>Hand IV</hi>]]</xref> Compare 'end' inserted here in Padua PB. 
+Bell, followed essentially by Lee, tacks on parts of D'Avenant's 
+conclusion (omitting 33-39 and 50-56) and adds several new lines, giving 
+the majority of the lines to Hecate. Lee-Salmon PB enters 'singin 
+Witches PS' at 28 (D'Avenant's version) and, adapting the Lee s.d.  ('<hi>A 
+cloud descends, and</hi> Hecate (<hi>after the ceremony of being anointed</hi>) <hi>gets 
+into it</hi>.'), adds 'Ring Chariot down.' (opposite 31), 'ring up Chariot' 
+(opposite 40), and concludes the scene with 'Drop Curtain.'.</p> 
+ 
+</div2> 
+<div2 type="scene" n=3.6> 
+<head>III.vi.</head> 
+ 
+<p><xref doc="mac36x">III.vi.]</xref> <xref doc="mac36y">Hand II circles 
+and Hand III crisscrosses through whole scene,</xref> Hand ?IV writing 'Cut' to 
+left of opening F s.d . Padua PB, 
+ 
+<!-- </page> --><!-- <page n=25> --> 
+ 
+Bell, Lee also omit this scene; D'Avenant inserts the scene (as between 
+Lennox and Seyton), with some cuts and rewriting, between F scenes iv 
+and v (preceding it with an original scene between Macduff and Lady 
+Macduff); Douai MS cuts only 25 and reduces 21-22 to 'no more of this.'. 
+Gentleman (Bell) notes that "the scene between <hi>Lenox</hi> and another useless 
+lord is properly omitted, as unequal to the warmth and spirit of the 
+rest.".</p> 
+ 
+</div2></div1> 
+<div1 type="act" n=4> 
+<head>IV.</head> 
+<div2 type="scene" n=4.1> 
+<head>IV.i.</head> 
+ 
+<p><xref doc="mac41opa">(opening) <hi>Actus</hi> Quartus]</xref> Hand III deletes F 'Quintus' and 
+interlines 'Quartus' above with a caret.</p> 
+ 
+<p><xref doc="mac41opb">(opening) Caue / Rock [<hi>crossed through</hi>]]</xref> Hand IV deletes Hand I's 
+'Rock' and substitutes 'Caue' above. The change was doubtless suggested by 
+the final line in D'Avenant's preceding witch scene: 'Let's to the Cave and 
+our dire Charms prepare.'. Bell gives the setting as '<hi>a dark Cave</hi>:'; Lee, '<hi>a 
+cave</hi>. [<hi>Stage dark</hi>.]'. Bald (<hi>PMLA</hi>, LVI [1941], 376) reads Hand IV's 'Caue' 
+as 'Cau[dron], but PB is quite clear at this point.</p> 
+ 
+<p><xref doc="mac417">7 Heccate]</xref> Hand II. It may be noted that this 
+advance call for Hecate at 38 does not include F's '<hi>other three 
+Witches</hi>'. As a rule, however, the prompter does not bother to call 
+for non-speaking characters, and the s.d. in F remains uncut. Padua PB 
+has no call for Hecate or '<hi>the other three Witches</hi>', but it 
+does not cancel the F s.d. at 38, nor does it reassign Hecate's speech 
+at 39. D'Avenant, who went in for all the witches he could get, retains 
+the three extra witches, as do Douai MS and Bell. Lee goes even further, 
+reading the s.d. at 38 as '<hi>Enter</hi> Hecate <hi>and all the singing 
+Witches</hi>.' and assigning the parts of the song in D'Avenant's 
+version specifically to the 'singing Witches'. D'Avenant (also in the 
+Yale MS) assigns the last part only of 61 to a fourth witch, but the 
+context makes it clear that he really means Hecate; Douai MS, Bell, Lee 
+do not follow him.</p> 
+ 
+<p><xref doc="mac4122">22 Mack]</xref> Hand IV (very faint and smudged). Hand IV here 
+anticipates his call for Macbeth at 29,  presumably because it does not occur 
+until the top of the following page in F.</p> 
+
+<figure entity="mac-p722"> 
+<figDesc>Image of prompt-book page 722</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac4129">29 &lt;Ma&gt;cbeth]</xref> Hand IV.</p> 
+ 
+<p><xref doc="mac4155">55-56 &lt;App&gt;arition]</xref> Hand II. Apparently undeleted, but see 
+below, 62-68.</p> 
+ 
+<p><xref doc="mac4162">62-68 1. Say, if . . . show.]</xref> Circled and x'd 
+(Hand III). This is the first of a series of cuts designed to bring the 
+scene into general agreement with D'Avenant's version, in which these 
+lines are also cut, Hecate's role is enlarged, and the Apparitions are 
+entirely cut out. The scene was originally planned  
+ 
+<!-- </page> --><!-- <page n=26> -->   
+ 
+by Hand II to include the Apparitions (see above 55-56). Bell, Lee retain the 
+Apparitions; the Lee-Salmon PB gives elaborate directions, raising and 
+sinking them on traps. In a note to the first edition of Bell (1773, p.48), a 
+note dropped in the second edition, Gentleman remarks: "In a very bad 
+alteration of this play, by <hi>Betterton</hi> [i.e., D'Avenant], he has hit upon what 
+we think an emendation; that is, making the witches deliver all the 
+prophecies; by which the surfeiting quantity of trapwork, ghosts, 
+phantomes, &amp;c. is judiciously lessened."</p> 
+ 
+<p><xref doc="mac4168">68 s.d. <hi>1. Apparition . . . Head</hi>.]</xref> 
+Crossed and x'd through (Hand III).</p> 
+ 
+<p><xref doc="mac4169a">69 Tell me you unknown powers what dangers / doe attend my destiny] 
+</xref> Hand III alters F 'thou' to 'you' (by writing 'y' over 'th'), F 'power' to 
+'powers' (by adding 's'), and adds 'what . . . destiny'.  Compare D'Avenant, 
+'What Destinie's appointed for my Fate?'.</p> 
+ 
+<p><xref doc="mac4169b">69-70 1. He knowes . . . nought.]</xref> Partly circled and x'd (Hand III). 
+D'Avenant also cuts.</p> 
+ 
+<p><xref doc="mac4171">71-72 Beware <hi>Macduff</hi>, avoyding him Makbeth is safe Enough.]</xref> 
+Hand III adds 'avoyding . . . safe' after F '<hi>Macduff</hi>,' and crosses through and 
+x's F 'Beware the <hi>Thane</hi> of <hi>Fife</hi>: dismiss me.'. Compare D'Avenant: '<hi>Hec</hi>. 
+Thou double <hi>Thane</hi> and King; beware <hi>Macduff</hi>: / Avoiding him, <hi>Macbeth</hi> 
+is safe enough.'. Note that the speech in PB is still assigned, as in F, to '1. 
+<hi>Appar</hi>.'. This is obviously an oversight on Hand III's part, who assigns the 
+remaining speeches of the Apparitions to Hecate, as in D'Avenant.</p> 
+ 
+<p><xref doc="mac4172">72 s.d. <hi>He descends</hi>.]</xref> Partly crossed through (Hand III).</p> 
+ 
+<p><xref doc="mac4174">74 But one word more.]</xref> Crossed through (Hand III). D'Avenant cuts 
+the whole of 74.</p> 
+ 
+<p><xref doc="mac4175">75-78 1. He will . . . thee.]</xref> Circled and x'd (Hand III). D'Avenant also 
+cuts.</p> 
+ 
+<p><xref doc="mac4179a">79 hec:]</xref> Hand III, as in D'Avenant, substitutes 'hec:' (i.e., Hecate) for 
+the F speech-prefix '2. <hi>Appar</hi>.' (crossed through).</p> 
+ 
+<p><xref doc="mac4179b">79 Horrid musick / ready]</xref> Hand III places this 
+prompt call in upper right corner of p. 722 (sig. 3P4<hi rend="sup">v</hi>), in preparation 
+for the '<hi>shew of eight Kings</hi>' following Macbeth's 'what noise is this?' 
+at 106. Compare the call in the Smock Alley MS prompt-book of Wilson's 
+<hi>Belphegor</hi> (Folger MS 827.1, p. 77): 'Ready for horrid Music / M<hi rend="sup">rs</hi>  
+Osborne ready'.</p> 
+ 
+<p><xref doc="mac4181">81 s.d. Descends.]</xref> Crossed through (Hand III).</p> 
+ 
+<p><xref doc="mac4182">82 fear thee?]</xref> Hand III deletes 'of' in F 'fear of thee'. Compare 
+D'Avenant, 'fear thy power:'.</p> 
+ 
+<!-- </page> --><!-- <page n=27> --> 
+ 
+<p><xref doc="mac4186">86 s.d.-89 3. <hi>Apparition</hi> . . . to't.]</xref> 
+Partly crossed through, circled, and x'd (Hand III). D'Avenant also 
+cuts; Bell, Lee (following Pope) cut only 'to't' in 89, which Lee 
+assigns to Hecate.</p> 
+ 
+<p><xref doc="mac4190a">90 heck.]</xref> Hand III, as in D'Avenant, 
+substitutes 'heck.' (i.e., Hecate) for the F speech prefix '3. <hi>Appar</hi>.' 
+(crossed through).</p> 
+ 
+<p><xref doc="mac4190b">90 hearted]</xref> Hand III substitutes 'hearted' for F 'metled' (crossed 
+through); point of insertion marked with a caret. D'Avenant reads the line 
+as: 'Be Confident, be Proud, and take no care'.</p> 
+ 
+<p><xref doc="mac4192">92-94 or slaine / till Birnam woud / shall come to dunsinane]</xref> Hand III 
+substitutes these words for F 'until / Great <hi>Byrnam</hi> wood, to high <hi>Dunsinane</hi> 
+Hill, / Shall come against him.' (crossed through). Compare D'Avenant, 
+'<hi>Macbeth</hi> shall like a lucky Monarch Raign, / Till <hi>Birnam Wood</hi> shall come 
+to <hi>Dunsinane</hi>.' (a reading adopted by Lee, substituting 'forest' for '<hi>Wood</hi> 
+shall'). Douai MS, anticipating Pope, reads 'to Dunsiman high hill' for F 'to 
+high <hi>Dunsinane</hi> Hill'; Bell, following Pope, reads 'to <hi>Dunsinane's</hi> high hill'.</p> 
+ 
+<p><xref doc="mac4199">99-100 Banquo / 8 kings]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac41107">107-109 Seruant / heere]</xref>. Hand IV. This is a call for the Servant who 
+replaces F's '<hi>Lenox</hi>' at 135. D'Avenant and Lee replace Lennox with Seyton.</p> 
+ 
+<p><xref doc="mac41110">110 hec]</xref> Hand III substitutes 'hec' (i.e., Hecate) for F speech-prefix 
+'<hi>All</hi>.' (crossed through) .  D'Avenant gives the line to the Third Witch and 
+the next line (111) to Hecate, reading: 'Wound through his Eyes, his harden'd 
+Heart, / <hi>Hec</hi>. Like Shaddows come, and straigth depart.' (so Yale MS); Lee 
+reads the lines as in D'Avenant (restoring 'so' for 'straigth') but assigns them 
+to Hecate.</p>  
+ 
+<p><xref doc="mac41125a">125 heck]</xref> Hand III writes 'heck' (i.e., Hecate) over F speech-prefix '1.'. 
+So D'Avenant, Lee.</p> 
+ 
+<p><xref doc="mac41125b">125 Lenox [<hi>crossed through by Hand 
+?III</hi>]]</xref> Hand II. See 107-109, above.</p> 
+
+<figure entity="mac-p723"> 
+<figDesc>Image of prompt-book page 723</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac41135a">135 s.d. <hi>Enter</hi> &lt;Ser&gt;vant [<hi>Hand 
+?III</hi>] / here [<hi>Hand IV</hi>]]</xref> Page 722 (sig. 3P4<hi rend="sup">v</hi>)  
+is damaged at this point.  The hand in 
+'&lt;Ser&gt;vant' is impossible to determine, though one would expect it 
+to be either Hand III or Hand IV, probably Hand III, though the 'r' form 
+employed is closer to Hand IV's. The ink, however, is much darker than 
+that in 'here', which, nevertheless, does not seem to be quite the same 
+as in Hand IV's call at 107-109. F '<hi>Lenox</hi>' has been crossed through.</p> 
+ 
+<p><xref doc="mac41135b">135 Ser:]</xref> Hand ?IV deletes F speech-prefix 
+'<hi>Lenox</hi>.' and substitutes 'Ser:'.  Lennox's later speeches in 
+this scene are not reassigned.</p> 
+ 
+<p><xref doc="mac41136">136 Macduffs Wife her son, and Rosse.]</xref> Hand II places this call 
+ 
+<!-- </page> --><!-- <page n=28> -->   
+ 
+at the extreme left top of p. 723 (sig. 3P5); it has been badly shaved in 
+binding. The phrase 'her son' seems to have been crossed through (Hand 
+?II); see opening s.d. of IV.ii.</p> 
+ 
+<p><xref doc="mac41147">147 Mesing / er]</xref> Hand IV. This early call for the Messenger who enters 
+at IV.ii.64 has been added by Hand IV because of the later cutting of 
+IV.ii.30-64, 79 ('Where . . . ')-85. The Messenger is played by Seyton in 
+D'Avenant; by Angus in Bell.</p> 
+ 
+</div2> 
+<div2 type="scene" n=4.2> 
+<head>IV.ii.</head> 
+ 
+<p><xref doc="mac42opa">(opening) Garden]</xref> Hand I. Following Rowe, Bell gives the 
+setting as 'Macduff's <hi>Castle in</hi> Fife'.</p> 
+ 
+<p><xref doc="mac42opb">(opening) Malcome / Macduf]</xref> Hand IV. This early call for the entry 
+of Malcolm and Macduff at the beginning of IV.iii again results from the 
+heavy cutting in IV.ii.</p> 
+ 
+<p><xref doc="mac42opc">(opening s.d.) <hi>Enter Macduff's Wife, and 
+Rosse</hi>.]</xref> Hand III crosses through F '<hi>her Son</hi>,'. The omission of 
+Lady Macduff's son follows D'Avenant. Originally the scene was planned 
+by Hand II to include the little boy, as well as the dialogue between 
+mother and son (30-64) and the later dialogue of the Murderers (79 
+('Where . . .' )-85), passages also omitted by D'Avenant. D'Avenant 
+substitutes Lennox for Ross; Douai MS makes an unusual number of short 
+cuts in this scene; Bell cuts essentially as in PB but retains the entry 
+of the son; Lee omits the whole scene. Gentleman (Bell) comments on this 
+scene: "Here <hi>Shakespeare</hi>, as if the vigorous exertion of his faculties, 
+in the preceding scene, required relaxation, has given us a most 
+trifling superfluous dialogue, between Lady <hi>Macduff</hi>, <hi>Rosse</hi>, and her son, 
+merely that another murder may be committed, on the stage too. We 
+heartily concur in, and approve of, striking out the greatest part of 
+it." In the second edition (1774), he drops this note but adds: "The 
+character of Lady <hi>Macduff</hi>, and consequently this scene, is entirely 
+omitted, at some theatres, as unnecessary to representation, the fatal 
+catastrophe of the family being finely introduced in another part of 
+this act."</p> 
+ 
+<p><xref doc="mac4225">25-26 My pretty . . . you.]</xref> Crossed through by Hand III, probably over 
+an earlier light crossing through by Hand II. This cut is obviously the result 
+of omitting Lady Macduff's son, but the omission of these lines makes 
+nonsense of Lady Macduff's reply, which is untouched. D'Avenant 
+substitutes 'Heaven protect you.'; Douai MS retains the present lines but cuts 
+23-25 (' . . . before.') and 27-30 (' . . . once.').</p> 
+ 
+<p><xref doc="mac4230">30-64 <hi>Wife</hi>. Sirra, your . . . 
+talk'st?]</xref> Partly circled (Hand III) and crisscrossed (Hand ?II). 
+Cut in D'Avenant, Bell (Lee omits the scene); Douai MS, among other 
+slight changes and cuts, omits 34-36, 41-43, 51-53.  Collier MS cuts 32-58.</p> 
+ 
+<!-- </page> --><!-- <page n=29> --> 
+ 
+<p><xref doc="mac4242">42-43 Messenger]</xref> Hand II. See IV.i.147.</p> 
+ 
+<p><xref doc="mac4269">69-70 Murth&lt;erers&gt;]</xref> Hand II. A heavy ink blot makes Hand II's 
+call almost illegible; since the entrance and dialogue of the Murderers is cut, 
+the call would ordinarily have been cancelled. Someone has drawn what 
+looks like a phallic symbol above Hand II's call.</p> 
+ 
+<p><xref doc="mac4275">75 wicked]</xref> Hand III interlines, with a caret, 'wicked' above F 
+'earthly'. D'Avenant substitutes 'a vicious' for F 'this earthly'; Douai MS 
+omits 74-79 ('But . . . harm?').</p> 
+ 
+<p><xref doc="mac4279a">79 exit]</xref> Hand III. See entry on 79-85.</p> 
+ 
+<p><xref doc="mac4279b">79 Malcolme [<hi>crossed through</hi>] / Macduffe [<hi>crossed 
+through, both by Hand III</hi>]]</xref> Hand II. This call replaced by Hand 
+IV at opening of scene ii.</p> 
+ 
+<p><xref doc="mac4279c">79-85 What are . . . you. <hi>Exit, crying 
+Murther</hi>.]</xref> Partly circled (Hand III) and crisscrossed (Hand 
+II). Cut in D'Avenant, Bell (Lee omits the scene).</p> 
+ 
+</div2> 
+<div2 type="scene" n=4.3> 
+<head>IV.iii.</head> 
+
+<figure entity="mac-p724"> 
+<figDesc>Image of prompt-book page 724</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac43open">(opening) Towne]</xref> Hand I. D'Avenant, to avoid a shift of scene 
+to England, gives the setting as 'Birnam Wood'; Lee follows, adding '[<hi>Stage 
+light</hi>.]'; Bell, following Rowe, gives '<hi>the King of</hi> England'<hi>s Palace</hi>'. This 
+scene is cut by about 77 lines in Padua PB; D'Avenant reduces 
+Shakespeare's 240 lines to 167 (divided into two scenes, IV.iii and IV.v); 
+Douai MS omits about 10 lines; Bell, according to Gentleman's note, omits 
+about 80 lines, "which retained, would render it painfully tedious"; Lee 
+keeps as a single scene but reduces the lines to roughly 148. In view of 
+all this, it is surprising to find PB cutting only about 43 lines.</p> 
+ 
+<p><xref doc="mac438">8 greue]</xref> Hand IV substitutes 'greue' for F 'wail' (crossed through). 
+Part of larger, and differently handled, cuts in Padua PB, D'Avenant, Bell, 
+Lee.</p> 
+ 
+<p><xref doc="mac4333">33-34 wear thou . . . afear'd.]</xref> Crossed through (Hand ?III). Cut in 
+general revision by D'Avenant, Lee.</p> 
+ 
+<p><xref doc="mac4362">62 matrons]</xref> The blot on this word seems to be offset from the facing 
+page.</p> 
+ 
+<p><xref doc="mac4382">82 more, I]</xref> Hand ?III crosses through F 'that' in the phrase 'more, that 
+I'. Part of larger cuts in Padua PB, D'Avenant, Bell, Lee.</p> 
+ 
+<p><xref doc="mac4394">94 Doctor [<hi>crossed through</hi>]]</xref> Hand II (crossed through by Hand IV). 
+Hand II thus includes the Doctor episode, also retained in Padua PB.</p> 
+
+<figure entity="mac-p725"> 
+<figDesc>Image of prompt-book page 725</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac43113">113 Rosse]</xref> Hand IV. This call, which replaces Hand II's call at 146, would 
+suggest that Hand IV is responsible for the deletions through 137.</p> 
+ 
+<p><xref doc="mac43115">115 Cut]</xref> Hand ?IV. It is not clear whether 'Cut' is intended to 
+ 
+<!-- </page> --><!-- <page n=30> --> 
+ 
+refer to the two following cuts or to the cut at 171-173 ('and . . sicken.').</p> 
+ 
+<p><xref doc="mac43117">117-123 Devilish <hi>Macbeth</hi> . . . 
+detraction.]</xref> Circled and criss-crossed by Hand IV. Padua PB, 
+D'Avenant retain substantially but omit 120-121 ('but . . . me ;'); 
+Lee retains general sense but rewrites.</p> 
+ 
+<p><xref doc="mac43123">123 Here I abjure]</xref> Hand IV interlines 'I' (or possibly 'i'), with a caret, 
+after F 'Here'. D'Avenant reads 'I abjure'; Bell cuts 123-131 ('Here . . . self,'); 
+Lee cuts the first part of 123 ('Unspeak . . . detraction.') and links 'Here 
+abjure' with the end of 122.</p> 
+ 
+<p><xref doc="mac43125">125-137 I am . . . Quarrel.]</xref> Circled in three 
+stages and criss-crossed by Hand IV. D'Avenant cuts 125-131 ('I . . . 
+self,'), rewrites 133-135, and cuts 136-137 ('... Quarrel.'); for Bell, 
+see 123, above; Lee, after turning 123-125 ('Here . . . Nature,') into 
+'And here abjure my former accusation:', cuts 125-131 ('I . . . self,'),  
+adopts D'Avenant's version of 133-135, preceding it with 'Come, cheer 
+thy drooping / Spirits--', and cuts 136-137 ('... Quarrel.').</p> 
+ 
+<p><xref doc="mac43133">133 thy approach, here]</xref> Hand III crosses through 'here' in F 'thy here 
+approach,' and inserts 'here' after 'approach,'. Cut in the rewriting by 
+D'Avenant, Lee; Douai MS changes to 'thy coming hither'. It will be noted 
+that Hand III's change here suggests that he originally included these lines, 
+and probably those of the preceding cut, and supports the view that the 
+cutting at this point is the work of Hand IV (see above, 113).</p> 
+ 
+<p><xref doc="mac43139">139 s.d.-159 <hi>Enter a Doctor. / Mal.</hi> Well . . . Grace.]</xref> Circled by Hand 
+III. The ink lines under 'King,' (147) and 157 suggest a tentative first 
+cutting by Hand II. Padua PB retains the Doctor but cuts 149 ('How . . . ')-159;  
+D'Avenant cuts the Doctor but retains eight lines on the King's healing 
+power (completely rewritten); Bell, Lee, Collier MS cut as in PB. 
+Gentleman's comment (Bell) is pungent and to the point: "The author has 
+here lugged in, by neck and heels, a doctor, for the strange purpose of 
+paying a gross compliment to that royal line, which ridiculously arrogated a 
+power of curing the evil, by a touch. But that scene is properly left out in the 
+representation." This note, as usual, is considerably softened in the second 
+edition (1774).</p> 
+ 
+<p><xref doc="mac43145">145 Rosse [<hi>crossed through</hi>]]</xref> Hand 
+II's call is deleted by Hand IV (see above, 113).</p> 
+ 
+<p><xref doc="mac43171">171-173 and good . . . sicken.]</xref> Circled and 
+crisscrossed by Hand ?III.  D'Avenant reduces to 'There good Mens 
+lives expire, 
+ 
+<!-- </page> --><!-- <page n=31> --> 
+ 
+Dying e're they sicken.'.</p> 
+ 
+<p><xref doc="mac43191">191-192 fame geues n&lt;one&gt;[<hi>or</hi> n&lt;ot&gt;]]</xref>  
+Hand IV substitutes these words for F 'none, / That Christendome gives out.' (crossed through) . 
+Another hand draws a line under (perhaps intended to be through) Hand IV's 
+awkward scribble and repeats above 'fame gives n&lt;one&gt; [<hi>or</hi> 
+n&lt;ot&gt;]'.  D'Avenant cuts 191-192 ('... out.'); Bell, Lee retain, but Lee reads 
+'is none' for F 'none,'.</p> 
+ 
+<p><xref doc="mac43201">201 tongue,]</xref> Hand ?IV crosses through F 'for ever' after 'tongue,'.</p> 
+ 
+<p><xref doc="mac43220">220 man.]</xref> A large ink blot has accidentally obscured this word.</p> 
+
+<figure entity="mac-p726"> 
+<figDesc>Image of prompt-book page 726</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac43221">221 &lt;A&gt;ct]</xref> Hand II.</p> 
+ 
+</div2></div1> 
+<div1 type="sct" n=5> 
+<head>V.</head> 
+<div2 type="scene" n=5.1> 
+<head>V.i.</head> 
+ 
+<p><xref doc="mac51open">(opening) &lt;Co&gt;urt.]</xref> Hand I. Following 
+Rowe, Bell gives the setting as '<hi>an Anti-Chamber, in</hi> Macbeth's 
+<hi>Castle</hi>'; Lee gives simply '<hi>an antichamber</hi>'; Salmon Lee PB 
+adds prompt note 'Table on.' following opening s.d. D'Avenant reduces 
+this scene to thirty-six lines, and Douai MS makes small cuts amounting 
+to about eight lines. Padua PB, as here, leaves the scene untouched; 
+Bell is generally faithful to the original but cuts 65-67; Lee 
+substantially restores Shakespeare's text but makes a number of 
+deletions and does some rewriting, reducing the scene to about sixty 
+lines.</p> 
+ 
+<p><xref doc="mac514">4 &lt;La&gt;dy.]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac5150">50 Macbeth]</xref> Hand IV. This early call for Macbeth was dictated by the 
+deletion of scene ii. Note that only Macbeth is called (see below, V.iii).</p> 
+ 
+<p><xref doc="mac5163">63-64 Macbeth, Cathnes / Angus Rosse [<hi>all crossed through</hi>]]</xref> Hand 
+II. This call was naturally cancelled when scene ii was omitted. Note that 
+Ross is substituted for Lennox and that Angus is here listed for the first and 
+only time by Hand II.</p> 
+ 
+</div2> 
+<div2 type="scene" n=5.2> 
+<head>V.ii.</head> 
+ 
+<p><xref doc="mac52opax">(opening) Towne]</xref> Hand I. <xref doc="mac52opay">Hand ?II  
+circles and Hand ?III crisscrosses the whole 
+scene for deletion.</xref> D'Avenant adapts part of this scene to one 
+between Donalbain, Fleance, and Lennox; Bell, like PB, omits the scene; 
+Lee, giving the setting as '<hi>the field</hi>' (after Rowe), retains 
+the scene substantially, but assigns it to 'Rosse, Lenox, Caithness, 
+Angus, &amp;c.' (altered in Salmon-Lee PB to just Ross and Lennox).</p> 
+ 
+<p><xref doc="mac52opb">(opening) Cut]</xref> Hand ?IV.</p> 
+
+<figure entity="mac-p727"> 
+<figDesc>Image of prompt-book page 727</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac5215">15 Macbeth Doctor]</xref> Hand II (at the top of p. 727, sig. 3Q1) See 
+below.</p> 
+ 
+ 
+</div2> 
+<div2 type="scene" n=5.3> 
+<head>V.iii.</head> 
+ 
+<p><xref doc="mac53opa">(opening) doctor]</xref> Hand IV. This call has been written partly 
+across F '<hi>Scena</hi>' and is made because of the dropping of the Doctor in the 
+opening F s.d. Another call for the Doctor, also by Hand ?IV, appears 
+directly opposite Hand IV's call, after 
+ 
+<!-- </page> --><!-- <page n=32> --> 
+ 
+F '<hi>Tertia</hi>.', but has been heavily smudged out with ink. See below.</p> 
+ 
+<p><xref doc="mac53opb">(opening) Servant]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac53opc">(opening) <hi>Enter Macbeth, and Attendants</hi>.]</xref> Hand ?IV lightly crosses 
+out F '<hi>Doctor</hi>,'. Hand II seems to have planned the scene as in F (see above, 
+V.ii.25). When, however, scene ii was cut, by Hand ?III, it became necessary 
+to change the Doctor's entrance to avoid an exit at the end of V.i and 
+immediate re-entry at the beginning at V.iii. The initial move to get rid of 
+scene ii has been attributed to Hand III because the Doctor's entrance at 33-34  
+is partly in Hand III ('Enter [<hi>Hand IV</hi>] Doc&lt;tor&gt; [<hi>Hand III</hi>]') 
+and would seem to suggest that Hand III, therefore, had something to do 
+with the cutting of scene ii. Such an explanation supposes that Hand III 
+allowed Hand II's call for Macbeth and the Doctor at V.ii.15 to serve, 
+neglecting to cancel the call for the Doctor at that point. Why the call for the 
+Doctor, tentatively assigned to Hand ?IV, at the beginning of scene iii 
+was deleted (if it was not accidentally smudged) is not clear. D'Avenant 
+omits the Doctor; Bell, Lee enter him at 37, essentially as in PB (the first 
+edition of Bell, 1773, accidentally retained him in the opening s.d.).</p> 
+ 
+<p><xref doc="mac5313">13 Seyton [<hi>Hand II</hi>] Smyth [<hi>Hand 
+III</hi>]]</xref> On the actor Smith, see the Introduction, p.2.</p> 
+ 
+<p><xref doc="mac5333">33-34 s.d. Enter [<hi>Hand IV</hi>] Doc&lt;tor&gt; [<hi>Hand III</hi>]]</xref>  
+See the discussion above.</p> 
+ 
+<p><xref doc="mac5336">36 Give me mine Armour:]</xref> Crossed through (Hand IV). The line carried on 
+across the right margin from the deletion may be intended to mark the point 
+of the Doctor's actual entrance. This is the first of three cuts relating to 
+Macbeth's armor (see below, 48 and v.51-52), and it would seem that the 
+intention was to dress Macbeth in some costume more nearly contemporary; 
+if so, then 33-34, above, were overlooked. Note that the reference to 
+Macbeth's shield at V.viii.32-34 is part of a cut by Hand III. That this was 
+the intention, however, is suggested by the deletion of all references to 
+armor in D'Avenant, followed by Lee (except for the reference to 'Hamess' 
+in V.v.51-52); Bell retains the references to armor, indicating, perhaps, a retum to 
+more historical costuming (see, however, p. 8, note 17).</p> 
+ 
+<p><xref doc="mac5339a">39 Cure her of that]</xref> Hand III crosses through 
+F 'from' and interlines 'of' above. Hand III thus restores the reading 
+of F1 and F2.</p> 
+ 
+<p><xref doc="mac5339b">39-46 Malcol&lt;me&gt; / Seywar&lt;d&gt; / Macdu&lt;ff&gt; / 
+Seyw:  S&lt;on&gt; / Mente&lt;th&gt; / Cathn&lt;es&gt; [<hi>the last two crossed 
+ 
+<!-- </page> --><!-- <page n=33> --> 
+ 
+out by Hand IV</hi>]]</xref> Hand II. See below, scene iv.</p> 
+ 
+<p><xref doc="mac5342">42 Raise out . . . Brain,]</xref> Circled (Hand IV) . Presumably before the 
+line was circled, Hand III made some change in F 'Raise' ('Raze' F1, F2), 
+possibly changing it to 'Raisd' (a reading which does not make much sense).  
+Part of the general cut of the Doctor episode in D'Avenant; Bell, Lee keep 
+the line, reading 'Raze' and 'rase' respectively.</p> 
+ 
+<p><xref doc="mac5348">48 Come, put . . . Staffe:]</xref> Circled (Hand IV). Cut in D'Avenant, Lee.</p> 
+ 
+<p><xref doc="mac5361">61-62 <hi>Doct</hi>. Were I . . . here.]</xref> 
+Circled and crisscrossed (Hand III). Cut in D'Avenant, Bell, Lee; Douai 
+MS reads 'find' for F 'draw' in 62.</p> 
+ 
+</div2> 
+<div2 type="scene" n=5.4> 
+<head>V.iv.</head> 
+ 
+<p><xref doc="mac54opa">(opening) Grou&lt;e&gt;]</xref> Hand I. Bell gives the setting as 
+'Birnam <hi>wood</hi>' (after Rowe's '<hi>A Wood</hi>'); Lee, as 'the field'.</p> 
+ 
+<p><xref doc="mac54opb">(opening) <hi>Macduff</hi>, and Roose <hi>and Souldiers 
+Marching</hi>.]</xref> Hand III crosses through F '<hi>Seywards Son, Menteth, 
+Cathnes, Angus</hi>,' and Hand IV inserts 'and Roose' before F '<hi>and 
+Souldiers</hi>'. Hand II had earlier crossed through 'Angus,'. Note that 
+'Seyw: S&lt;on&gt;' was not deleted in Hand II's call (V.iii.39-46); he has 
+no lines in the scene. D'Avenant includes 'Malcolm,  
+Donalbain, Seymour [<hi>his equivalent of Seyward</hi>], 
+Macduff, Lenox, Fleance,'; Douai MS adds Ross; Bell, 'Malcolm, Siward, 
+Macduff, Siward's <hi>Son</hi>, Lenox, Angus,'; Lee, 'Malcolm, Seyward, Macduff, 
+<hi>young</hi> Seyward, Rosse, Lenox, Caithness, Angus, <hi>&amp;c</hi>.' (Lee-Salmon PB 
+deletes Caithness and Angus).</p> 
+ 
+<p><xref doc="mac541">1-2 Macb&lt;eth&gt; / Seyton]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac542">2, 3, 7 R]</xref> Hand III assigns Menteith's two 
+speeches and the '<hi>Sold</hi>.'  speech to Ross, crossing through '<hi>Ment</hi>.' at 2 
+and '<hi>Sold</hi>.' at 7 but leaving '<hi>Ment</hi>.' untouched at 3. Bell, Lee cut the 
+'<hi>Sold</hi>.' speech; D'Avenant rewrites the opening lines, cuts Menteith's 
+first speech, and gives his second and the '<hi>Sold</hi>.' speech to Malcolm; 
+Bell reassigns Menteith's speeches to Lennox; Lee again rewrites the 
+opening lines, partly from D'Avenant, cuts Menteith's first speech, and 
+gives his second to Lennox.</p> 
+ 
+<p><xref doc="mac5414">14-16 <hi>Macd</hi>. Let our . . . 
+Souldiership.]</xref> Circled (Hand ?IV). D'Avenant rewrites the scene 
+completely after 9; Douai MS cuts 11-16 (' . . .  Souldiership.'); 
+Lee cuts and adapts part of D'Avenant's rewriting.</p> 
+
+<figure entity="mac-p728"> 
+<figDesc>Image of prompt-book page 728</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac5419">19-21]</xref> What looks like a carelessly marked 
+circling of these lines is an offset from the facing page (729, sig. 
+3Q2).</p> 
+ 
+</div2> 
+<div2 type="scene" n=5.5> 
+<head>V.v.</head> 
+ 
+<p><xref doc="mac55opa">(opening) &lt;Ca&gt;stle]</xref> Hand I. Bell, following Rowe's '<hi>The 
+Castle</hi>' gives the setting as '<hi>the Castle of</hi> Dunsinane'; Lee, as '<hi>the inside 
+ 
+<!-- </page> --><!-- <page n=34> --> 
+ 
+of</hi> Dunsinane-<hi>castle</hi>' (and Lee-Salmon PB indicates that Macbeth, etc. 
+enter 'out of the Castle').</p> 
+ 
+<p><xref doc="mac55opb">(opening s.d.) <hi>Enter Macbeth, 
+Seyton</hi>,]</xref> Hand ?IV circles F '<hi>and Souldiers, with Drum and 
+Dolours</hi>.' (see Hand II's call at V.iv.1-2).  D'Avenant introduces 
+'Macbeth, <hi>and Souldier</hi>'; Bell, 'Macbeth, Seyton, <hi>and Officers</hi>'; Lee, 
+'Macbeth, Seyton, <hi>and soldiers</hi>'.</p> 
+ 
+<p><xref doc="mac558">8 &lt;Mes&gt;senger / &lt;Tott&gt;erdell]</xref> Hands II and III. On the 
+actor Totterdale, see the Introduction, p.2.</p> 
+ 
+<p><xref doc="mac5511">11 my hair]</xref> Hand ?IV crosses through F 'Fell of' after 'my'. D'Avenant 
+omits the phrase and greatly cuts the speech; Douai MS cuts 11-13 ('and . . . in't.').</p> 
+ 
+<p><xref doc="mac5530">30-34 &lt;Ma&gt;lcolme / &lt;Sey&gt;ward / 
+&lt;M&gt;acduffe]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac5551">51-52 Ring the . . . back.]</xref> 
+Partly circled (Hand ?IV). D'Avenant cuts; Lee-Salmon PB adds prompter's 
+note after 'alarum-bell': 'Ring the Bell--'.</p> 
+ 
+</div2> 
+<div2 type="scene" n=5.6> 
+<head>V.vi.</head> 
+ 
+<p><xref doc="mac56open">(opening) Macbeth]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac566">6 young Seyward]</xref> Hand II.</p> 
+ 
+</div2> 
+<div2 type="scene" n=5.7> 
+<head>V.vii.</head> 
+ 
+<p><xref doc="mac57open">(opening) Allarums]</xref> Hand IV.</p> 
+ 
+<p><xref doc="mac574">4 s.d. Sttet [<hi>Hand IV</hi>] <hi>Enter</hi> Rosse [<hi>Hand 
+III, crossed through by Hand IV</hi>] Saward [<hi>Hand IV</hi>]]</xref> First, Hand 
+III crosses through F '<hi>young Seyward</hi>' and substitutes 'Rosse' above; 
+then Hand IV places 'Sttet' before F '<hi>Enter</hi>' and 'Saward' after and 
+slightly above the deleted F '<hi>Seyward</hi>.' By 'Saward' Hand IV presumably 
+intends Young Siward. Having converted Siward to Seymour and deleted 
+Young Siward throughout, D'Avenant here substitutes Lennox.</p> 
+ 
+<p><xref doc="mac575a">5 Malcolme / Seyward]</xref> Hand II.</p> 
+ 
+<p><xref doc="mac575b">5, 6, 8, 10 R]</xref> Hand III substitutes 'R' for F 
+'<hi>Y. Sey.</hi>' (crossed through).  Despite Hand IV's restoration of 
+Young Siward, Hand III's attributions to Ross remain unchanged.</p> 
+ 
+<p><xref doc="mac5710">10 liest abhorred]</xref> Some hand, in pencil, crosses through F 'thou' after 
+'liest', thus restoring the F1 reading (first editorially restored by Pope). 
+D'Avenant rewrites this speech (see next note).</p> 
+ 
+<p><xref doc="mac5711">11 Oh my deare Country pardon me y<hi rend="sup">t</hi>  
+&lt;I&gt; / doe in a cause soe good soe / 
+quikly dye]</xref> Hand II inserts this couplet following F 'speak'st.'. 
+Compare Lennox's dying lines in D'Avenant: 'Oh my dear Country, Pardon 
+me that I, / Do in a Cause so great, so quickly Die.'.</p> 
+ 
+<p><xref doc="mac5713">13 s.d. <hi>Enter Macduffe</hi>.]</xref> There is no 
+advance call for Macduff.</p> 
+
+<figure entity="mac-p729"> 
+<figDesc>Image of prompt-book page 729</figDesc> 
+</figure> 
+ 
+<p><xref doc="mac5723">23 s.d. Macbeth / Macduffe]</xref> Hand II. For an explanation of the 
+mistreatment this last page (729, sig. 3Q2) of the PB has received (i.e., the 
+deletion of the running title and catchword,  
+ 
+<!-- </page> --><!-- <page n=35> --> 
+ 
+the four vertical lines running the length of the page, the deletion of some of 
+the prompt materials), see the Introduction, pp. 6-7.</p> 
+ 
+</div2> 
+<div2 type="scene" n=5.8> 
+<head>V.viii.</head> 
+ 
+<p><xref doc="mac583">3 upon them. / <hi>Enter Macduff</hi>. / 
+<hi>Macd</hi>. Turn Hell-hound, turn.]</xref> The page is damaged at 
+this point, affecting these lines, but there is no evidence of any 
+cutting.</p> 
+ 
+<p><xref doc="mac5813">13-14 Malcolme / Seyward / Rosse]</xref> Hand II. This call is crossed 
+through, but probably by the nineteenth-century exhibitor. Earlier cancelled 
+calls are more roughly scratched through or blotted. All the deletions on this 
+final page are made with a single pen stroke.</p> 
+ 
+<p><xref doc="mac5814">14 let the divill]</xref> Hand III interlines 'divill' above F 'Angell' (crossed 
+through). D'Avenant reads as in PB; Douai MS reads the line as 'And let thy 
+angel whom still thou hast serv'd'.</p> 
+ 
+<p><xref doc="mac5832">32-34 the last.... enough]</xref> Hand III crosses 
+through these F lines and writes in the lower margin below 'if by a man 
+it be thy ['thy' <hi>crossed through and</hi> 'my' <hi>written 
+above</hi>] Chance to dye / Fight. / Macb: farwell vaine world and that 
+which is most vaine / Ambition. / Macd:  Soe may all tyrants fall. 
+exit'. Compare D'Avenant:  'If by a Man it be thy Fate to Die. / [<hi>They 
+Fight</hi>, Macbeth <hi>falls.  They shout within. / / Macd</hi>. This for . . . I'le 
+as a Trophy bear / Away his Sword, to witness my Revenge. [<hi>Exit</hi> Macduff. 
+/ <hi>Macb</hi>. Farewell vain World, and what's most vain in it, Ambition. / 
+[<hi>Dies</hi>.'. The added lines in PB have been crossed through, but again 
+presumably by the nineteenth-century exhibitor. The action in PB is not 
+entirely clear. The F s.d. at 34 '<hi>Exeunt fighting.  Alarums. / Enter 
+fighting, and Macbeth slain</hi>.' has been left untouched, but the added 
+lines in PB seem to rule out any exit and make it clear that Macbeth is 
+slain on stage immediately after fighting with Macduff, who then exits, 
+as in D'Avenant. It is surprising that PB retains the business of 
+Macbeth's head, in view of D'Avenant's more decorous substitution of his 
+sword, followed by both Bell and Lee.  Since Macbeth's body apparently 
+remains on stage (a difficulty also with the F text), one must suppose 
+that Macduff exits with the head at 34.  Bell, Lee give Macbeth an eight-line  
+dying speech (described by Gentleman as "furnished by Mr. <hi>Garrick</hi>, 
+to give the actor more eclat"; though he admits that "from the desperate 
+state of Macbeth's mind, we think his immediate death most natural."); 
+the speech begins with two lines suggested by D'Avenant's line ''Tis 
+done! the scene 
+ 
+<!-- </page> --><!-- <page n=36> -->   
+ 
+of life will quickly close. / Ambition's vain, delusive dreams are fled,'.</p> 
+ 
+<p><xref doc="mac5835">35-53 <hi>Mal</hi>. I would . . . comfort.]</xref> 
+The lines have been deleted in probably three stages. First, 38-53 (' . 
+. . him.') were partly circled and crisscrossed by Hand III; second 36-37  
+seem to have been circled and the last half of 53 crossed through by 
+Hand IV; third, 35 was included in the cut with 36-37 by Hand IV 
+(perhaps the third stage was actually a part of the second). The 
+original arrangement (Hand III's) gave Malcolm and Siward three-and-a-half  
+lines before Macduff's entry at 53; the final arrangement (Hand 
+IV's) brings Macduff on directly after Malcolm, Siward, Ross, etc. 
+D'Avenant reduces the F lines to seven; Bell, Lee retain F essentially 
+unchanged.</p> 
+ 
+<p><xref doc="mac5842">42 Macduffe]</xref> Hand II. Crossed through, presumably by nineteenth-century  
+exhibitor.</p> 
+ 
+<p><xref doc="mac5864">64-73 What's more . . . place:]</xref> Circled (Hand IV). D'Avenant rewrites 
+these lines completely, as well as 74-75, and is followed by Lee.</p> 
+ 
+</div2> 
+</div1> 
+</div0> 
+</body> 
+</text> 
+</TEI.2> 
+ 

@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//ELEMENTS TEI Lite XML ver. 1//EN"
+                       "http://www.tei-c.org/Lite/DTD/teixlite.dtd" [
+
+<!NOTATION jpg SYSTEM "JPEG">  
+
+
+<!-- These didn't exist; making them up -->
+<!ENTITY ce218 SYSTEM "ce218.jpg" NDATA jpg>  
+<!ENTITY ce226 SYSTEM "ce226.jpg" NDATA jpg> 
+<!ENTITY ce3150 SYSTEM "ce3150.jpg" NDATA jpg> 
+
+
+  
+<!ENTITY ce-p85 SYSTEM "ce-p85.jpg" NDATA jpg>  
+<!ENTITY ce-p87 SYSTEM "ce-p87.jpg" NDATA jpg>  
+<!ENTITY ce-p88a SYSTEM "ce-p88a.jpg" NDATA jpg>  
+<!ENTITY ce-p88b SYSTEM "ce-p88b.jpg" NDATA jpg>  
+<!ENTITY ce-p89 SYSTEM "ce-p89.jpg" NDATA jpg>  
+<!ENTITY ce-p90 SYSTEM "ce-p90.jpg" NDATA jpg>  
+<!ENTITY ce-p91 SYSTEM "ce-p91.jpg" NDATA jpg>  
+<!ENTITY ce-p92 SYSTEM "ce-p92.jpg" NDATA jpg>  
+<!ENTITY ce-p93 SYSTEM "ce-p93.jpg" NDATA jpg>  
+<!ENTITY ce-p94 SYSTEM "ce-p94.jpg" NDATA jpg>  
+<!ENTITY ce-p95 SYSTEM "ce-p95.jpg" NDATA jpg>  
+<!ENTITY ce-p96 SYSTEM "ce-p96.jpg" NDATA jpg>  
+<!ENTITY ce-p97 SYSTEM "ce-p97.jpg" NDATA jpg>  
+<!ENTITY ce-p98 SYSTEM "ce-p98.jpg" NDATA jpg>  
+<!ENTITY ce11111 SYSTEM "ce11111.jpg" NDATA jpg>  
+<!ENTITY ce11116 SYSTEM "ce11116.jpg" NDATA jpg>  
+<!ENTITY ce11124 SYSTEM "ce11124.jpg" NDATA jpg>  
+<!ENTITY ce11133 SYSTEM "ce11133.jpg" NDATA jpg>  
+<!ENTITY ce11145 SYSTEM "ce11145.jpg" NDATA jpg>  
+<!ENTITY ce11149 SYSTEM "ce11149.jpg" NDATA jpg>  
+<!ENTITY ce11152 SYSTEM "ce11152.jpg" NDATA jpg>  
+<!ENTITY ce11159 SYSTEM "ce11159.jpg" NDATA jpg>  
+<!ENTITY ce1127 SYSTEM "ce1127.jpg" NDATA jpg>  
+<!ENTITY ce1128 SYSTEM "ce1128.jpg" NDATA jpg>  
+<!ENTITY ce1133 SYSTEM "ce1133.jpg" NDATA jpg>  
+<!ENTITY ce1139x SYSTEM "ce1139x.jpg" NDATA jpg>  
+<!ENTITY ce1139y SYSTEM "ce1139y.jpg" NDATA jpg>  
+<!ENTITY ce115 SYSTEM "ce115.jpg" NDATA jpg>  
+<!ENTITY ce1164 SYSTEM "ce1164.jpg" NDATA jpg>  
+<!ENTITY ce1170 SYSTEM "ce1170.jpg" NDATA jpg>  
+<!ENTITY ce1184 SYSTEM "ce1184.jpg" NDATA jpg>  
+<!ENTITY ce1199 SYSTEM "ce1199.jpg" NDATA jpg>  
+<!ENTITY ce1210 SYSTEM "ce1210.jpg" NDATA jpg>  
+<!ENTITY ce12105 SYSTEM "ce12105.jpg" NDATA jpg>  
+<!ENTITY ce1240 SYSTEM "ce1240.jpg" NDATA jpg>  
+<!ENTITY ce1275 SYSTEM "ce1275.jpg" NDATA jpg>  
+<!ENTITY ce1298 SYSTEM "ce1298.jpg" NDATA jpg>  
+<!ENTITY ce12open SYSTEM "ce12open.jpg" NDATA jpg>  
+<!ENTITY ce199y SYSTEM "ce199y.jpg" NDATA jpg>  
+<!ENTITY ce1cov SYSTEM "ce1cov.jpg" NDATA jpg>  
+<!ENTITY ce1ti SYSTEM "ce1ti.jpg" NDATA jpg>  
+<!ENTITY ce2143 SYSTEM "ce2143.jpg" NDATA jpg>  
+<!ENTITY ce2144 SYSTEM "ce2144.jpg" NDATA jpg>  
+<!ENTITY ce215 SYSTEM "ce215.jpg" NDATA jpg>  
+<!ENTITY ce2158 SYSTEM "ce2158.jpg" NDATA jpg>  
+<!ENTITY ce2188 SYSTEM "ce2188.jpg" NDATA jpg>  
+<!ENTITY ce21open SYSTEM "ce21open.jpg" NDATA jpg>  
+<!ENTITY ce22111 SYSTEM "ce22111.jpg" NDATA jpg>  
+<!ENTITY ce22115 SYSTEM "ce22115.jpg" NDATA jpg>  
+<!ENTITY ce22126 SYSTEM "ce22126.jpg" NDATA jpg>  
+<!ENTITY ce22154 SYSTEM "ce22154.jpg" NDATA jpg>  
+<!ENTITY ce22155 SYSTEM "ce22155.jpg" NDATA jpg>  
+<!ENTITY ce22157 SYSTEM "ce22157.jpg" NDATA jpg>  
+<!ENTITY ce22173 SYSTEM "ce22173.jpg" NDATA jpg>  
+<!ENTITY ce22190 SYSTEM "ce22190.jpg" NDATA jpg>  
+<!ENTITY ce22210 SYSTEM "ce22210.jpg" NDATA jpg>  
+<!ENTITY ce22220 SYSTEM "ce22220.jpg" NDATA jpg>  
+<!ENTITY ce22221 SYSTEM "ce22221.jpg" NDATA jpg>  
+<!ENTITY ce2226 SYSTEM "ce2226.jpg" NDATA jpg>  
+<!ENTITY ce2267 SYSTEM "ce2267.jpg" NDATA jpg>  
+<!ENTITY ce22open SYSTEM "ce22open.jpg" NDATA jpg>  
+<!ENTITY ce2cov SYSTEM "ce2cov.jpg" NDATA jpg>  
+<!ENTITY ce2ti SYSTEM "ce2ti.jpg" NDATA jpg>  
+<!ENTITY ce311 SYSTEM "ce311.jpg" NDATA jpg>  
+<!ENTITY ce31123 SYSTEM "ce31123.jpg" NDATA jpg>  
+<!ENTITY ce3125 SYSTEM "ce3125.jpg" NDATA jpg>  
+<!ENTITY ce3128 SYSTEM "ce3128.jpg" NDATA jpg>  
+<!ENTITY ce3147 SYSTEM "ce3147.jpg" NDATA jpg>  
+<!ENTITY ce3155 SYSTEM "ce3155.jpg" NDATA jpg>  
+<!ENTITY ce3160 SYSTEM "ce3160.jpg" NDATA jpg>  
+<!ENTITY ce3163 SYSTEM "ce3163.jpg" NDATA jpg>  
+<!ENTITY ce3181 SYSTEM "ce3181.jpg" NDATA jpg>  
+<!ENTITY ce3184 SYSTEM "ce3184.jpg" NDATA jpg>  
+<!ENTITY ce3189 SYSTEM "ce3189.jpg" NDATA jpg>  
+<!ENTITY ce3198 SYSTEM "ce3198.jpg" NDATA jpg>  
+<!ENTITY ce31op SYSTEM "ce31op.jpg" NDATA jpg>  
+<!ENTITY ce31opsd SYSTEM "ce31opsd.jpg" NDATA jpg>  
+<!ENTITY ce321 SYSTEM "ce321.jpg" NDATA jpg>  
+<!ENTITY ce32122 SYSTEM "ce32122.jpg" NDATA jpg>  
+<!ENTITY ce32155 SYSTEM "ce32155.jpg" NDATA jpg>  
+<!ENTITY ce32161 SYSTEM "ce32161.jpg" NDATA jpg>  
+<!ENTITY ce32169 SYSTEM "ce32169.jpg" NDATA jpg>  
+<!ENTITY ce32170 SYSTEM "ce32170.jpg" NDATA jpg>  
+<!ENTITY ce32190 SYSTEM "ce32190.jpg" NDATA jpg>  
+<!ENTITY ce32191 SYSTEM "ce32191.jpg" NDATA jpg>  
+<!ENTITY ce322 SYSTEM "ce322.jpg" NDATA jpg>  
+<!ENTITY ce3231 SYSTEM "ce3231.jpg" NDATA jpg>  
+<!ENTITY ce3242 SYSTEM "ce3242.jpg" NDATA jpg>  
+<!ENTITY ce3244 SYSTEM "ce3244.jpg" NDATA jpg>  
+<!ENTITY ce3245 SYSTEM "ce3245.jpg" NDATA jpg>  
+<!ENTITY ce3254 SYSTEM "ce3254.jpg" NDATA jpg>  
+<!ENTITY ce3270 SYSTEM "ce3270.jpg" NDATA jpg>  
+<!ENTITY ce3284 SYSTEM "ce3284.jpg" NDATA jpg>  
+<!ENTITY ce329x SYSTEM "ce329x.jpg" NDATA jpg>  
+<!ENTITY ce329y SYSTEM "ce329y.jpg" NDATA jpg>  
+<!ENTITY ce32op SYSTEM "ce32op.jpg" NDATA jpg>  
+<!ENTITY ce4113 SYSTEM "ce4113.jpg" NDATA jpg>  
+<!ENTITY ce4115 SYSTEM "ce4115.jpg" NDATA jpg>  
+<!ENTITY ce4134 SYSTEM "ce4134.jpg" NDATA jpg>  
+<!ENTITY ce4148 SYSTEM "ce4148.jpg" NDATA jpg>  
+<!ENTITY ce4160x SYSTEM "ce4160x.jpg" NDATA jpg>  
+<!ENTITY ce4160y SYSTEM "ce4160y.jpg" NDATA jpg>  
+<!ENTITY ce4180 SYSTEM "ce4180.jpg" NDATA jpg>  
+<!ENTITY ce4184 SYSTEM "ce4184.jpg" NDATA jpg>  
+<!ENTITY ce4185 SYSTEM "ce4185.jpg" NDATA jpg>  
+<!ENTITY ce4187x SYSTEM "ce4187x.jpg" NDATA jpg>  
+<!ENTITY ce4187y SYSTEM "ce4187y.jpg" NDATA jpg>  
+<!ENTITY ce4193 SYSTEM "ce4193.jpg" NDATA jpg>  
+<!ENTITY ce41bex SYSTEM "ce41bex.jpg" NDATA jpg>  
+<!ENTITY ce41bey SYSTEM "ce41bey.jpg" NDATA jpg>  
+<!ENTITY ce41op SYSTEM "ce41op.jpg" NDATA jpg>  
+<!ENTITY ce4228 SYSTEM "ce4228.jpg" NDATA jpg>  
+<!ENTITY ce4238x SYSTEM "ce4238x.jpg" NDATA jpg>  
+<!ENTITY ce4238y SYSTEM "ce4238y.jpg" NDATA jpg>  
+<!ENTITY ce4248x SYSTEM "ce4248x.jpg" NDATA jpg>  
+<!ENTITY ce4248y SYSTEM "ce4248y.jpg" NDATA jpg>  
+<!ENTITY ce424x SYSTEM "ce424x.jpg" NDATA jpg>  
+<!ENTITY ce424y SYSTEM "ce424y.jpg" NDATA jpg>  
+<!ENTITY ce426 SYSTEM "ce426.jpg" NDATA jpg>  
+<!ENTITY ce42op SYSTEM "ce42op.jpg" NDATA jpg>  
+<!ENTITY ce431 SYSTEM "ce431.jpg" NDATA jpg>  
+<!ENTITY ce4315 SYSTEM "ce4315.jpg" NDATA jpg>  
+<!ENTITY ce4311ax SYSTEM "ce43211ax.jpg" NDATA jpg>  
+<!ENTITY ce4311ay SYSTEM "ce43211ay.jpg" NDATA jpg>  
+<!ENTITY ce4311b SYSTEM "ce43211b.jpg" NDATA jpg>  
+<!ENTITY ce432x SYSTEM "ce432x.jpg" NDATA jpg>  
+<!ENTITY ce432y SYSTEM "ce432y.jpg" NDATA jpg>  
+<!ENTITY ce4344 SYSTEM "ce4344.jpg" NDATA jpg>  
+<!ENTITY ce4354 SYSTEM "ce4354.jpg" NDATA jpg>  
+<!ENTITY ce4373x SYSTEM "ce4373x.jpg" NDATA jpg>  
+<!ENTITY ce4373y SYSTEM "ce4373y.jpg" NDATA jpg>  
+<!ENTITY ce4391x SYSTEM "ce4391x.jpg" NDATA jpg>  
+<!ENTITY ce4391y SYSTEM "ce4391y.jpg" NDATA jpg>  
+<!ENTITY ce441 SYSTEM "ce441.jpg" NDATA jpg>  
+<!ENTITY ce44108 SYSTEM "ce44108.jpg" NDATA jpg>  
+<!ENTITY ce44119x SYSTEM "ce44119x.jpg" NDATA jpg>  
+<!ENTITY ce44119y SYSTEM "ce44119y.jpg" NDATA jpg>  
+<!ENTITY ce44137 SYSTEM "ce44137.jpg" NDATA jpg>  
+<!ENTITY ce44153 SYSTEM "ce44153.jpg" NDATA jpg>  
+<!ENTITY ce44162 SYSTEM "ce44162.jpg" NDATA jpg>  
+<!ENTITY ce5111 SYSTEM "ce5111.jpg" NDATA jpg>  
+<!ENTITY ce51127 SYSTEM "ce51127.jpg" NDATA jpg>  
+<!ENTITY ce51128 SYSTEM "ce51128.jpg" NDATA jpg>  
+<!ENTITY ce51137 SYSTEM "ce51137.jpg" NDATA jpg>  
+<!ENTITY ce51142 SYSTEM "ce51142.jpg" NDATA jpg>  
+<!ENTITY ce51155 SYSTEM "ce51155.jpg" NDATA jpg>  
+<!ENTITY ce5115a SYSTEM "ce5115a.jpg" NDATA jpg>  
+<!ENTITY ce5115bx SYSTEM "ce5115bx.jpg" NDATA jpg>  
+<!ENTITY ce5115by SYSTEM "ce5115by.jpg" NDATA jpg>  
+<!ENTITY ce51161 SYSTEM "ce51161.jpg" NDATA jpg>  
+<!ENTITY ce51166 SYSTEM "ce51166.jpg" NDATA jpg>  
+<!ENTITY ce51168 SYSTEM "ce51168.jpg" NDATA jpg>  
+<!ENTITY ce5118 SYSTEM "ce5118.jpg" NDATA jpg>  
+<!ENTITY ce51180 SYSTEM "ce51180.jpg" NDATA jpg>  
+<!ENTITY ce51185 SYSTEM "ce51185.jpg" NDATA jpg>  
+<!ENTITY ce51191 SYSTEM "ce51191.jpg" NDATA jpg>  
+<!ENTITY ce51198 SYSTEM "ce51198.jpg" NDATA jpg>  
+<!ENTITY ce51208 SYSTEM "ce51208.jpg" NDATA jpg>  
+<!ENTITY ce51210 SYSTEM "ce51210.jpg" NDATA jpg>  
+<!ENTITY ce51211 SYSTEM "ce51211.jpg" NDATA jpg>  
+<!ENTITY ce51215 SYSTEM "ce51215.jpg" NDATA jpg>  
+<!ENTITY ce51229 SYSTEM "ce51229.jpg" NDATA jpg>  
+<!ENTITY ce5123 SYSTEM "ce5123.jpg" NDATA jpg>  
+<!ENTITY ce51237 SYSTEM "ce51237.jpg" NDATA jpg>  
+<!ENTITY ce51239 SYSTEM "ce51239.jpg" NDATA jpg>  
+<!ENTITY ce51240 SYSTEM "ce51240.jpg" NDATA jpg>  
+<!ENTITY ce51242 SYSTEM "ce51242.jpg" NDATA jpg>  
+<!ENTITY ce51244 SYSTEM "ce51244.jpg" NDATA jpg>  
+<!ENTITY ce51247 SYSTEM "ce51247.jpg" NDATA jpg>  
+<!ENTITY ce51259 SYSTEM "ce51259.jpg" NDATA jpg>  
+<!ENTITY ce51263 SYSTEM "ce51263.jpg" NDATA jpg>  
+<!ENTITY ce51264 SYSTEM "ce51264.jpg" NDATA jpg>  
+<!ENTITY ce51270 SYSTEM "ce51270.jpg" NDATA jpg>  
+<!ENTITY ce51281 SYSTEM "ce51281.jpg" NDATA jpg>  
+<!ENTITY ce5149 SYSTEM "ce5149.jpg" NDATA jpg>  
+<!ENTITY ce515 SYSTEM "ce515.jpg" NDATA jpg>  
+<!ENTITY ce517 SYSTEM "ce517.jpg" NDATA jpg>  
+<!ENTITY ce5199x SYSTEM "ce5199x.jpg" NDATA jpg>  
+<!ENTITY ce5199y SYSTEM "ce5199y.jpg" NDATA jpg>  
+<!ENTITY ce51opx SYSTEM "ce51opx.jpg" NDATA jpg>  
+<!ENTITY ce51opy SYSTEM "ce51opy.jpg" NDATA jpg>  
+<!ENTITY cespine SYSTEM "cespine.jpg" NDATA jpg>  
+ 
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOnum  SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub  SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech; 
+]>  
+<TEI.2 id="ShaComP">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shakespearean prompt-books of the seventeenth century, vol. 3 (Comedy of
+                    Errors) [a machine-readable transcription] </title>
+                <author>Shakespeare, William </author>
+                <respStmt>
+                    <resp>Creation of machine-readable version: </resp>
+                    <name>Electronic Text Center, University of Virginia Library </name>
+                    <resp>Creation of digital images: </resp>
+                    <name>Electronic Text Center, University of Virginia Library </name>
+                    <resp>Conversion to TEI.2-conformant markup: </resp>
+                    <name>University of Virginia Library Electronic Text Center. </name>
+                </respStmt>
+            </titleStmt>
+            <extent>80 kilobytes </extent>
+            <publicationStmt>
+                <publisher>University of Virginia Library. </publisher>
+                <pubPlace>Charlottesville, Va. </pubPlace>
+                <idno>Bibliographic Society, ShaComP </idno>
+                <availability>
+                    <p>Publicly-accessible </p>
+                    <p n="public">URL: http://etext.lib.virginia.edu/bsuva/promptbook/ </p>
+                </availability>
+                <date>1997 </date>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Shakespearean prompt-books of the seventeenth century </p>
+            </seriesStmt>
+            <notesStmt>
+                <note>The electronic text contains the Introduction and the Collations. The
+                    prompt-book is rendered as page images taken from volume 3, part 2. </note>
+                <note> </note>
+            </notesStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Shakespearean prompt-books of the seventeenth century, vol. 3 (The
+                            Comedy of Errors and Midsummer Night's Dream) </title>
+                        <title> </title>
+                        <author>William Shakespeare </author>
+                        <respStmt>
+                            <resp>Editor </resp>
+                            <name>G. Blakemore Evans </name>
+                        </respStmt>
+                    </titleStmt>
+                    <editionStmt>
+                        <p>Issued in portfolios. The prompt-books are reproduced in collotype
+                            facsimile. </p>
+                    </editionStmt>
+                    <extent> </extent>
+                    <publicationStmt>
+                        <publisher>University Press of Virginia </publisher>
+                        <pubPlace>Charlottesville, VA </pubPlace>
+                        <date>1964 </date>
+                        <idno>Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.3 pt.
+                            1-2 Copy 3 </idno>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <p>Shakespearean prompt-books of the seventeenth century </p>
+                    </seriesStmt>
+                    <notesStmt>
+                        <note>Published for the Bibliographical Society of the University of
+                            Virginia </note>
+                        <note>The production of this volume was supervised by Fredson Bowers </note>
+                    </notesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Prepared for the University of Virginia Library Electronic Text Center. </p>
+            </projectDesc>
+            <editorialDecl>
+                <p>All quotation marks retained as data. </p>
+                <p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a
+                    word has been joined to the preceding line. </p>
+                <p>The images exist as archived TIFF images, one or more JPEG versions for general
+                    use, and thumbnail GIFs. </p>
+                <p>Keywords in the header are a local Electronic Text Center scheme to aid in
+                    establishing analytical groupings. </p>
+            </editorialDecl>
+            <refsDecl>
+                <p> </p>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <bibl>
+                        <title>Library of Congress Subject Headings </title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date>1960-1964 </date>
+            </creation>
+            <langUsage>
+                <language>English </language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>drama; prose; non-fiction </term>
+                </keywords>
+                <keywords>
+                    <term>LCSH </term>
+                </keywords>
+                <keywords>
+                    <term> </term>
+                    <term> </term>
+                    <term type="format">24-bit color; 400 dpi </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>July 1997 </date>
+                <respStmt>
+                    <resp>corrector </resp>
+                    <name>Catherine Tousignant </name>
+                </respStmt>
+                <item>Corrected various transcriptional errors; corrected an error in the print
+                    source: Introduction, note 28: next] text; fixed missing or broken images.
+                </item>
+            </change>
+            <change>
+                <date>February 1997 </date>
+                <respStmt>
+                    <resp>corrector </resp>
+                    <name>Catherine Tousignant </name>
+                </respStmt>
+                <item>Added TEI header </item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+
+    <text>
+        <front>
+            <div type="cover">
+
+                <p>
+                    <figure entity="cespine">
+                        <figDesc>Image of the spine</figDesc>
+                    </figure>
+                </p>
+
+                <p>
+                    <figure entity="ce1cov">
+                        <figDesc>Image of the cover, volume 3, part i</figDesc>
+                    </figure>
+                </p>
+
+                <p>
+                    <figure entity="ce1ti">
+                        <figDesc>Image of the title page, volume 3, part i</figDesc>
+                    </figure>
+                </p>
+
+                <p>
+                    <figure entity="ce2cov">
+                        <figDesc>Image of the cover, volume 3, part ii</figDesc>
+                    </figure>
+                </p>
+
+                <p>
+                    <figure entity="ce2ti">
+                        <figDesc>Image of the title page, volume 3, part ii</figDesc>
+                    </figure>
+                </p>
+            </div>
+
+            <titlePage>
+                <docTitle>
+                    <titlePart type="main"> SHAKESPEAREAN <lb/> PROMPT-BOOKS <lb/>
+                        <hi>of the</hi> SEVENTEENTH CENTURY<lb/>
+                    </titlePart>
+                    <titlePart type="sub"> Vol. III: Part i<lb/> Introductions to the 'Nursery'<lb/>
+                        <hi>The Comedy of Errors</hi><lb/>
+                        <hi>Midsummer Night's Dream</hi><lb/> Collations<lb/>
+                    </titlePart>
+                </docTitle>
+                <byline>
+                    <hi>Edited by</hi><lb/> G. Blakemore Evans<lb/>
+                </byline>
+                <docImprint>
+                    <hi>Published for</hi>
+                    <lb/> The Bibliographical Society of the University of Virginia<lb/> University
+                    Press of Virginia, Charlottesville<lb/> 1964<lb/> EDITORIAL ADVISORY
+                    COMMITTEE<lb/> The Bibliographical Society Of the University Of Virginia<lb/>
+                    ARTHUR F. STOCKER, <hi>Chairman</hi><lb/> FREDSON BOWERS<lb/> JOHN COOK
+                    WYLLIE<lb/> The production of this volume was supervised by Fredson Bowers
+                </docImprint>
+            </titlePage>
+            <div type="contents">
+                <list>
+                    <head>Contents</head>
+                    <item>Introduction to <hi>The Comedy of Errors</hi> . . . . . . 1 </item>
+                    <item><hi>The Comedy of Errors</hi>: Collations . . . . . . . . . 13 </item>
+                    <item>Introduction to <hi>A Midsummer Night's Dream</hi> . . . 27 </item>
+                    <item><hi>A Midsummer Night's Dream</hi>: Collations . . . . . . . 31 </item>
+                </list>
+            </div>
+
+        </front>
+        <body>
+            <!-- <page n=1> -->
+            <div0 type="introduction">
+                <head>Introduction<lb/> The Comedy of Errors<lb/> First Folio </head>
+
+                <p>THIS prompt-book of <hi>The Comedy of Errors</hi> is, I believe, the only
+                    surviving Restoration prompt-book of a Shakespearean play which can be
+                    connected, though perhaps only indirectly, with the London theatre.<note
+                        target="n1">1</note> The evidence for provenience is unusually full and at
+                    the same time teasingly inconclusive. Working from the prompter's calls it is
+                    possible to construct the following complete cast for the play: <note
+                        target="n2">2</note></p>
+                <list>
+                    <item> Antipholus of Ephesus: Mr. Biggs </item>
+                    <item> Antipholus of Syracuse: Mr. Disney </item>
+                    <item> Dromio of Ephesus: J. Coish </item>
+                    <item> Dromio of Syracuse: J. Wall </item>
+                    <item> Aegeon: Mr. James </item>
+                    <item> Duke of Ephesus: Wm. Wall </item>
+                    <item> Gaoler: Wm. Wall </item>
+                    <item> Officer: Wm. Wall </item>
+                    <item> Angelo: Mr. Wingfield </item>
+                    <item> Merchant: Tady (<hi>or</hi> Taddy) </item>
+                    <item> Pinch: Tady (<hi>or</hi> Taddy) </item>
+                    <item> Adriana: Mrs. Coish </item>
+                    <item> Luciana: Mrs. Cook </item>
+                    <!-- </page> -->
+                    <!-- <page n=2> -->
+                    <item>Lady Abbess: Mrs. Wall </item>
+                    <item> Courtezan: Mrs. Chocke </item>
+                </list>
+
+                <p>Two definite points emerge from a study of this cast: it contains the names of no
+                    major actors or actresses;<note target="n3"> 3</note> and those names (John
+                    Coysh, Thomas Disney, Mrs. Sarah Cooke and Mrs. Wall) which can be identified
+                    with known theatrical performers in the Restoration are, with the exception of
+                    Mrs. Wall, all associated with Thomas Killigrew's King's Company. <note
+                        target="n4">4</note> Reference to Genest and Nicoll shows that Coysh,
+                    spelled 'Cash', <note target="n5">5</note> played one of the roles in Thomas
+                    Duffett's <hi>Spanish Rogue</hi>, produced about March of 1672/3,<note
+                        target="n6">6</note> and Genest remarks that "from the names of the
+                    performers it seems probable that it came out at a nursery for the King's
+                    Company." Of the actors named, however, only two (Cash and Powell) <note
+                        target="n7">7</note> were not established
+                    <!-- </page> --><!-- <page n=3> --> members of the King's Company since at least
+                    1669 and the title-page of <hi>The Spanish Rogue</hi> asserts that the play was
+                    performed by "His Majesties Players." Coysh also appeared in Nathaniel Lee's
+                        <hi>Nero</hi> at Drury Lane in May, 1674, and continued to play minor roles
+                    with the company down to 1681. Coysh is linked with Mrs. Sarah Cooke in John
+                    Leanerd's <hi>The Country Innocence</hi>, presented about March 1676/7 at Drury
+                    Lane, and with Thomas Disney and Mrs. Cooke in Leanerd's <hi>Rambling
+                        Justice</hi>, presented about March 1677/8 also at Drury Lane. He also
+                    appeared in William Chamberlayne's <hi>Wits Led by the Nose</hi>, produced at
+                    Drury Lane about July 1677. I have singled out these three last plays because,
+                    apart from the fact that Coysh is here associated with Disney and Mrs. Cooke,
+                    Genest, as in the case of <hi>The Spanish Rogue</hi>, links two of them
+                        (<hi>Rambling Justice</hi> and <hi>Wits Led</hi>) with the Nursery and the
+                    other (<hi>Country Innocence</hi>) with what he calls "the younger part of the
+                    Company." The seeming contradiction here has been dealt with by P. H. Gray in a
+                    useful article called "Lenten Casts and the Nursery: Evidence for the Dating of
+                    Certain Restoration Plays." <note target="n8">8</note> He argues that a Nursery
+                    provenience for these (and other) plays is a mistake arising from a confusion on
+                    Genest's part between the "younger part of the Company" and the Nursery (of
+                    which Genest mistakenly thought there were two at this period, one for each
+                    company); that, in fact, none of these plays was acted at or by the Nursery but
+                    at the Theatre Royal <note target="n9">9</note> by the younger or hireling
+                    members, as distinguished from the share-holding members, of the King's Company.
+                    Gray bases his argument on the assumption that the actors at the Nursery were
+                    all young, inexperienced, apprentice actors. This I think is a questionable
+                    assumption. Unfortunately we know almost nothing of the actual personnel of the
+                    Nursery, but of neither Joseph Haines nor John Coysh who joined the Nursery
+                    ranks around 1667 can it be said that they were exactly inexperienced
+                    <!-- </page> --><!-- <page n=4> --> apprentices. <note target="n10">10</note> It
+                    is possible, I think, that Dryden's well-known lines in <hi>Mac Flecknoe</hi>
+                    have somewhat biased our view of the Nursery and that, indeed, a Nursery company
+                    was a widely assorted one, including seasoned actors and every other
+                    <!-- </page> --><!-- <page n=5> --> gradation down to the apprentice. But the
+                    objection I have raised does not seriously vitiate Gray's arguments so far as
+                    the particular plays which he considers are concerned.</p>
+
+                <p>Apart from Coysh, Disney, and Mrs. Cooke, the only other player in <hi>The Comedy
+                        of Errors</hi> cast whom I have been able to trace is Mrs. Wall. She appears
+                    as a member of the cast in the Smock Alley prompt-book (MS) of John Wilson's
+                        <hi>Belphegor</hi>, the production of which has been dated either about 1677
+                    or 1682-83.<note target="n11">11</note> It is also possible that Mrs. Chocke
+                    should be identified as the mother of the precocious 'Miss Denny Chock' who, in
+                    1696, at the age of six, spoke a smutty epilogue at Drury Lane.</p>
+
+                <p>The problem in the case of <hi>The Comedy of Errors</hi> is considerably
+                    complicated by the absence of any exact date around which to work. Authorities
+                    seem to agree that Coysh, Disney, and Mrs. Cooke were younger members of the
+                    King's Company by 1677 (Coysh by 1673), but Coysh at least (and we have no
+                    record of either Disney or Sarah Cooke before 1677) was, as we have already
+                    observed, at the Nursery in Hatton Garden with Captain Bedford around 1667. It
+                    would also seem highly probable that both Disney and Mrs. Cooke were at the
+                    Nursery before 1677 Thus the apparent Nursery connection throws some question on
+                    a King's Company (Theatre Royal) provenience. Moreover, in no other cast
+                    preserved for the Lenten or other vacation performances allowed to the "younger
+                    members" of the King's Company (and the same statement may be made for the
+                    Duke's Company) are there anything like the number of noncenames. As we have
+                    seen, of the twelve individuals named in <hi>The Comdy of Errors</hi> cast only
+                    three appear in the records of the King's Company or, with one exception
+                    <!-- </page> --><!-- <page n=6> --> elsewhere. For this reason alone the Nursery
+                    provenience seems more likely than one which supposes such a large number of
+                    otherwise totally unknown actors and actresses among even the hireling ranks of
+                    the King's Company.</p>
+
+                <p>A combined performance between three younger members of the King's Company and
+                    recruits from the Nursery is, of course, another possibility, either as a Lenten
+                    or vacation play at the Theatre Royal, or as a Nursery production "glamourized"
+                    by the addition of King's Company actors. But such a supposition seems on the
+                    whole unlikely.</p>
+
+                <p>A third different, though related, provenience remains to be considered. In
+                    August, 1672, John Coysh, presumably with allowance from George Jolly, then
+                    patentee of the Nursery, led a troupe of players to Norwich. <note target="n12"
+                        >12</note> Unfortunately no details of the personnel of the troupe have
+                    survived, but in all probability it was composed of members of the regular
+                    Nursery Company, for it seems to be generally agreed that Nursery companies
+                    (probably under the title of the Duke of Monmouth's Men) toured in the
+                    provinces. From 1673-1681 Coysh seems to have been a regular, if minor, member
+                    of the King's Company, <note target="n13">13</note> and does not appear again
+                    connected with provincial touring until 1683. Since both Thomas Disney and Sarah
+                    Cooke were regular members of the King's Company by 1677,<note target="n14"
+                        >14</note> the 1672 Norwich tour would give a date when all three might well
+                    still be members of the Nursery and willing to undergo provincial touring
+                    conditions. It may also be noted that the fourth identifiable name in <hi>The
+                        Comedy of Errors</hi> cast, Mrs. Wall, also fits into a possible 1672
+                    Norwich performance.</p>
+
+                <!-- </page> -->
+                <!-- <page n=7> -->
+
+                <p>Setting aside the unlikely possibility of a King's Company provenience for the
+                    prompt-book, all the evidence points to a date at least before 1677 and probably
+                    earlier than 1673. The absence of Haynes from the cast may possibly indicate a
+                    date after 1667.</p>
+
+                <p>On the evidence so far advanced I have argued, fairly I believe, against a direct
+                    King's Company provenience for this prompt-book. But two pieces of evidence must
+                    still be considered which further link <hi>The Comedy of Errors</hi> and this
+                    particular prompt-book with Killigrew's company. First, <hi>The Comedy of
+                        Errors</hi> (as well as <hi>Midsummer Night's Dream</hi>) was among a group
+                    of plays assigned to Killigrew in 1667/8. This means that the acting rights in
+                    the-play belonged to the King's Company. Since, however, neither the
+                        <hi>Errors</hi> nor the <hi>Dream</hi> was later produced in the regular
+                    repertory of the King's Company, this fact does nothing more than underline the
+                    already established contacts with the King's Company and may even be interpreted
+                    to support a Nursery provenience. The second point seems at first sight rather
+                    more difficult to account for in terms of a Nursery (or Nursery-related)
+                    provenience: that is, Hand II in <hi>The Comedy of Errors</hi> (see below)
+                    appears also, I believe, as one of the principal prompt hands in the King's
+                    Company prompt-book of Shirley's <hi>The Sisters</hi>. The date of this
+                    production can be placed with certainty between 1668 and 1671. <hi>The
+                        Sisters</hi> was acted by leading members of the King's Company, actors like
+                    Beeston, Cartwright, Haines, Mrs. Knepp, and Nell Gwyn appearing in the cast.
+                    Montague Summers in his study of <hi>The Sisters</hi> prompt-book assigns the
+                    prompter's marginalia to Charles Booth, who as Downes describes him was
+                    'sometime Book-keeper' at the Theatre Royal. <note target="n15">15</note> The
+                    ascription may in part be right, but there seems to be no real evidence to
+                    support it. Moreover, there are at least two and probably three different hands
+                    at work in the prompt notations, <!-- </page> --><!-- <page n=8> --> a
+                    complicating fact which Summers does not appear to consider. Exact
+                    identification of the hand common to the two prompt-books is not perhaps of
+                    immediate significance for the present study, though it might conceivably be
+                    suggestive. The important point is the appearance of this hand in a promptbook
+                    associated on almost every other count with either the Nursery or a Nursery
+                    touring company. It is possible that part of the answer to the difficulty lies
+                    in the disastrous fire which almost ruined the King's Company in January of
+                    1671/2, destroying part of the theatre, their costumes and scenery. Possibly in
+                    the period immediately following that fire Booth, or more likely another
+                    prompter formerly associated with Killigrew's men, found work with the Nursery
+                    and perhaps (since the dates fit in very neatly) accompanied Coysh's troupe to
+                    Norwich later in 1672.<note target="n16">16</note></p>
+
+                <p>At this point the argument has been carried as far as our very fragmentary
+                    knowledge of the Nursery and provincial companies will allow. The case against
+                    considering this promptbook as one belonging to the King's Company proper seems
+                    to me strong. To distinguish between the claims of the Nursery and those of a
+                    provincial Nursery touring company (most probably at Norwich) is much more
+                    difficult and in this instance not of great importance since the actors and the
+                    acting version would be essentially the same in both.</p>
+
+                <p>Two hands may be distinguished in the prompt notations. Hand I, an early type of
+                    secretary hand, is responsible for textual changes and cutting and occurs again
+                    in the 'Nursery' cutting of <hi>Midsummer Night's Dream</hi>. Hand II, a fairly
+                    consistent Italian hand (with occasional secretary <hi>e</hi>'s) is associated
+                    with the calls for the characters (regularly by actor's name) and
+                    <!-- </page> --><!-- <page n=9> --> with stage business. This hand appears also
+                    in the King's Company prompt-book of Shirley's <hi>The Sisters</hi>, where again
+                    characters are usually called by actors' names.</p>
+
+                <p>The prompt-book was prepared in a copy of the First Folio. Unfortunately, at some
+                    stage in its history, probably before it was divided from the rest of the volume
+                    and bound separately, the last page of the text (sig. I2) was lost. The missing
+                    page has been restored from another copy of the First Folio -- with small
+                    comfort to us! <note target="n17">17</note> It is quite possible that this final
+                    page contained a license from the Master of the Revels or his deputy, <note
+                        target="n18">18</note> a license which might have settled the whole problem
+                    of provenience immediately.</p>
+
+                <p>The absence of any indications of scene-settings in this prompt-book is unusual
+                    for the Restoration, though significantly, perhaps, the same lack of settings is
+                    found in the Smock Alley prompt-book of <hi>The Comedy of Errors</hi>. Their
+                    absence in the Smock Alley version may be explained, perhaps, by the fact that
+                    the play never seems to have reached production. <note target="n19">19</note>
+                    But this explanation will not serve for the 'Nursery' prompt-book. Probably the
+                    answer lies in the nature of <hi>The Comedy of Errors</hi> itself, since the
+                    play requires almost nothing in the way of formal settings. Bell's text (1774),
+                    for example, edited by Francis Gentleman, gives a single setting for the whole
+                    play ('<hi>A public Place</hi>').<note target="n20">20</note> Where one set
+                    served for the whole play no indication of the set used would necessarily appear
+                    in the prompt-book. I advance a similar argument to explain the absence of
+                    scenes in the Smock Alley <hi>Henry VIII</hi> prompt-book,
+                    <!-- </page> --><!-- <page n=10> --> but, so far as I know, there is no actual
+                    evidence of Restoration practice in such a case.</p>
+
+                <p>Apart from the absence of scenes, <hi>The Comedy of Errors</hi> bears the
+                    characteristic marks of Restoration prompt-books: 'Act Ready' placed a number of
+                    lines before the conclusion of each act (except the last, which, though missing,
+                    would not presumably call for the 'Act'); 'Ring' at the end of each act for the
+                    inter-act music; and points of entry marked with the usual diagonal crossed
+                    line. The prompter's habit of using actors' names instead of the usual character
+                    names in his calls has already been noticed. He also at times, most often at the
+                    beginning of an act where no advance calls had been entered, writes in the
+                    actor's name above or below the character name in the Folio stage direction.
+                    This characteristic appears in various other Restoration prompt-books, but only
+                    very sporadically within any single prompt-book. <note target="n21"
+                    >21</note></p>
+
+                <p>A total of 378 lines has been cut by the reviser (probably Hand 1).<note
+                        target="n22">22</note> This leaves a play of approximately 1,375 lines.
+                        <note target="n23">23</note> The cutting here is somewhat lighter than that
+                    in the Smock Alley version, where the play is reduced to around 1,208 lines. In
+                    discussing the Smock Alley version, Professor Bald suggests that it was being
+                    prepared as an after-piece. This is possible, but the difference in length
+                    between these and the later eighteenth-century acting versions which were not
+                    played as after-pieces is so comparatively slight that it does not seem very
+                    likely. <note target="n24">24</note> On the whole the cutting in the 'Nursery'
+                    version is aimed at reducing the number of lines in the long speeches,
+                    particularly that of Aegeon in I.i. The parts of Adriana and Luciana have also
+                    <!-- </page> --><!-- <page n=11> --> been quite heavily cut throughout, as also
+                    that of the Abbess in the last scene. Apart from these the only major cut comes
+                    in II.ii.67-110 -- a passage of tiresome nonsense between Antipholus and Dromio
+                    of Syracuse. The character of Luce has been either intentionally dropped or
+                    confused with that of Luciana; at any rate Luce's lines in III.i are spoken by
+                    Mrs. Cooke who plays the role of Luciana.</p>
+
+                <p>An important aspect of this prompt-book, and one which helps to explain the
+                    amount of cutting, is the number of songs and dances which both Hand I and Hand
+                    II have inserted throughout, usually at the beginning of a new scene. Three
+                    songs are called for and three dances (including 'Wingfields Jigg'). No
+                    indication of added songs or dances appears in the Smock Alley prompt-book.
+                        <note target="n25">25</note></p>
+
+                <p>The earliest recorded post-Restoration performance of <hi>The Comedy of
+                        Errors</hi> did not take place until 1741.<note target="n26">26</note> Two
+                    earlier adaptations, <hi>Every Body Mistaken</hi> (1716) and <hi>See If You Like
+                        It</hi> (1734), were never published and are presumably lost. The earliest
+                    acting version, as altered by Thomas Hull, was privately printed in 1770.<note
+                        target="n27">27</note> In 1774 Francis Gentleman, in Bell's
+                        <hi>Shakespeare</hi> (Vol VIII), produced a text in which he suggested a
+                    number of cuts; he makes no claim, however, to 'regulation' from the official
+                    prompt-book, although it is possible that this version may owe something to the
+                    1741 revival. <note target="n28">28</note></p>
+
+                <p>The complete collation of the 'Nursery' prompt-book
+                    <!-- </page> --><!-- <page n=12> --> which follows has been compared throughout
+                    with the cuts and readings found in (1) the Smock Alley prompt-book, of
+                    uncertain date but almost certainly before 1700; (2) Thomas Hull's version
+                    (revised edition, 1793); and (3) Francis Gentleman's text, in Bell's
+                        <hi>Shakespeare</hi> (Vol. VIII, 1774). Occasional reference is also made to
+                    the version of Hull's text in Inchbald's <hi>British Theatre</hi> (Vol. I,
+                    1808), and the cuts in the Collier-Perkins Second Folio (1632) have likewise
+                    been compared. <note target="n29">29</note></p>
+
+                <!-- </page> -->
+
+                <!-- <page> -->
+
+
+                <note id="n1">1. The associated <hi>Midsummer Night's Dream</hi> (see p. 27) is not
+                    strictly a prompt-book, only a bare cutting. Both these theatre versions were
+                    presented to the University of Edinburgh Library by Halliwell-Phillipps. They
+                    are here used by the kind permission of the late Dr. L. W. Sharp, Librarian of
+                    the University of Edinburgh Library. The only printed reference to these
+                    versions I have encountered appears in Alexander Cargill's <hi>Shakespeare the
+                        Player</hi> (1916), Appendix D.</note>
+
+                <note id="n2">2. The character of Luce has been dropped; see the Collations
+                    III.i.47.</note>
+
+                <note id="n3">3. Mrs. Cooke (Sarah Cooke) makes the nearest approach.</note>
+
+                <note id="n4">4. The appearance of a 'Mr. James' in the cast raises, of course, the
+                    problem of a possible relationship with the Mrs. James who was a regular member
+                    of the King's Company from, at least, June of 1669. The problem is further
+                    complicated by the slight uncertainty of the reading 'M<hi rend="sup">r</hi>; it
+                    is barely possible that we should read M<hi rend="sup">r</hi>s.' (see the PB,
+                    sig. I1<hi rend="sup">r</hi>, p. 97). Apart from the difficulty posed by Mrs.
+                    James' early association with the King's Company (see later discussion below),
+                    the fact that the James who figures in <hi>The Comedy of Errors</hi> plays the
+                    role of Aegeon makes it most unlikely that Mrs. James could be involved, though
+                    admittedly not impossible (scarcely, however, a breeches role!) . Mr. James was
+                    perhaps the husband of the King's Company actress, though it may be noted that
+                    Montague Summers (<hi>The Restoration Theatre</hi>, 1934, p. 334) claims that
+                    "About 1677 she was by force of Love Erept the Stage." I do not know his
+                    authority (he is using Downes' well known words in <hi>Roscius Anglicanus</hi>
+                    (1708), where, however, they are applied to three actresses of the Duke's
+                    Company), but it is true that Mrs. James disappears from the casts of the King's
+                    Company about 1677.</note>
+
+                <note id="n5">5. The usual spelling is 'Coysh,' but PB spells it 'Coish' and the
+                    spellings 'Costa' and 'Cash' also appear (the last independently of the
+                        <hi>Spanish Rogue</hi> cast). He is called 'strowling <hi>Coish</hi>' in the
+                    scurrilous 'Satyr on the Players' (see <hi>Roscius Anglicanus</hi>, ed. Montague
+                    Summers, n.d., p. 55).</note>
+
+                <note id="n6">6. John Genest, <hi>Some Account of the English Stage from the
+                        Restoration in 1660 to 1830</hi> (1832), I, 162; Allardyce Nicoll, <hi>A
+                        History of English Drama</hi>, 1660-1900 (1952), I, 407</note>
+
+                <note id="n7">7. The Powell here associated with Coysh seems to be Martin Powell. He
+                    was certainly a member of the King's Company by 1677. In 1668/9 he was busy
+                    petitioning against Joseph Haynes (this constitutes a link with Bedford's
+                    Nursery group which Haynes had presumably just left) and he and Coysh were in
+                    turn petitioned against in 1675/6 (see Nicoll, I, 320). Martin Powell is: also
+                    identified as the 'Poel' who acted with Coysh in a production of <hi>The Indian
+                        Emperour</hi> described as 'Acted by the Duchess of Portsmouth Servants'
+                    (see Downes' <hi>Roscius Anglicanus</hi>, ed. Montague Summers, n.d., p. 288)
+                    .</note>
+
+                <note id="n8">8. PMLA (1938), LIII, 781-794.</note>
+
+                <note id="n9">9. We may note that both of Leanerd's plays are described on the
+                    titlepage as being "Acted at the Theatre Royal."</note>
+
+                <note id="n10">10. Sybil Rosenfeld, <hi>Strolling Players and Drama in the
+                        Provinces, 1660-1765</hi> (1939), p. 38: About 1667 he [Coysh] had induced
+                    Joseph Haines to join his company at Cambridge and, after visiting many towns,
+                    both actors joined Edward Bedford at the newly opened Nursery in Hatton Garden."
+                    I wish it were possible to be more certain of this date. Haynes' biography is a
+                    mass of conflicting statements. I suspect that Miss Rosenfeld bases the place of
+                    meeting with Coysh on the statement in Tobyas Thomas' <hi>The Life of the Late
+                        Famous Comedian, Jo. Hayns</hi> (1701), pp. 4-5, which recounts how, after
+                    Haynes had taken his M.A. at Cambridge, he met 'Costa' and at Cosh's invitation
+                    he "<hi>Metamorphoses</hi> his Cap and Gown to a Plum of Feathers, and a Persian
+                    Robe; . . . After he had strowled thus about some Parts of the Country, he comes
+                    to London; a timely arrival to Cap. <hi>Bedford</hi>, who at present was looking
+                    for such sparks, as raising a Company of Actors, <hi>Cosh</hi> and
+                        <hi>Haynes</hi> list themselves under the Captain, become his Principal Men,
+                    whilst the Play House in <hi>Hatton Garden</hi> lasted, which this Captain
+                        <hi>Bedford</hi> Built. But as everything has its Period in little time,
+                    arrives the dissolution of this House, <hi>Haynes</hi> betakes himself to the
+                    King's Play House in Drury-Lane, is entertain'd, at which time the Rehearsal
+                    writ by his Grace the Duke of Buckingham, was to be Acted; . . ." Actually, of
+                    course, Haynes went to Oxford, not Cambridge, where he entered Queen's College
+                    and matriculated 3 May, 1659, although there is no record that he received any
+                    degree (see <hi>Alumni Oxonienses</hi>, ed. Joseph Foster, 1891, II, 681; Wood
+                    mistakenly [<hi>Athenae Oxonienses</hi>] gives the date as 1689). According to
+                    Chetwood (<hi>The British Theatre</hi>, 1750, pp. 119-120), when Haynes was at
+                    Queen's he came to the notice of Sir Joseph Williamson, who, when he became
+                    Secretary of State, made Haynes his Latin Secretary. Haynes, however, could not
+                    keep state secrets and Sir Joseph had to discharge him, giving him letters to
+                    the "Heads of the University of <hi>Cambridge</hi>, where he was willingly
+                    received; but a Company of Players coming to <hi>Stourbridge</hi> Fair, near
+                    that place, Joe fell so much in Love with their Employment and Way of Living,
+                    that he threw away his Cap and Band, and made one of their Company. He was soon
+                    called to the King's Company in <hi>Drury-Lane</hi> . . . " (Baker,
+                        <hi>Biographia Dramatica</hi>, 1812, Vol. I, Pt. I, 308, simply repeats
+                    Chetwood's account). The connection with Sir Joseph Williamson is suggestive,
+                    since Williamson was also a Queen's College man and (so the <hi>D.N.B.</hi>
+                    tells us) a great friend to Queen's College men. Williamson, however, did not
+                    become Secretary of State until 1674, long after Haynes was well launched on his
+                    erratic dramatic career. It is possible, however, that Haynes became associated
+                    with him in 1662 when Williamson became secretary to Sir Edward Nicholas.
+                    Unfortunately, the Cambridge incident, as told by Chetwood, sounds rather like
+                    an attempt to bring the story as told by Thomas into line with Haynes' Oxford
+                    education. We do know, however, that the Nursery in Hatton Garden was built
+                    probably during 1667 (Nicoll, I, 312) and that Haynes had joined the King's
+                    Company by March 1667/8 (see Pepys' <hi>Diary</hi>, ed. H. B. Wheatley, 1896,
+                    VII, 354-55). Since the schedule here outlined is pretty close, I would suggest
+                    that perhaps 1666 would be a better date for the meeting of Coysh and
+                    Haynes.</note>
+
+                <note id="n11">11. See W. S. Clark, <hi>The Early Irish Stage</hi>, 1955, p. 81, and
+                    Allan Stevenson, "The Case of the Decapitated Cast," SQ (1955), VI, 292-293.
+                    Stevenson admits the possibility of the earlier date, but suggests 1682-83 as an
+                    equally good possibility. In the absence of other evidence for the existence of
+                    a Mrs. Wall, Stevenson suggests that "Wall" in the <hi>Belphegor</hi> cast may
+                    be an abbreviated form for "Walmesley," a known Smock Alley actress; such a
+                    supposition is no longer necessary.</note>
+
+                <note id="n12">12. See, especially, Rosenfeld, pp. 3841. She also notes (pp. 38-39)
+                    that the following year (1673) John Perrin, who had succeeded Edward Bedford as
+                    manager of the Nursery, came to Norwich as manager of the Duke of Monmouth's
+                    Men.</note>
+
+                <note id="n13">13. See Nicoll, I, 314; and Rosenfeld, pp. 40-41. I give the earlier
+                    date as 1673 on the strength of Coysh's appearance in Duffett's <hi>Spanish
+                        Rogue</hi>, about March 1672/3.</note>
+
+                <note id="n14">14. Disney seems to disappear with the union of the two companies in
+                    168: (his last appearance being in the King's Company <hi>Unhappy
+                    Favourite</hi>, 1682 [Genest, I, 330]), but Mrs. Cooke became a member of the
+                    newly formed united Company.</note>
+
+                <note id="n15">15. See Montague Summers, "A Restoration Prompt-Book," <hi>Essays in
+                        Peto</hi>, n.d., pp. 103-110. Summers is able to limit the dates through the
+                    cast of actors. He repeats the statement about Charles Booth in <hi>The
+                        Restoration Stage</hi> (1934), p. 142, but without any further supporting
+                    evidence.</note>
+
+                <note id="n16">16. Against this, particularly if Booth is the person concerned, is
+                    the fact that the King's Company seems to have been functioning again in late
+                    February of 1672 at Lincoln's Inn Fields (see Leslie Hotson, <hi>The
+                        Commonwealth and Restoration Stage</hi>, [1928], p. 254) . The fact that the
+                    characters are called for their entries by the actor's name makes it impossible
+                    to consider the suggestion that the prompt-book was first prepared by Booth and
+                    then turned over to the Nursery for performance. The prompter, whoever he was,
+                    was intimately connected with this specific performance of the play.</note>
+
+                <note id="n17">17. Sig. 12 has not been reproduced in the facsimile. The same kind
+                    of restoration appears in the <orig reg="Nursery">'Nursey'</orig> cutting of
+                        <hi>Midsummer Night's Dream</hi>, the last three leaves (plus one earlier)
+                    having been replaced by leaves from another copy of the First Folio.</note>
+
+                <note id="n18">18. Such as those found in the promptbooks for the Duke's Company
+                    revivals of Cartwright's <hi>Lady-Errant</hi> and <hi>The Ordinary</hi> (see the
+                    reproduction of Herbert's license for <hi>The Ordinary</hi> in <hi>The Plays and
+                        Poems of William Cartwright</hi>, ed. G. Blakemore Evans, 1951, p.
+                    260.)</note>
+
+                <note id="n19">19. See the introduction to the Smock Alley prompt-book in a later
+                    volume.</note>
+
+                <note id="n20">20. Thomas Hull's text (1793), see below, does suggest a number of
+                    changes of setting, as do the edited texts from Pope on.</note>
+
+                <note id="n21">21. It is not found in the King's Company prompt-book of <hi>The
+                        Sisters</hi>, in which I have identified the main prompt-hand with Hand II.
+                    The prompter in <hi>The Sisters</hi> also very occasionally calls the characters
+                    (minor ones) by character name.</note>
+
+                <note id="n22">22. This figure does not allow for whatever cutting may have been
+                    done after V.i.282; probably not very much.</note>
+
+                <note id="n23">23. Based on Alfred Hart's total of 1,753 lines (see <hi>RES</hi>
+                    [1932], VIII, 21). The figure for the Smock Alley version is based on this same
+                    count.</note>
+
+                <note id="n24">24. R. C. Bald, <hi>PMLA</hi> (1941), LVI, 373. The Bell-Gentleman
+                    text (1774) contains about 1,565 lines; the Hull text about 1,544 lines.</note>
+
+                <note id="n25">25. Hull's version (1793 ea.) adds a song in III.ii. An anonymous
+                    version, printed in 1819, uses <hi>The Comedy of Errors</hi> as a frame for
+                    introducting a large number of Shakespeare's lyrics from other plays.</note>
+
+                <note id="n26">26. See C. B. Hogan, <hi>Shakespeare in the Theatre, 1701-1800</hi>,
+                    I (1952), 99.</note>
+
+                <note id="n27">27. Hogan, II (1957), 149-150. Hogan offers an account of Hull's
+                    principal cuts and revisions for both the edition of 1770 and the revised
+                    edition of 1793.</note>
+
+                <note id="n28">28. The MS copy of 'The Famous Comedy of Errors Written by the
+                    renowned poet Mr. William Shakespear' which appears in the Douai MS (fols.
+                    66-93), dated '1694', although it presents an edited text (based eventually on
+                    the Second Folio), shows no points of agreement in readings or cuts with the
+                    'Nursery' prompt-book. For a discussion and collation of the Douai MS, see my
+                    article "The Douai Manuscript--Six Shakespearean Transcripts (1694-95)," in
+                        <hi>Studies in English Drama Presented to Baldwin Maxwell</hi> (1962), pp.
+                    158-172.</note>
+
+                <note id="n29">29. After my Introduction was in page proof, I received information
+                    through the kindness of Miss Sandra A. Burner and Miss Lucyle Hook of a
+                    promptbook, now in the Folger Shakespeare Library, of Thomas Heywood's <hi>The
+                        Wise Woman of Hogsdon</hi> that contains a cast identical to that in the
+                    'Nursery' <hi>Comedy of Errors</hi>, but with the addition of a thirteenth actor
+                    (Mr. Kew). Certain of my remarks about the uniqueness of five or six of the
+                    names in <hi>The Comedy of Errors</hi> list are, therefore, no longer
+                    accurate.</note>
+            </div0>
+            <!-- </page> -->
+            <!-- <page n=13> -->
+
+            <div0 type="collations">
+                <head>Collations <lb/>
+                    <hi>The Comedy of Errors</hi>
+                    <lb/> Prompt-Book </head>
+                <div1 type="introduction">
+                    <head/>
+                    <p>THE act, scene, and line numbering is that of the standard Globe text (1911
+                        ed.). Angle-brackets are used to indicate (1) missing words or letters; (2)
+                        illegible words or letters; (3) doubtful or conjectural readings. The
+                        following abbreviations are employed:</p>
+
+                    <list>
+                        <item>Bell...text of <hi>Comedy of Errors</hi> in Bell's
+                                <hi>Shakespeare</hi> (1774), Vol. VIII</item>
+
+                        <item>Collier MS...Collier-Perkins Second Folio (1632) now in the Huntington
+                            Library</item>
+
+                        <item>F...here used for First Folio (1623)</item>
+
+                        <item>Ff...the four Folios of 1623, 1632, 1664, 1685</item>
+
+                        <item>Hull...Thomas Hull's version of <hi>Comedy of Errors</hi> (revised
+                            edition, 1793)</item>
+
+                        <item>Inchbald...text of <hi>Comedy of Errors</hi> in Mrs. Inchbald's
+                                <hi>The British Theatre</hi> (1808), Vol. I</item>
+
+                        <item>PB...'Nursery' <hi>Comedy of Errors</hi> prompt-book</item>
+
+                        <item>s.d....stage direction</item>
+
+                        <item>Smock Alley PB...text of <hi>Comedy of Errors</hi> in the Smock Alley
+                            prompt-book, Dublin (almost certainly before 1700)</item>
+
+                    </list>
+                </div1>
+
+                <div1 type="act" n="1">
+                    <head>I</head>
+
+
+                    <div2 type="scene" n="1.1">
+                        <head>I.i.</head>
+
+                        <p>
+                            <figure entity="ce-p85">
+                                <figDesc>Image of prompt-book page 85</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce115">5-12 The enmity . . . vs,]</xref> Circled. Smock Alley
+                            PB cuts 8-9. This PB contains no indications of scene settings, nor does
+                            the <!-- </page> --><!-- <page n=14> --> Smock Alley PB; Gentleman
+                            employs a single setting throughout, '<hi>A public Place</hi>'; Hull,
+                            like eighteenth-century reading texts from Pope on, indicates several
+                            settings, here '<hi>A Hall</hi>'.</p>
+
+                        <p><xref doc="ce1133">33-35 vnspeakable . . . offence,]</xref> Crossed
+                            through. Smock Alley PB cuts 32-36; Hull cuts 33-35.</p>
+
+                        <p><xref doc="ce1139x">39-50 ere she became]</xref> Hand I substitutes these
+                            words, opposite the beginning of 51, for 39-50 ('had . . . became'); the
+                            deletion seems to have been done in two parts, first 46-50, <xref
+                                doc="ce1139y">second, 39-50</xref>. As the passage now stands 'ere'
+                            seems intrusive, but if read with the excision only of 46-50, it makes
+                            good sense. Smock Alley PB cuts 42 ('till . . .')-49, substituting
+                            'where sone wee liv'd'; Hull rewrites slightly and cuts 39, 43-49.</p>
+
+                        <p><xref doc="ce1164">64-68 a storm aros&lt;e&gt; / which Did conuay]</xref>
+                            Hand I circles 64-67, places 'a storme aros&lt;e&gt;' after 'saild'
+                            (63), 'which' before 'Did' (68), and deletes 'but' (68). Smock Alley PB
+                            cuts 65-78 and substitutes something like 'was turned to watry mountains
+                            which each moment threatned sure destruction' (passage badly
+                            shaved).</p>
+
+                        <p><xref doc="ce1170">70-76 Which though . . . none) ]</xref> Circled. So
+                            Hull; see above for Smock Alley PB.</p>
+
+                        <p><xref doc="ce1184">84-88 The children . . . thought.]</xref> Circled.
+                            Smock Alley PB cuts 88-95 (' . . . came,' ); Hull, 85.</p>
+
+                        <p>
+                            <figure entity="ce-p88a">
+                                <figDesc>Image of prompt-book page 88 (misnumbered)</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce1199">99-111 Oh had . . . they]</xref> Circled. Smock Alley
+                            PB reduces these lines to 'At last Our helpless Ship was splitted in the
+                            midst; / Her part, poor soul' (though 108-109 may have been restored);
+                            Hull cuts 94, 95 ('oh . . . ') -96, 97 ('doe . . . ')-101, 103, 105-107,
+                            109 ('but . . . woe,') .</p>
+
+                        <p><xref doc="ce11111">111-115 [line] / &lt;D&gt;isney / &lt;J&gt;: Wall /
+                                Tady / [line]]</xref> Hand II. A call for Antipholus of Syracuse
+                            (Disney), Dromio of Syracuse (J. Wall), and '<hi>a Marchant</hi>' (Tady)
+                            in scene ii; point of entry marked below after 159 with a crossed
+                            diagonal line.</p>
+
+                        <p><xref doc="ce11116">116-118 And would . . . course.]</xref> Circled.
+                            Smock Alley PB cuts 116-121; Hull, 114-115, 118-123 (' . . . to').</p>
+
+                        <p><xref doc="ce11124">124 thee]</xref> The F 'they' has been corrected to
+                            'thee', as in the later Ff.</p>
+
+                        <p><xref doc="ce11133">133-137 Fiue Sommers . . . men:]</xref> Circled. Hull
+                            cuts 136-137.</p>
+
+                        <p><xref doc="ce11145">145 Which Princes . . . disanull,]</xref> Crossed
+                            through. So Hull.</p>
+
+                        <p><xref doc="ce11149">149 But to . . . disparagement:]</xref> Crossed
+                            through.</p>
+
+                        <p><xref doc="ce11152">152 by beneficiall helpe,]</xref> Crossed
+                            through.</p>
+
+                        <p><xref doc="ce11159">159 Song]</xref> Hand I. Call for a 'Song' later to
+                            be sung by Dromio of Ephesus at his entry (40) . A copy of J. P.
+                            Kemble's adaptation (1811) of Hull's version (British Museum
+                            11765.c.14), which belonged to the actor who played Antipholus of
+                            Syracuse (a Mr. Jones) indicates a song at the opening of the scene.</p>
+
+                        <!-- </page> -->
+                        <!-- <page n=15> -->
+                    </div2>
+
+
+                    <div2 type="scene" n="1.2">
+                        <head>I.ii.</head>
+
+                        <p><xref doc="ce12open">(opening s.d.) <hi>Enter Antipholis</hi> Seracuse,
+                                    <hi>a Marchan, and Dromio</hi>. Se]</xref> Hand I, after F
+                                '<hi>Antipholis</hi>' deletes '<hi>Erotes</hi>,' interlines
+                            'Seracuse,' above, and places 'Se' after F '<hi>Dromio</hi>.' Hand II
+                            interlines 'J: Wall' above '<hi>Dromio</hi>'. Throughout the rest of
+                            scene ii Hand I first prefixed all the speeches of Antipholus with 'E:'
+                            (presumably here for '<hi>Erotes</hi>'); then realizing that 'E:' was
+                            ambiguous and would be confused with 'Ephesus', he deleted the 'E:'
+                            prefix and substituted 'S' (for 'Syracuse') . This addition has been
+                            made at lines 9, 19, 30, 33, 53, 58, 68, 72, 77, 87, 91, 95. Hand I has
+                            also made the same addition to Dromio's speech-prefix at 17.</p>
+
+                        <p><xref doc="ce1210">10-12 [line] / Coish / [line] ]</xref> Hand II. A call
+                            for Dromio of Ephesus at 40; point of entry marked with crossed diagonal
+                            line.</p>
+
+                        <p><xref doc="ce1240">40 s.d.]</xref> Hand II inserts 'Coish' above F
+                                '<hi>Dromio</hi>'; Hand I, to left of F std. has inserted a
+                            direction (badly smeared) which seems to read 'here Sing.' Dromio of
+                            Ephesus, then, here sings the song called for at the beginning of the
+                            scene.</p>
+
+                        <p>
+                            <figure entity="ce-p87">
+                                <figDesc>Image of prompt-book page 87</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce1275">75-77 [line] / Act ready / [line] ]</xref> Hand II. A
+                            call for the act break.</p>
+
+                        <p><xref doc="ce1298">98-102 As nimble . . . sinne:]</xref> Circled. So
+                            Smock Alley PB and Hull, though Hull also cuts 104-105 and adds 9 new
+                            lines.</p>
+
+                        <p><xref doc="ce12105">105 Ring]</xref> Hand II. The usual signal for the
+                            inter-act music to begin.</p>
+
+                    </div2>
+                </div1>
+
+                <div1 type="act" n="2">
+                    <head>II</head>
+
+                    <div2 type="scene" n="2.1">
+                        <head>II.i.</head>
+
+                        <p><xref doc="ce21open">(opening) A Song begins]</xref> Hand II.</p>
+
+                        <p>J: Coish] Hand II. Because it comes at the beginning of an act the call
+                            for a 'Song' is not anticipatory. Coish is here called for his entry at
+                            7 (8-42 having been cut), his point of entry being marked with a crossed
+                            diagonal line: Hand ?I has circled '<hi>wife to Antipholis
+                            Sereptus</hi>,' in F s.d., possibly because 'Sereptus' (especially in
+                            abbreviated form) invites confusion with 'Seracuse'.</p>
+
+                        <p><xref doc="ce215">5 And from . . . gone]</xref> Crossed through.</p>
+
+                        <p><xref doc="ce218">8-42 Time is . . . trie:]</xref> Circled. So Smock
+                            Alley PB; Hull cuts 8 (adds a line after 15), 21, 23 (adds 9 lines after
+                            30 in place of 31 and rewrites 32-41).</p>
+
+                        <p><xref doc="ce2143">43 you'l / heare news of him.]</xref> Hand I
+                            substitutes this for F 'is your husband nie.' (crossed through) . Smock
+                            Alley PB cuts 'now . . . nie.'</p>
+
+                        <p>43 s.d.] Hand I places three crosses after F '<hi>Enter Dromio Eph.</hi>'
+                            The exact meaning of these crosses is not clear unless it is to call
+                            attention to the fact that Dromio of Ephesus has already been brought on
+                            at 7 above.</p>
+
+                        <p><xref doc="ce2144">44 tardie]</xref> Crossed through. This deletion seems
+                            completely without reason.</p>
+
+                        <p><xref doc="ce2158">58-60 [line] / Disney / J. Wall / [line] ]</xref> A
+                            bracket to the left joins the names. Hand II. A call for Antipholus of
+                            Syracuse <!-- </page> --><!-- <page n=16> --> (Disney) at beginning of
+                            scene ii and for Dromio of Syracuse (J. Wall) at ii.6; entries
+                            separately marked by crossed diagonal lines (PB, following F, does not
+                            mark a new scene with Antipholus' entry).</p>
+
+                        <p>
+                            <figure entity="ce-p88b">
+                                <figDesc>Image of prompt-book page 88</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce2188">88-116 <hi>Luci</hi>. Fie . . . Ielousie? /
+                                    <hi>Exit</hi>.]</xref> Circled. Hand I places '&lt;E&gt;xeunt:'
+                            in left margin just above the beginning of the deletion; thus, although
+                            PB does not mark a new scene with Antipholus' entry below, the stage is
+                            cleared. Smock Alley cuts 88-111, 116; Hull cuts 103, rewrites 106-108,
+                            substitutes 2 1/2 lines for 110 ('and . . . ') -113, cuts 116; Collier
+                            MS cuts 109-111.</p>
+
+                    </div2>
+
+                    <div2 type="scene" n="2.2">
+                        <head>II.ii.</head>
+
+                        <p><xref doc="ce22open">(opening)]</xref> Hand I replaces
+                            '<hi>Errotis</hi>.' in F std. with 'Seracus:'. Again, as in I.ii, Hand I
+                            has first prefixed all the speech-heads of Antipholus of Syracuse's
+                            speeches with 'E:' (except those in the considerable deleted passages),
+                            then either deleted 'E:' and substituted 'S' or wrote 'S' over 'E:'.
+                            This addition has been made at lines 1, 14, 17, 22, 41, 43, 46, 51, 54,
+                            58, 60, 62, 65, 149, 157, 162, 165, 168, 183, 198, 200, 214. Hand I has
+                            also added an 'S:' to Dromio's speech-prefix at 158.</p>
+
+                        <p><xref doc="ce226">6-9 [line] / &lt;M&gt;<hi rend="sup">rs</hi> Coish /
+                                    &lt;M&gt;<hi rend="sup">rs</hi> Cook / [line] ]</xref> Hand II.
+                            A call for Adriana (Mrs. Coish) and Luciana (Mrs. Cook); point of entry
+                            marked twice with crossed diagonal lines; first after 64 (67-110 being
+                            deleted), again after 110. Presumably this indicates a kind of double
+                            entry, first entering at the back and then coming forward.</p>
+
+                        <p><xref doc="ce2226">26-39 <hi>Antiph</hi>. Because . . . sir,]</xref>
+                            Circled and crossed with diagonal lines. Smock Alley PB cuts 26-40;
+                            Hull, 34-39 (' . . . but'); Gentleman suggests cutting 30-31.</p>
+
+                        <p><xref doc="ce2267">67-110 S. <hi>Dro</hi>. I durst . . .
+                                conclusion:]</xref> Circled. Smock Alley PB cuts 65-111,
+                            substituting 'Hold leave your prating see who beckens / to us yonder';
+                            Hull, 60-110; Gentleman suggests cutting 67-111.</p>
+
+                        <p>
+                            <figure entity="ce-p89">
+                                <figDesc>Image of prompt-book page 89</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce22111">111 whos]</xref> Hand ?I deletes F 'wafts vs' and
+                            writes in an 's' over 'w' in 'wafts'.</p>
+
+                        <p><xref doc="ce22115">115-120 you lov'd meet]</xref> Hand I substitutes
+                            these words for 115-120 ('when . . . thee.'), here circled, writing them
+                            in above the deleted section of 115.</p>
+
+                        <p><xref doc="ce22126">126-148 Ah doe . . . vndishonoured.]</xref> Circled.
+                            Smock Alley PB cuts 123-127 (' . . . love:'), 130, 132-148; Hull,
+                            124-125, 130, 131 ( and . . . too'), 134-135, 142, 143, 146; Gentleman
+                            suggests cutting 134-135, 141-146; Inchbald cuts 124-125, 130, 131 ('and
+                            . . .')-148.</p>
+
+                        <p><xref doc="ce22157">157]</xref> In the center of the top margin, above
+                            running-title, Hand ?I, turning the page upside-down, has written two
+                            words which I read as 'here ion' (the reading of both words is doubtful;
+                            the upper margin has been shaved in binding, possibly affecting the
+                            notation) . It may be that some reference
+                            <!-- </page> --><!-- <page n=17> --> is intended to the length of the
+                            act break and that what we find here is an uncompleted notation for
+                            'here long act'. (Cf. "I ordered the Drummer to beat a long Act" quoted
+                            in some verses in Tobyas Thomas' <hi>The Life of the Late Famous
+                                Comedian, Jo Hayus</hi> [1701], p.26.)</p>
+
+                        <p><xref doc="ce22154">154 how the . . . you:]</xref> Crossed through. </p>
+
+                        <p><xref doc="ce22155">155 you were not wont]</xref> Hand I interlines 'you'
+                            above F 'When' (deleted) and 'not' above F 'you' (deleted).</p>
+
+                        <p><xref doc="ce22173">173-182 Be it . . . confusion.]</xref> Circled. 'all'
+                            in 181 seems to be blotted. Smock Alley PB cuts 172-182; Hull,
+                            173-174.</p>
+
+                        <p><xref doc="ce22190">190-192 [line] / Act Ready / [line] ]</xref> Hand
+                            II.</p>
+
+                        <p><xref doc="ce22210">210 And shriue . . . prankes:]</xref> Crossed
+                            through. So Smock Alley PB. The religious reference in 'shriue' may
+                            explain the cut.</p>
+
+                        <p><xref doc="ce22220">220 Ring]</xref> Hand ?II.</p>
+
+                        <p><xref doc="ce22221">221]</xref> In the bottom margin, below this line,
+                            Hand II notes 'A Dance here', the notation preceded by a large index
+                            hand.</p>
+
+                    </div2>
+                </div1>
+
+                <div1 type="act" n="3">
+                    <head>III.</head>
+
+                    <div2 type="scene" n="3.1">
+                        <head>III.i.</head>
+
+                        <p>
+                            <figure entity="ce-p90">
+                                <figDesc>Image of prompt-book page 90</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce31op">(opening) ]</xref> In top left margin Hand II repeats
+                            'A Dance here', followed by a small index hand.</p>
+
+                        <p><xref doc="ce31opsd">(opening s.d.)]</xref> Hand II places 'Biggs' above
+                            F '<hi>Antipholus</hi>,' 'Coish' above F '<hi>Dromio</hi>', 'Wingfeild'
+                            above F '<hi>Angelo the</hi>', and 'Tady.' below F '<hi>Balthaser</hi>';
+                            Hand I places 'Sera' (later crossed through) above F '<hi>Ephesus</hi>'.
+                            These are not calls in in the strict sense, but reminders to the
+                            prompter whom to have assembled for the beginning of Act III; cf.
+                            IV.i.</p>
+
+                        <p><xref doc="ce311">1-3 [line] / &lt;J:&gt;Wall / &lt;w&gt;.'hin / [line]
+                                ]</xref> Hand II. This is a call for Dromio of Syracuse to speak
+                            'within' at 32.</p>
+
+                        <p><xref doc="ce3125">25]</xref> Hand I here prefixes the F speech-head
+                                '<hi>Anti</hi>.' with 'E:' (i.e. Ephesus); also at lines 27, 40, 42,
+                            54, 57, 59, 63, 69, 73, 80, 84, 123.</p>
+
+                        <p><xref doc="ce3128">28-33 [line] / &lt;M&gt;r5 Cook / &lt;M&gt;rs Coysh /
+                                &lt;w&gt;.'hin / [line] ]</xref> Hand II. A call for Luce, at 48,
+                            and Adriana, at 61, to speak 'within'. Since Mrs. Cook plays Luciana, it
+                            is clear that the prompter (Hand II) has, perhaps, intentionally,
+                            combined the roles of Luce and Luciana. Hull substitutes 'Bridget' for
+                            'Luce' and makes both Bridget and Adriana speak 'within'; Gentleman has
+                            a 'Maid' and Adriana speak 'within'.</p>
+
+                        <p><xref doc="ce3147">47 s.d.]</xref> Hand II deletes '<hi>Enter</hi>' in F
+                            std. and places an index hand to the left. The index hand here takes the
+                            place of the usual crossed diagonal used for marking point of entry; cf.
+                            60, below.</p>
+
+                        <p><xref doc="ce3150">50-53 <hi>E. Dro</hi>. O Lord . . . well.]</xref>
+                            Circled. So Hull, rewriting 49-50 ('Faith . . . master.'); Smock Alley
+                            PB cuts 50 ('and . . . ')-56; Gentleman suggests cutting 52-60.</p>
+
+                        <p><xref doc="ce3155">55-57 S. <hi>Dro</hi>. And . . . sake?]</xref> Circled
+                            (before deletion Hand I had prefixed 'E:' before '<hi>Anti</hi>.' [57]).
+                            For Smock Alley PB see above; Hull cuts 55-57 ('I . . . in.').</p>
+
+                        <!-- </page> -->
+                        <!-- <page n=18> -->
+
+                        <p><xref doc="ce3160">60 s.d.]</xref> Hand II deletes '<hi>Enter</hi>' in F
+                            std. and places an index hand to the left (see 47 s.d., above) .</p>
+
+                        <p><xref doc="ce3181">81 [bracket]</xref> M<hi rend="sup">rs</hi> Cook /
+                                M<hi rend="sup">r</hi> Disney] Hand II (in lower right margin). A
+                            call for Luciana (Mrs. Cook) and Antipholus of Syracuse (Disney) at
+                            beginning of scene ii (no scene division marked in F), where point of
+                            entry is marked with crossed diagonal line.</p>
+
+                        <p>
+                            <figure entity="ce-p91">
+                                <figDesc>Image of prompt-book page 91</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce3189">89-91 Once this . . . vnknowne;]</xref> Circled. Smock
+                            Alley PB cuts 86-106.</p>
+
+                        <p><xref doc="ce3198">98-106 If by . . . possession.]</xref> Circled (stars
+                            have been placed above the upper right and lower left corners of the
+                            deletion; I do not understand their significance). For Smock Alley PB,
+                            see above.</p>
+
+                        <p><xref doc="ce31123">123]</xref> A cross follows this last line of the
+                            scene; I do not understand its significance.</p>
+                    </div2>
+
+                    <div2 type="scene" n="3.2">
+                        <head>III.ii</head>
+
+                        <p><xref doc="ce32op">(opening s.d.) ]</xref> Hand I interlines 'Luce.'
+                            above F '<hi>Iuliana</hi>' (deleted) and '<hi>Ephe</hi>:' above F
+                                '<hi>Siracusia</hi>' (deleted), then crosses through
+                            '<hi>Ephe</hi>:' and writes in '<hi>Sera</hi>:' after the deleted F
+                                '<hi>Siracusia</hi>'. It will have already been noticed that Hand I
+                            had some difficulty in keeping the two Antipholi straight.</p>
+
+                        <p><xref doc="ce321">1 Luce]</xref> Hand I substitutes 'Luce' for F 'Iulia'
+                            (deleted) in the speech-head. Apparently Hand I thinks of the
+                            character's name as 'Luce' or 'Lucy' rather than '<hi>Luciana</hi>',
+                            probably under the influence of the last scene where Hand II, at any
+                            rate, takes 'Luce' and 'Luciana' to be the same person.</p>
+
+                        <p><xref doc="ce329x">9-24 Let not . . . vs.]</xref> Circled. Smock Alley
+                            PB, after cutting 2 ('<hi>Antipholus . . . </hi>')-8, cuts 11-18, <xref
+                                doc="ce329y">21-24</xref>; after inserting parts of II.ii at the
+                            beginning of this scene, Hull cuts 4, 13-14, 19, 21-24 (a suggested cut;
+                            cut in Inchbald); Gentleman suggests cutting 10, 13-20, 23.</p>
+
+                        <p><xref doc="ce3231">33-41 Teach me . . . know,]</xref> Circled (originally
+                            31-32 were included in the cut, but then marked 'Stet' by Hand I). The
+                            restoration of 31-32 may have been done to restore the rhyme scheme.
+                            Smock Alley PB cuts 33-40; Hull, 30-32, 35; Gentleman suggests cutting
+                            33-46.</p>
+
+                        <p><xref doc="ce3242">42-44 [line] / J: Wall / [line] ]</xref> Hand II. A
+                            call for Dromio of Syracuse; point of entry marked with crossed diagonal
+                            line at 70.</p>
+
+                        <p><xref doc="ce3244">44 incline]</xref> Hand I interlines 'in' above a
+                            deleted 'de' in F 'decline'. So Collier MS and Smock Alley PB; Hull cuts
+                            43 and reads 'inclines'.</p>
+
+                        <p><xref doc="ce3245">45-52 Oh traine . . . sinke.]</xref> Circled. Smock
+                            Alley PB cuts 45-58; Hull, 52; Gentleman suggests cutting 45-46.</p>
+
+                        <p><xref doc="ce3254">54]</xref> Hand I prefixes the F speech-head 'Ant.'
+                            with 'S:'; also at lines 56, 58, 60, 60, 66, 71, 75, 79, 84, 90, 95,
+                            103, 107, 110, 114, 118, 122, 125, 128, 133, 136, 142, 152, 161, 170,
+                            174, 176, 181, 184.</p>
+
+                        <!-- </page> -->
+                        <!-- <page n=19> -->
+
+                        <p>
+                            <figure entity="ce-p92">
+                                <figDesc>Image of prompt-book page 92</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce32155">155]</xref> Hand II, in lower left margin, notes
+                                'M<hi rend="sup">r</hi> Wingfield w<hi rend="sup">tn</hi> a Chaine'.
+                            A call for Angelo (Wingfield) at 169; point of entry marked with crossed
+                            diagonal line. The 'Chaine' here called for is one of two property
+                            notations in this PB (see .ii.48-49).</p>
+
+                        <p><xref doc="ce32170">170 Act Ready]</xref> Hand II. </p>
+
+                        <p><xref doc="ce32190">190-191 Ring]</xref> Hand II.</p>
+
+                        <p><xref doc="ce32191">191]</xref> Immediately below this line Hand II notes
+                            'Wingfields Jigg here'. Wingfield as Angelo had only exited 8 lines
+                            before and appears again at the beginning of Act IV. The kind of jig
+                            here referred to would be a combination song and dance, a favorite
+                            interact diversion in Restoration drama, not only in comedy. The
+                            beginning of the fourth act was a popular spot for such entertainment;
+                            cf. Sedley's Prologue to <hi>Bellamira</hi> (1687): "Or from adjacent
+                            Coffee Houses throng / At our fourth Act for a new Dance or Song."</p>
+
+                    </div2>
+                </div1>
+
+                <div1 type="act" n="4">
+                    <head>IV</head>
+
+                    <div2 type="scene" n="4.1">
+                        <head>IV.i.</head>
+                        <p><xref doc="ce41op">(opening s.d.)]</xref> Hand II places 'Tady' above F
+                                '<hi>Merchant</hi>', '<hi>Wingfield</hi>' above F
+                                '<hi>Goldsmith</hi>', and 'W<hi rend="sup">m</hi> Wall' above F
+                                '<hi>an Officer</hi>'. Cf. III.i.</p>
+
+                        <p><xref doc="ce41bex">(below s.d.) [line] / M<hi rend="sup">r</hi> Biggs /
+                                Coish / [line] ]</xref> Hand II. A call for Antipholus of Ephesus
+                            (Biggs) and Dromio of Ephesus (Coish) at 13; <xref doc="ce41bey">point
+                                of entry marked with crossed diagonal line</xref>.</p>
+
+                        <p><xref doc="ce4113">13 s.d.]</xref> Hand I deletes F '<hi>Ephes</hi>.' and
+                            writes 'Serac.' above, then realizing his error deletes 'Serac.'</p>
+
+                        <p><xref doc="ce4115">15]</xref> Hand I prefixes the F speech-head
+                                '<hi>Ant</hi>.' with 'E:'; also at lines 34 41, 43, 48, 54, 57, 62,
+                            64, 66, 74, 80, 93, 96' 100</p>
+
+                        <p>
+                            <figure entity="ce-p93">
+                                <figDesc>Image of prompt-book page 93</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce4148">48 Good Lord,]</xref> Crossed through. Hull
+                            substitutes 'I guess'.</p>
+
+                        <p><xref doc="ce4160x">60-61 [line] / J: Wall / [line] ]</xref> Hand II. A
+                            call for Dromio of Syracuse at 84; <xref doc="ce4160y">point of entry
+                                marked with crossed diagonal line</xref>.</p>
+
+                        <p><xref doc="ce4185">85]</xref> Hand I prefixes the F speech-head with
+                            'S:'.</p>
+
+                        <p><xref doc="ce4187x">87-90 [line] / M<hi rend="sup">rs</hi> Coish / M<hi
+                                    rend="sup">r</hi> Cook / [line] ]</xref> Hand II. 'M<hi
+                                rend="sup">r</hi> Cook' is an error for 'M<hi rend="sup">rs</hi>
+                            Cook'. A call for Adriana (Mrs. Coish) and Luciana (Mrs. Cook) at the
+                            beginning of scene ii (no scene break indicated in F or PB); <xref
+                                doc="ce4187y">point of entry marked with crossed diagonal
+                                line</xref>.</p>
+
+                        <p><xref doc="ce4193">93 fellow]</xref> Hand I interlines 'fellow' above F
+                            'sheep' (deleted). Smock Alley PB cuts 'Why . . . sheep'.</p>
+
+                    </div2>
+
+                    <div2 type="scene" n="4.2">
+                        <head>IV.ii.</head>
+                        <p><xref doc="ce424x">4-6 [line] / J: Wall / [line] ]</xref> Hand II. A call
+                            for Dromio of Syracuse at 28; <xref doc="ce424y">point of entry marked
+                                with crossed diagonal line</xref>.</p>
+
+                        <p><xref doc="ce426">6 Oh, his . . . face.]</xref> Crossed through. Smock
+                            Alley PB cuts 2-6; Gentleman suggests cutting 2-6, but remarks: "This
+                            idea is far-fetched, for the mind impressing the features; but has
+                            something very poetical and emphatic in it."</p>
+
+                        <p>
+                            <figure entity="ce-p94">
+                                <figDesc>Image of prompt-book page 94</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce4228">28 s.d.]</xref> Hand II inserts 'Wall' above F
+                                '<hi>Dromio</hi>. '.</p>
+
+                        <!-- </page> -->
+                        <!-- <page n=20> -->
+
+                        <p><xref doc="ce4238x">38-41 [line] / &lt;D&gt;isney / [line] ]</xref> Hand
+                            II. A call for Antipholus of Syracuse at beginning of scene iii (no
+                            scene break indicated in F or PB); <xref doc="ce4238y">point of entry
+                                marked with crossed diagonal line</xref>. Note that this call for
+                            Antipholus precedes the call for Luciana's re-entry at 62.</p>
+
+                        <p><xref doc="ce4248x">48-49 [line] / &lt;M<hi rend="sup">rs</hi>&gt;Cook /
+                                    &lt;w<hi rend="sup">t</hi>&gt;<hi rend="sup">h</hi>; a purse I
+                                [line] ]</xref> Hand II. A call for Luciana's re-entry at 62; <xref
+                                doc="ce4248y">point of entry marked with crossed diagonal
+                                line</xref>. One of the two property notations in this PB (see
+                            III.ii.155) . Hull notes the purse on Luciana's re-entry.</p>
+
+                    </div2>
+                    <div2 type="scene" n="4.3">
+                        <head>IV.iii.</head>
+
+                        <p><xref doc="ce431">1]</xref> Hand I prefixes the speech-head '&lt;S:&gt;
+                            Anti:' lacking in F.</p>
+
+                        <p><xref doc="ce432x">2-4 [line] / &lt;J:&gt; Wall / [line] ]</xref> Hand
+                            II. I have supplied 'J:' in accordance with Hand II's usual practice in
+                            calling Wall. A call for Dromio of Syracuse at 11; <xref doc="ce432y"
+                                >point of entry marked with crossed diagonal line</xref>.</p>
+
+                        <p><xref doc="ce4311ax">11 s.d. M<hi rend="sup">rs</hi> Chocke / [line]
+                                ]</xref> Hand II. A call for the Courtezan at 44; <xref
+                                doc="ce4311ay">point of entry marked with crossed diagonal
+                                line</xref>.</p>
+
+                        <p><xref doc="ce4311b">11 s.d.]</xref> Hand II inserts 'Wall' above F
+                                '<hi>Dromio</hi> Sir. ' .</p>
+
+                        <p><xref doc="ce4315">15]</xref> Hand I prefixes the F speech-head 'Ant.'
+                            with 'S:'; also at lines 21, 29, 34, 42, 48, 50, 63, 66, 80.</p>
+
+                        <p><xref doc="ce4344">44]</xref> What appears to be a deletion of F 'from
+                            hence.' is the result of an ink show-through from the preceding
+                            page.</p>
+
+                        <p><xref doc="ce4354">54-55]</xref> It is possible that 'God' in 'God make
+                            me' has been deleted, but if so why is 'God dam me' earlier in 54 left
+                            untouched? Smock Alley PB cuts 53-55 ('and . . . wench:'); Hull cuts the
+                            speech through 'wench:' (53) and reorders; Gentleman suggests cutting
+                            all the speech after 'dam:' (52).</p>
+
+                        <p>
+                            <figure entity="ce-p95">
+                                <figDesc>Image of prompt-book page 95</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce4373x">73 M<hi rend="sup">r</hi> Biggs, W<hi rend="sup"
+                                    >m</hi> Wall, Coysh]</xref> Hand II places this call to left of
+                            running-title. A call for Antipholus of Ephesus (Biggs), a
+                                '<hi>Iailor</hi>' (Wall) at beginning of scene iv (no scene break
+                            indicated in F or PB), and Dromio of Ephesus (Coysh) at 7 of scene iv;
+                                <xref doc="ce4373y">points of entry marked with crossed diagonal
+                                lines</xref>.</p>
+
+                        <p><xref doc="ce4391x">91 [line] / M<hi rend="sup">rs</hi> Coysh / M<hi
+                                    rend="sup">rs</hi> Cook / M<hi rend="sup">rs</hi> Chocke / Taddy
+                                / [line] ]</xref> Hand II. A call for Adriana (Mrs. Coysh), Luciana
+                            (Mrs. Cook), Courtezan (Mrs. Chocke), and Pinch, the Schoolmaster
+                            (Taddy) at 43; <xref doc="ce4391y">point of entry marked with crossed
+                                diagonal line</xref>.</p>
+
+                    </div2>
+                    <div2 type="scene" n="4.4">
+                        <head>IV.iv.</head>
+
+                        <p><xref doc="ce441">1]</xref> Hand I prefixes the F speech-head
+                                '<hi>An</hi>.' with 'E:'; also at lines 11, 13, 15, 17, 24,27, 43,
+                            47, 56, 61, 63, 71, 73, 75, 77, 79' 85, 90, 98, 104, 112, 127, 129.</p>
+
+                        <p>
+                            <figure entity="ce-p96">
+                                <figDesc>Image of prompt-book page 96</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce44108">108 s.d. <hi>Enter three . . . striues.</hi>]</xref>
+                            Bracketed, presumably for deletion. There has been no call for these
+                            extras. Hull reads '<hi>Attendants seize him</hi>.'; Gentleman, after
+                            Capell, reads '<hi>Flying at his wife: Assistants, and Doctor,
+                                interpose; and, with much struggle, bind him, and</hi> Dromio'.</p>
+
+                        <p><xref doc="ce44119x">119-121 [line] / &lt;D&gt;isney / &lt;J:&gt; Wall /
+                                [line] ]</xref> Hand II. <!-- </page> --><!-- <page n=21> --> A call
+                            for Antipholus of Syracuse (Disney) and Dromio of Syracuse (Wall) at
+                            146; <xref doc="ce44119y">point of entry marked with crossed diagonal
+                                line</xref>.</p>
+
+                        <p><xref doc="ce44137">137 Act Ready / [line] ]</xref> Hand II. Hand II has
+                            started to write another word between 'Act' and 'Ready', but I can make
+                            nothing of it.</p>
+
+                        <p><xref doc="ce44153">153]</xref> Hand I prefixes the F speech-head 'Ant.'
+                            with 'S:'; also at line 161.</p>
+
+                        <p><xref doc="ce44162">162]</xref> Hand II, following this line, inserts
+                            'Ring'. Hand II, below this line, notes 'A Dance here' followed by an
+                            index hand.</p>
+
+                    </div2>
+                </div1>
+                <div1 type="act" n="5">
+                    <head>V</head>
+
+                    <div2 type="scene" n="5.1">
+                        <head>V.i</head>
+
+                        <p><xref doc="ce51opx">(opening) [line] / Disney / J: Wall / [line] ]</xref>
+                            Hand II. A call for Antipholus of Syracuse (Disney) and Dromio of
+                            Syracuse (Wall) at 9; <xref doc="ce51opy">point of entry marked with
+                                crossed diagonal line</xref>.</p>
+
+                        <p><xref doc="ce515">5 Of very . . . sir,]</xref> Crossed through.</p>
+
+                        <p><xref doc="ce517">7 Second to . . . Citie:]</xref> Crossed through.</p>
+
+                        <p><xref doc="ce5111">11 most monstrously to haue.]</xref> Crossed
+                            through.</p>
+
+                        <p><xref doc="ce5115a">15-16 And not . . . so]</xref> Crossed through.</p>
+
+                        <p><xref doc="ce5115bx">15-21 M<hi rend="sup">rs</hi> Coish / M<hi
+                                    rend="sup">rs</hi> Cook / M<hi rend="sup">rs</hi> Chocke /
+                                [line] / M<hi rend="sup">rs</hi> Wall / [line] ]</xref> Hand II. A
+                            call fo Adriana (Mrs. Coish), Luciana (Mrs. Cook), Courtezan (Mrs.
+                            Chocke) at 32, and the Abbess (Mrs. Wall) at 37; <xref doc="ce5115by"
+                                >points of entry marked with crossed diagonal lines</xref>. Note
+                            that the separate entries are here marked by a line between 'M<hi
+                                rend="sup">rs</hi> Chocke' and 'M<hi rend="sup">rs</hi> Wall'.</p>
+
+                        <p><xref doc="ce5118">18-21 Beside the . . . day:]</xref> Crossed
+                            through.</p>
+
+                        <p><xref doc="ce5123">23]</xref> Hand I prefixes F speech-head
+                            '<hi>Ant</hi>.' with 'S:'; also at lines 25, 29.</p>
+
+                        <p>
+                            <figure entity="ce-p97">
+                                <figDesc>Image of prompt-book page 97</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce5149">49-90 <hi>Ab</hi>. Hath . . . reproofe,]</xref>Circled
+                            (speech-headingo not included). Smock Alley PB seems to suggest cutting
+                            49-91; Hull cuts 83-84; Gentleman (Bell, p. 125) says that "The
+                                <hi>Abbess</hi>'s mode of bringing Adriana to confess her spirit of
+                            jealousy is well devised, and her corrective sentiments show great
+                            sensibility, and liberality of heart."</p>
+
+                        <p><xref doc="ce5199x">99-101 [line] / W<hi rend="sup">m</hi> Wall / [line]
+                                / M<hi rend="sup">r</hi> James]</xref> Hand II. A call for the Duke
+                            of Ephesus (William Wall) and Aegeon (Mr. James) at `29; <xref
+                                doc="ce5199y">point of entry marked with crossed diagonal
+                                line</xref>. The 'r' in M<hi rend="sup">r</hi>' is unusually formed
+                            and there is some temptation to read 'M<hi rend="sup">rs</hi>' I am
+                            nearly certain, however, that 'M<hi rend="sup">r</hi>' is the correct
+                            reading. See the Introduction, p. 2 n., for further discussion.</p>
+
+                        <p><xref doc="ce51127">127 Song]</xref> Hand ?II. Another call, 'A Song:',
+                            in the same hand, was first placed below 129 and then deleted. This does
+                            not seem a very happy place at which to introduce a song; even the 1819
+                            Covent Garden version which was produced with 'Songs, Duets, Glees, and
+                            Chorusses', does not attempt to insert a song here.</p>
+
+                        <!-- </page> -->
+                        <!-- <page n=22> -->
+
+                        <p><xref doc="ce51128">128 <hi>Gold</hi>. See . . . death]</xref> Crossed
+                            through.</p>
+
+                        <p><xref doc="ce51137">137-138 Who I . . . day,]</xref> Circled. So Smock
+                            Alley PB, though it substitutes 'who&lt;m&gt;'; see next reading.</p>
+
+                        <p><xref doc="ce51142">142-154 Doing displeasure . . . fled]</xref> Circled.
+                            Smock Alley PB cuts 138 ('took . . . ') -154, substituting 'hash taken
+                            &lt;this&gt; / ill day / is fled'; Hull reduces 150-151 to one line.</p>
+
+                        <p><xref doc="ce51155">155 whether]</xref> Crossed through.</p>
+
+                        <p>
+                            <figure entity="ce-p98">
+                                <figDesc>Image of prompt-book page 98</figDesc>
+                            </figure>
+                        </p>
+
+                        <p><xref doc="ce51161">161-164 Long since . . . could.]</xref> Circled. So
+                            Smock Alley PB.</p>
+
+                        <p><xref doc="ce51166">166-167 Biggs, Coysh / [line] ]</xref> Hand II. A
+                            call for Antipholus of Ephesus (Biggs) and Dromio of Ephesus (Coysh) at
+                            189.</p>
+
+                        <p><xref doc="ce51168">168 Angelo:]</xref> Hand I prefixes 'Angelo:' as a
+                            speech-head to this line; in F the speech belongs to the
+                                '<hi>Messenger</hi>' who enters at this point, although no
+                            speech-head appears in F. There are difficulties in PB's arrangement:
+                            (1) the speech does not seem at all suitable to Angelo; (2) Angelo
+                            (Wingfield) has been on stage since the beginning of the scene and
+                            speaks at 123; (3) there is no call for Angelo's re-entry at 167. It is
+                            possible, however, that the deletion of Angelo's speech at 128, in which
+                            he says 'we will behold his death', may mean that he was supposed to
+                            exit at this point and return at 167 in place of F's
+                            '<hi>Messenger</hi>'; if this is so, the lack of a re-entry call is
+                            unusual. Note that the Messenger's second speech is cut (180-184) .
+                            Smock Alley PB and Hull preserve the 'Messenger'; Gentleman uses a
+                                '<hi>Servant</hi>' (following Capell); Inchbald uses 'Bridget'.</p>
+
+                        <p><xref doc="ce51180">180-184 <hi>Mess</hi>. Mistris . . . gone.]</xref>
+                            Circled. Hull cuts 182-183.</p>
+
+                        <p><xref doc="ce51185">185 there]</xref> Hand I substitutes 'there' for F
+                            'with Halberds' (deleted), thus removing the Elizabethan note. Hull
+                            substitutes 'I'll protect you.' for 'guard with Halberds.'</p>
+
+                        <p><xref doc="ce51191">191-194 Euen for . . . justice.]</xref> Circled. So
+                            Smock Alley PB.</p>
+
+                        <p><xref doc="ce51198">198-200 She whom . . . iniurie:]</xref> Circled.
+                            Smock Alley PB cuts 8.</p>
+
+                        <p><xref doc="ce51208">208-209 and this is false he charges me
+                                withal!.]</xref> Hand I deletes F 'so befall my soule,' (208),
+                            places 'and' in margin opposite deleted F 'As', and interlines 'charges'
+                            above deleted F 'burthens'.</p>
+
+                        <p><xref doc="ce51210">210 Nere may . . . night,]</xref> Crossed
+                            through.</p>
+
+                        <p><xref doc="ce51211">211 she tels your Highnesse truth.]</xref> Hand I
+                            deletes F 'But', 'to', and 'simple'. Hull reads the beginning of the
+                            line as 'But she cloth tell . . .' .</p>
+
+                        <p><xref doc="ce51215">215-216 Neither disturbed . . . ire,]</xref> Circled.
+                            Smock Alley PB cuts 215-217; Hull, 214-253</p>
+
+                        <p><xref doc="ce51229">229 Which God . . . not.]</xref> Crossed through.
+                            the] Crossed through. Gentleman suggests cutting 224-253, observing
+                            (Bell, p. 129): "All that follows in this speech being but a tedious
+                            recapitulation of what has been transacted before the audience, deserves
+                            omission, in that respect; <!-- </page> --><!-- <page n=23> --> though
+                            it is natural in <hi>Antipholis</hi>, to be very explicit to the Duke,
+                            and a wronged person, in the warmth of complaint, is apt to dwell on
+                            every minute particular of his injuries."</p>
+
+                        <p><xref doc="ce51237">237-238 <hi>Pinch</hi>, a . . . Mountebanke,]</xref>
+                            Crossed through. Smock Alley PB cuts 231-253; see 215-216 and 229 for
+                            Hull and Gentleman.</p>
+
+                        <p><xref doc="ce51239">239 A thred-bare . . . Fortune-teller,]</xref>
+                            Originally crossed through as part of the above and following cuts, but
+                            restored, by Hand I, with 'stet' at end of line.</p>
+
+                        <p><xref doc="ce51240">240-241 A needy . . . man.]</xref> Crossed
+                            through.</p>
+
+                        <p><xref doc="ce51242">242 Forsooth]</xref> Crossed through.</p>
+
+                        <p><xref doc="ce51244">244 And with . . . me,]</xref> Crossed through.</p>
+
+                        <p><xref doc="ce51247">247 and dankish]</xref> Crossed through.</p>
+
+                        <p><xref doc="ce51259">259-262 <hi>Mar</hi>. Besides . . . you:]</xref>
+                            Circled and cries-crossed. Hull cuts 256-267.</p>
+
+                        <p><xref doc="ce51263">263 he]</xref> Hand I interlines 'he' above F 'you'
+                            (undeleted) . This and the following change were necessary because these
+                            lines fell to Angelo after the deletion of 259-262.</p>
+
+                        <p><xref doc="ce51264">264 he's]</xref> Hand I interlines 'he's' above F
+                            'you are' (deleted).</p>
+
+                        <p><xref doc="ce51270">270 I thinke . . . cup:]</xref> Crossed through.</p>
+
+                        <p><xref doc="ce51281">281 I thinke . . . mad.]</xref> Crossed through.</p>
+
+                        <p>[The last leaf of the PB (sig. I2; pp. 99-100) has been lost at some
+                            stage in its career and replaced with a leaf from another copy of the
+                            First Folio.]</p>
+
+                        <!-- </page> -->
+                    </div2>
+                </div1>
+            </div0>
+        </body>
+    </text>
+</TEI.2>  
+  
+ 

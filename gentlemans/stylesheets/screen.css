@@ -1,0 +1,73 @@
+/* -------------------------------------------------------------------------*/
+/* Layout */
+/* line 12, ../sass/screen.scss */
+#container {
+  *zoom: 1;
+  max-width: 59em;
+  _width: 59em;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+  -webkit-background-origin: content;
+  -moz-background-origin: content;
+  -ms-background-origin: content-box;
+  -o-background-origin: content-box;
+  background-origin: content-box;
+  -webkit-background-clip: content-box;
+  -moz-background-clip: content-box;
+  background-clip: content-box;
+}
+/* line 38, /Users/wsg4w/.rvm/gems/ruby-1.9.3-p194@gm2/gems/compass-0.13.alpha.0/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+#container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* line 16, ../sass/screen.scss */
+#container .p li {
+  list-style: none;
+}
+/* line 20, ../sass/screen.scss */
+#container .center {
+  text-align: center;
+}
+/* line 24, ../sass/screen.scss */
+#container img.center {
+  display: block;
+  margin: 0 auto;
+}
+/* line 30, ../sass/screen.scss */
+#container header img {
+  float: left;
+}
+/* line 34, ../sass/screen.scss */
+#container header nav {
+  margin-left: 185px;
+  border-top: 1px solid #990000;
+  border-bottom: 1px solid #990000;
+}
+/* line 39, ../sass/screen.scss */
+#container header nav li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
+}
+/* line 44, ../sass/screen.scss */
+#container header nav li a {
+  font-weight: bold;
+  color: #000099;
+  text-decoration: none;
+}
+/* line 49, ../sass/screen.scss */
+#container header nav li a:visited {
+  color: #990000;
+}
+/* line 52, ../sass/screen.scss */
+#container header nav li a:hover {
+  color: #999900;
+}
+/* line 55, ../sass/screen.scss */
+#container header nav li a:active {
+  color: #000099;
+}

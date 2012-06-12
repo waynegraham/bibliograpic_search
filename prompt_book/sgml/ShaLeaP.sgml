@@ -1,0 +1,1220 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[  
+ 
+<!NOTATION jpg SYSTEM "JPEG">  
+  
+<!ENTITY lea-p768 SYSTEM "lea-p768.jpg" NDATA jpg>  
+<!ENTITY lea-p769 SYSTEM "lea-p769.jpg" NDATA jpg>  
+<!ENTITY leaspin SYSTEM "leaspin.jpg" NDATA jpg>  
+<!ENTITY leacov SYSTEM "leacov.jpg" NDATA jpg> 
+<!ENTITY leati SYSTEM "leati.jpg" NDATA jpg> 
+<!ENTITY lea14370 SYSTEM "lea14370.jpg" NDATA jpg>  
+<!ENTITY lea15 SYSTEM "lea15.jpg" NDATA jpg> 
+<!ENTITY lea21109 SYSTEM "lea21109.jpg" NDATA jpg> 
+<!ENTITY lea21118 SYSTEM "lea21118.jpg" NDATA jpg> 
+<!ENTITY lea21119 SYSTEM "lea21119.jpg" NDATA jpg> 
+<!ENTITY lea21122 SYSTEM "lea21122.jpg" NDATA jpg> 
+<!ENTITY lea21125 SYSTEM "lea21125.jpg" NDATA jpg> 
+<!ENTITY lea2114 SYSTEM "lea2114.jpg" NDATA jpg> 
+<!ENTITY lea2116 SYSTEM "lea2116.jpg" NDATA jpg> 
+<!ENTITY lea2154 SYSTEM "lea2154.jpg" NDATA jpg> 
+<!ENTITY lea2157 SYSTEM "lea2157.jpg" NDATA jpg> 
+<!ENTITY lea2161 SYSTEM "lea2161.jpg" NDATA jpg> 
+<!ENTITY lea2168 SYSTEM "lea2168.jpg" NDATA jpg> 
+<!ENTITY lea2170 SYSTEM "lea2170.jpg" NDATA jpg> 
+<!ENTITY lea2179 SYSTEM "lea2179.jpg" NDATA jpg> 
+<!ENTITY lea2180 SYSTEM "lea2180.jpg" NDATA jpg> 
+<!ENTITY lea2196 SYSTEM "lea2196.jpg" NDATA jpg> 
+<!ENTITY lea2199 SYSTEM "lea2199.jpg" NDATA jpg> 
+<!ENTITY lea21open SYSTEM "lea21open.jpg" NDATA jpg> 
+<!ENTITY lea221 SYSTEM "lea221.jpg" NDATA jpg> 
+<!ENTITY lea2218 SYSTEM "lea2218.jpg" NDATA jpg> 
+<!ENTITY lea2223 SYSTEM "lea2223.jpg" NDATA jpg> 
+<!ENTITY lea22open SYSTEM "lea22open.jpg" NDATA jpg> 
+ 
+ 
+ 
+ 
+ 
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;  
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;  
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;  
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;  
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;  
+]>  
+<TEI.2>  
+<teiHeader>  
+<fileDesc>  
+<titleStmt>  
+<title>Shakespearean prompt-books of the seventeenth century, vol. 8   
+(King Lear) [a machine-readable transcription]  
+</title>   
+<author>Shakespeare, William  
+</author>   
+<respStmt>  
+<resp>Creation of machine-readable version:   
+</resp>   
+<name>Electronic Text Center, University of Virginia  
+</name>   
+<resp>Creation of digital images:   
+</resp>   
+<name>Electronic Text Center, University of Virginia  
+</name>   
+<resp>Conversion to TEI.2-conformant markup:   
+</resp>   
+<name>University of Virginia Library Electronic Text Center.  
+</name>   
+</respStmt>   
+</titleStmt>   
+<extent>55 kilobytes   
+</extent>   
+<publicationStmt>  
+<publisher>University of Virginia Library.  
+</publisher>   
+<pubPlace>Charlottesville, Va.  
+</pubPlace>   
+<idno>Bibliographic Society, ShaLeaP  
+</idno>   
+<availability>  
+<p>Publicly-accessible  
+</p>   
+<p n=public>URL: http://etext.lib.virginia.edu/bsuva/promptbook/   
+</p>   
+</availability>   
+<date>1997  
+</date>   
+</publicationStmt>   
+<seriesStmt>  
+<p>Shakespearean prompt-books of the seventeenth century  
+</p>   
+</seriesStmt>   
+<notesStmt>  
+<note>The electronic text contains the Introduction and the  
+Collations. The selected pages of the Prompt-Book included in this Volume  
+have been rendered as images. 
+</note>   
+<note>  
+</note>   
+</notesStmt>   
+<sourceDesc>  
+<biblFull>  
+<titleStmt>  
+<title>Shakespearean prompt-books of the seventeenth century, vol. 8  
+</title>   
+<title>  
+</title>   
+<author>William Shakespeare  
+</author>   
+<respStmt>  
+<resp>Editor  
+</resp>   
+<name>G. Blakemore Evans  
+</name>   
+</respStmt>   
+</titleStmt>   
+<editionStmt>  
+<p>Issued in portfolios. The prompt-books are reproduced in collotype facsimile.  
+</p>   
+</editionStmt>   
+<extent>  
+</extent>   
+<publicationStmt>  
+<publisher>Bibliographical Society of the University of Virginia  
+</publisher>   
+<pubPlace>Charlottesville, VA  
+</pubPlace>   
+<date>1996  
+</date>   
+<idno>Print copy consulted: First Edition provided by the BSUVA 
+</idno>   
+</publicationStmt>   
+<seriesStmt>  
+<p>Shakespearean prompt-books of the seventeenth century  
+</p>   
+</seriesStmt>   
+<notesStmt>  
+<note>In Memoriam Fredson T. Bowers  
+</note>   
+  
+<note></note>  
+  
+</notesStmt>   
+</biblFull>   
+</sourceDesc>   
+</fileDesc>   
+<encodingDesc>  
+<projectDesc>  
+<p>Prepared for the University of Virginia Library Electronic Text Center.  
+</p>   
+</projectDesc>   
+<editorialDecl>  
+<p>All quotation marks retained as data.  
+</p>   
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.  
+</p>   
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.  
+</p>   
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.  
+</p>   
+</editorialDecl>   
+<refsDecl>  
+<p>  
+</p>   
+</refsDecl>   
+<classDecl>  
+<taxonomy>  
+<bibl>  
+<title>Library of Congress Subject Headings  
+</title>   
+</bibl>   
+</taxonomy>   
+</classDecl>   
+</encodingDesc>   
+<profileDesc>  
+<creation>  
+<date>1960-1996  
+</date>   
+</creation>   
+<langUsage>  
+<language>English  
+</language>   
+</langUsage>   
+<textClass>  
+<keywords>  
+<term>drama; prose  
+</term>   
+</keywords>   
+<keywords>  
+<term>LCSH  
+</term>   
+</keywords>   
+<keywords>  
+<term>  
+</term>   
+<term>  
+</term>   
+<term type="format">24-bit color; 400 dpi  
+</term>   
+</keywords>   
+</textClass>   
+</profileDesc>   
+<revisionDesc>  
+<change>  
+<date>July 1997  
+</date>   
+<respStmt>  
+<resp>corrector  
+</resp>   
+<name>Catherine Tousignant, Electronic Text Center  
+</name>   
+</respStmt>   
+<item>Corrected various transcription errors 
+</item>   
+</change>   
+<change>  
+<date>May 1997  
+</date>   
+<respStmt>  
+<resp>corrector  
+</resp>   
+<name>Michele Ierardi, Electronic Text Center  
+</name>   
+</respStmt>   
+<item>Added TEI header  
+</item>   
+</change>   
+</revisionDesc>   
+</teiHeader>   
+  
+<text id=ShaLeaP> 
+<front> 
+<div type="cover"> 
+<p><figure entity="leaspin"> 
+<figDesc>Image of the spine: Shakespearean Prompt-Books, Vol. VIII</figDesc> 
+</figure></p> 
+<p><figure entity="leacov"> 
+<figDesc>Image of the cover, part 1: Shakespearean Prompt-Books, Vol. VIII: King Lear,  
+Henry VIII, The Merry Wives of Windsor, Twelth Night, The Comedy of 
+Errors, The Winter's Tale</figDesc> 
+</figure></p> 
+<p><figure entity="leati"> 
+<figDesc>Image of the titlepage, part 1: Shakespearean Prompt-Books,  
+Vol. VIII: King Lear,                    
+Henry VIII, The Merry Wives of Windsor, Twelth Night, The Comedy of 
+Errors, The Winter's Tale 
+</figDesc> 
+</figure></p> 
+</div> 
+<titlePage>  
+<docTitle> 
+<titlePart type="main"> 
+ SHAKESPEAREAN 
+<lb>PROMPT-BOOKS 
+<lb>of the 
+<lb>SEVENTEENTH CENTURY 
+</titlePart> 
+<titlePart type="sub"> 
+ Vol. VIII 
+<lb><hi>King Lear, Henry VIII,</hi>  
+<lb><hi>The Merry Wives of Windsor</hi>  
+<lb><hi>Twelfth Night, The Comedy of Errors</hi>  
+<lb><hi>The Winter's Tale</hi>  
+</titlePart> 
+</docTitle> 
+<docAuthor> 
+<hi>Edited by</hi>  
+<lb>G. Blakemore Evans 
+<docImprint> 
+<hi>A Publication of</hi>  
+<lb>The Bibliographical Society of the University of Virginia 
+<pubPlace>Charlottesville</pubPlace> 
+<date>1996 
+</date>  
+</docImprint>   
+</titlePage>   
+ <!-- <page n=ii><ID>ShaLeaPii</ID> -->                                 
+<div type="dedicat"> 
+<p>In memoriam 
+<lb>Fredson T. Bowers 
+</p> 
+</div> 
+ <!-- </page> -->  <!-- <page n=iii><ID>ShaLeaPiii</ID> -->  
+<div type="contents"> 
+<head> 
+Contents 
+</head> 
+<list> 
+<item>Prefatory Note.............................v 
+</item><item> 
+The Smock Alley <hi>King Lear</hi>   
+</item><item>     Introduction ............................ 1 
+</item><item>     Collations .................................5 
+</item><item>     Partial Text ............................15 
+</item><item> 
+The Smock Alley <hi>Henry VIII</hi>  
+</item><item>Introduction ...........................17 
+</item><item>Collations............................... 21 
+</item><item>Partial Text.............................36 
+</item><item> 
+The Smock Alley <hi>Merry Wives of Windsor</hi>   
+</item><item>                 Introduction ...........................41 
+</item><item>                 Collations .............................. 45 
+</item><item>                 Partial Text ............................57 
+</item> 
+ <!-- </page> -->  <!-- <page n=iv><ID>ShaLeaPiv</ID> -->  
+<item> 
+The Smock Alley <hi>Twelfth Night</hi>  and the Folger Second Folio  
+<hi>Twelfth Night</hi>  
+</item><item>Introduction ........................59 
+</item><item>Collations ............................64 
+</item><item>Partial Text ..........................70 
+</item><item> 
+The Smock Alley <hi>Comedy of Errors</hi>  
+</item><item>Introduction ..........................73 
+</item><item>Collations ..............................77 
+</item><item>Partial Text ............................87 
+</item><item> 
+The Smock Alley <hi>The Winter's Tale</hi>  
+</item><item>Introduction ...........................89 
+</item><item>Collations................................91 
+</item><item>Partial Text..............................95 
+</item> 
+</list> 
+</div> 
+ <!-- </page> -->  <!-- <page n=v><ID>ShaLeaPv</ID> -->  
+<div type="preface"> 
+<head> 
+Prefatory Note 
+</head> 
+<p>THE present volume, the eighth and last, essentially completes the series I began in 1960, 
+<hi>Shakespearean Prompt-Books of the Seventeenth Century</hi> . 
+<note target="n1a"> [1]</note>  
+ The format of this volume, 
+however, differs substantially from that of the earlier volumes, a format designed to make it possible 
+to include in a single volume the remaining six, hitherto unedited, Smock Alley prompt-books 
+<hi>(King Lear, Henry VIII, The Merry Wives of Windsor, Twelfth Night, The Comedy of 
+Errors,</hi>  and <hi>The Winter's Tale)</hi>  and a second prompt-book (Folger Second Folio) of 
+<hi>Twelfth Night</hi>  of unknown provenience. The reason for this change of format is simple 
+enough: none of these seven prompt-books (with the exception of <hi>Henry VIII</hi> , in which the 
+great majority of the prompt notations, however interesting, would be illegible if completely 
+reproduced in facsimile) sheds sufficient new light on the special characteristics of Restoration 
+prompt-books to warrant separate treatment of the kind accorded the Smock Alley <hi>Hamlet</hi>  
+(Vol. IV), <hi>Macbeth</hi>  (Vol. V), <hi>Othello</hi>  (Vol. VI), and <hi>A Midsummer Night's 
+Dream</hi>  (Vol. VII), in which, in addition to a facsimile of the whole prompt-book (Part ii), a 
+transcription of all prompt notations was included (Part i). Moreover, three of these prompt-books 
+(<hi>The Comedy of Errors</hi> , although considerably adapted for substantial shortening, <hi>The 
+Winter's Tale</hi> , and the Folger Second Folio <hi>Twelfth Night</hi> ) are only cuttings of the 
+plays preliminary to the preparation of a functional prompt-book, a category into which the Smock 
+Alley <hi>King Lear</hi>  may also possibly fall. 
+</p><p> 
+The format here adopted for each play arranges, where applicable, the prompt notations, not in 
+<hi>seriatim</hi>  order as in earlier volumes, but in nine categories: (1)<hi> Scene settings</hi> ; (2) 
+<hi>Act notations</hi> ; (3) <hi>Actors named for  
+ <!-- </page> -->  <!-- <page n=vi><ID>ShaLeaPvi</ID> -->  
+comparatively minor roles </hi> (<hi>Henry 
+VIII</hi>  only); (4) <hi>Stage properties</hi> ; (5) <hi>Sound effects</hi> ; (6) <hi>Advance 
+character calls</hi>  (see below); (7) F (= Third Folio) <hi>stage directions altered; new stage 
+directions added;</hi>  (8) <hi>Textual cuts;</hi>  (9) <hi>Textual changes</hi> . In only three 
+respects, none of them except the third of significance, is the new format less complete than that followed 
+in the earlier volumes: (1) advance character calls are generally not included in the collations, 
+although any anomalies in such calls are noted and discussed under that heading; (2) the record of 
+the "corrections" inserted in several of the Smock Alley prompt-books (here, <hi>Lear, Merry 
+Wives, Twelfth Night</hi> ) by a late eighteenth-century hand, and derived for the most part from 
+editions of Shakespeare's works (from Rowe [1709] through Jennens [1770]), is selective, since 
+there is no evidence that associates this meddling hand with either Smock Alley or the theatre; (3) 
+only one to three pages of each prompt-book are reproduced in facsimile, pages chosen to illustrate 
+the one or more prompt-hands that worked on the various stages through which a prompt-book 
+might pass. 
+</p><p> 
+The seven prompt-books referred to above are now in the Folger Shakespeare Library, 
+Washington D.C., and are here discussed, analyzed, and partially reproduced by the kind permission 
+of the Trustees. 
+</p><p> 
+My special thanks are more than due to Ruthe Battestin and Penelope F. Weiss of the 
+Bibliographical Society of the University of Virginia and to Gerald Trett, my press editor, who, 
+uncomplainingly and charitably, turned an untidy and too often inconsistent manuscript into 
+publishable form. 
+</p><p> 
+Finally, I must thank my wife for her support and kind forbearance over this long eight-volume 
+haul (1960-1996). G. B. E. 
+</p> 
+ 
+<note> 
+The facsimile pages are reproduced by permission of the Folger Shakespeare Library. 
+</note>  
+<note id="n1a"> 
+1. The Smock Alley prompt-books of <hi>I</hi>  and <hi>2 Henry I V</hi>  are not included in the series. Until 
+comparatively recently they were known only through a fragment of <hi>I Henry IV</hi>  in the Folger 
+Shakespeare Library (see <hi>Shakespearean PromptBooks of the Seventeenth Century</hi> , Vol. I: Part i 
+(1960), p. 20), but about 1969 a considerable number of similar fragments of both plays (the butchery being the 
+unholy work of Halliwell-Phillipps to whom these prompt-books at one time belonged) were discovered by 
+Gunnar Sorelius in the Shakespeare Memorial Library in Stratford-upon-Avon; see his article "The Smock 
+Alley Prompt-Books of <hi>I</hi>  and <hi>II  Henry IV</hi> ," <hi>Shakespeare Quarterly</hi> , 22 (1971), 111- 
+128, in which these prompt-books are discussed in considerable detail. 
+</note>  
+</div> 
+</front> 
+ <!-- </page> -->  <!-- <page n=1><ID>ShaLeaP1</ID> -->  
+<body> 
+<div0 type="introduction"> 
+<head> 
+Smock Alley 
+<lb>King Lear 
+<lb>Third Folio 
+<lb>Introduction 
+</head> 
+<p>ALTHOUGH the Smock Alley provenience of this <hi>King 
+Lear</hi>  prompt-book (PB), based on a copy of the Third 
+Folio (F) text, is proved by the appearance in it of two 
+prompt-hands common to some other seventeenth-century 
+Smock Alley prompt-books (see below), no exact dating 
+limits, in the absence of any actors names among the prompt 
+notations, can be suggested. There is, however, one peculiar 
+feature of the <hi>Lear</hi>  PB that makes it probable that the 
+production for which it was prepared, though almost certainly 
+before 1700, was after 1681, the year in which Nahum Tate's 
+notorious but long-lived adaptation of Shakespeare's play was 
+first acted and published.<note target="n1"> [1]</note>  
+ Tate, among other less 
+radical "improvements," invented a love affair between 
+Cordelia and Edgar (thus eliminating Cordelia's marriage to 
+the French king), cut out the role of the Fool (not restored 
+until 1838), and, in a "happy" denouement, turned the play 
+from a tragedy into a kind of tragicomedy by allowing Lear, 
+Cordelia, and Gloucester to remain alive: Lear and 
+Gloucester,  
+ <!-- </page> -->  <!-- <page n=2><ID>ShaLeaP2</ID> -->  
+along with Kent, totter off to 'some cool Cell' to 
+reflect on 'our Fortunes past, / Cheer'd with relation of the 
+prosperous Reign / Of this celestial Pair [Cordelia and 
+Edgar]'. The Smock Alley prompt-book shows no evidence, 
+structural or verbal, of influence from Tate's version until the 
+final scene (V.iii). At this point all advance character calls 
+suddenly cease, the last such call being for Edgar and 
+Gloucester (at V.i.54) in preparation for their entry at the 
+beginning of V.ii. The cessation of advance calls at this 
+particular point suggests, strongly, I think, despite a few cuts 
+by Hand II in V.iii, that Hand I (see below) intended to 
+conclude the play with a somewhat adapted version of Tate's 
+"happy ending." Bizarre, even unlikely, as this may sound, it 
+is, in fact, exactly what George Colman concocted (except for 
+much heavier cutting, some occasional Tateification, and the 
+omission of the Fool) in his alteration of <hi>Lear</hi>  first 
+performed in 1768, restoring Cordelia's marriage to the 
+French king and omitting Tate's sentimental love business 
+between Cordelia and Edgar.<note target="n2"> [2]</note>  
+ 
+</p><p> 
+Three hands can clearly be distinguished in the Lear PB, 
+two prompt-hands and a third intrusive late 
+eighteenth-century hand. Hand I, which appears also in the 
+Smock Alley <hi>Hamlet</hi>  (Hands I and II)<note target="n3"> [3]</note>  
+<hi>Macbeth</hi>  (Hands I and II), <hi>Twelfth Night</hi>  
+(Hand I), <hi>Henry VIII</hi>  (Hand I), <hi>Othello</hi>  
+(Hand II), and <hi>I Henry IV</hi>  (Hand II), is responsible for 
+the scene notations, the advance character calls and sound 
+effects, and for the restoration of two cuts made by Hand II. 
+Hand II, which appears also in the Smock Alley <hi>Henry 
+VIII</hi>  (Hand II) and perhaps in <hi>Hamlet</hi>  (Hand V) 
+initially (i.e., before Hand I's work) went through the play  
+circling lines, phrases, and single words for cutting, occasionally 
+substituting new readings for words that struck him as archaic 
+or "hard." Hand III, which also meddled in the Smock Alley 
+<hi>Hamlet</hi>  (Hand IV), <hi>Midsummer Night's 
+Dream</hi>   (Hand II), <hi>Twelfth Night</hi>  (Hand II), 
+and<hi> Merry Wives of Windsor</hi>  (Hand II), inserts 
+emended readings drawn from eighteenth-century editors from 
+Rowe (1709) through Jennens (1770),<note target="n4"> [4]</note>  
+ as well as a 
+number  
+ <!-- </page> -->  <!-- <page n=3><ID>ShaLeaP3</ID> -->  
+of apparently original readings.<note target="n5"> [5]</note>  
+ There is no 
+reason to think that Hand III has any connection with the 
+prompt-book's earlier Smock Alley provenience. Hand III's 
+work disappears after II.iv. What may be a fourth hand 
+(though possibly Hand I) may be responsible for the emended 
+reading at III.i.22-25. 
+</p><p> 
+The <hi>Lear</hi>  PB is very lightly cut. Of the roughly 
+2,920 lines in the Folio text, Hand II marks for deletion only 
+123 lines and 40 half-lines (plus a few phrases and single 
+words), and Hand I restores 11 of those lines, leaving a play 
+(taking the 40 half-lines as equivalent to 20 lines) of roughly 
+2,777 lines,<note target="n6"> [6]</note>  
+ comparable in length to the Smock Alley 
+<hi>Hamlet</hi>  (2,806) and <hi>Othello</hi>  (2,808), the later 
+theatre texts of David Garrick (2,318; first acted 1756; first 
+printed in John Bell's <hi>Shakespeare's Plays, As they are now 
+performed at the Theatres Royal in London</hi> , Vol. II, 
+1773), George Colman (2,171; first acted and printed 1768), 
+and John Philip Kemble (2,009; first acted and printed 1795, 
+here consulted in Mrs. Inchbald's <hi>British Theatre</hi> , 
+Vol. IV, 1808).<note target="n7"> [7]</note>  
+</p><p> 
+Except for the postulated substitution of some form of Tate's 
+"happy ending," discussed above, the Smock Alley 
+<hi>Lear</hi>  (discounting Hand III's much later meddling) 
+shows no significant points of contact, verbally or in cutting, 
+with either Tate's adaptation  
+ <!-- </page> -->  <!-- <page n=4><ID>ShaLeaP4</ID> -->  
+or the three acting texts referred 
+to above, and they share with the prompt-book only a single 
+scene setting (at IV.vii). All settings are stock and appear in 
+other Smock Alley promptbooks.<note target="n8"> [8]</note>  
+</p><p> 
+Certain characteristics of the <hi>Lear</hi>  PB may perhaps 
+suggest that, like the Smock Alley <hi>Midsummer Night's 
+Dream, Comedy of Errors</hi> , and <hi>Winter's Tale</hi> , 
+it was laid aside and never reached actual production: (1) the 
+absence of actors' names among the prompt notes (contrast 
+the Smock Alley <hi>Macbeth, Hamlet, Othello, Henry 
+VIII,</hi>  and <hi>I</hi>  and <hi>2 Henry I V</hi> );  
+<note target="n9"> [9]</note>  (2) 
+the failure of Hand I (or some other hand) to insert advance 
+warnings for a number of sound effects called for by the Folio 
+stage directions (see <hi>Sound effects</hi> ); and (3) the 
+absence of secondary cutting (contrast Smock Alley 
+<hi>Macbeth, Hamlet,</hi>  and <hi>Othello</hi> ).<note target="n10"> 
+[10]</note>  
+Although none of these points is necessarily conclusive 
+against stage production, the second being the strongest, 
+taken together they leave the final status of the <hi>Lear</hi>  
+PB to some degree at least questionable. 
+</p> 
+<note id="n1"> 
+1. In any event, since only two London performances of Shakespeare's 
+<hi>Lear</hi> , which was assigned to the Duke's Company in 1660, are recorded 
+(1664/65 and 1675) before Tate's 1681 adaptation and since Smock Alley tended 
+to take its cue from London successes, it is probably unlikely that <hi>Lear</hi>  
+would have been seriously considered for production before 1681. 
+</note>  
+<note id="n2"> 
+2. In 1823 Edmund Kean reversed Colman's arrangement and tacked  
+Shakespeare's tragic denouement (V.iii) onto a text that was basically pure Tate,  
+including the Cordelia-Edgar love affair. For Kean's acting text, see Cumberland's 
+<hi>British Theatre</hi> , Vol. VI (1826). 
+</note>  
+<note id="n3"> 
+3. In Vol. VI: Part i, of this series, p. 4, note 19, I declared that the hands 
+described as A and C (see the General Introduction, Vol. I: Part i, of this series, 
+p. 17) were in fact a single hand. I have allowed this decision to stand, but I should 
+warn the reader that I am no longer entirely convinced that Hands A and C should 
+be treated as one. 
+</note>  
+<note id="n4"> 
+4. See Vol. I: Part i, of this series, pp. 15-16. I there described Hand III as 
+mid-eighteenth century, but the <hi>Lear</hi>  PB shows that Hand III worked on the 
+Smock Alley prompt-books, or at least on this prompt-book, sometime after 1770, 
+since he appears to make use of Charles Jennens' edition of <hi>Lear</hi>  published 
+in that year. Jennens was the first editor to publish a record of most of the Qq 
+variants and the emendations of editors from Rowe through Johnson (Capell's 
+similar record, though compiled earlier than Jennens', was not published until 
+1779). Five of Hand III's readings are peculiar to Hanmer's text, which was first 
+published in 1743 (I.i.15, II.i. 94, 97, 111 [not included in the collations], and 
+II.i.70-74 [see <hi>Textual cuts</hi> ]), but Hand III may have picked them up from 
+Jennens' textual notes. 
+</note>  
+<note id="n5"> 
+5. Three of Hand III's readings (II.i.96 [see <hi>Textual cuts</hi> ], 99 [see 
+<hi>Textual changes</hi> ], 125 [see <hi>Textual cuts</hi> ]) appear elsewhere only 
+in the so-called Collier MS (see J. P. Collier's <hi>Notes and Emendations</hi> , 
+1852) and in Collier's 1853 edition (the third reading was later adopted by 
+Alexander Schmidt, 1879). Since the Collier MS (i.e., manuscript readings, 
+supposedly contemporary, inserted in what is known as the Perkins Second Folio 
+[1632] by Collier himself) is a mid-nineteenth-century forgery, it is tempting, 
+though coincidence is barely possible, to suppose that Collier had had access to the 
+Smock Alley Third Folio (1663/64) and purloined these three readings from the 
+<hi>Lear</hi>  PB. Collier may also have taken a hint from Hand III's reading at 
+I.i.230 (see <hi>Textual changes</hi> ).  
+</note>  
+<note id="n6"> 
+6. My line-count is based on Alfred Hart's total (with allowance made for the Folio 
+text) of 3,205 lines for Lear (see <hi>Review of English Studies</hi> , 8 [1932], 21) 
+The total of 2,777 for the Lear PB like the following totals for <hi>Hamlet, 
+Othello</hi> , Tate's adaptation, and the three theatre versions, is, given the  
+considerable amount of prose in these texts, necessarily somewhat of a rough estimate. 
+</note>  
+<note id="n7"> 
+7. See C. B. Hogan, <hi>Shakespeare in the Theatre 1701-1800</hi> , I (1952), 44; II 
+(1957), 333-335. 
+</note>  
+<note id="n8"> 
+8. See Vol. I: Part i, of this series, pp. 23-24. 
+</note>  
+<note id="n9"> 
+9. For a full account of the Smock Alley <hi>I</hi>  and <hi>II Henry IV</hi> , see 
+Gunnar Sorelius, "The Smock Alley Prompt-Books of <hi>I</hi>  and <hi>2 Henry I 
+V</hi> ," <hi>Shakespeare Quarterly</hi>, 22 (1971), 111-128. When I wrote (1960) 
+my General Introduction to this series (Vol. I: Part i, p. 20), I knew only of  a 
+single fragment of <hi>I Henry IV</hi>  preserved in the Folger Shakespeare  
+Library. For further comment on Sorelius' important discovery, see Vol. VI: Part i, 
+of this series, p.2, note 4. 
+</note>  
+<note id="n10"> 
+10. In this connection, it should be noted that the Smock Alley <hi>Henry 
+VIII</hi>  PB, although it contains at least four actors' names and seems to show 
+other evidence of actual stage presentation, is without scene notations and omits 
+some of the sound effects. 
+</note>  
+ <!-- </page> -->  <!-- <page n=5><ID>ShaLeaP5</ID> -->   
+</div0> 
+<div0 type="collations"> 
+<head> 
+Collations King Lear 
+</head> 
+<div1 type="figures"> 
+<head></head> 
+<p><figure entity="lea-p768"> 
+<figDesc>Image of page 768 of the King Lear prompt-book (I.iv.363-II.i.46). 
+</figDesc> 
+</figure></p> 
+<p><figure entity="lea-p769"> 
+<figDesc>Image of page 768 of the King Lear prompt-book (II.i.47-II.ii.33). 
+</figDesc> 
+</figure></p> 
+</div1> 
+<div1 type="introduction"> 
+<head></head> 
+<p>THE following collations are arranged by categories. The act, scene, 
+and line numbering is that of the Globe text (1911 ed.). Angle 
+brackets are used to indicate letters (or words) illegible or shaved in 
+binding. Abbreviations employed are as follows: 
+</p> 
+<list> 
+
+<item>
+Collier MS . . . . . . . . the Collier-Perkins Second Folio (1632), in the 
+                                      Huntington Library 
+</item> <item>                  
+Colman . . . . . . . . . ...........George Colman's acting version of <hi>Lear</hi>,  
+                                      1768 
+</item> <item>      
+F . . . . . . . . . . .................. Third Folio (1663/64) 
+ 
+</item> <item>
+Ff ........................................indicates substantial agreement of all four Folio texts of <hi>Lear</hi>  
+</item> <item>                    
+Garrick ...................................David Garrick's acting version of <hi>Lear</hi>, in Bell's <hi>Shakespeare's Plays</hi> , Vol. II, (1773) 
+</item> <item> 
+Kemble ....................................J. P. Kemble's acting version of 
+<hi>Lear</hi> , in Mrs. Inchbald's <hi>British Theatre</hi>, Vol. IV, (1808) 
+</item> <item> 
+PB ........................................Smock Alley, <hi>Lear</hi>  prompt-book 
+</item> <item> 
+Qq  .......................................indicates substantial agreement of all Quarto texts of <hi>Lear</hi>  
+</item> <item> 
+s.d. ......................................stage direction (plural s.dd.) 
+</item> <item> 
+Tate ......................................Nahum Tate's The History of <hi>King Lear</hi> (1681) 
+</item> <item> 
+Tate+ .....................................indicates substantial agreement of Tate, Garrick, Colman, and Kemble 
+</item> 
+</list> 
+</div1> 
+<div1 type="settings"> 
+<head> 
+<hi>Scene settings</hi>  
+</head> 
+<div2 type="summary">
+<head></head>  
+<p>All scene notations are made by Hand I. None of the settings is unique to the 
+Smock Alley <hi>Lear</hi> (see Vol. I: Part i of this series, pp. 23-24). 
+</p> 
+</div2> 
+ <!-- </page> -->  <!-- <page n=6><ID>ShaLeaP6</ID> -->  
+ 
+<div2 type="scene" n=1.1> 
+<head>I.i</head> 
+     <p><hi rend="bold">(opening)</hi>  Court (Tate, no setting; Garrick, '<hi>an Antichamber in the 
+    Palace</hi>' [changing to '<hi>the Palace</hi>' at 35]; Colman, '<hi>the King's 
+    palace' ['Scene opens, and discovers King Lear,</hi> ' etc. at 351; Kemble, 'An 
+    Antichamber in King Lear's <hi>Palace</hi>' [changing to 'A Room of State in the Palace' 
+    at 35]). No further scene notations until II.i. 
+  </p> 
+</div2> 
+<div2 type="scene" n=2.1> 
+<head>II.i 
+</head> 
+      <p><xref doc="lea21open">(opening)</xref> Chamber (Tate, '<hi>Gloster's</hi>  House'; Garrick, '<hi>a Castle 
+    belonging to the Earl of</hi>  Gloster'; Colman, '<hi>an apartment in the castle 
+    belonging to the earl of Glocester</hi> '; Kemble, '<hi>The</hi>  Earl of Gloster's 
+    <hi>Castle</hi> '). 
+  </p>   
+</div2> 
+<div2 type="scene" n=2.2> 
+<head>II.ii 
+</head> 
+      <p><xref doc="lea22open">(opening)</xref> Cou&lt;rt&gt; (Tate, no change; Garrick, '<hi>a Court before</hi>  Gloster's 
+    <hi>Palace</hi> '; Colman, '<hi>the outside of the earl of Glocester's castle</hi> '; 
+    Kemble, '<hi>Before the</hi>  Earl of Gloster's <hi>Castle</hi> '). No further scene 
+    notations until III.i. 
+  </p>   
+</div2> 
+<div2 type="scene" n=3.1> 
+<head>III.i 
+</head> 
+      <p><hi rend="bold">(opening)</hi>  Grou&lt;e&gt; (Tate, Kemble, 'A <hi>Desert</hi>  Heath' [but deleting scene i]; 
+Garrick, Colman, '<hi>A Heath</hi> ' [also deleting scene i]). No further scene 
+    notations until III.vii. 
+  </p>   
+</div2> 
+<div2 type="scene" n=3.7> 
+<head>III.vi 
+</head> 
+      <p><hi rend="bold">(opening)</hi>  Cour&lt;t&gt; (Tate, Garrick, '<hi>The Palace</hi> '; Colman,  
+'<hi>Glocester's Palace</hi> '; Kemble, '<hi>An Apartment in the</hi>  Earl of Gloster's 
+    <hi>Castle</hi> '). 
+  </p>   
+</div2> 
+<div2 type="scene" n=4.1> 
+<head>IV.i 
+</head> 
+      <p><hi rend="bold">(opening)</hi>  Groue (Tate, '<hi>The Field</hi>  SCENE'; Garrick, Colman, '<hi>an 
+    open Country</hi> '; Kemble, '<hi>The open Country</hi> '). No further scene 
+    notations until IV.v. 
+  </p>   
+</div2> 
+<div2 type="scene" n=4.5> 
+<head>IV.v 
+</head> 
+      <p><hi rend="bold">(opening)</hi>  &lt;Ch&gt;amber (Tate, Garrick, Kemble, 'Gonerill's <hi>Palace</hi> ' [scene 
+    omitted, some of Regan's lines here being assigned to Goneril in a short version 
+    of IV.ii]; Colman, '<hi>the Duke of Albany's palace</hi> ' [essentially IV.ii, with 
+    some of Regan's lines assigned to Goneril from IV.v]). 
+  </p>   
+</div2> 
+<div2 type="scene" n=4.6> 
+<head>IV.vi 
+</head> 
+      <p><hi rend="bold">(opening)</hi>  Groue (Tate, '<hi>Field SCENE</hi> '; Garrick, Colman, '<hi>the 
+    Country, near Dover</hi> '; Kemble, '<hi>Another Part of the Country</hi> '). 
+  </p>   
+</div2> 
+<div2 type="scene" n=4.7> 
+<head>IV.vii 
+</head> 
+<p><hi rend="bold">(opening)</hi>  Chamber (Tate+, 'A Chamber'). 
+ <!-- </page> -->  <!-- <page n=7><ID>ShaLeaP7</ID> -->  
+ 
+</p>   
+</div2> 
+<div2 type="scene" n=5.1> 
+<head>V.i 
+</head> 
+<p><hi rend="bold">(opening)</hi>  Gro&lt;ue&gt; (Tate, Garrick, Colman '<hi>A Valley near the Camp</hi> '; 
+  Kemble, '<hi>The Field of Battle</hi> '). 
+</p> 
+ </div2> 
+</div1> 
+<div1 type="notations"> 
+<head> 
+<hi>Act notations</hi>  
+</head> 
+<p>PB contains no advance warnings of scene changes, but advance calls ('Act') for act breaks, all 
+by Hand I, occur at I.iv.386 (for Act II, I.v being mostly cut); II.iv.266 (for Act III); III.vii.47 
+(for Act IV; almost entirely cropped); IV.vii.47 (for Act V; this call is hypothetical, the upper 
+right corner of F p. 783, where it would naturally appear, being torn off). 
+</p> 
+</div1> 
+<div1 type="properties"> 
+<head> 
+<hi>Stage properties</hi>   
+</head> 
+<div2 type="summary">
+<head></head>  
+<p>The following properties, all in Hand I, are called for: 
+</p> 
+</div2> 
+<div2 type="scene" n=2.1> 
+<head>II.i 
+</head> 
+   <p><hi rend="bold">14</hi>  Torch&lt;es&gt; (in preparation for F s.d. at 38, '<hi>Enter Gloster, and Servants with 
+  Torches</hi> .'). 
+</p> 
+</div2> 
+<div2 type="scene" n=2.2> 
+<head>II.ii 
+</head>  
+<p><hi rend="bold">94</hi>  &lt;stoc&gt;ks (in preparation for F s.d. at 144, '<hi>Stocks brought</hi>  out.'). 
+</p> 
+</div2> 
+<div2 type="scene" n=3.4> 
+<head>III.iv 
+</head> 
+   <p><hi rend="bold">78</hi>  Tor&lt;ch&gt; (in preparation for F s.d. at 119, '<hi>Enter Gloucester, with a 
+  Torch</hi> .'). 
+</p> 
+ </div2> 
+<div2 type="scene" n=4.7> 
+<head>IV.vii  
+</head> 
+   <p><hi rend="bold">2</hi>  Chair (in preparation for F s.d. at 20, '<hi>Enter Lear in a Chair, carried by 
+  Servants</hi> .'). 
+ </p> 
+
+<p>See below, <hi>Sound effects</hi>, for '<hi>Drum and Colours</hi> '. 
+ 
+</p> 
+</div2> 
+</div1> 
+<div1 type="sound"> 
+<head> 
+<hi>Sound effects</hi>   
+</head> 
+<div2 type="summary">
+<head></head>  
+<p>All sound effects are by Hand I (unless otherwise noted). 
+</p> 
+</div2> 
+<div2 type="scene" n=2.4> 
+<head>II.iv</head> 
+<p><hi rend="bold">153</hi>  Trumpe&lt;t&gt; (in preparation for F s.d. at 185, '<hi>Tucket within</hi> .'). 
+</p> 
+</div2> 
+<div2 type="scene" n=4.2> 
+<head>IV.ii</head> 
+   <p><hi rend="bold">59-61</hi>  drum / colou&lt;rs&gt; (in preparation for F s.d. at IV.iv.1, 'Enter <hi>with Drum 
+  and Colours,</hi>  . . .' [Ff omit the Qq scene, Scene iii in edited texts]). 
+ </p> 
+</div2> 
+<div2 type="scene" n=4.7> 
+<head>IV.vii 
+</head> 
+
+   <p><hi rend="bold">48-49</hi> dru&lt;m&gt; / Colou&lt;rs&gt; (in
+  preparation for F s.d. at V.i.l, '<hi>Enter with Drum and Colours</hi>
+  . . .').  </p>
+
+</div2> 
+ <!-- </page> -->  <!-- <page n=8><ID>ShaLeaP8</ID> -->  
+<div2 type="scene" n=5.1> 
+<head>V.i 
+</head> 
+
+   <p><hi rend="bold">7 </hi> The advance call here is uncertain,
+  because the upper left corner of F p. 784 has been torn off, leaving
+  only final 'rs', which may be the remains of either 'drum /
+  Colou&lt;rs&gt;' or 'souldie&lt;rs&gt;' (perhaps both were called for,
+  Hand I including 'souldi&lt;ers&gt;' in the advance call at IV.vii);
+  the advance call is in preparation for F s.d. at 17, '<hi>Enter with
+  Drum & Colours, Albany, Goneril, Souldiers</hi> .', but its position
+  is anomalous, since it should have preceded (as at IV.ii.59-61 and
+  IV.vii.48-49) the advance call for Albany and Goneril at the bottom of
+  F p. 783 and may, therefore, have been inserted as an afterthought by
+  some hand other than Hand I.
+ </p>
+
+<p>Hand I inserts no advance warnings for F sound effects called for at I.i.34 s.d.; II.i.80 s.d.; 
+II.iv.289 s.d.; III.i. (opening s.d.); III.ii (opening s.d.); III.iv.3 s.d., 64 s.d., 104 s.d., 167 s.d.; 
+V.ii (opening s.d.),4 s.d. 
+</p> 
+</div2> 
+</div1> 
+<div1 type="calls"> 
+<head> 
+<hi>Advance character calls</hi>  
+</head> 
+<p>Hand I is responsible for all the character calls, all of them advance calls except that for 'Kent 
+/ Glouster / Edm:' in I.i, where the call is placed in the left margin opposite 3-5. Hand I omits 
+calls for '<hi>Attendants</hi> ' and '<hi>Servants</hi> ' called for by F stage directions except 
+at II.iv.128, where '(ser)uants' is included in the advance call at 95. Point of entry is not marked 
+(as, for example, by a crossed horizontal line in the Smock Alley <hi>Othello</hi>  and 
+<hi>Twelfth Night</hi> ). An advance call for 'Knight' is inserted at I.iv.14, following an 
+advance call for 'stew(ard)' at 8 above. Since the Steward (i.e., Oswald) enters at 48 and, after 
+a half-line, exits, and the Knight's first speech comes at 54, he is presumably meant to enter  
+immediately after the Steward's exit. It is possible, however, that Hand I intended the advance call 
+to mark the Knight's reentry at 5: (as in edited texts since Dyce, who exits him at 51), thus 
+treating the Knight as being among the '<hi>Attendants</hi> ' called for in the F s.d. at 7. The 
+missing advance call for Edgar to enter at V. .37 was probably on the torn-off left corner of F 
+p. 784. There is no advance call anticipating the F s.d. at the opening of V.ii, which brings Lear 
+and Cordelia's army '<hi>over the Stage, &amp; Exeunt.'</hi>, although there is an advance call 
+for Edgar and Gloucester, who enter immediately after this F s.d., at V.i.54 (but no call for 
+Edgar's reentry at V.ii.4). Advance calls cease with V.ii. For the probable implications of this 
+lack of further advance calls by Hand I, see the Introduction, p. 1. 
+</p> 
+</div1> 
+<div1 type="cuts"> 
+<head> 
+<hi>Textual cuts</hi>  
+</head> 
+<div2 type="summary">
+<head></head>  
+<p>In a few cases, given the slight nature of the evidence, assignment of a reading to Hand III is 
+necessarily tentative. 
+</p> 
+</div2> 
+ <!-- </page> -->  <!-- <page n=9><ID>ShaLeaP9</ID> -->  
+<div2 type="scene" n=1.1> 
+<head> 
+I.i 
+</head> 
+   <p><hi rend="bold">126 and]</hi>  Crossed through, Hand III (so Garrick, Colman, following Pope; omitted 
+  in rewriting, Tate, Kemble). <hi rend="bold">153 answer . . . judgement:]</hi>  Circled, Hand II (part 
+  of larger cut, Tate, Garrick, Kemble; Colman recasts 152-153 as 'with better 
+  judgment check / This hideous rashness; with my life I answer.'). <hi rend="bold">223-224 That 
+  monsters . . . Taint;]</hi>  Circled, Hand II (part of larger cut, Tate+). <hi rend="bold">231 or 
+  dishonoured step]</hi>  Circled, Hand II (part of larger cut, Tate, Garrick, Kemble). 
+  <hi rend="bold">242-243 that stands. . . point,]</hi>  Circled, Hand II (part of larger cut, Tate+).  
+<hi rend="bold">247 
+  Nothing,]</hi>  Crossed through, Hand ?III (singly cut only in PB; part of a larger cut, 
+  Tate+; here cut to shorten the line and make it metrically complementary to the 
+  preceding half-line, which some editors, following Qq and Pope, effect by 
+  omitting F 'I am firm'). <hi rend="bold">253 that art]</hi>  Crossed through, Hand ?III (part of larger 
+  cut, Tate+; here cut presumably for metrical reasons). <hi rend="bold">289 most]</hi>  Crossed 
+  through, Hand III (so Colman, following Pope; part of larger cut, Tate, Garrick, 
+  Kemble). 
+</p> 
+</div2> 
+<div2 type="scene" n=1.2> 
+<head>I.ii 
+</head>  
+   <p><hi rend="bold">81-82 Abhorred . . . brutish:]</hi>  Circled, Hand II (part of larger cut, Tate, Kemble; 
+  Colman retains 'Abhorred Villain'). 
+ </p> 
+</div2> 
+<div2 type="scene" n=1.4> 
+<head>I.iv 
+</head> 
+   <p><hi rend="bold">1-4 <hi>Kent</hi> . If but. . . likeness.]</hi>  Circled, Hand II (so Tate, Kemble; 
+  speech-prefix here cut in error). <hi rend="bold">229-233 nor the . . . proceeding,]</hi>  Circled, Hand 
+  II (rewritten and mostly cut, Tate, Kemble; Colman retains 'nor the redresses 
+  sleep'). <hi rend="bold">347 yet, that]</hi>  Crossed through, Hand ?III (cut presumably for metrical 
+  reasons; as singly cut, unique to PB; part of  larger cut, Tate+).  
+<xref doc="lea14370"> 370-371 
+  <hi>Gon</hi> .  Nay then-- . . . the'vent.]</xref> Circled, Hand II (part of larger cut, 
+  Tate+). 
+ </p> 
+</div2> 
+<div2 type="scene" n=1.5> 
+<head>I.v 
+</head> 
+   <p><xref doc="lea15">]</xref> Hand II seems to have intended cutting the whole scene, though his circling does 
+  not include the last two lines (55-56), which fall at top of the second column on 
+  F p. 768; Hand I, with 'stet' in left margin, restores 1-7 and gives an advance call 
+  for 'Lear / Ken&lt;t&gt; / gen&lt;t&gt; / fool&lt;e&gt;' at I.iv.147-151, but his intention so far as the 
+  Fool's final couplet (55-56) is concerned remains unclear (Tate+ cut the whole 
+  scene; Collier MS cuts 8-51). 
+ </p> 
+</div2> 
+<div2 type="scene" n=2.1> 
+<head>II.i 
+</head> 
+<p><xref doc="lea2116">16 the better,]</xref> Circled, Hand II (part of larger cut, Tate, Kemble). <hi rend="bold"> 54 latch'd 
+mine arm:]</hi>  Circled, Hand II (part of larger cut, Tate). <xref doc="lea2161"> 61 My worthy . . . Patron]</xref> Circled, 
+Hand II (Tate, Kemble, using part of 60, read 'The noble Duke, my Patron  
+ <!-- </page> -->  <!-- <page n=10><ID>ShaLeaP10</ID> -->  
+comes to 
+Night,'; Garrick, Colman, following Theobald, read 'My worthy and arch patron, comes to 
+night;'). <xref doc="lea2170"> 70-74 would the reposal . . . it all]</xref> Partly crossed through, with insertions, by Hand 
+III, reading 'the reposal / Of any trust, virtue, or worth in thee / would Make thy words 
+faith'd? what I should deny, / (As this I would, ay though thou did'st produce / My very 
+Character) would turn it all'. Hand III's version of these lines is slightly different from all 
+edited texts (part of larger cut, Tate, Garrick, Kemble; Colman retains all but 'what should . 
+. . Character'). Hand III is influenced by Hanmer, who, in 70-72, reads 'the reposal / . . . 
+Would make', and probably by Jennens (or perhaps by Capell, who first inserted 'ay' in 73 
+[from Qq] before F 'though'). The deletion of F 'No,' (72) is unique to Hand III. <xref doc="lea2179"> 79 and 
+fastned]</xref> Circled, Hand II; Hand III then crossed through F 'and', thus following Pope, and 
+retained 'fastned' (so Colman; part of larger cut, Tate, Garrick, Kemble). <xref doc="lea2196"> 96 not]</xref> Crossed 
+through, Hand ?III (so Collier MS; part of larger cut, Tate+). <xref doc="lea21118"> 118 You we first seize on.]</xref> 
+Circled, Hand II (part of larger cut, Tate+). <xref doc="lea21119"> 119 how ever else.]</xref> Circled, Hand II (part of 
+larger cut, Tate+). <xref doc="lea21125"> 125 it]</xref> Crossed through, Hand ?III (so Collier MS; part of larger cut, 
+Tate, Kemble). 
+   </p> 
+</div2> 
+<div2 type="scene" n=2.2> 
+<head>II.ii 
+</head> 
+  <p><xref doc="lea2218">18 a Lilly-livered, action-taking,]</xref> Circled, Hand II (reduced to 'white-liver'd', Tate, 
+  Kemble). <xref doc="lea2223"> 23-24 and the Son . . . Bitch,]</xref> Circled, Hand II (so Colman; part of 
+  larger cut, Tate, Kemble; Garrick cuts only 'Bitch'). <hi rend="bold"> 35 Culleinly]</hi>  Circled, Hand 
+  II (part of larger cut, Tate, Kemble). <hi rend="bold">79-90</hi> such smiling . . . <hi>Camelot</hi> .]</hi>  
+  Circled, Hand II (rewritten and reduced to three and-a-half lines, Tate, Kemble). <hi rend="bold"> 
+  125 compact, &amp;]  Circled, Hand II (fate, Kemble rewrite 125 as 'Whilst watching 
+  his Advantage this old Lurcher'; Garrick, Colman, following Pope, substitute 
+  'conjunct' from Qq for F 'compact'). <hi rend="bold"> 129 For him . . . self-subdued,]</hi>  Circled, 
+  Hand II (omitted in rewriting, Tate, Kemble). <hi rend="bold"> 137-138 shew too . . . Grace, and]</hi>  
+  Circled, Hand II, then doctored by Hand III, who inserts '&amp;' before F 'shew', 
+  crosses through F 'too', and inserts 'unto' above F 'malice', thus reading '&amp; shew 
+  bold malice unto'. Hand III's reading is unique to PB, but neither Hand III's 
+  meddling nor Hand II's original deletion makes grammatical sense in relation to 
+  what immediately follows ('Person of my Master,'), Hand II's deletion requiring 
+  something like the insertion of 'to the' after F 'respects', Hand III's calling for the 
+  insertion of 'the' before F 'Person'. Tate, Kemble rewrite  
+ <!-- </page> -->  <!-- <page n=11><ID>ShaLeaP11</ID> -->  
+137-138 as 'You'll 
+  shew too small respect, and too bold Malice, / Against the Person of my royal 
+  Master,'. <hi rend="bold"> 164 A good . . . heels:]</hi>  Circled, Hand II (so Tate, Kemble). 
+  </p> 
+</div2> 
+<div2 type="scene" n=2.4> 
+<head>II.iv 
+</head> 
+   <p><hi rend="bold">83-87 And I . . . Percy.]</hi>  Circled, Hand II, but restored with 'stet' to left of right 
+    rule by Hand I (omitted, Tate+, all of which cut out the role of the Fool). <hi rend="bold"> 96 
+    Plague,]</hi>  Circled, Hand II and crossed through by Hand ?III, presumably for 
+    metrical reasons (unique to PB). <hi rend="bold"> 103 tends, service,]</hi>  Circled, Hand II (fate, 
+    following Qq, substitutes 'her Service', as do, following Pope, Garrick, Colman, 
+    Kemble). <hi rend="bold"> 110-113 I'le forbear . . . man.]</hi>  Circled, Hand II (rephrased in slightly 
+    different ways, Tate+). <hi rend="bold"> 174 tender-hefted]</hi>  Hand II (possibly Hand III) smudges 
+    out F 'hefted' (so Tate, Kemble). <hi rend="bold"> 178 scant my sizes,]</hi>  Circled, Hand II (part of 
+    larger cut, Tate+). <hi rend="bold"> 226-228 Thou art . . . bloud.]</hi>  Circled, Hand II (part of larger 
+    cut, Tate+). 
+  </p> 
+</div2> 
+<div2 type="scene" n=3.1> 
+<head>III.i 
+</head> 
+      <p><hi rend="bold">22-25 that their . . . State.]</hi>  Hand II circled F 'their great Starres', 'set', 'who seem 
+    no less', 'the', 'and Speculations' and 'Intelligent'; then Hand I inserted 'are In' 
+    before F 'Thron'd' in left margin at 23, the lines thus reading 'that / are In 
+    Thron'd and high; Servants / Which are to <hi>France</hi>  Spies / of our State.' 
+    Unique to PB; Tate+ omit the whole scene. 
+    </p> 
+</div2> 
+<div2 type="scene" n=3.2> 
+<head>III.ii 
+</head> 
+    <p><hi rend="bold">27-34 The Codpiece . . . wake.]</hi>  Circled, Hand II (omitted, Tate+, as part of the 
+    Fool's lines). <hi rend="bold"> 41-42 Here's Grace . . . that's]</hi>  Circled, Hand II (omitted, Tate+, as 
+    part of the Fool's lines). 
+  </p> 
+</div2> 
+<div2 type="scene" n=3.3> 
+<head>III.iii 
+</head> 
+      <p><hi rend="bold">17-18 my old Master]</hi>  Circled and crossed through, Hand II, the crossing 
+    through being probably not (as ordinarily) the work of Hand III, since the words 
+    occur in a prose passage, and Hand III's deletions, except at II.i.70-74, are made 
+    for metrical reasons. Tate, Kemble rewrite the whole scene. <hi rend="bold"> 22 Curtesie forbid 
+    thee,]</hi>  Circled, Hand II (fate, Kemble rewrite the whole scene). 
+  </p> 
+</div2> 
+<div2 type="scene" n=3.4> 
+<head>III.iv 
+</head> 
+      <p><hi rend="bold">103-104 Sayes suum, . . . my.]</hi>  Circled, Hand II (so Garrick, Colman). <hi rend="bold"> 125-129</hi> 
+    <hi>Swithold</hi>  footed . . . aroynt thee.]</hi>  Circled, Hand II. <hi rend="bold"> 142-145 Horse to . 
+    . . year:]  Circled, Hand II. 
+   </p> 
+</div2> 
+ <!-- </page> -->  <!-- <page n=12><ID>ShaLeaP12</ID> -->  
+<div2 type="scene" n=3.7> 
+<head>III.vii 
+</head> 
+  <p><hi rend="bold">29 corky]</hi>  Circled, Hand II (so Tate+). <hi rend="bold"> 65 All Cruells else subscribe:]</hi>  Circled, 
+  Hand II (part of larger cut, Tate+). 
+ </p> 
+</div2> 
+<div2 type="scene" n=4.2> 
+<head>IV.ii 
+</head> 
+   <p><hi rend="bold">17-18 I must. . . hands.]</hi>  Circled, Hand II (partly rephrased, Tate, Garrick, 
+  Kemble; retained, Colman, reading 'arms', as in Qq and Pope, for F 'names'). 
+ </p> 
+</div2> 
+<div2 type="scene" n=4.4> 
+<head>IV.iv 
+</head> 
+   <p><hi rend="bold">2 As made . . . aloud.]</hi>  Circled, Hand II (probably deleted because F does not 
+  make sense, reading 'made the' for F 1, Qq 'mad as the'). <hi rend="bold"> 13-15 that to . . . 
+  Anguish.]</hi>  Circled, Hand II, each line individually (part of larger cut, Tate, 
+  Garrick. Kemble; Colman retains but substitutes 'lenient simplex' for F 'Simplex 
+  operative'). 
+ </p> 
+</div2> 
+<div2 type="scene" n=4.6> 
+<head>IV.vi 
+</head> 
+   <p><hi rend="bold">120-134 Behold you . . . thee.]</hi>  Circled, Hand II (Kemble cuts all but 34, 'There's 
+  money for thee.'). <hi rend="bold"> 164-172 Thou, Rascal . . . able 'em;]</hi>  Circled, Hand II, 'and' in 
+  168 being separately circled (partly retained, with variations, Tate, Colman, 
+  Kemble). <hi rend="bold"> 278 Of indistinguish'd . . . will,]</hi>  Circled, Hand II (so Tate, Kemble; 
+  here probably deleted because F does not make sense, reading 'Of' for F1, Q1, 
+  'Oh'). <hi rend="bold"> 281-282 the post . . . Letchers:]</hi>  Circled, Hand II (fate substitutes 'thou 
+  Messenger of Lust'; part of larger cut, Kemble). 
+ </p> 
+</div2> 
+<div2 type="scene" n=4.7> 
+<head>IV.vii 
+</head> 
+<p><hi rend="bold">6 not clips,]</hi>  Circled, Hand II (part of larger cut, Tate+). 
+</p> 
+</div2> 
+<div2 type="scene" n=5.1> 
+<head>V.i 
+</head> 
+<p><hi rend="bold">4 And self reproving,]</hi>  Circled, Hand II (part of larger cut, Tate+). 
+</p> 
+</div2> 
+<div2 type="scene" n=5.iii> 
+<head>V.iii 
+</head> 
+   <p><hi rend="bold">13-19 and hear . . . th' Moon.]</hi>  Circled, Hand II (fate, Garrick retain 13-17 ['hear 
+  . . . spies:'], substituting 'Sycophants' for Ff, Qq 'poor Rogues' and 'Heav'ns' for 
+  'Gods'; Colman retains 16-17 ['And take . . . spies:'], also reading 'Heav'ns' for 
+  Ff, Qq 'Gods'; part of larger cut, Kemble). <hi rend="bold">132 and fire new fortune,]</hi>  Circled, 
+  Hand II (part of larger cut, Tate+). <hi rend="bold">136-138 And from . . . traitor.]</hi>  Circled, Hand 
+  II (only 'spotted' end 'traitor' retained in rewriting, Tate+). 
+ </p> 
+</div2> 
+</div1> 
+<div1 type="changes"> 
+<head> 
+<hi>Textual changes</hi>  
+</head> 
+<div2 type="summary">
+<head></head>  
+<p>Both Hands II and III are responsible for a number of verbal changes in the F text. Of Hand 
+II's comparatively few changes, all but one are unique to PB (see I.i.191) and are limited 
+(except for the alteration of two speech-prefixes) to substituting commonplace words for words 
+that by  
+ <!-- </page> -->  <!-- <page n=13><ID>ShaLeaP13</ID> -->  
+the closing decades of the seventeenth century were considered either archaic or "hard." 
+Hand III, from I.i through II.iv, frequently emends the F text by inserting, usually with a caret, 
+(1) corrections of F's obvious errors (some of these small corrections may, indeed, be the work 
+of Hand II); (2) a few short phrases from the Qq (first introduced into the basic F1 text by 
+Pope); (3) other editorial emendations derived from the editions of Rowe (1709) through 
+Jennens (1770); (4) a few adjustments of lineation and punctuation, also derived from  
+eighteenth-century editions; and (5) a sizable number of emendations that are unique to Hand 
+III (in addition to two [I.i.230; II.i.99] shared only with the Collier MS; see also <hi>Textual 
+cuts</hi>, II.i.96, 125). Since there is no evidence to suggest that Hand III's doctoring of the 
+text has any connection with PB's Smock Alley provenience, only the readings in category (5), 
+and a few of special interest in categories (3) and (4), have been included in the following 
+collation. 
+</p> 
+</div2> 
+<div2 type="scene" n=1.1> 
+<head>I.i 
+</head> 
+  <p><hi rend="bold">112</hi> <hi>Hecate</hi> ]  Hand III crosses through the final '<hi>e</hi> ', reading 
+  '<hi>Hecat</hi> ', thus restoring the disyllabic form of F1, Qq 
+  '<hi>Heccat</hi> ', not otherwise restored until Alexander, 1951. <hi rend="bold"> 152 And thy]</hi>  
+  And into thy <hi>Hand III</hi>  (unique; F omits F1, Qq 'in', first restored by 
+  Rowe). <hi rend="bold"> 191</hi> <hi>Cor.</hi> ]  Glost <hi>Hand II</hi>  (so Qq, but the context is 
+  sufficient to account for Hand II's change; otherwise first corrected by Theobald). <hi rend="bold"> 
+  230 murther, or foulness]</hi>  or other, or foulness <hi>Hand III</hi>  (unique; Hand 
+  III, however, neglected to delete the comma after F 'murther' and F 'or' before 
+  'foulness'; compare 'nor other foulness' in Collier MS). <hi rend="bold"> 243 you have]</hi>  you not 
+  have <hi>Hand III</hi>  (unique; Hand III adds 'not' for metrical reasons, 
+  ignoring Hand II's cut ['that. . . point,' (242-243)]; Pope, also for metrical 
+  reasons, reads 'Say will you have her?'). <hi rend="bold">279</hi> <hi>Gon</hi> .]  Cord <hi>Hand 
+  II</hi>  (crossing through F '<hi>Con</hi>  at 283 thus giving 279-285 ['Let 
+  yours . . . prosper.'] all to Cordelia, a unique arrangement that makes no sense for 
+  279-282). <hi rend="bold"> 282 worth the want]</hi>  worth to want <hi>Hand III</hi>  (so Eccles 
+  conjecture, 1793; Hanmer reads 'worthy to want' and Hand III probably intended 
+  to follow Hanmer, the agreement with Eccles being accidental). <hi rend="bold"> 284 covers faults, 
+  at]</hi>  cover faults at <hi>Hand III</hi>  (so Jennens, who, however, retains F 
+  comma; the stroke deleting 's' in F 'covers' may have been intended as a 'd', 
+  following Hanmer, who reads 'Who cover'd faults at'). <hi rend="bold"> 287 to us]</hi>  to'us <hi>Hand 
+  III</hi>  (unique; perhaps intended to indicate an elided form, the line being 
+  given as verse in Ff, Qq). 
+</p> 
+</div2> 
+<div2 type="scene" n=1.4> 
+<head>I.iv 
+</head>  
+   <p><hi rend="bold">6 So may it]</hi>  So it may <hi>Hand III</hi>  (unique). <hi rend="bold"> 14 less than]</hi>  less so then 
+  <hi>Hand III</hi>  (unique; the reading 'so' is uncertain). <hi rend="bold"> 112 smile]</hi>   
+ <!-- </page> -->  <!-- <page n=14><ID>ShaLeaP14</ID> -->  
+smell 
+  <hi>Hand III</hi>  (unique). <hi rend="bold"> 197 And you]</hi>  An you <hi>Hand III</hi>  (so Knight, 
+  1842; 'If' Q2-3). <hi rend="bold"> 248 weakens, his]</hi>  weakens, or his <hi>Hand III</hi>  ('or' from 
+  Qq, first inserted by Jennens). <hi rend="bold"> 336 Pray you content.]</hi>  I Pray you be content. 
+  <hi>Hand III</hi>  (unique, though 'be' was first inserted by Rowe). <hi rend="bold"> 362 Get]</hi>  go 
+  Get <hi>Hand III</hi>  (so Jennens). 
+  </p> 
+</div2> 
+<div2 type="scene" n=2.1> 
+<head>II.i 
+</head> 
+  <p><xref doc="lea2157">57 gassed]</xref> frighted Hand II (unique).  
+<xref doc="lea2168"> 68 pight]</xref> bent <hi>Hand II</hi>  (unique). 
+  <xref doc="lea2170">70-74 would the reposal . . . it all]</xref> See <hi>Textual cuts</hi> . <xref doc="lea2180"> 80-81 said he? / 
+  Heark, the]</xref> said he? Heark / the <hi>Hand III</hi>  (unique arrangement of F 
+  80-81, suggested by Hanmer, who, however, reads 'said he? hark! / Hark, the'). 
+  <xref doc="lea2199">99 Yes, Madam, he]</xref>  Yes, Madam, yes he <hi>Hand III</hi>  (elsewhere only in 
+  Collier MS). <xref doc="lea21109"> 109 bewray]</xref> betray <hi>Hand ?II</hi>  (so Qq, but the reading is 
+  uncertain, since what is here taken as a 't' written over F 'w' may only be intended 
+  as a crossing through of 'w', giving a form 'beray' [= defile, disfigure]; no editors 
+  substitute Qq 'betray' or, as here perhaps, 'beray'). <xref doc="lea21122"> 122 prize]</xref> weight <hi>Hand 
+  II</hi>  (unique). 
+ </p> 
+</div2> 
+<div2 type="scene" n=2.2> 
+<head>II.ii 
+</head> 
+   <p><xref doc="lea221">1 dawning]</xref> morning <hi>Hand II</hi>  (F 'dawning' heavily inked through by 
+  Hand II, whose reading is unique; Qq read 'even'; Tate alters to 'morrow'). <hi rend="bold"> 
+  137-138 shew too . . . Grace, and]</hi>  See <hi>Textual cuts</hi> . 
+  </p> 
+</div2> 
+<div2 type="scene" n=2.4> 
+<head>II.iv 
+</head> 
+  <p><hi rend="bold">35 meiny]</hi>  serva&lt;nts&gt; <hi>Hand II</hi>  (unique; Hand III writes what is 
+  presumably intended as a gloss on F 'meiny', partly illegible but ending '&lt; &gt; / &lt; &gt; 
+  / or Troop', itself a unique gloss). <hi rend="bold"> 136 tyed]</hi>  tyr'd <hi>Hand ?III</hi>  (so Sympson 
+  / Roderick, 1765; Hand ?III's reading is very uncertain, being badly smeared). <hi rend="bold"> 
+  174 tender-hefted]</hi>  See <hi>Textual cuts</hi> . <hi rend="bold"> 242 Yea]</hi>  Yes <hi>Hand ?II</hi>  
+  (unique). 
+ </p> 
+</div2> 
+<div2 type="scene" n=3.1> 
+<head>III.i 
+</head> 
+<p><hi rend="bold">22-25 that their . . . State.]</hi>  See <hi>Textual cuts</hi> . 
+</p> 
+</div2> 
+<div2 type="scene" n=5.1> 
+<head>V.i 
+</head> 
+<p><hi rend="bold">20 well be-met]</hi>  well met <hi>Hand II</hi>  (F 'be-' smudged out; unique). 
+</p> 
+ <!-- </page> -->  
+</div2> 
+</div1> 
+</div0> 
+</body> 
+</text> 
+</TEI.2> 
+ 

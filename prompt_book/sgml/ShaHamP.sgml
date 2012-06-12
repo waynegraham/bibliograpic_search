@@ -1,0 +1,3673 @@
+<!DOCTYPE TEI.2 system 'teilite.dtd'[  
+<!NOTATION jpg SYSTEM "JPEG">  
+  
+<!ENTITY ha-p730 SYSTEM "ha-p730.jpg" NDATA jpg>  
+<!ENTITY ha-p731 SYSTEM "ha-p731.jpg" NDATA jpg>  
+<!ENTITY ha-p732 SYSTEM "ha-p732.jpg" NDATA jpg>  
+<!ENTITY ha-p733 SYSTEM "ha-p733.jpg" NDATA jpg>  
+<!ENTITY ha-p734 SYSTEM "ha-p734.jpg" NDATA jpg>  
+<!ENTITY ha-p735 SYSTEM "ha-p735.jpg" NDATA jpg>  
+<!ENTITY ha-p736 SYSTEM "ha-p736.jpg" NDATA jpg>  
+<!ENTITY ha-p737 SYSTEM "ha-p737.jpg" NDATA jpg>  
+<!ENTITY ha-p738 SYSTEM "ha-p738.jpg" NDATA jpg>  
+<!ENTITY ha-p739 SYSTEM "ha-p739.jpg" NDATA jpg>  
+<!ENTITY ha-p740 SYSTEM "ha-p740.jpg" NDATA jpg>  
+<!ENTITY ha-p741 SYSTEM "ha-p741.jpg" NDATA jpg>  
+<!ENTITY ha-p742 SYSTEM "ha-p742.jpg" NDATA jpg>  
+<!ENTITY ha-p743 SYSTEM "ha-p743.jpg" NDATA jpg>  
+<!ENTITY ha-p744 SYSTEM "ha-p744.jpg" NDATA jpg>  
+<!ENTITY ha-p745 SYSTEM "ha-p745.jpg" NDATA jpg>  
+<!ENTITY ha-p746 SYSTEM "ha-p746.jpg" NDATA jpg>  
+<!ENTITY ha-p747 SYSTEM "ha-p747.jpg" NDATA jpg>  
+<!ENTITY ha-p748 SYSTEM "ha-p748.jpg" NDATA jpg>  
+<!ENTITY ha-p749 SYSTEM "ha-p749.jpg" NDATA jpg>  
+<!ENTITY ha-p750 SYSTEM "ha-p750.jpg" NDATA jpg>  
+<!ENTITY ha-p751 SYSTEM "ha-p751.jpg" NDATA jpg>  
+<!ENTITY ha-p752 SYSTEM "ha-p752.jpg" NDATA jpg>  
+<!ENTITY ha-p753 SYSTEM "ha-p753.jpg" NDATA jpg>  
+<!ENTITY ha-p754 SYSTEM "ha-p754.jpg" NDATA jpg>  
+<!ENTITY ha-p755 SYSTEM "ha-p755.jpg" NDATA jpg>  
+<!ENTITY ha-p756 SYSTEM "ha-p756.jpg" NDATA jpg>  
+<!ENTITY ha-p757 SYSTEM "ha-p757.jpg" NDATA jpg>  
+<!ENTITY ha-p758 SYSTEM "ha-p758.jpg" NDATA jpg>  
+<!ENTITY ha-p759 SYSTEM "ha-p759.jpg" NDATA jpg>  
+<!ENTITY ha-p760 SYSTEM "ha-p760.jpg" NDATA jpg>  
+<!ENTITY ha111 SYSTEM "ha111.jpg" NDATA jpg>  
+<!ENTITY ha11137 SYSTEM "ha11137.jpg" NDATA jpg>  
+<!ENTITY ha11141 SYSTEM "ha11141.jpg" NDATA jpg>  
+<!ENTITY ha11158x SYSTEM "ha11158x.jpg" NDATA jpg>  
+<!ENTITY ha11158y SYSTEM "ha11158y.jpg" NDATA jpg>  
+<!ENTITY ha11164 SYSTEM "ha11164.jpg" NDATA jpg>  
+<!ENTITY ha1119x SYSTEM "ha1119x.jpg" NDATA jpg>  
+<!ENTITY ha1119y SYSTEM "ha1119y.jpg" NDATA jpg>  
+<!ENTITY ha1130 SYSTEM "ha1130.jpg" NDATA jpg>  
+<!ENTITY ha1132 SYSTEM "ha1132.jpg" NDATA jpg>  
+<!ENTITY ha1133 SYSTEM "ha1133.jpg" NDATA jpg>  
+<!ENTITY ha1156 SYSTEM "ha1156.jpg" NDATA jpg>  
+<!ENTITY ha1159x SYSTEM "ha1159x.jpg" NDATA jpg>  
+<!ENTITY ha1159y SYSTEM "ha1159y.jpg" NDATA jpg>  
+<!ENTITY ha1162 SYSTEM "ha1162.jpg" NDATA jpg>  
+<!ENTITY ha1163 SYSTEM "ha1163.jpg" NDATA jpg>  
+<!ENTITY ha1170 SYSTEM "ha1170.jpg" NDATA jpg>  
+<!ENTITY ha1172x SYSTEM "ha1172x.jpg" NDATA jpg>  
+<!ENTITY ha1172y SYSTEM "ha1172y.jpg" NDATA jpg>  
+<!ENTITY ha1183 SYSTEM "ha1183.jpg" NDATA jpg>  
+<!ENTITY ha1185 SYSTEM "ha1185.jpg" NDATA jpg>  
+<!ENTITY ha1190 SYSTEM "ha1190.jpg" NDATA jpg>  
+<!ENTITY ha1199 SYSTEM "ha1199.jpg" NDATA jpg>  
+<!ENTITY ha11cast SYSTEM "ha11cast.jpg" NDATA jpg>  
+<!ENTITY ha11king SYSTEM "ha11king.jpg" NDATA jpg>  
+<!ENTITY ha12108 SYSTEM "ha12108.jpg" NDATA jpg>  
+<!ENTITY ha1211 SYSTEM "ha1211.jpg" NDATA jpg>  
+<!ENTITY ha12110 SYSTEM "ha12110.jpg" NDATA jpg>  
+<!ENTITY ha12126 SYSTEM "ha12126.jpg" NDATA jpg>  
+<!ENTITY ha12127 SYSTEM "ha12127.jpg" NDATA jpg>  
+<!ENTITY ha12130 SYSTEM "ha12130.jpg" NDATA jpg>  
+<!ENTITY ha12132 SYSTEM "ha12132.jpg" NDATA jpg>  
+<!ENTITY ha12133 SYSTEM "ha12133.jpg" NDATA jpg>  
+<!ENTITY ha12135 SYSTEM "ha12135.jpg" NDATA jpg>  
+<!ENTITY ha12137 SYSTEM "ha12137.jpg" NDATA jpg>  
+<!ENTITY ha12139 SYSTEM "ha12139.jpg" NDATA jpg>  
+<!ENTITY ha12140 SYSTEM "ha12140.jpg" NDATA jpg>  
+<!ENTITY ha12141 SYSTEM "ha12141.jpg" NDATA jpg>  
+<!ENTITY ha12143 SYSTEM "ha12143.jpg" NDATA jpg>  
+<!ENTITY ha12144 SYSTEM "ha12144.jpg" NDATA jpg>  
+<!ENTITY ha12147 SYSTEM "ha12147.jpg" NDATA jpg>  
+<!ENTITY ha12153 SYSTEM "ha12153.jpg" NDATA jpg>  
+<!ENTITY ha1217a SYSTEM "ha1217a.jpg" NDATA jpg>  
+<!ENTITY ha1217b SYSTEM "ha1217b.jpg" NDATA jpg>  
+<!ENTITY ha12195 SYSTEM "ha12195.jpg" NDATA jpg>  
+<!ENTITY ha12202 SYSTEM "ha12202.jpg" NDATA jpg>  
+<!ENTITY ha12204 SYSTEM "ha12204.jpg" NDATA jpg>  
+<!ENTITY ha12211 SYSTEM "ha12211.jpg" NDATA jpg>  
+<!ENTITY ha12234 SYSTEM "ha12234.jpg" NDATA jpg>  
+<!ENTITY ha12237 SYSTEM "ha12237.jpg" NDATA jpg>  
+<!ENTITY ha12240 SYSTEM "ha12240.jpg" NDATA jpg>  
+<!ENTITY ha12248 SYSTEM "ha12248.jpg" NDATA jpg>  
+<!ENTITY ha12251 SYSTEM "ha12251.jpg" NDATA jpg>  
+<!ENTITY ha1243 SYSTEM "ha1243.jpg" NDATA jpg>  
+<!ENTITY ha1256 SYSTEM "ha1256.jpg" NDATA jpg>  
+<!ENTITY ha1263 SYSTEM "ha1263.jpg" NDATA jpg>  
+<!ENTITY ha1264 SYSTEM "ha1264.jpg" NDATA jpg>  
+<!ENTITY ha1277 SYSTEM "ha1277.jpg" NDATA jpg>  
+<!ENTITY ha1284 SYSTEM "ha1284.jpg" NDATA jpg>  
+<!ENTITY ha1294 SYSTEM "ha1294.jpg" NDATA jpg>  
+<!ENTITY ha12cour SYSTEM "ha12cour.jpg" NDATA jpg>  
+<!ENTITY ha1310 SYSTEM "ha1310.jpg" NDATA jpg>  
+<!ENTITY ha13108 SYSTEM "ha13108.jpg" NDATA jpg>  
+<!ENTITY ha13111 SYSTEM "ha13111.jpg" NDATA jpg>  
+<!ENTITY ha13117 SYSTEM "ha13117.jpg" NDATA jpg>  
+<!ENTITY ha1311x SYSTEM "ha1311x.jpg" NDATA jpg>  
+<!ENTITY ha1311y SYSTEM "ha1311y.jpg" NDATA jpg>  
+<!ENTITY ha13133 SYSTEM "ha13133.jpg" NDATA jpg>  
+<!ENTITY ha13135 SYSTEM "ha13135.jpg" NDATA jpg>  
+<!ENTITY ha1318 SYSTEM "ha1318.jpg" NDATA jpg>  
+<!ENTITY ha132 SYSTEM "ha132.jpg" NDATA jpg>  
+<!ENTITY ha1320 SYSTEM "ha1320.jpg" NDATA jpg>  
+<!ENTITY ha1321 SYSTEM "ha1321.jpg" NDATA jpg>  
+<!ENTITY ha1322 SYSTEM "ha1322.jpg" NDATA jpg>  
+<!ENTITY ha1330 SYSTEM "ha1330.jpg" NDATA jpg>  
+<!ENTITY ha1331 SYSTEM "ha1331.jpg" NDATA jpg>  
+<!ENTITY ha1334 SYSTEM "ha1334.jpg" NDATA jpg>  
+<!ENTITY ha1338 SYSTEM "ha1338.jpg" NDATA jpg>  
+<!ENTITY ha1345 SYSTEM "ha1345.jpg" NDATA jpg>  
+<!ENTITY ha1349 SYSTEM "ha1349.jpg" NDATA jpg>  
+<!ENTITY ha1351 SYSTEM "ha1351.jpg" NDATA jpg>  
+<!ENTITY ha1352 SYSTEM "ha1352.jpg" NDATA jpg>  
+<!ENTITY ha1356 SYSTEM "ha1356.jpg" NDATA jpg>  
+<!ENTITY ha1357 SYSTEM "ha1357.jpg" NDATA jpg>  
+<!ENTITY ha1358 SYSTEM "ha1358.jpg" NDATA jpg>  
+<!ENTITY ha137 SYSTEM "ha137.jpg" NDATA jpg>  
+<!ENTITY ha1381 SYSTEM "ha1381.jpg" NDATA jpg>  
+<!ENTITY ha1385 SYSTEM "ha1385.jpg" NDATA jpg>  
+<!ENTITY ha1390 SYSTEM "ha1390.jpg" NDATA jpg>  
+<!ENTITY ha1395 SYSTEM "ha1395.jpg" NDATA jpg>  
+<!ENTITY ha13cham SYSTEM "ha13cham.jpg" NDATA jpg>  
+<!ENTITY ha14103 SYSTEM "ha14103.jpg" NDATA jpg>  
+<!ENTITY ha14107 SYSTEM "ha14107.jpg" NDATA jpg>  
+<!ENTITY ha1411 SYSTEM "ha1411.jpg" NDATA jpg>  
+<!ENTITY ha142 SYSTEM "ha142.jpg" NDATA jpg>  
+<!ENTITY ha1457 SYSTEM "ha1457.jpg" NDATA jpg>  
+<!ENTITY ha146 SYSTEM "ha146.jpg" NDATA jpg>  
+<!ENTITY ha1464 SYSTEM "ha1464.jpg" NDATA jpg>  
+<!ENTITY ha1471 SYSTEM "ha1471.jpg" NDATA jpg>  
+<!ENTITY ha1472 SYSTEM "ha1472.jpg" NDATA jpg>  
+<!ENTITY ha1474 SYSTEM "ha1474.jpg" NDATA jpg>  
+<!ENTITY ha1489 SYSTEM "ha1489.jpg" NDATA jpg>  
+<!ENTITY ha149 SYSTEM "ha149.jpg" NDATA jpg>  
+<!ENTITY ha1491 SYSTEM "ha1491.jpg" NDATA jpg>  
+<!ENTITY ha14open SYSTEM "ha14open.jpg" NDATA jpg>  
+<!ENTITY ha15100 SYSTEM "ha15100.jpg" NDATA jpg>  
+<!ENTITY ha15103 SYSTEM "ha15103.jpg" NDATA jpg>  
+<!ENTITY ha15107 SYSTEM "ha15107.jpg" NDATA jpg>  
+<!ENTITY ha15111 SYSTEM "ha15111.jpg" NDATA jpg>  
+<!ENTITY ha15132 SYSTEM "ha15132.jpg" NDATA jpg>  
+<!ENTITY ha15133 SYSTEM "ha15133.jpg" NDATA jpg>  
+<!ENTITY ha15134 SYSTEM "ha15134.jpg" NDATA jpg>  
+<!ENTITY ha15135 SYSTEM "ha15135.jpg" NDATA jpg>  
+<!ENTITY ha15142 SYSTEM "ha15142.jpg" NDATA jpg>  
+<!ENTITY ha15144 SYSTEM "ha15144.jpg" NDATA jpg>  
+<!ENTITY ha15147 SYSTEM "ha15147.jpg" NDATA jpg>  
+<!ENTITY ha15156 SYSTEM "ha15156.jpg" NDATA jpg>  
+<!ENTITY ha15179 SYSTEM "ha15179.jpg" NDATA jpg>  
+<!ENTITY ha15186 SYSTEM "ha15186.jpg" NDATA jpg>  
+<!ENTITY ha15191x SYSTEM "ha15191x.jpg" NDATA jpg>  
+<!ENTITY ha15191y SYSTEM "ha15191y.jpg" NDATA jpg>  
+<!ENTITY ha1520 SYSTEM "ha1520.jpg" NDATA jpg>  
+<!ENTITY ha1529 SYSTEM "ha1529.jpg" NDATA jpg>  
+<!ENTITY ha1531 SYSTEM "ha1531.jpg" NDATA jpg>  
+<!ENTITY ha1532 SYSTEM "ha1532.jpg" NDATA jpg>  
+<!ENTITY ha1543 SYSTEM "ha1543.jpg" NDATA jpg>  
+<!ENTITY ha1553 SYSTEM "ha1553.jpg" NDATA jpg>  
+<!ENTITY ha1562 SYSTEM "ha1562.jpg" NDATA jpg>  
+<!ENTITY ha1568 SYSTEM "ha1568.jpg" NDATA jpg>  
+<!ENTITY ha1571 SYSTEM "ha1571.jpg" NDATA jpg>  
+<!ENTITY ha1577 SYSTEM "ha1577.jpg" NDATA jpg>  
+<!ENTITY ha1590 SYSTEM "ha1590.jpg" NDATA jpg>  
+<!ENTITY ha1592 SYSTEM "ha1592.jpg" NDATA jpg>  
+<!ENTITY ha1593 SYSTEM "ha1593.jpg" NDATA jpg>  
+<!ENTITY ha15open SYSTEM "ha15open.jpg" NDATA jpg>  
+<!ENTITY ha1cov SYSTEM "ha1cov.jpg" NDATA jpg>  
+<!ENTITY ha1ti SYSTEM "ha1ti.jpg" NDATA jpg>  
+<!ENTITY ha21103x SYSTEM "ha21103x.jpg" NDATA jpg>  
+<!ENTITY ha21103y SYSTEM "ha21103y.jpg" NDATA jpg>  
+<!ENTITY ha21109 SYSTEM "ha21109.jpg" NDATA jpg>  
+<!ENTITY ha21112a SYSTEM "ha21112a.jpg" NDATA jpg>  
+<!ENTITY ha21112b SYSTEM "ha21112b.jpg" NDATA jpg>  
+<!ENTITY ha211x SYSTEM "ha211x.jpg" NDATA jpg>  
+<!ENTITY ha211y SYSTEM "ha211y.jpg" NDATA jpg>  
+<!ENTITY ha2177 SYSTEM "ha2177.jpg" NDATA jpg>  
+<!ENTITY ha2179 SYSTEM "ha2179.jpg" NDATA jpg>  
+<!ENTITY ha2180 SYSTEM "ha2180.jpg" NDATA jpg>  
+<!ENTITY ha2181 SYSTEM "ha2181.jpg" NDATA jpg>  
+<!ENTITY ha2182 SYSTEM "ha2182.jpg" NDATA jpg>  
+<!ENTITY ha2183a SYSTEM "ha2183a.jpg" NDATA jpg>  
+<!ENTITY ha2183b SYSTEM "ha2183b.jpg" NDATA jpg>  
+<!ENTITY ha2184 SYSTEM "ha2184.jpg" NDATA jpg>  
+<!ENTITY ha2187 SYSTEM "ha2187.jpg" NDATA jpg>  
+<!ENTITY ha2196 SYSTEM "ha2196.jpg" NDATA jpg>  
+<!ENTITY ha21open SYSTEM "ha21open.jpg" NDATA jpg>  
+<!ENTITY ha22112 SYSTEM "ha22112.jpg" NDATA jpg>  
+<!ENTITY ha22116 SYSTEM "ha22116.jpg" NDATA jpg>  
+<!ENTITY ha22123 SYSTEM "ha22123.jpg" NDATA jpg>  
+<!ENTITY ha22127 SYSTEM "ha22127.jpg" NDATA jpg>  
+<!ENTITY ha22128 SYSTEM "ha22128.jpg" NDATA jpg>  
+<!ENTITY ha22133 SYSTEM "ha22133.jpg" NDATA jpg>  
+<!ENTITY ha22137 SYSTEM "ha22137.jpg" NDATA jpg>  
+<!ENTITY ha22149 SYSTEM "ha22149.jpg" NDATA jpg>  
+<!ENTITY ha2215 SYSTEM "ha2215.jpg" NDATA jpg>  
+<!ENTITY ha22171 SYSTEM "ha22171.jpg" NDATA jpg>  
+<!ENTITY ha22172 SYSTEM "ha22172.jpg" NDATA jpg>  
+<!ENTITY ha22178 SYSTEM "ha22178.jpg" NDATA jpg>  
+<!ENTITY ha22197 SYSTEM "ha22197.jpg" NDATA jpg>  
+<!ENTITY ha22207a SYSTEM "ha22207a.jpg" NDATA jpg>  
+<!ENTITY ha22207b SYSTEM "ha22207b.jpg" NDATA jpg>  
+<!ENTITY ha2222 SYSTEM "ha2222.jpg" NDATA jpg>  
+<!ENTITY ha2223 SYSTEM "ha2223.jpg" NDATA jpg>  
+<!ENTITY ha22230 SYSTEM "ha22230.jpg" NDATA jpg>  
+<!ENTITY ha22231 SYSTEM "ha22231.jpg" NDATA jpg>  
+<!ENTITY ha2224 SYSTEM "ha2224.jpg" NDATA jpg>  
+<!ENTITY ha22244 SYSTEM "ha22244.jpg" NDATA jpg>  
+<!ENTITY ha22267 SYSTEM "ha22267.jpg" NDATA jpg>  
+<!ENTITY ha2229 SYSTEM "ha2229.jpg" NDATA jpg>  
+<!ENTITY ha2230 SYSTEM "ha2230.jpg" NDATA jpg>  
+<!ENTITY ha22305 SYSTEM "ha22305.jpg" NDATA jpg>  
+<!ENTITY ha22306 SYSTEM "ha22306.jpg" NDATA jpg>  
+<!ENTITY ha22309 SYSTEM "ha22309.jpg" NDATA jpg>  
+<!ENTITY ha2231 SYSTEM "ha2231.jpg" NDATA jpg>  
+<!ENTITY ha22312 SYSTEM "ha22312.jpg" NDATA jpg>  
+<!ENTITY ha22316 SYSTEM "ha22316.jpg" NDATA jpg>  
+<!ENTITY ha2232 SYSTEM "ha2232.jpg" NDATA jpg>  
+<!ENTITY ha22336 SYSTEM "ha22336.jpg" NDATA jpg>  
+<!ENTITY ha2234 SYSTEM "ha2234.jpg" NDATA jpg>  
+<!ENTITY ha22340 SYSTEM "ha22340.jpg" NDATA jpg>  
+<!ENTITY ha22352x SYSTEM "ha22352x.jpg" NDATA jpg>  
+<!ENTITY ha22352y SYSTEM "ha22352y.jpg" NDATA jpg>  
+<!ENTITY ha22374 SYSTEM "ha22374.jpg" NDATA jpg>  
+<!ENTITY ha22386 SYSTEM "ha22386.jpg" NDATA jpg>  
+<!ENTITY ha22387 SYSTEM "ha22387.jpg" NDATA jpg>  
+<!ENTITY ha22391a SYSTEM "ha22391a.jpg" NDATA jpg>  
+<!ENTITY ha22391b SYSTEM "ha22391b.jpg" NDATA jpg>  
+<!ENTITY ha22409 SYSTEM "ha22409.jpg" NDATA jpg>  
+<!ENTITY ha22430 SYSTEM "ha22430.jpg" NDATA jpg>  
+<!ENTITY ha22437 SYSTEM "ha22437.jpg" NDATA jpg>  
+<!ENTITY ha22445 SYSTEM "ha22445.jpg" NDATA jpg>  
+<!ENTITY ha22457 SYSTEM "ha22457.jpg" NDATA jpg>  
+<!ENTITY ha22476 SYSTEM "ha22476.jpg" NDATA jpg>  
+<!ENTITY ha22488 SYSTEM "ha22488.jpg" NDATA jpg>  
+<!ENTITY ha22489 SYSTEM "ha22489.jpg" NDATA jpg>  
+<!ENTITY ha22496x SYSTEM "ha22496x.jpg" NDATA jpg>  
+<!ENTITY ha22496y SYSTEM "ha22496y.jpg" NDATA jpg>  
+<!ENTITY ha2251 SYSTEM "ha2251.jpg" NDATA jpg>  
+<!ENTITY ha22515 SYSTEM "ha22515.jpg" NDATA jpg>  
+<!ENTITY ha22525 SYSTEM "ha22525.jpg" NDATA jpg>  
+<!ENTITY ha22529 SYSTEM "ha22529.jpg" NDATA jpg>  
+<!ENTITY ha22535 SYSTEM "ha22535.jpg" NDATA jpg>  
+<!ENTITY ha22554 SYSTEM "ha22554.jpg" NDATA jpg>  
+<!ENTITY ha2257 SYSTEM "ha2257.jpg" NDATA jpg>  
+<!ENTITY ha22575 SYSTEM "ha22575.jpg" NDATA jpg>  
+<!ENTITY ha22576 SYSTEM "ha22576.jpg" NDATA jpg>  
+<!ENTITY ha22587 SYSTEM "ha22587.jpg" NDATA jpg>  
+<!ENTITY ha22588 SYSTEM "ha22588.jpg" NDATA jpg>  
+<!ENTITY ha22591 SYSTEM "ha22591.jpg" NDATA jpg>  
+<!ENTITY ha22592 SYSTEM "ha22592.jpg" NDATA jpg>  
+<!ENTITY ha226 SYSTEM "ha226.jpg" NDATA jpg>  
+<!ENTITY ha22608 SYSTEM "ha22608.jpg" NDATA jpg>  
+<!ENTITY ha22623 SYSTEM "ha22623.jpg" NDATA jpg>  
+<!ENTITY ha22626 SYSTEM "ha22626.jpg" NDATA jpg>  
+<!ENTITY ha22629 SYSTEM "ha22629.jpg" NDATA jpg>  
+<!ENTITY ha22marg SYSTEM "ha22marg.jpg" NDATA jpg>  
+<!ENTITY ha22open SYSTEM "ha22open.jpg" NDATA jpg>  
+<!ENTITY ha2cov SYSTEM "ha2cov.jpg" NDATA jpg>  
+<!ENTITY ha2ti SYSTEM "ha2ti.jpg" NDATA jpg>  
+<!ENTITY ha31102 SYSTEM "ha31102.jpg" NDATA jpg>  
+<!ENTITY ha31135x SYSTEM "ha31135x.jpg" NDATA jpg>  
+<!ENTITY ha31135y SYSTEM "ha31135y.jpg" NDATA jpg>  
+<!ENTITY ha31164 SYSTEM "ha31164.jpg" NDATA jpg>  
+<!ENTITY ha31173 SYSTEM "ha31173.jpg" NDATA jpg>  
+<!ENTITY ha31175 SYSTEM "ha31175.jpg" NDATA jpg>  
+<!ENTITY ha31179 SYSTEM "ha31179.jpg" NDATA jpg>  
+<!ENTITY ha3127 SYSTEM "ha3127.jpg" NDATA jpg>  
+<!ENTITY ha3130 SYSTEM "ha3130.jpg" NDATA jpg>  
+<!ENTITY ha3132 SYSTEM "ha3132.jpg" NDATA jpg>  
+<!ENTITY ha3135 SYSTEM "ha3135.jpg" NDATA jpg>  
+<!ENTITY ha313x SYSTEM "ha313x.jpg" NDATA jpg>  
+<!ENTITY ha313y SYSTEM "ha313y.jpg" NDATA jpg>  
+<!ENTITY ha3144 SYSTEM "ha3144.jpg" NDATA jpg>  
+<!ENTITY ha319 SYSTEM "ha319.jpg" NDATA jpg>  
+<!ENTITY ha31opa SYSTEM "ha31opa.jpg" NDATA jpg>  
+<!ENTITY ha31opb SYSTEM "ha31opb.jpg" NDATA jpg>  
+<!ENTITY ha32121 SYSTEM "ha32121.jpg" NDATA jpg>  
+<!ENTITY ha32124 SYSTEM "ha32124.jpg" NDATA jpg>  
+<!ENTITY ha32131 SYSTEM "ha32131.jpg" NDATA jpg>  
+<!ENTITY ha32135 SYSTEM "ha32135.jpg" NDATA jpg>  
+<!ENTITY ha32142 SYSTEM "ha32142.jpg" NDATA jpg>  
+<!ENTITY ha32146 SYSTEM "ha32146.jpg" NDATA jpg>  
+<!ENTITY ha32149 SYSTEM "ha32149.jpg" NDATA jpg>  
+<!ENTITY ha32152 SYSTEM "ha32152.jpg" NDATA jpg>  
+<!ENTITY ha32153 SYSTEM "ha32153.jpg" NDATA jpg>  
+<!ENTITY ha32154 SYSTEM "ha32154.jpg" NDATA jpg>  
+<!ENTITY ha32158 SYSTEM "ha32158.jpg" NDATA jpg>  
+<!ENTITY ha32165w SYSTEM "ha32165w.jpg" NDATA jpg>  
+<!ENTITY ha32165x SYSTEM "ha32165x.jpg" NDATA jpg>  
+<!ENTITY ha32165y SYSTEM "ha32165y.jpg" NDATA jpg>  
+<!ENTITY ha32165z SYSTEM "ha32165z.jpg" NDATA jpg>  
+<!ENTITY ha32166 SYSTEM "ha32166.jpg" NDATA jpg>  
+<!ENTITY ha32179 SYSTEM "ha32179.jpg" NDATA jpg>  
+<!ENTITY ha3217x SYSTEM "ha3217x.jpg" NDATA jpg>  
+<!ENTITY ha3217y SYSTEM "ha3217y.jpg" NDATA jpg>  
+<!ENTITY ha32192 SYSTEM "ha32192.jpg" NDATA jpg>  
+<!ENTITY ha32198 SYSTEM "ha32198.jpg" NDATA jpg>  
+<!ENTITY ha32214 SYSTEM "ha32214.jpg" NDATA jpg>  
+<!ENTITY ha32218 SYSTEM "ha32218.jpg" NDATA jpg>  
+<!ENTITY ha32230 SYSTEM "ha32230.jpg" NDATA jpg>  
+<!ENTITY ha32241 SYSTEM "ha32241.jpg" NDATA jpg>  
+<!ENTITY ha32258 SYSTEM "ha32258.jpg" NDATA jpg>  
+<!ENTITY ha32262 SYSTEM "ha32262.jpg" NDATA jpg>  
+<!ENTITY ha32277 SYSTEM "ha32277.jpg" NDATA jpg>  
+<!ENTITY ha32290 SYSTEM "ha32290.jpg" NDATA jpg>  
+<!ENTITY ha32359 SYSTEM "ha32359.jpg" NDATA jpg>  
+<!ENTITY ha32380 SYSTEM "ha32380.jpg" NDATA jpg>  
+<!ENTITY ha3239x SYSTEM "ha3239x.jpg" NDATA jpg>  
+<!ENTITY ha3239y SYSTEM "ha3239y.jpg" NDATA jpg>  
+<!ENTITY ha3268 SYSTEM "ha3268.jpg" NDATA jpg>  
+<!ENTITY ha3279 SYSTEM "ha3279.jpg" NDATA jpg>  
+<!ENTITY ha3296 SYSTEM "ha3296.jpg" NDATA jpg>  
+<!ENTITY ha32open SYSTEM "ha32open.jpg" NDATA jpg>  
+<!ENTITY ha3326 SYSTEM "ha3326.jpg" NDATA jpg>  
+<!ENTITY ha3337a SYSTEM "ha3337a.jpg" NDATA jpg>  
+<!ENTITY ha3337b SYSTEM "ha3337b.jpg" NDATA jpg>  
+<!ENTITY ha3340 SYSTEM "ha3340.jpg" NDATA jpg>  
+<!ENTITY ha3346 SYSTEM "ha3346.jpg" NDATA jpg>  
+<!ENTITY ha3389 SYSTEM "ha3389.jpg" NDATA jpg>  
+<!ENTITY ha33open SYSTEM "ha33open.jpg" NDATA jpg>  
+<!ENTITY ha341 SYSTEM "ha341.jpg" NDATA jpg>  
+<!ENTITY ha34118 SYSTEM "ha34118.jpg" NDATA jpg>  
+<!ENTITY ha34151 SYSTEM "ha34151.jpg" NDATA jpg>  
+<!ENTITY ha34185 SYSTEM "ha34185.jpg" NDATA jpg>  
+<!ENTITY ha34188 SYSTEM "ha34188.jpg" NDATA jpg>  
+<!ENTITY ha3419 SYSTEM "ha3419.jpg" NDATA jpg>  
+<!ENTITY ha34217 SYSTEM "ha34217.jpg" NDATA jpg>  
+<!ENTITY ha3424 SYSTEM "ha3424.jpg" NDATA jpg>  
+<!ENTITY ha3459a SYSTEM "ha3459a.jpg" NDATA jpg>  
+<!ENTITY ha3459bx SYSTEM "ha3459bx.jpg" NDATA jpg>  
+<!ENTITY ha3459by SYSTEM "ha3459by.jpg" NDATA jpg>  
+<!ENTITY ha3490 SYSTEM "ha3490.jpg" NDATA jpg>  
+<!ENTITY ha3493 SYSTEM "ha3493.jpg" NDATA jpg>  
+<!ENTITY ha34open SYSTEM "ha34open.jpg" NDATA jpg>  
+<!ENTITY ha411 SYSTEM "ha411.jpg" NDATA jpg>  
+<!ENTITY ha4114 SYSTEM "ha4114.jpg" NDATA jpg>  
+<!ENTITY ha4125 SYSTEM "ha4125.jpg" NDATA jpg>  
+<!ENTITY ha4128 SYSTEM "ha4128.jpg" NDATA jpg>  
+<!ENTITY ha4129 SYSTEM "ha4129.jpg" NDATA jpg>  
+<!ENTITY ha4137 SYSTEM "ha4137.jpg" NDATA jpg>  
+<!ENTITY ha4138x SYSTEM "ha4138x.jpg" NDATA jpg>  
+<!ENTITY ha4138y SYSTEM "ha4138y.jpg" NDATA jpg>  
+<!ENTITY ha416 SYSTEM "ha416.jpg" NDATA jpg>  
+<!ENTITY ha41cour SYSTEM "ha41cour.jpg" NDATA jpg>  
+<!ENTITY ha41opea SYSTEM "ha41opea.jpg" NDATA jpg>  
+<!ENTITY ha41opeb SYSTEM "ha41opeb.jpg" NDATA jpg>  
+<!ENTITY ha4219 SYSTEM "ha4219.jpg" NDATA jpg>  
+<!ENTITY ha4229 SYSTEM "ha4229.jpg" NDATA jpg>  
+<!ENTITY ha4232 SYSTEM "ha4232.jpg" NDATA jpg>  
+<!ENTITY ha4233 SYSTEM "ha4233.jpg" NDATA jpg>  
+<!ENTITY ha429 SYSTEM "ha429.jpg" NDATA jpg>  
+<!ENTITY ha42open SYSTEM "ha42open.jpg" NDATA jpg>  
+<!ENTITY ha4322 SYSTEM "ha4322.jpg" NDATA jpg>  
+<!ENTITY ha433a SYSTEM "ha433a.jpg" NDATA jpg>  
+<!ENTITY ha433b SYSTEM "ha433b.jpg" NDATA jpg>  
+<!ENTITY ha434 SYSTEM "ha434.jpg" NDATA jpg>  
+<!ENTITY ha4345 SYSTEM "ha4345.jpg" NDATA jpg>  
+<!ENTITY ha4346 SYSTEM "ha4346.jpg" NDATA jpg>  
+<!ENTITY ha4348 SYSTEM "ha4348.jpg" NDATA jpg>  
+<!ENTITY ha4356 SYSTEM "ha4356.jpg" NDATA jpg>  
+<!ENTITY ha4358 SYSTEM "ha4358.jpg" NDATA jpg>  
+<!ENTITY ha436 SYSTEM "ha436.jpg" NDATA jpg>  
+<!ENTITY ha438 SYSTEM "ha438.jpg" NDATA jpg>  
+<!ENTITY ha43open SYSTEM "ha43open.jpg" NDATA jpg>  
+<!ENTITY ha441 SYSTEM "ha441.jpg" NDATA jpg>  
+<!ENTITY ha45101 SYSTEM "ha45101.jpg" NDATA jpg>  
+<!ENTITY ha45103 SYSTEM "ha45103.jpg" NDATA jpg>  
+<!ENTITY ha45109 SYSTEM "ha45109.jpg" NDATA jpg>  
+<!ENTITY ha45113 SYSTEM "ha45113.jpg" NDATA jpg>  
+<!ENTITY ha45123 SYSTEM "ha45123.jpg" NDATA jpg>  
+<!ENTITY ha45129 SYSTEM "ha45129.jpg" NDATA jpg>  
+<!ENTITY ha45132 SYSTEM "ha45132.jpg" NDATA jpg>  
+<!ENTITY ha45135 SYSTEM "ha45135.jpg" NDATA jpg>  
+<!ENTITY ha45139 SYSTEM "ha45139.jpg" NDATA jpg>  
+<!ENTITY ha45147 SYSTEM "ha45147.jpg" NDATA jpg>  
+<!ENTITY ha4515 SYSTEM "ha4515.jpg" NDATA jpg>  
+<!ENTITY ha45151 SYSTEM "ha45151.jpg" NDATA jpg>  
+<!ENTITY ha45152 SYSTEM "ha45152.jpg" NDATA jpg>  
+<!ENTITY ha45154 SYSTEM "ha45154.jpg" NDATA jpg>  
+<!ENTITY ha45161 SYSTEM "ha45161.jpg" NDATA jpg>  
+<!ENTITY ha45171 SYSTEM "ha45171.jpg" NDATA jpg>  
+<!ENTITY ha45172 SYSTEM "ha45172.jpg" NDATA jpg>  
+<!ENTITY ha45174 SYSTEM "ha45174.jpg" NDATA jpg>  
+<!ENTITY ha45194 SYSTEM "ha45194.jpg" NDATA jpg>  
+<!ENTITY ha45199 SYSTEM "ha45199.jpg" NDATA jpg>  
+<!ENTITY ha45200 SYSTEM "ha45200.jpg" NDATA jpg>  
+<!ENTITY ha45202 SYSTEM "ha45202.jpg" NDATA jpg>  
+<!ENTITY ha45204 SYSTEM "ha45204.jpg" NDATA jpg>  
+<!ENTITY ha45211 SYSTEM "ha45211.jpg" NDATA jpg>  
+<!ENTITY ha4544 SYSTEM "ha4544.jpg" NDATA jpg>  
+<!ENTITY ha454x SYSTEM "ha454x.jpg" NDATA jpg>  
+<!ENTITY ha454y SYSTEM "ha454y.jpg" NDATA jpg>  
+<!ENTITY ha4559 SYSTEM "ha4559.jpg" NDATA jpg>  
+<!ENTITY ha4563 SYSTEM "ha4563.jpg" NDATA jpg>  
+<!ENTITY ha4577x SYSTEM "ha4577x.jpg" NDATA jpg>  
+<!ENTITY ha4577y SYSTEM "ha4577y.jpg" NDATA jpg>  
+<!ENTITY ha4586 SYSTEM "ha4586.jpg" NDATA jpg>  
+<!ENTITY ha4593 SYSTEM "ha4593.jpg" NDATA jpg>  
+<!ENTITY ha4594 SYSTEM "ha4594.jpg" NDATA jpg>  
+<!ENTITY ha4596 SYSTEM "ha4596.jpg" NDATA jpg>  
+<!ENTITY ha4597 SYSTEM "ha4597.jpg" NDATA jpg>  
+<!ENTITY ha4598 SYSTEM "ha4598.jpg" NDATA jpg>  
+<!ENTITY ha4599 SYSTEM "ha4599.jpg" NDATA jpg>  
+<!ENTITY ha45opa SYSTEM "ha45opa.jpg" NDATA jpg>  
+<!ENTITY ha45opbx SYSTEM "ha45opbx.jpg" NDATA jpg>  
+<!ENTITY ha45opby SYSTEM "ha45opby.jpg" NDATA jpg>  
+<!ENTITY ha4618 SYSTEM "ha4618.jpg" NDATA jpg>  
+<!ENTITY ha4627 SYSTEM "ha4627.jpg" NDATA jpg>  
+<!ENTITY ha466 SYSTEM "ha466.jpg" NDATA jpg>  
+<!ENTITY ha46open SYSTEM "ha46open.jpg" NDATA jpg>  
+<!ENTITY ha4710 SYSTEM "ha4710.jpg" NDATA jpg>  
+<!ENTITY ha47107 SYSTEM "ha47107.jpg" NDATA jpg>  
+<!ENTITY ha47113 SYSTEM "ha47113.jpg" NDATA jpg>  
+<!ENTITY ha47128 SYSTEM "ha47128.jpg" NDATA jpg>  
+<!ENTITY ha47135 SYSTEM "ha47135.jpg" NDATA jpg>  
+<!ENTITY ha4714 SYSTEM "ha4714.jpg" NDATA jpg>  
+<!ENTITY ha47140x SYSTEM "ha47140x.jpg" NDATA jpg>  
+<!ENTITY ha47140y SYSTEM "ha47140y.jpg" NDATA jpg>  
+<!ENTITY ha47142 SYSTEM "ha47142.jpg" NDATA jpg>  
+<!ENTITY ha4715 SYSTEM "ha4715.jpg" NDATA jpg>  
+<!ENTITY ha47150x SYSTEM "ha47150x.jpg" NDATA jpg>  
+<!ENTITY ha47150y SYSTEM "ha47150y.jpg" NDATA jpg>  
+<!ENTITY ha47162 SYSTEM "ha47162.jpg" NDATA jpg>  
+<!ENTITY ha47163 SYSTEM "ha47163.jpg" NDATA jpg>  
+<!ENTITY ha47166 SYSTEM "ha47166.jpg" NDATA jpg>  
+<!ENTITY ha4716a SYSTEM "ha4716a.jpg" NDATA jpg>  
+<!ENTITY ha4716b SYSTEM "ha4716b.jpg" NDATA jpg>  
+<!ENTITY ha47179 SYSTEM "ha47179.jpg" NDATA jpg>  
+<!ENTITY ha47189 SYSTEM "ha47189.jpg" NDATA jpg>  
+<!ENTITY ha4735a SYSTEM "ha4735a.jpg" NDATA jpg>  
+<!ENTITY ha4735b SYSTEM "ha4735b.jpg" NDATA jpg>  
+<!ENTITY ha4743 SYSTEM "ha4743.jpg" NDATA jpg>  
+<!ENTITY ha476 SYSTEM "ha476.jpg" NDATA jpg>  
+<!ENTITY ha4763 SYSTEM "ha4763.jpg" NDATA jpg>  
+<!ENTITY ha4764 SYSTEM "ha4764.jpg" NDATA jpg>  
+<!ENTITY ha4788 SYSTEM "ha4788.jpg" NDATA jpg>  
+<!ENTITY ha4790 SYSTEM "ha4790.jpg" NDATA jpg>  
+<!ENTITY ha4794 SYSTEM "ha4794.jpg" NDATA jpg>  
+<!ENTITY ha47open SYSTEM "ha47open.jpg" NDATA jpg>  
+<!ENTITY ha52350 SYSTEM "ha52350.jpg" NDATA jpg>  
+<!ENTITY ha51122 SYSTEM "ha51122.jpg" NDATA jpg>  
+<!ENTITY ha51206 SYSTEM "ha51206.jpg" NDATA jpg>  
+<!ENTITY ha51223 SYSTEM "ha51223.jpg" NDATA jpg>  
+<!ENTITY ha51240 SYSTEM "ha51240.jpg" NDATA jpg>  
+<!ENTITY ha5127 SYSTEM "ha5127.jpg" NDATA jpg>  
+<!ENTITY ha51281 SYSTEM "ha51281.jpg" NDATA jpg>  
+<!ENTITY ha51288 SYSTEM "ha51288.jpg" NDATA jpg>  
+<!ENTITY ha51296 SYSTEM "ha51296.jpg" NDATA jpg>  
+<!ENTITY ha51307 SYSTEM "ha51307.jpg" NDATA jpg>  
+<!ENTITY ha51309 SYSTEM "ha51309.jpg" NDATA jpg>  
+<!ENTITY ha51321 SYSTEM "ha51321.jpg" NDATA jpg>  
+<!ENTITY ha5145x SYSTEM "ha5145x.jpg" NDATA jpg>  
+<!ENTITY ha5145y SYSTEM "ha5145y.jpg" NDATA jpg>  
+<!ENTITY ha5196 SYSTEM "ha5196.jpg" NDATA jpg>  
+<!ENTITY ha51opa SYSTEM "ha51opa.jpg" NDATA jpg>  
+<!ENTITY ha51opb SYSTEM "ha51opb.jpg" NDATA jpg>  
+<!ENTITY ha51opc SYSTEM "ha51opc.jpg" NDATA jpg>  
+<!ENTITY ha52101 SYSTEM "ha52101.jpg" NDATA jpg>  
+<!ENTITY ha52172 SYSTEM "ha52172.jpg" NDATA jpg>  
+<!ENTITY ha52190 SYSTEM "ha52190.jpg" NDATA jpg>  
+<!ENTITY ha52195 SYSTEM "ha52195.jpg" NDATA jpg>  
+<!ENTITY ha52227 SYSTEM "ha52227.jpg" NDATA jpg>  
+<!ENTITY ha52230x SYSTEM "ha52230x.jpg" NDATA jpg>  
+<!ENTITY ha52230y SYSTEM "ha52230y.jpg" NDATA jpg>  
+<!ENTITY ha52236a SYSTEM "ha52236a.jpg" NDATA jpg>  
+<!ENTITY ha52236b SYSTEM "ha52236b.jpg" NDATA jpg>  
+<!ENTITY ha52251 SYSTEM "ha52251.jpg" NDATA jpg>  
+<!ENTITY ha52257 SYSTEM "ha52257.jpg" NDATA jpg>  
+<!ENTITY ha52278 SYSTEM "ha52278.jpg" NDATA jpg>  
+<!ENTITY ha52283 SYSTEM "ha52283.jpg" NDATA jpg>  
+<!ENTITY ha52291 SYSTEM "ha52291.jpg" NDATA jpg>  
+<!ENTITY ha52294 SYSTEM "ha52294.jpg" NDATA jpg>  
+<!ENTITY ha52296 SYSTEM "ha52296.jpg" NDATA jpg>  
+<!ENTITY ha52322 SYSTEM "ha52322.jpg" NDATA jpg>  
+<!ENTITY ha52324 SYSTEM "ha52324.jpg" NDATA jpg>  
+<!ENTITY ha52329 SYSTEM "ha52329.jpg" NDATA jpg>  
+<!ENTITY ha52333 SYSTEM "ha52333.jpg" NDATA jpg>  
+<!ENTITY ha52336 SYSTEM "ha52336.jpg" NDATA jpg>  
+<!ENTITY ha52337 SYSTEM "ha52337.jpg" NDATA jpg>  
+<!ENTITY ha52338 SYSTEM "ha52338.jpg" NDATA jpg>  
+<!ENTITY ha52356 SYSTEM "ha52356.jpg" NDATA jpg>  
+<!ENTITY ha52360 SYSTEM "ha52360.jpg" NDATA jpg>  
+<!ENTITY ha52375 SYSTEM "ha52375.jpg" NDATA jpg>  
+<!ENTITY ha52408 SYSTEM "ha52408.jpg" NDATA jpg>  
+<!ENTITY ha52414 SYSTEM "ha52414.jpg" NDATA jpg>  
+<!ENTITY ha5260 SYSTEM "ha5260.jpg" NDATA jpg>  
+<!ENTITY ha5261 SYSTEM "ha5261.jpg" NDATA jpg>  
+<!ENTITY ha5264 SYSTEM "ha5264.jpg" NDATA jpg>  
+<!ENTITY ha5268 SYSTEM "ha5268.jpg" NDATA jpg>  
+<!ENTITY ha52open SYSTEM "ha52open.jpg" NDATA jpg>  
+<!ENTITY haspine SYSTEM "haspine.jpg" NDATA jpg>  
+ 
+  
+<!ENTITY % ISOlat1 system "ISOlat1"> %ISOlat1;  
+<!ENTITY % ISOlat2 system "ISOlat2"> %ISOlat2;  
+<!ENTITY % ISOnum system "ISOnum"> %ISOnum;  
+<!ENTITY % ISOpub system "ISOpub"> %ISOpub;  
+<!ENTITY % ISOtech system "ISOtech"> %ISOtech;  
+]>  
+<TEI.2>  
+<teiHeader>  
+<fileDesc>  
+<titleStmt>  
+<title>Shakespearean prompt-books of the seventeenth century, vol. 4  
+(Smock Alley Hamlet) [a machine-readable transcription]  
+</title>   
+<author>Shakespeare, William  
+</author>   
+<respStmt>  
+<resp>Creation of machine-readable version:   
+</resp>   
+<name>Lorrie Chisholm, Electronic Text Center  
+</name>   
+<resp>Creation of digital images:   
+</resp>   
+<name>Catherine Tousignant, Electronic Text Center  
+</name>   
+<resp>Conversion to TEI.2-conformant markup:   
+</resp>   
+<name>University of Virginia Library Electronic Text Center.  
+</name>   
+</respStmt>   
+</titleStmt>   
+<extent>150 kilobytes   
+</extent>   
+<publicationStmt>  
+<publisher>University of Virginia Library.  
+</publisher>   
+<pubPlace>Charlottesville, Va.  
+</pubPlace>   
+<idno>Bibliographic Society, ShaHamP  
+</idno>   
+<availability>  
+<p>Publicly-accessible  
+</p>   
+<p n=public>URL: http://etext.lib.virginia.edu/bsuva/promptbook/   
+</p>   
+</availability>   
+<date>1996  
+</date>   
+</publicationStmt>   
+<seriesStmt>  
+<p>Shakespearean prompt-books of the seventeenth century.  
+</p>   
+</seriesStmt>   
+<notesStmt>  
+<note>The electronic text contains the Introduction and the  
+Collations.  The prompt-book is rendered as page images.  
+</note>   
+<note>Images of the manuscript have been included from volume 4, part 2.  
+</note>   
+<note>Act V, scene ii, lines 201-203 have erroneously been referred to 
+as lines 101-103 on page 46 of the Collations. The electronic text 
+contains both the original and the corrected reference.</note> 
+</notesStmt>   
+<sourceDesc>  
+<biblFull>  
+<titleStmt>  
+<title>Shakespearean prompt-books of the seventeenth century, vol. 4 (Smock Alley Hamlet)   
+</title>   
+<title level="m">  
+</title>   
+<author>  
+</author>   
+<respStmt>  
+<resp>Editor  
+</resp>   
+<name>G. Blakemore Evans  
+</name>   
+</respStmt>   
+</titleStmt>   
+<editionStmt>  
+<p>Issued in portfolios. The prompt-books are reproduced in collotype facsimile.  
+</p>   
+</editionStmt>   
+<extent>  
+</extent>   
+<publicationStmt>   
+<publisher>University Press of Virginia   
+</publisher>    
+<pubPlace>Charlottesville, VA   
+</pubPlace>    
+<date>1966   
+</date>    
+<idno>Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.4    
+</idno>    
+</publicationStmt>    
+<seriesStmt>   
+<p>Shakespearean prompt-books of the seventeenth century   
+</p>    
+</seriesStmt>    
+<notesStmt>   
+<note>Published for the Bibliographical Society of the University of Virginia   
+</note>    
+<note>The production of this volume was supervised by Fredson Bowers.   
+</note>    
+</notesStmt>    
+</biblFull>    
+</sourceDesc>    
+</fileDesc>    
+<encodingDesc>   
+<projectDesc>   
+<p>Prepared for the University of Virginia Library Electronic Text Center.   
+</p>    
+</projectDesc>    
+<editorialDecl>   
+<p>All quotation marks retained as data.   
+</p>    
+<p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has been joined to the preceding line.   
+</p>    
+<p>The images exist as archived TIFF images, one or more JPEG versions for general use, and thumbnail GIFs.   
+</p>    
+<p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing analytical groupings.   
+</p>    
+</editorialDecl>    
+<refsDecl>   
+<p>   
+</p>    
+</refsDecl>    
+<classDecl>   
+<taxonomy>   
+<bibl>   
+<title>Library of Congress Subject Headings   
+</title>    
+</bibl>    
+</taxonomy>    
+</classDecl>    
+</encodingDesc>    
+<profileDesc>   
+<creation>   
+<date>1960-1966   
+</date>    
+</creation>    
+<langUsage>   
+<language>English   
+</language>    
+</langUsage>    
+<textClass>   
+<keywords>   
+<term>drama; prose; non-fiction   
+</term>    
+</keywords>    
+<keywords>   
+<term>LCSH   
+</term>    
+</keywords>    
+<keywords>   
+<term>   
+</term>    
+<term>   
+</term>    
+<term type="format">24-bit color; 400 dpi   
+</term>    
+</keywords>    
+</textClass>    
+</profileDesc>    
+<revisionDesc>   
+<change>   
+<date>July 1997   
+</date>    
+<respStmt>   
+<resp>corrector   
+</resp>    
+<name>Catherine Tousignant, Electronic Text Center   
+</name>    
+</respStmt> 
+<item>Corrected various transcriptional errors; fixed missing or broken images. 
+</item>    
+</change>    
+<change>   
+<date>January 1997   
+</date>    
+<respStmt>   
+<resp>corrector   
+</resp>    
+<name>Catherine Tousignant, Electronic Text Center   
+</name>    
+</respStmt>    
+<item>Added TEI header and tags. Corrected the following errors:   
+p.6: At I.i. 78 th ] the;    
+p.10: [(4) Word B]  Ward B;   
+p. 33: III.ii] III.iii   
+</item>    
+</change>    
+</revisionDesc>    
+</teiHeader>    
+   
+<text id=ShaHamP>   
+<front>   
+<div type="cover">   
+   
+<p><figure entity="haspine">   
+<figDesc>Image of the spine: Shakespearean Prompt-Books, Smock Alley   
+Hamlet</figDesc>   
+</figure></p>   
+   
+<p><figure entity="ha1cov">   
+<figDesc>Image of the cover, part 1: Shakespearean Prompt-Books, Smock Alley   
+Hamlet Introduction and Collations</figDesc>   
+</figure></p>   
+   
+<p><figure entity="ha1ti">   
+<figDesc>Image of the titlepage, part 1: Shakespearean Prompt-Books, Smock Alley   
+Hamlet Introduction and Collations</figDesc>   
+</figure></p>   
+   
+<p><figure entity="ha2cov">   
+<figDesc>Image of the cover, part 2: Shakespearean Prompt-Books, Smock Alley   
+Hamlet Text</figDesc>   
+</figure></p>   
+   
+<p><figure entity="ha2ti">   
+<figDesc>Image of the titlepage, part 2: Shakespearean Prompt-Books, Smock Alley   
+Hamlet Text</figDesc>   
+</figure></p>   
+</div>  
+   
+<titlePage>   
+<docTitle>   
+<titlePart type="main">   
+SHAKESPEAREAN   
+<lb>   
+PROMPT-BOOKS   
+<lb>   
+<hi>of the</hi>   
+SEVENTEENTH CENTURY   
+</titlePart>   
+   
+<titlePart type="sub">   
+Vol. IV: Part i<lb>   
+Introduction to the Smock Alley<lb>   
+<hi>Hamlet</hi><lb>   
+Collations   
+</titlePart>   
+</docTitle>   
+   
+<byline>   
+<hi>Edited by</hi>   
+<lb>   
+G. Blakemore Evans   
+</byline>   
+<docImprint>   
+<hi>Published for</hi>   
+<lb>   
+The Bibliographical Society of the University of Virginia<lb>   
+University Press of Virginia, Charlottesville<lb>   
+1966<lb>   
+   
+EDITORIAL ADVISORY COMMITTEE<lb>   
+   
+The Bibliographical Society Of the University Of Virginia<lb>   
+ARTHUR F. STOCKER, <hi>Chairman</hi><lb>   
+FREDSON BOWERS<lb>   
+JOHN COOK WYLLIE<lb>   
+   
+The production of this volume was supervised   
+by Fredson Bowers   
+</docImprint>   
+</titlePage>   
+   
+<div type="contents">   
+<list>   
+<head>Contents</head>   
+<item>Introduction to The Smock Alley <hi>Hamlet</hi> . . . . . . 1   
+</item>   
+<item>Collations . . . . . . . . . . . . . . . . . . . . . . . 11   
+</item></list>   
+</div>   
+</front>   
+   
+<body>   
+<!-- <page n=1> -->   
+<div0 type="introduction">   
+<head>Introduction<lb>    
+Smock Alley <hi>Hamlet</hi><lb>   
+Third Folio</head>   
+   
+<p>THE apparent connection, somewhat confused though that   
+connection may seem to be, of the Smock Alley <hi>Hamlet</hi>   
+(preserved in the University of Edinburgh   
+Library) with one of the two 1676 actors' quartos, <note target="n1">1</note>    
+would appear to afford a date before which the   
+prompt-book cannot have been prepared. There is, of course, the slight   
+possibility that this connection may be explained through something like   
+a common source, for example, the prompt-book in use at the Duke of   
+York's Theatre. But as we shall see the weight of the evidence is against   
+such a possibility, though influence from the London productions may, I   
+believe, be postulated apart from the direct contribution of the actors'   
+quartos. Other evidence for dating may be found in the names Trefusis   
+and Williams (see IV.v.96; IV.vii.35; V.ii.172). Joseph Trefusis acted at   
+the Smock Alley Theatre from about 1675 to 1688; David Williams left   
+Smock Alley in 1679. <note target="n2">2</note> Prompt hands   
+found elsewhere in the Smock Alley promptbooks (in <hi>Lear,   
+Macbeth, Othello, Henry VIII, Merry Wives, Twelfth Night,</hi> and   
+the <hi>Julius Caesar</hi> cast) can be identified in this prompt-book   
+and serve to link it closely with these plays, several of which can be   
+dated between 1674 and 1682. We may,   
+   
+<!-- </page> --><!-- <page n=2> -->    
+   
+therefore, with some assurance place <hi>Hamlet</hi> within a period   
+most probably not earlier than 1676 and not later than 1679. Such a date   
+makes the Smock Alley <hi>Hamlet</hi> by more than seventy years   
+the earliest prompt-book of <hi>Hamlet</hi> now extant. <note target="n3">3</note>   
+   
+I have, with some trepidation, distinguished nine separate hands among   
+the various revisions and prompt-notations. Hand I (the same as Hand I   
+in <hi>Macbeth, Lear,</hi> and <hi>Twelfth Night)</hi> writes in   
+the stage setting called for at the beginning of a new scene; and the same   
+hand is also probably responsible for the anticipatory 'scean' calls which   
+precede each scene change (see, for example, I.i. opening s.d. and 164).   
+Hand II (the same as Hand II in <hi>Macbeth, Othello,</hi> and   
+<hi>I</hi> <hi>Henry IV</hi> and Hand I in <hi>Henry VIII)</hi>   
+is responsible for most of the entry calls for characters and   
+for most of the textual changes and deletions; it is thus the most   
+important hand in the promptbook (see, for example, I.i.1, 72-80). Hand   
+III (the same as Hand IV in <hi>Macbeth,</hi> Hand VI in   
+<hi>Othello,</hi> Hand I in <hi>Merry Wives,</hi> the hand in the   
+<hi>Julius Caesar</hi> acting list, and the main prompt hand in   
+Wilson's <hi>Belphegor)</hi> furnishes a few speech-prefixes and   
+prompt-notes for sound effects (see I.ii.17-41; I.iii.90-92; V.i.307).   
+Hand IV is a mid-eighteenth-century hand which seems to make its   
+corrections from eighteenth-century edited texts; it appears again as Hand   
+II in <hi>Twelfth Night</hi>,<hi> Merry Wives</hi>, and   
+<hi>Midsummer Night's Dream</hi> and Hand III in <hi>Lear   
+</hi>(see, for example, II.i.87; II.ii.197). Hand V (perhaps ,the same   
+as Hand II in <hi>Lear</hi> and <hi>Henry VIII)</hi> limits itself to   
+a   
+   
+<!-- </page> --><!-- <page n=3> -->   
+   
+few textual changes (see III.i.173-175; IV.iii.3, 4; IV.vii.14). Hand VI   
+(the same as that of the copyist in <hi>Merry Wives</hi> and Wilson's   
+<hi>Belphegor)</hi> <note target="n4">4</note> adds one actor's   
+name, a property note, and sound effects (see I.iv.6; III.i. opening;   
+IV.vii.35 s.d.; V.ii.291). Hand VII writes 'Redy' under Hand II's calls,   
+adds a few additional calls (see I.i.19-20; II.ii.116; IV.iii.89; V.i.27;   
+V.ii.172-179) and is probably responsible for the crossed diagonal lines   
+marking point of entry. Hand VIII occurs rarely and is concerned with   
+changes in scene settings and with properties (see IV.ii. opening; IV.v.   
+opening; V.ii. opening, 236 s.d.). Hand IX makes a few textual changes   
+(see I.iii.2-4, 20; IV.v.103-106; IV.vii.6; V.i.281). What may probably   
+be considered as a tenth hand appears in certain passages marked with a   
+red pencil (see I.iii.22-28; II.i.80; III.iv.118-122; V.ii.338-339).</p>   
+   
+<p>As I noted at the beginning of the last paragraph, it is with   
+considerable trepidation that I have attempted to sort out these nine   
+hands. The evidence is frequently so fragmentary that often one is left   
+grasping at a single word or even a few letters. Moreover the conditions   
+under which the notations were made were many times  unfavorable, so   
+that the writer was cramped and his writing distorted. Two hands trouble   
+me particularly. Is Hand II really responsible not only for the majority of   
+the character calls and act divisions, but also for the greater part of the   
+actual cutting and textual revision? I am not absolutely sure, and it is   
+possible that we have here two distinct hands at work under what I have   
+called Hand II. Again, is Hand V, in fact, only Hand II in a more formal   
+(and secretary) guise? Since I cannot be sure of the answers to either of   
+these questions, I have decided to allow the designations to stand and to   
+let my comments here serve as a warning.</p>   
+   
+<p>The question of cutting in the Smock Alley <hi>Hamlet</hi>    
+presents several problems. Because of the difference in length   
+between the quarto and folio texts, the text used by the Smock Alley   
+performers was already, before any cutting was undertaken, about 115   
+lines shorter than the quarto version employed by the Duke of York's   
+players in London. <note target="n5">5</note> This fact   
+   
+<!-- </page> --><!-- <page n=4> -->   
+   
+has been kept in mind in arriving at some of the following figures. In the   
+1676 quartos (here called Q6, since the two quartos of that year are   
+essentially identical for our purposes) and in all the later quartos (the last   
+1703) approximately 845 lines have been marked for deletion. Of the six   
+other theatre versions here compared, Ward A and B (c. 1745) and the   
+1703 Folger prompt-book employ quarto editions as the bases of their   
+acting texts; <note target="n6">6</note> the Tonson 1734 edition   
+(representing the play as staged at Drury Lane about 1723) and the   
+Garrick 1763 edition <note target="n7">7</note> are composite   
+texts based on both quarto and folio and influenced by Rowe and later   
+editors. The Garrick prompt-book (1772), to be distinguished from the   
+1763 Garrick version, is based on a 1747 text very close to that in the   
+1734 edition. Ward A cuts roughly 1,237 lines, Ward B about 1,056   
+lines; the 1734 edition marks approximately 1,081 lines for deletion and   
+the 1763 Garrick version omits about 1,220 lines. The Garrick   
+prompt-book and the1703 Folger promptbook (obviously related   
+versions) <note target="n8">8</note> cut too drastically at the end   
+to make comparative figures very helpful. <note target="n9">9</note></p>   
+   
+<p>In comparing these figures with the amount of cutting in the   
+Smock Alley <hi>Hamlet</hi> one is confronted not only by the   
+discrepancy in length between the quarto and folio texts, but also by the   
+difficulty of determining the exact amount of cutting intended. Two   
+distinct layers of cutting may be distinguished. The earlier layer is, in   
+general, indicated by a rough circling of a line or group of lines; the   
+second layer by a crossing through of individual lines (or occasionally by   
+rough crisscrossing of a group of lines). <note target="n10">10</note>    
+Someone apparently went   
+   
+   
+<!-- </page> --><!-- <page n=5> -->   
+   
+through the play (possibly with a copy of Q6 beside him) and circled   
+lines and groups of lines with a view to preliminary cutting. This   
+individual circled, in all, about 607 lines. Following this, Hand II   
+(possibly, of course, the same person as the first 'circler') went through   
+the play again, straightening out some of the tangles created by the   
+circling, crossing through roughly 427 of the circled lines, at the same   
+time crossing through an additional 175, making a total of 602 lines   
+clearly marked for deletion. To these must be added 8 lines at IV.iv (the   
+momentary entrance of Fortinbras in the folio text) which, though only   
+circled, were certainly meant to be deleted, and another 7 lines in a torn   
+section at II.ii.244 and III.iii.26. In all, then, the Smock Alley   
+<hi>Hamlet</hi> would appear to cut around 617 lines. Allowing for   
+the difference in length between quarto and folio texts, this figure gives a   
+version only slightly longer than that of Q6. <note   
+target="n11">11</note> There still remain, however, about 169 lines   
+which have been circled but not otherwise marked, a number of which   
+'cuts' agree with suggested cuts in Q6. In many cases, moreover, I find   
+it difficult to believe that these cuts were not finally intended,   
+particularly, for example, in the play-within-the-play, which otherwise   
+remains completely uncut. <note target="n12">12</note> If, then,   
+we may suppose that the cutting includes all the circled passages not   
+otherwise marked for deletion by partial crossing through, we arrive at a   
+final total of around 786 lines, leaving a play of approximately 2,860   
+lines, <note target="n13">13</note> version nearly the same length   
+as that of the suggested cutting of Q6 (2,832 lines).</p>   
+   
+<p>The relation of the Smock Alley <hi>Hamlet</hi> to Qq. 6-7   
+(1676) must now be examined. Some connection with the text of   
+<hi>Hamlet</hi> as it is found in Qq. 6-7 (and in the succeeding   
+quartos) is certain, but whether the connection comes through the use of   
+a copy, or copies, of Qq. 6-7 or through the reviser's (largely Hand II)   
+knowledge of the London production on which Qq. 6-7 are based,   
+requires consideration. The evidence is confusing. Many of the cuts,   
+both those circled and those crossed through, agree exactly with cuts   
+marked in Qq. 6-7.   
+   
+<!-- </page> --><!-- <page n=6> -->   
+   
+Moreover, passages omitted from the quarto version are often circled or   
+crossed through, and many readings (mostly introduced by Hand II)   
+which appear in print for the first time in Qq. 6-7 have been inserted   
+throughout in the folio text. <note target="n14">14</note> On the   
+other hand, many passages marked for deletion in Qq. 6-7 are not cut in   
+the Smock Alley <hi>Hamlet</hi>;  it makes independent   
+cuts, and it sometimes follows the Qq. 6-7 reading only in part, giving   
+the appearance of a reviser working rather from memory than from a   
+printed text. <note target="n15">15</note> Occasionally,   
+moreover, Hand II will alter phrasing in the folio (also revised or   
+different in Qq. 6-7), but produce something quite unlike the Qq. 6-7   
+reading. <note target="n16">16</note> There is, however, one   
+piece of evidence which points with some certainty to the use, at some   
+stage, of a copy of Q6 (or Q7). At I.i.78 the Folio has been altered to   
+read (Hand ?II): 'makes the night joynt-laborour<hi rend="sup">or</hi> with   
+the day:' to bring it into agreement with the reading of Qq. 6-7: 'Makes   
+the night joynt labour with the day?' The word 'labour' in Qq. 6-7 is   
+obviously an error (shared with Q5 [1637] and corrected in Q8 [1683])   
+and the only way in which I can explain the redundant form   
+'laborour<hi rend="sup">or</hi>' in the Smock Alley PB is to postulate   
+careless copying from a corrected copy of Q6 (or Q7). The evidence, as   
+a whole then, suggests considerable but not very systematic use of Qq.   
+6-7, eked out, as I shall suggest below, with what the reviser (or   
+revisers) remembered from London performances.</p>   
+   
+<p>At certain places the handling of the text in the Smock Alley   
+<hi>Hamlet</hi> might seem to be more closely connected with   
+eighteenth-century usage than with that in Q6. The most obvious   
+example is the omission of the dumb show in III.ii and the changes in   
+the dialogue between Hamlet and Ophelia immediately following.   
+Actually, however, Q6 here most probably fails to record contemporary   
+London stage usage, while the Smock Alley PB preserves it, since it is   
+most unlikely that the direction of influence would have been from   
+Dublin to the later English stage. Other examples, where the Smock   
+Alley PB may certainly or probably be interpreted as revealing   
+contemporary   
+   
+<!-- </page> --><!-- <page n=7> -->   
+   
+London production or cutting, may be studied, in the text or collations,   
+at I.i.30-31, 33-34, 70 (discussed below); I.ii.202-204; I.iii.2-4; I.iv.65;   
+I.v.135, 142, 156; I.ii.489; III.ii.192-195; IV.i.1-2, 14-23, 25-27;   
+IV.iii.8, 58-70; IV.v.147-148, 152; IV.vii.162; V.i.240 s.d.;   
+V.ii.278.</p>   
+   
+<p>In his article on the Ward prompt-books, Dr. McManaway   
+discusses the method there followed for getting the Ghost on and off   
+stage in I.i, I.iv-v, and III.iv. It is clear that a trap was used for the   
+Ghost's exit in I.v and for his entrance in III.iv. In I.i he seems to have   
+'stalked' on and off both times. <note target="n17">17</note> But   
+Dr. McManaway and the late W. J. Lawrence would like to postulate the   
+use of a trap for entrance and exit in I.i and for entrance in I.iv on the   
+Elizabethan stage. The Smock Alley <hi>Hamlet,</hi> however, does   
+not support this view; no trap seems to have been used in any of the   
+scenes in question. <note target="n18">18</note> One piece of   
+'business' in I.i should perhaps be particularly noticed since it may have   
+some bearing on the presentation of the Ghost's two entrances. The   
+quarto and folio texts contain lines which make it clear that Horatio,   
+Marcellus, and Barnardo are meant to be seated just before each   
+appearance of the Ghost, but the Smock Alley PB, Ward A and B,   
+Folger 1703 quarto, the Garrick 1763 text, and the 1734 Tonson text   
+(though the last does not for some reason appear to cut the reference in   
+line 30) all agree in deleting the several references to sitting. Such a   
+change, of course, makes it unnecessary to have something 'on stage'   
+upon which the three men can sit and hence cuts down on stage props,   
+but it is also possible that the change was made to facilitate the entrance   
+of the Ghost 'OP' or 'PS' instead of by way of the 'long trap' in the   
+centre of the stage. If this argument may be allowed any weight, it   
+would imply that a change took place in the Restoration London staging   
+of this scene, a change not   
+   
+<!-- </page> --><!-- <page n=8> -->   
+   
+reflected in Q6, and that the failure of the Smock Alley PB to employ a   
+trap entrance for the Ghost need not be interpreted as evidence against   
+Elizabethan use of the trap in this scene.</p>   
+   
+<p>The Smock Alley <hi>Hamlet</hi> makes use of a number of the   
+stock scenes, all but one appearing in several of the other plays: Castle   
+(I.i, iv; IV.vi), Court (I.ii; II.ii; IV.i, iii, vii; ?V.ii), <note   
+target="n19">19</note> Chamber (I.iii; III.iv; IV.ii, v), bed   
+chamber (II.i), Towne (V.i, ii [cancelled]), Church (V.i.240). The   
+change of scene to 'Church' in V.i at line 240 introduces a setting not   
+used elsewhere in the Smock Alley prompt-books; moreover a change of   
+scene at this point, where the original text does not call for it, is   
+interesting in itself, especially when it is also found in the 1734 Tonson   
+and 1763 Garrick texts, suggesting once again that the Smock Alley   
+<hi>Hamlet</hi> reflects Restoration London usage. The scene opens,   
+we may suppose, with the 'graveyard' set up against a flat depicting   
+houses and perhaps the outside of a church (this 'Towne' setting is   
+employed in five other Smock Alley plays); at line 240 the scene is   
+drawn, <note target="n20">20</note> discovering some sort of   
+'church interior' out of which the procession with Ophelia's body issues.   
+At the conclusion of the scene, the scene would be 'closed,' as Hand I   
+indicated with his setting 'Towne' at the beginning or V.ii. This scene   
+was later recognized as unsatisfactory and resulted in the cancelling of   
+'Towne' and the call for a 'new sceen' by Hand VI.</p>   
+   
+<p>In its handling of the soliloquies the Smock Alley <hi>Hamlet</hi>    
+is close to Q6 and to most eighteenth-century versions. <note target="n21">21</note>    
+'To be, or not to be' and "Tis now the very   
+witching time' escape untouched (though Q6 and the later versions cut   
+the last three lines of the second); 'Now might I do it pat' also appears   
+to be uncut, though the Smock Alley PB is imperfect here (Q6 cuts   
+'Then trip . . . goes:' [93-95], but nothing in the earlier   
+   
+<!-- </page> --><!-- <page n=9> -->   
+   
+part of the speech which is missing from Smock Alley PB); 'How all   
+occasions do inform' is, of course, omitted in the Folio text and hence in   
+the Smock Alley PB, but in most of the later versions this speech was   
+also cut entirely. <note target="n22">22</note></p>   
+   
+<p>In his attitude toward Shakespeare's language, the reviser (largely   
+Hand II) honors, for the most part, the modernizations found in the Q6   
+text. Occasionally he introduces variants of Q6's forms, <note target="n23">23</note>    
+and from time to time makes changes or   
+additions of his own (see, I.ii.64; I.ii. 126, 133-134, 202-204; I.iii.56,   
+108-109; I.iv.73-74; I.v.91; II.ii.6-12, 15-18; III.i.173-175; III.ii.146,   
+149, 152, 153, 154; III.iii.37; III.iv. 19; IV.iii.3, 4, 45, 46-47, 58-70;   
+IV.v.77-94, 94, 101, 103-106, 151, 171, 172; IV.vii.6, 162;   
+V.ii.294).</p>   
+   
+<!-- </page> --><!-- <page n=10> -->   
+   
+<p>The Smock Alley <hi>Hamlet</hi> has been compared   
+throughout with the following seven stage versions: (1) the Betterton   
+cutting first published in 1676 (here represented by a copy of the   
+four-line imprint edition and referred to as Q6); the remaining quartos   
+(1676, 1683, 1695, 1703) all present essentially the same text. (2) The   
+1734 Tonson edition, representing the Wilks' text of 1723 (referred to as   
+1734). (3) Ward A and (4) Ward B (see Note 3, above). (5) The first   
+Garrick version, represented by the 1763 edition referred to as 1763. (6)   
+The autograph Garrick prompt-book of his 1772 version (referred to as   
+Garrick PB). (7) The 1703 quarto Folger prompt-book, dating sometime   
+after 1772 (referred to as 1703 Folger). <note target="n24">24</note>    
+The cuts in the Collier-Perkins Second Folio   
+(1632) have also been compared.</p>   
+   
+<note id="n1">1. A later quarto (Q8, 1683, etc.) is almost certainly   
+ruled out by (a) the  evidence in I.i.78 (see discussion below) and (b) the   
+supporting evidence of the other related Smock Alley  prompt-books.</note>   
+   
+<note id="n2">2. W. S. Clark, <hi>The Early Irish Stage</hi>    
+(Oxford, 1955), pp. 208-209. The identification of   
+'&lt;?W&gt;illian' in the  call at V.ii.153 as Williams is not, of  course,   
+certain. Williams appears elsewhere only in the <hi>Julius Caesar</hi>    
+cast, a cast which can be dated as not later than 1676.</note>   
+   
+<note id="n3">3. The nearest contestants are two prompt-books   
+prepared by the actor John Ward probably around 1745 (hereafter   
+referred to as Ward A [Tudor and Stuart Club, Johns Hopkins   
+University] and Ward B [Folger Shakespeare Library]). Ward A makes   
+use of one of the 1676 quartos (four-line imprint); Ward B, of a copy of   
+the 1683 quarto. See James G. McManaway, "The Two Earliest Prompt   
+Books of <hi>Hamlet," PBSA,</hi> XLIII (1949), 288-320. Dr.   
+McManaway dates these two Ward prompt-books 'shortly after 1740' (p.   
+310), but Ward's use of Warburton's emendation 'Hernshaw' at II.ii.398   
+(Ward A) ) would suggest a date after 1744. When Dr. McManaway   
+wrote his article, the whereabouts of the Smock Alley <hi>Hamlet</hi>    
+was unknown and it is to his kindness that I owe my knowledge of   
+it.   
+<lb><lb>   
+A copy of the 1703 quarto (Folger Shakespeare Library, hereafter   
+referred to as 1703 Folger) which shows definite evidence of stage   
+provenience is much later and can be closely associated with Garrick's   
+1772 version (see, below, note 22). Another theatre version in the Folger   
+Library, employing a 1750 Dublin edition of <hi>Hamlet,</hi> dates   
+from Richard Daly's management of the Crow Street Theatre, Dublin   
+(i.e. 1788-97). It has interesting notes on the acting of Hamlet's role, but   
+is not properly speaking a prompt-book. I have not included it among the   
+theatre versions compared in the Collations.</note>   
+   
+<note id="n4">4. I have mistakenly described Hand  VI as the same   
+as Hand V in <hi>Othello</hi> and Hand III in <hi>I Henry IV</hi>    
+in the General Introduction, p. 17, found in Volume I,<hi> Macbeth.</hi></note>   
+   
+<note id="n5">5. The Folio text lacks roughly 200 lines   
+found in Quarto 2 (1604) and in all the later quartos, but it also contains   
+about 85 lines not found in the quarto texts. The large amount of   
+prose in <hi>Hamlet</hi> further complicates the counting of lines in   
+texts which range from double column folio to duodecimo format.</note>   
+   
+<note id="n6">6. See note 3, above.</note>   
+   
+<note id="n7">7. I have not been able to see a copy of the 1751   
+edition of the first Garrick version, but C. B. Hogan <hi>(Shakespeare   
+in the Theatre,</hi> II (1957), 188) asserts    
+that the 1763 edition is identical with the 1751 edition 'save for minor   
+omissions or restorations.' See Hogan's list of the more important   
+omissions in the 1751 edition (pp. 187-188).   
+</note>   
+   
+<note id="n8">8. See note 22, below.</note>   
+   
+<note id="n9">9. The 1703 Folger prompt-book cuts about 712    
+lines through IV.v; the Garrick prompt-book appears to cut only   
+about 361 lines down to IV.vi, though I am somewhat suspicious of the   
+apparent lack of cutting in the first four acts in view of the relationship   
+between the Garrick prompt-book and the 1703 Folger version.   
+</note>   
+   
+<note id="n10">10. For the evidence establishing the relative order,   
+see the text or collations at I.i.72-80, 90-96, 99-107; I.ii.17-41;   
+II.i.1-74; II.ii.6-12; IV.iv.123-125. A third layer of cutting may be   
+indicated by the use of a red crayon at II.ii.172, 173; III.iv.118-122,   
+V.ii.338.   
+</note>   
+   
+<note id="n11">11. The omission of the dumb show in III.ii (retained   
+by Q6) by Smock Alley  PB would further serve to level the playing   
+time.   
+</note>   
+   
+<note id="n12">12. By this I mean circled passages in which none of   
+the lines has been separately deleted by being crossed through. There   
+are, in support of the view that circling also implies cutting, two places   
+where circled passages have been marked 'stet' (see III.iii.40-64 and   
+III.iv.118-122).   
+</note>   
+   
+<note id="n13">13. My count is based on Alfred Hart's total of 3,761   
+lines for <hi>Hamlet,</hi> with allowance made for the Folio text (see   
+<hi>RES</hi>, VIII [1932], 21) .   
+</note>   
+   
+<note id="n14">14. See, for example, I.ii.141, 195; I.iii.7, 20, 46;   
+I.v.187; II.ii.437; IV.vii.10, 14.   
+</note>   
+   
+<note id="n15">15. See, for example, I.ii.77-81, 195; I.iii.30;   
+I.v.91, 133; II.ii. 553; III.i.30-31; IV.iii.46-47; IV.v.123-125, 147-148;   
+IV.vii.63, 128-129. Compare the use of the D'Avenant <hi>Macbeth</hi>    
+in the Smock Alley PB.   
+</note>   
+   
+<note id="n16">16. See, for example, I.v.186; II.i.77, 79;   
+IV.v.123-125, 151; IV.vii.63.   
+</note>   
+   
+<note id="n17">17. McManaway,   
+<hi>op</hi>.<hi>cit</hi>., 315-317. It is interesting to   
+compare also the handling of these scenes in the 1703 Folger PB. In I.i   
+the Ghost walks on 'OP' and exits 'PS'; he then re-enters 'PS' and exits   
+'OP' (incidentally the 'cock crowing' is here deleted). In I.iv the Ghost   
+walks on 'PS' and exits with Hamlet 'PS', re-entering immediately with   
+Hamlet 'OP'. A trap, however, is used for his exit, the direction reading   
+'Ghost sinks PS' (the understage swearing is here cut to a single 'Swear'   
+on the Ghost's part at line 149, lines 150-163 being deleted). In III.iv the   
+Ghost walks on 'OPd' and off (his exit position not noted since he only   
+appears and does not move).   
+</note>   
+   
+<note id="n18">18. That the Smock Alley theatre was  equipped for   
+trap appearances is proved by two such entrances in the Smock Alley   
+prompt-book of Wilson's  <hi>Belphegor</hi> (<hi>c.</hi> 1677), a   
+play more or less exactly contemporary with the Smock Alley   
+<hi>Hamlet.</hi>   
+</note>   
+   
+<note id="n19">19. V.ii was originally marked  'Towne'   
+(Hand I), but this was crossed through and altered to 'new sceen' (Hand   
+VII), by which is meant probably the 'Court' scene (Hand I having   
+originally suggested a change of scene to 'Court' at line 235, also   
+crossed through).   
+</note>   
+   
+<note id="n20">20. Compare the s.d. in the 1734 Tonson version:   
+'Scene draws, and discovers the King, Queen, <hi>Laertes</hi> and -   
+Priest, with a Corse.' Rowe describes the whole setting of V.i as   
+<hi>'SCENE A Church.'</hi>   
+</note>   
+   
+<note id="n21">21. See Hazelton Spencer, <hi>'Hamlet</hi> under   
+the Restoration,' <hi>PMLA,</hi> XXXVIII (1923), 770-791, and   
+'Seventeenth-Century Cuts in Hamlet's Soliloquies,' <hi>RES, IX</hi>    
+(1933), 257-265.  G. W. Stone, Jr. ('Garrick's Alteration    
+of <hi>Hamlet,' PMLA,</hi> XLIX [1934], 890-921) also offers   
+some interesting figures on cutting in several eighteenth-century printed   
+versions.   
+</note>   
+   
+<note id="n22">22. First restored in Garrick's 1772 version (see   
+Stone, <hi>op.cit., p.</hi> 903). It is also restored (and arranged as in   
+the Garrick version, except that Rosincrantz takes the Captain's place   
+instead of Guildenstern) in the 1703 Folger PB, which concludes IV.iv   
+and begins IV.v as follows (beginning with line 59) :   
+<lb><lb>   
+"And let all sleep, Awake my Soul awake!   
+<lb><lb>   
+Wake Nature, Manhood Vengeance [wake <hi>deleted;]</hi> rouse at   
+once   
+<lb><lb>   
+My Father's Spirit calls! the hour is come!   
+<lb><lb>   
+From this time forth--My thoughts be bloody all   
+<lb><lb>   
+I'll fly my Keepers--Sweep to my Revenge.   
+<lb><lb>   
+Exit PS. <hi>Scene Enter King &amp; Queen PS.   
+<lb><lb>   
+King:</hi> See where She comes--it is a piteous Sight.   
+<lb><lb>   
+<hi>Queen.</hi> O She Cleaves my heart--her distemperd mind   
+<lb><lb>   
+Communicates Infection to my own.   
+<lb><lb>   
+<hi>Enter Ophelia distracted   
+</hi>Where is the beauteous &amp;c"   
+<lb><lb>   
+The connection with Garrick's concluding lines in Hamlet's soliloquy is   
+obvious: 'O from this Time forth,/ My Thoughts be bloody all! the hour   
+is come-- / I'll fly my Keepers--sweep to my revenge.' (see Stone,   
+<hi>op.cit</hi>., p. 912). On the other hand, the beginning of   
+Garrick's equivalent of IV.v shows no connection with the opening lines   
+as given in the 1703 Folger PB. Later in IV.v, however, we find 1703   
+Folger PB following Garrick's insertion of lines 203-219 ('go but . . .   
+with me.') after line 152 ('.. . your eye.'). These points of contact with   
+Garrick's 1772 version explain why the prompt-markings stop with the   
+end of IV.v, what little remains in Garrick's version having been   
+separately copied out by the prompter (and since lost). The fact that the   
+lines quoted from the conclusion of Hamlet's soliloquy (IV.iv) agree   
+exactly with the conclusion of that soliloquy as quoted by the younger   
+Boswell (Boswell's edition of Malone's <hi>Shakespeare,</hi> 1821,   
+II, 692) from another copy of the 1703 quarto prepared by William   
+Hopkins, Garrick's prompter (see Stone, <hi>op.cit.,</hi> p. 891)   
+would suggest perhaps that this version, rather than that quoted directly   
+from Garrick's autograph copy by Stone (<hi>op.cit</hi>., p. 912),   
+was the final stage form and that the opening lines inserted in the   
+1703 Folger PB for IV.v also represent Garrick's final version. If this is   
+so, then the 1703 Folger version deserves further study since a number   
+of the earlier cuts agree only in part with the cuts listed by Stone for   
+Garrick's adaptation.   
+</note>   
+   
+<note id="n23">23. See Note 14, above.   
+</note>   
+   
+<note id="n24">24. The version in Bell's <hi>Shakespeare</hi>    
+(1773), Vol.III, is essentially a reprint of the 1751   
+Garrick text.   
+</note>   
+   
+<!-- </page> --><!-- <page n=11> -->   
+</div0><div0 type="collations">   
+<head>Collations   
+<lb>   
+<hi>Hamlet</hi>   
+<lb>   
+Prompt-Book   
+</head>   
+   
+<div1 type="introduction">   
+<head></head> 
+<p>The act, scene, and line numbering is that of the standard Globe   
+text (<hi>1911</hi> ed.). Angle-brackets are used to indicate (1)   
+missing words or letters; (2) illegible words or letters; (3) doubtful or   
+conjectural readings. The following abbreviations are employed:   
+</p>   
+   
+<list>   
+<item>Collier MS: . . . . . . the Collier-Perkins Second Folio (1632)   
+now in the Huntington Library</item>   
+   
+<item>F: . . . . . . . . . .  here used for Third Folio (1664)</item>   
+   
+<item>Ff: . . . . . . . . . . indicates agreement of all four Folios</item>   
+   
+<item>Garrick PB: . . . . . . Garrick's 1772 acting version, in the   
+Folger Shakespeare Library, partly autograph, based on a 1747 printed   
+text</item>   
+   
+<item>Inchbald: . . . . . . . <hi>Hamlet</hi> in Mrs. Inchbald's   
+<hi>The British Theatre</hi> (1808), Vol. I</item>   
+   
+<item>PB: . . . . . . . . . . Smock Alley <hi>Hamlet</hi> prompt-book</item>   
+   
+<item>Q6: . . . . . . . . . . the Betterton acting version of 1676</item>   
+   
+<item>Qq: . . . . . . . . . . indicates substantial agreement of all quarto   
+versions (except Q1)</item>   
+   
+<!-- </page> --><!-- <page n=12> -->   
+   
+<item>Ward A: . . . . . . . . John Ward's prompt-book (c. 1745) in   
+the Tudor and Stuart Club collection, Johns Hopkins University</item>   
+   
+<item>Ward B: . . . . . . . . a second prompt-book belonging to John   
+Ward (c.1745) in the Folger Shakepeare Library</item>   
+   
+<item>1703: . . . . . . . . . Folger prompt-book, in the Folger   
+Shakespeare Library, associated with the Garrick PB version, based on a   
+copy of the 1703 quarto</item>   
+   
+<item>1734: . . . . . . . . . Tonson's 1734 edition of <hi>Hamlet</hi></item>   
+   
+<item>1747: . . . . . . . . . see above, Garrick PB</item>   
+   
+<item>1763: . . . . . . . . . Garrick's first acting version, as printed in 1763</item>   
+   
+<item>1773: . . . . . . . . . <hi>Hamlet</hi> in Bell's <hi>Shakespeare</hi> (1773), Vol. III   
+</item></list>   
+   
+</div1>   
+<div1 type="act" n=1>   
+<head>I.</head>   
+<div2 type="scene" n=1.1>   
+<head>I.i.</head>   
+  
+<p><figure entity="ha-p730">   
+<figDesc>Image of prompt-book page 730</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha11king">King / &lt; &gt; 0phelia / &lt; &gt; Ghost /   
+[line] ]</xref> Possibly Hand II. As a prompt call this notation makes no sense. Apparently   
+something which has been trimmed away preceded the last two names,   
+but even before trimming there would not have been enough room for   
+actors' names.</p>   
+   
+<p><xref doc="ha11cast"> I.i.: Castle]</xref> Hand I. 1734, 1763, Garrick PB, give the setting as   
+<hi>'An open place before the Palace.';</hi> Ward A, 'Town:'; Ward   
+B, 'a platform.' (these are the only suggestions of actual settings in Ward   
+A, B). 1703 Folger contains no descriptions of settings, though the   
+opening s.d. reads <hi>'Enter</hi> Barnardo, Francisco from the   
+Castle.'</p>   
+   
+<p><xref doc="ha111">1: Horatio / Marcellus]</xref> Hand II. Entry marked with crossed line at   
+14. What looks like a small cross below this line is an ink off-print from   
+the facing page (731) .</p>   
+   
+<p><xref doc="ha1119x">19-20: Ghost / Redy]</xref> Hands II, VII. <xref doc="ha1119y">Entry marked with crossed   
+line at 39</xref>.</p>   
+   
+<p><xref doc="ha1130">30-31: <hi>Bar.</hi> Sit . . . And]</xref> Circled. <hi>'Bar.'   
+</hi>circled in error. Note that all later references to sitting down (33,   
+70) are likewise circled for deletion. So Ward A, B, 1763, 1703 Folger,   
+all of which substitute 'Come' (1734, although it cuts the later   
+references, retains 30-31) .</p>   
+   
+<p><xref doc="ha1132">32: so]</xref> Possibly crossed through, though the deletion may be   
+simply an ink off-print from the facing page (731).</p>   
+   
+<!-- </page> --><!-- <page n=13> -->   
+   
+<p><xref doc="ha1133">33-34: <hi>Hor.</hi> Well . . . And]</xref> Circled. <hi>'Hor.'   
+</hi>circled in error. Cut (retaining 'Well') 1734, Ward A, B, 1763,   
+and 1703 Folger.</p>   
+   
+<p><xref doc="ha1156">56: Before my God]</xref> Circled. Omitted Q6, etc.</p>   
+   
+<p><xref doc="ha1159x">59-60: Ghost / Redy]</xref> Hands II, VII.    
+<xref doc="ha1159y">Entry marked with crossed line at 125</xref>.</p>   
+   
+<p><xref doc="ha1162">62-64: So fround . . . strange.]</xref> Circled. Cut 1734, Ward A, 1763;   
+Q6, Ward B cut 62-63.</p>   
+   
+<p><xref doc="ha1163">63: Cock]</xref> Hand II. Call for the cock-crowing at 137 or 139; see   
+below. Ward A, at 67, reads 'one to Crow'; Ward B, at 102, 'one /   
+Ready to Crow'.</p>   
+   
+<p><xref doc="ha1170">70: Good now . . . and]</xref> Crossed through. Cut 1734, Ward A, B,   
+1763, Garrick PB, 1703 Folger (retaining Q 'Pray' for F 'Good   
+now').</p>   
+   
+<p><xref doc="ha1172x">72-80: So nightly . . . so:]</xref> Circled   
+and partly crossed through. <xref doc="ha1172y">There are several layers of cutting here.    
+72-77, 78-79, 80 are separately circled</xref>.    
+Originally only 72-77 were included. Hand II finally gave the   
+passage its final form, crossing through 73-77, placing 'and' at the end   
+of 72, and deleting F 'Doth' in 78; at the same time altering 78 to read   
+'makes the night joynt-laborour<hi rend="sup">or</hi> with the day:' (the   
+Qq all omit 'Doth' and read 'makes'). Hand ?II has also written what   
+looks like 'for' before F 'Doth' (78), an addition deleted at the same   
+time as 'Doth'. It is not clear whether 'At . . . so:' (80) is meant to be   
+cut in the final version of the lines (it has not been crossed through). See   
+the Introduction (p. 6) for a discussion of   
+'joynt-laborour<hi rend="sup">or</hi>'. 1763 reads the speech as in the final   
+form in PB (cutting 'At . . . so:' 80); Q6, 1734 cut 73-79(' . . . me?'),   
+80 ('At . . . so.'); Ward A, B cut 73-77 (reading 'Making' 78), 80 ('At   
+. . . so.'); 1703 Folger cuts only 80 ('At . . . so.') .</p>   
+  
+<p><figure entity="ha-p731">   
+<figDesc>Image of prompt-book page 731</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha1183">83: (Thereto prick'd . . . prise) ]</xref> Circled and crossed through. Cut   
+Q6, etc. (except Garrick PB).</p>   
+   
+<p><xref doc="ha1185">85: (For so . . . him) ]</xref> Circled and crossed through. A single   
+vertical line after 'Combate.' (84) seems to join this deletion with that in   
+83. Cut Q6, etc. (except Garrick PB) .</p>   
+   
+<p><xref doc="ha1190">90-96: Against the . . . full,]</xref> Circled and crossed through (except   
+for 'Now sir, young <hi>Fortinbras'</hi> 95). Hand ?II has written   
+'and he' (deleted) opposite the end of 96, intending to link 89 and 97.   
+Later it was seen that the 'he' would thus refer to the elder Fortinbras;   
+'and he' was cancelled and the last half of 95 retained in its place, the   
+other lines being crossed through. 1734, Ward, A, B as finally in PB;   
+Q6 cuts 89-96; 1763 as in PB, but retains 96.</p>   
+   
+<!-- </page> --><!-- <page n=14> -->   
+   
+<p><xref doc="ha1199">99-107: For food . . . Land.]</xref> Circled and 99-102 ('For . . . But'),   
+103 ('And termes compulsative,'), 106-107 crossed through. The original   
+circling loses most of the point of the speech. Q6 cuts 99-104 ('For . . .   
+lost:') and 106-107; 1734, 1763, 1703 Folger cut as in PB, but also   
+delete 'of . . . hand' (104); Ward A cuts 99-103 ('For . . . compulsa-   
+tory,') and adds, as link, 'to recover'; Ward B cuts as in PB, but also   
+deletes 'by strong hand' (102) .</p>   
+   
+<p><xref doc="ha11137">137, 139: Croe / Crow]</xref> Hands ?III, ?VIII. Q6, etc., following 138   
+note '<hi>The Cock crows</hi>.'<hi></hi> (cancelled in 1703   
+Folger).</p>   
+   
+<p><xref doc="ha11141">141-142: King. Queene / Polonius Laertes /   
+Hamlet / Redy]</xref> Hand   
+II ('Redy' Hand VII). Entry marked with crossed line at opening of   
+scene ii. Note that, like Q6, 1734, Ward A, 1763, Garrick PB, 1703   
+Folger, PB omits Ophelia from those entering in scene ii (the name is   
+not deleted in PB's F s.d.); Ward B adds Ophelia to the quarto   
+entry.</p>   
+   
+<p><xref doc="ha11158x">158-165: Some sayes . . . it,]</xref> Circled and crossed through.    
+<xref doc="ha11158y">'Hor:' added at beginning of 166.</xref>    
+Q6 cuts 155, ('and . . . ') 156, 158-165;   
+1734, Ward A, B, 1763 cut 155 ('And . . . ') 165.</p>   
+   
+<p><xref doc="ha11164">164: scea&lt;n&gt;]</xref> Hand I. This notation calls for the change of   
+scene at scene ii below. It is used regularly in this PB, except at the end   
+of acts; it is used nowhere else in the Smock Alley PB's.</p>   
+   
+</div2>   
+<div2 type="scene" n=1.2>   
+<head>I.ii.</head>   
+   
+<p><xref doc="ha12cour">Court]</xref> Hand I. 1734, 1763, Garrick PB read '<hi>The   
+Palace</hi>.';<hi></hi> Ward A places the symbol <figure></figure> in left   
+margin opposite Q s.d.; Ward B deletes <hi>'Enter'</hi> in Q s.d. and   
+notes in the right margin ' (Discover'd) '.</p>   
+   
+<p><xref doc="ha1211">11-13: With one . . . Dole]</xref> Circled and crossed through (13 may   
+have been separately circled). Cut Q6, etc. (except Garrick PB), and   
+Collier MS.</p>   
+   
+<p><xref doc="ha1217a">17: for all our thanks.]</xref> Crossed through. Cut 1734, Ward A, B,   
+1763.</p>   
+   
+<p><xref doc="ha1217b">17-41 s.d.: you know . . . <hi>Cornelius</hi>.]</xref> Circled (except   
+for 17) and partly crossed through. The original rough circling of these   
+lines (17 excepted) left the speech dangling. Hand II crossed through the   
+last half of 17 ('you . . . <hi>Fortinbras,'),</hi> and substituted, in   
+the right margin, preceded with a small cross, 'we have ['have'   
+<hi>smeared or deleted]</hi> disp&lt;atch'd&gt; / Embassadours   
+&lt;?to&gt; / young Fortin&lt;bras&gt; / And now La&lt;ertes&gt;   
+[<hi>the last three words deleted</hi>]'. He then crossed through   
+18-35, deleted F 'to you' (36), interlining 'them' above, inserted 'of   
+Treaty' (something cancelled after 'of') following F 'power' (36), and   
+deleted F 'To businesse' and   
+   
+<!-- </page> --><!-- <page n=15> -->   
+   
+'more' in 37. He finally crossed through 39-41 (including the s.d.).   
+Hand V is responsible for the speech-heads 'Pol:' before 36 and 'King',   
+affixed with a caret above the beginning of 42. It is possible that the   
+changes in 36 are also Hand V's work. Some reference to the   
+'Ambassadours' is preserved by Hand II to prepare for the report of their   
+return in II.ii. 40-41, but why three of the King's lines (36-38) are given   
+to Polonius is not very clear. Originally Hand II intended to cut   
+everything down to 42 (see the cancelled 'And now La&lt;ertes&gt;'   
+above). Note also that the 'Ambassadours' have been sent to 'young   
+Fortin&lt;bras&gt;' instead of to 'old <hi>Norway'.</hi> Q6 cuts   
+17-41 ('Now . . . farewell.'); 1734 seems to cut 17-50; Ward A cuts   
+16-41 ('for . . . farewell.'), linking with 'And' and including 'what's . .   
+. you?' in 42; Ward B, 63 cut 16-41 ('for . . . farewell.'); 1703 Folger   
+cuts 17 ('Now . . . farewell.') and links with 'And' to 42.</p>   
+  
+<p><figure entity="ha-p732">   
+<figDesc>Image of prompt-book page 732</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha1243">43-50: What is't . . . <hi>Laertes?</hi>]</xref> Circled   
+(except 43) and crossed through (except 50). Hand II thus exchanges 50   
+for 43. Q6, Ward A, B, 1763 cut 44-50; 1734 cuts, 17-50; Collier MS,   
+45-50 ('beg . . . <hi>Laertes</hi>?).</p>   
+   
+<p><xref doc="ha1256">56: And bow . . . pardon,]</xref> Crossed through. Cut Q6, 1734, Ward   
+A, B.</p>   
+   
+<p><xref doc="ha1263">63: thy best graces]</xref> Crossed through. Cut 1734, Ward A; Ward B   
+cuts whole line.</p>   
+   
+<p><xref doc="ha1264">64: our . . . our]</xref> Hand II interlines 'our' above deleted 'my' in   
+both cases. The change misses the intentionally personal quality of   
+Claudius' approach to Hamlet.</p>   
+   
+<p><xref doc="ha1277">77-81: my Inky . . . Visage,]</xref> Crossed through. Hand 1I substitutes   
+'these / mourning weeds'. Q6 cuts 78-81 (reading 'this mourning   
+cloke'); 1734, Ward A, B, 63, Garrick PB, 1703 Folger also cut 78-81   
+(reading 'this mourning Suit').</p>   
+   
+<p><xref doc="ha1284">84: For they . . . play:]</xref> Crossed through. Hand II writes 'but'   
+(cancelled) at end of 83. Cut Q6, 1734, Ward A, B.</p>   
+   
+<p><xref doc="ha1294">94-106: 'Tis unmanly . . . so.]</xref> Circled and crossed through. So   
+1763; Q6, 1734, Ward B cut 95-106; Ward A, 92 ('but . . .') -106;   
+Garrick PB, 94-106 ("tis . . . so.') retaining 'to Heaven:' (95); Collier   
+MS, 95-99, 101-106 ('rye . . . so.').</p>   
+   
+<p><xref doc="ha12108">108-112: horatio / Barnard / Marcellus /   
+Redy]</xref> Hand VII. Hand   
+II's call at 140-142 has been cancelled.</p>   
+   
+<p><xref doc="ha12110">110-116: And with . . . eye,]</xref> Circled and crossed through. So Q6,   
+1734, Ward A, B, 1763; 1703 Folger cuts 112 ('for . . . ') -114; 1747   
+cuts 110-117.</p>   
+   
+<p><xref doc="ha12126">126: it.]</xref> Hand II adds 'it.' at end of 126, preceded by a cancelled   
+word or letters. So 1763.</p>   
+   
+<!-- </page> --><!-- <page n=16> -->   
+   
+<p><xref doc="ha12127">127-128: And the . . . away.]</xref> Circled and crossed through (except   
+'Come away.' 128) . Q6, Ward B, 1703 Folger cut 127; 1734, Ward A,   
+1763, Garrick PB cut both lines completely.</p>   
+   
+<p><xref doc="ha12130">130: Thaw and . . . self]</xref> Circled and crossed through.</p>   
+   
+<p><xref doc="ha12132">132: O God, O God?]</xref> Circled (with last part of 133) and crossed   
+through. Omitted Q6, 1734, Ward A, B, 1763, Garrick PB.</p>   
+   
+<p><xref doc="ha12133">133-134: wearysome / to me are all]</xref> Originally only 'stale . . .   
+unprofitable' (133) circled; then Hand II crossed through these words   
+and 'Seems' in 134, placed 'some' after the deleted F 'unprofitable', and   
+interlined 'are' with a caret above F 'me' (134). 1763 omits 'flat'   
+(133).</p>   
+   
+<p><xref doc="ha12135">135: Fie on't? Oh fie,]</xref> Circled and crossed through. Omitted Q6,   
+Ward A, B.</p>   
+   
+<p><xref doc="ha12137">137: That it . . . this:]</xref> Circled and crossed through.</p>   
+   
+<p><xref doc="ha12139">139-140: that was . . . Satyre:]</xref> Circled and crossed through.   
+Omitted Q6, Ward A, B, 1703 Folger; cut 1734, Garrick PB.</p>   
+   
+<p><xref doc="ha12141">141: permitted not]</xref> Hand II interlines, with a caret after 'he', for   
+F 'might not beteen' (crossed through).  Cut Q6, etc.</p>   
+   
+<p><xref doc="ha12140">140-143: Horatio / Barnardo / Marcellus.]</xref> Hand II (cancelled)   
+.</p>   
+   
+<p><xref doc="ha12143">143-144: Heaven and . . . why]</xref> Crossed through. Omitted Q6,   
+Ward A (restores 'Why' 144), B; 1734, Garrick PB cut (but retain   
+'why').</p>   
+   
+<p><xref doc="ha12144">144: vs'd to]</xref> Hand II interlines, with a caret after 'she', for F   
+'would' (crossed through). So Q6.</p>   
+   
+<p><xref doc="ha12147">147-151: or ere . . . longer) ]</xref> Crossed through. Cut 1734, Garrick   
+PB; Q6, Ward B cut but include all of 147; Ward A first cut as in Q6,   
+but restored all but 'Like . . . tears,' (149); 1703 Folger cuts 150-151 ('   
+. . . longer,').</p>   
+   
+<p><xref doc="ha12153">153-159: Within a . . . tongue.]</xref> Circled and crossed through. Cut   
+1734, Ward A, B; Q6 cuts 154-159; 1763, Garrick PB, 1703 Folger cut   
+153 ('Within . . . ')-157.</p>   
+  
+<p><figure entity="ha-p733">   
+<figDesc>Image of prompt-book page 733</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha12195">195: wonder to you]</xref> Hand II substitutes, at end of line, for F   
+'marvel to you,' (crossed through). Cut Q6, etc.</p>   
+   
+<p><xref doc="ha12195">195: Pray let me hear it]</xref> Hand II interlines 'Pray' above F 'For . .   
+. love' (crossed through) and adds 'it' after F 'hear.' So Q6, 1734, Ward   
+A, B, 1763, Garrick PB, but without 'it'.</p>   
+   
+<p><xref doc="ha12202">202-204: stately By thrice he walk'd, within /   
+my rapiers length;]</xref>   
+Hand II deletes F period after 'stately', crosses through 'them' (202) and   
+'By . . . Truncheons' (203-4), and writes in, at ends of 202, 203,   
+'within / my rapiers'. Hand II omits necessary pointing after 'By'. Q6,   
+Ward B change only the pointing in 202 ('stately by them:'); 1734, Ward   
+A, 1763   
+   
+<!-- </page> --><!-- <page n=17> -->   
+   
+cut 203 and read 'Within my Rapier's length;' (following Q6 pointing in   
+202); 1703 Folger follows Q6 pointing in 202 and cuts   
+203.</p>   
+   
+<p><xref doc="ha12204">204: distill'd]</xref> Hand ?II alters F 'be still'd' by writing 'all' over   
+'be'. Cut Q6, Ward A, B, 1763, 1703 Folger. 1747 reads   
+'be-still'd'.</p>   
+   
+<p><xref doc="ha12211">211-212: I knew . . . like.]</xref> Crossed through. Cut Q6, etc.</p>   
+   
+<p><xref doc="ha12234">234-236: Laertes / Ophelia / Redy]</xref> Hand II ('Redy' Hand VII).</p>   
+   
+<p><xref doc="ha12237">237: very like:]</xref> Crossed through. Omitted Q6, etc.</p>   
+   
+<p><xref doc="ha12240">240: grisled?]</xref> Hand II substitutes at line end for F 'grisly?'   
+(crossed through). So Q6, 1734, Ward B, Garrick PB, 1703   
+Folger.</p>   
+   
+<p><xref doc="ha12240">240: scea&lt;n&gt;]</xref> Hand I. Call for change of scene below (scene   
+iii)</p>   
+   
+<p><xref doc="ha12248">248: require]</xref> Hand II crosses through F 'be tenable' and interlines   
+'require', with a caret after 'be' (neglecting to delete 'in' as sense   
+requires). Q6, 1734, Ward A, B, Garrick PB, 1703 Folger read 'require'   
+and omit 'in'; 1763 reads 'be treble in' (F1).</p>   
+   
+<p><xref doc="ha12251">251: so, fare ye well:]</xref> Crossed through. Cut perhaps because of   
+the later 'farewell' in 254.</p>   
+   
+</div2>   
+<div2 type="scene" n=1.3>   
+<head>I.iii.</head>   
+   
+<p><xref doc="ha13cham">Cha&lt;mber&gt;]</xref> Hand I. Q6, etc. do not mark a new   
+scene here. Pope first gives a new setting: <hi>'An Apartment in   
+</hi>Polonius's <hi>house.</hi>' Garrick PB, 1703   
+Folger begin Act II here.</p>   
+   
+<p><xref doc="ha132">2-4: Winds permit / Pray let]</xref> Hands II and IX. Hand IX seems to   
+have crossed through F 'give . . . But' (2-4), written 'permett' at end of   
+2, and 'Pray' before deleted F 'But' (4) . Then Hand II cancelled   
+'permett' and wrote 'permit' after it. Q6 cuts 'And . . . assistant, ';   
+1734, Garrick PB do not cut but read 'Winds permit, . . . But let'; Ward   
+A reads 'winds permit, / let'; Ward B reads 'winds give benefit / let';   
+1763 reads 'Winds permit, pray / Let'.</p>   
+   
+<p><xref doc="ha137">7: &amp; prime of nature]</xref> Hand II substitutes, at line end, for F 'of   
+Primy Nature; ' (crossed through). So Q6, etc.</p>   
+   
+<p><xref doc="ha1310">10: Polonius. / Redy]</xref> Hands II, VII.</p>   
+   
+<p><xref doc="ha1311x">11-17: For nature . . . weigh'd,]</xref>    
+<xref doc="ha1311y">Circled and crossed through</xref>.    
+Q6, 1703 Folger cut 11-16; 1734, 1763, 11-18; Ward A, 11-17 (complete);   
+Ward B 11-17 (' . . . Will; ') .</p>   
+  
+<p><figure entity="ha-p734">   
+<figDesc>Image of prompt-book page 734</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha1318">18: For he . . . Birth:]</xref> Circled and crossed through. See note on   
+11-17.</p>   
+   
+<p><xref doc="ha1320">20: bestow]</xref> Hand IX substitutes, in left margin, for F 'Carve for'   
+(crossed through). So Q6, Ward A, B.</p>   
+   
+<!-- </page> --><!-- <page n=18> -->   
+   
+<p><xref doc="ha1321">21:  the safety]</xref> Hand II substitutes, at end of 20, for F 'The   
+sanctity' (crossed through). So Q6, etc. (except 1763 which reeds   
+'Sanity' [Hanmer]).</p>   
+   
+<p><xref doc="ha1322">22-28: And therefore . . . withal!.]</xref> 22-24 (' . . . head.') crossed   
+through in red pencil; 24 ('Then . . . ') -28 circled and crossed through.   
+Note this same red pencil at 43-44, 52 below. Q6 (the 1703 Q does not   
+mark 26-27 for cutting), 1734, Ward A, B, 1763 cut 22-28.</p>   
+   
+<p><xref doc="ha1330">30: credulous ear you trust his Songs;]</xref> Hand II interlines 'ulous'   
+above F 'ens' (crossed through) and interlines 'trust', with a caret, above   
+F 'list' (crossed through). Q6 reads 'credulous ear you hear his songs, ';   
+1734, 1763, 'credulous Ear you hear his Passion,'; Ward A, 'credulous   
+ear you hearken to him.'; Ward B, 'credulous Ear you hear his Vows,';   
+1703 Folger, 'credulous ear you List his passion.'</p>   
+   
+<p><xref doc="ha1331">31-32: Or lose . . . importunity.]</xref> Circled and crossed through. Cut   
+Q6, 1734, Ward A, B, 1763.</p>   
+   
+<p><xref doc="ha1334">34-35: And keep . . . desire.]</xref> Circled and crossed through. Q6,   
+Ward B cut 34-44; 1734, Ward A, 1763, 34-35, 38-44; 1703 Folger,   
+only 44.</p>   
+   
+<p><xref doc="ha1338">38-44: Vertue it . . . near.]</xref> Circled and crossed through (4344   
+only crossed through in red pencil) . See above, 34-35.</p>   
+   
+<p><xref doc="ha1345">45-46: keep, about / my heart:]</xref> Hand II crosses through F 'As   
+watchmen to' (46) and inserts 'about' after F 'keep, ' (45). So Q6,   
+etc.</p>   
+   
+<p><xref doc="ha1349">49: wretched]</xref> Hand II interlines above 'puff and recklesse'   
+(crossed through). Q6, etc. omit 'puff and recklesse'; 1763 substitutes   
+'careless' (Pope).</p>   
+   
+<p><xref doc="ha1351">51: And reeks . . . reed.]</xref> Crossed through. Cut Q6, Ward A, B,   
+1763, 1703 Folger.</p>   
+   
+<p><xref doc="ha1352">52-54: but here . . . leave.]</xref> Circled (53-54) and crossed through.   
+Cut Q6; 1734 cuts 53; Ward A, B, 1763, 1703 Folger, 53-54.</p>   
+   
+<p><xref doc="ha1356">56-57: sits faire And you]</xref> Hand II crosses through F 'in . . . sail,'   
+(56) and inserts 'faire' after 'sail,'. The cross mark following 'faire'   
+usually marks an insertion. Q6 and 1734 cut 56-81. Garrick PB adds two   
+lines after 55: 'Tis late &amp; very late, ye Moon is up / And in full beauty   
+lights you. to yr. vessell / The wind is up &amp;c'.</p>   
+   
+<p><xref doc="ha1357">57: there]</xref> Crossed through. See below, 58-80.</p>   
+   
+<p><xref doc="ha1358">58-80: And these . . . man.]</xref> Crossed through. Q6, 1734 cut 56-81   
+(though 1734 seems to except 59-60); Ward A, B, 1763, 57 ('There . . .   
+')-81; Garrick PB, 70-80; 1703 Folger, 70-74.</p>   
+   
+<p><xref doc="ha1381">81: my blessing . . . thee.]</xref> Crossed through. See above, 58-80.</p>   
+   
+<!-- </page> --><!-- <page n=19> -->   
+   
+<p><xref doc="ha1385">85: 'Tis in my]</xref> Hand II interlines 'in' with a caret before F 'my'   
+(the reading of all other texts).</p>   
+   
+<p><xref doc="ha1390">90-92: drum trumpit / Redy]</xref> Hand III ('Redy' Hand VII) . This is   
+a call for offstage noises at I.iv.6, where Q6 notes: <hi>'A flourish of   
+Trumpets and Guns. ' .</hi> Note that Smock Alley PB, like all the   
+later acting versions, gets rid of the <hi>'Guns' .</hi> 1734, Garrick   
+PB note (at I.iv.6): <hi>'Noise of warlike Musick within. ';</hi> Ward   
+A calls for a 'Flourish' at 99; Ward B gives no call, but indicates some   
+off-stage sound by a cross at iv.6; 1763 notes: <hi>'Trumpets a Tune. ';   
+</hi>1703 Folger deletes <hi>'Guns'</hi> in the s.d.</p>   
+   
+<p><xref doc="ha1395">95-99: Hamlet / Horatio / Marcellus /   
+Redy]</xref> Hand II ('Redy'   
+Hand VII) .</p>   
+   
+<p><xref doc="ha13108">108-109: or be esteem'd a / cheap fool]</xref> Hand II substitutes, at end   
+of lines, for F 'Or not . . . fool' (108-109). 1734 cuts 108-109 ( ' (Or .   
+. . thus,) '); Ward A, B, 1763, 1703 Folger reduce to 'Or you'1 tender   
+me a fool. ' .</p>   
+   
+<p><xref doc="ha13111">111: scean]</xref> Hand I. Call for new scene ('Castle') at I.iv.</p>   
+   
+<p><xref doc="ha13117">117-131: these biases . . . all:]</xref> Crossed through, 131 ('This . . .   
+all:'), perhaps separately. So apparently Q6; 1734, Ward A, B, 1763,   
+1703 Folger cut 117-131 (' . . . beguile.'); Collier MS, 127-131.</p>   
+   
+<p><xref doc="ha13133">133-134: so slander . . . or]</xref> Crossed through.</p>   
+   
+<p><xref doc="ha13135">135: come your way.]</xref> Crossed through.</p>   
+   
+</div2>   
+<div2 type="scene" n=1.4>   
+<head>I.iv.</head>   
+   
+<p><xref doc="ha14open">(opening):  Castle]</xref> Hand I. PB, following F, does not number   
+this as a new scene. 1734, 1763, and Garrick PB note: <hi>'The   
+Platform before the Palace. ';</hi> Ward B indicates some kind of   
+change by the symbol    
+<figure></figure>   
+. Garrick PB makes this 'Scene 2. ' of Act   
+II.</p>   
+   
+<p><xref doc="ha142">2-3: Ghost]</xref> Hand II.</p>   
+   
+<p><xref doc="ha146">6: (and below) Beatte [<hi>Hand II1</hi>]</xref><hi> /</hi> Sond   
+here [<hi>Hand ?VI</hi>]/ Beat There. [<hi>Hand VI</hi>]    
+Hand ?VI places an index-finger opposite 'Beatte' .   
+These directions refer to the 'drum trumpit' called for at iii. 90-92 above   
+(see the note on these lines) .</p>   
+  
+<p><figure entity="ha-p735">   
+<figDesc>Image of prompt-book page 735</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha149">9: Keeps wassels . . . reels,]</xref> Crossed through. Cut Q6, 1734,   
+Ward A (which includes 'and . . . rowse, ' [8] ), Ward B, Garrick PB;   
+1763 cuts 9-10.</p>   
+   
+<p><xref doc="ha1411">11: proclaim]</xref> Hand II substitutes for F 'bray out' (crossed   
+through) at end of line. So Q6, etc. (except 1703 Folger).</p>   
+   
+<p>17-38: ] These lines (through 'scandal.' [38]), omitted in Ff, are,   
+of course, absent from PB and are also cut in Q6, etc.</p>   
+   
+<p><xref doc="ha1457">57: why is this]</xref> The marks above these words are an ink off-print   
+from page 734.</p>   
+   
+<p><xref doc="ha1464">64-65: I / value not my life]</xref> Hand II, at end of lines, substitutes   
+for F 'I do . . . fee?' (crossed through). 'not' interlined   
+   
+<!-- </page> --><!-- <page n=20> -->   
+   
+with a caret before 'my'. So 1734, etc. (except Q6, 'I do not value my   
+life: ' ) .</p>   
+   
+<p><xref doc="ha1471">71: That beetles . . . Sea,]</xref> Crossed through. Cut Q6, etc.</p>   
+   
+<p><xref doc="ha1472">72-74: forme, to draw]</xref> Hand II crosses through F 'Which . . .   
+Reason, And' (73-74) and inserts 'to' after 'forme,' (72). Q6, etc.   
+(except Garrick PB) cut 73.</p>   
+   
+<p><xref doc="ha1474">74: think of it.]</xref> Crossed through. Cut Q6, etc., which also omit   
+75-78 ('... beneath.'), lines omitted from Ff and PB.</p>   
+   
+<p><xref doc="ha1489">89: Have after,]</xref> Crossed through. Omitted Q6, etc.</p>   
+   
+<p><xref doc="ha1491">91: discouer it.]</xref> Hand II substitutes, at line end, for F 'direct it.'   
+(crossed through). So Q6, etc. Q6 cuts 91 ('Nay . . . him. '); Ward A,   
+B, 1763,1703 Folger, 89-91.</p>   
+   
+<p><xref doc="ha15open">(opening): ]</xref> Neither Ff nor PB indicate a new scene here. PB   
+does not even consider it necessary to call for the re-entry of Hamlet and   
+the Ghost. None of the acting texts (down to Inchbald) indicates any   
+change of scene, though Ward A and B do give a special call for the   
+re-entry. Inchbald (1808) makes a new scene here and describes it as:   
+<hi>'A remote Part of the Platform.'</hi> (following Theobald). 1703   
+Folger notes that Hamlet and the Ghost exit 'PS' (i.e., Horatio and Marcellus    
+follow Hamlet out 'PS') and then enter 'OP'.</p>   
+   
+<p><xref doc="ha1520">20: Porcupine]</xref> Hand II crosses through F 'pentine' and substitutes,   
+at line end, 'cupine' . So Q6, etc.</p>   
+   
+<p><xref doc="ha1529">29-30: Horatio / Marcellus]</xref> Hand II.</p>   
+   
+<p><xref doc="ha1531">31: fly]</xref> Hand II interlines above F 'sweep' (crossed through). So   
+Q6, etc. (except 1703 Folger).</p>   
+   
+<p><xref doc="ha1532">32-34: And duller . . . this.]</xref> Circled and crossed through. Cut Q6,   
+etc. (except Garrick PB).</p>   
+   
+<p><xref doc="ha1543">43-45: With witchcraft . . . seduce?]</xref> Circled and crossed through.   
+Cut Q6, etc. (except Garrick PB) .</p>   
+   
+<p><xref doc="ha1553">53-57: But Vertue . . . Garbage.]</xref> Circled and crossed through. Cut   
+Q6, Ward A, B, 1763;1734 cuts 47-57; 1703 Folger, 50 ( and . . .')-57.</p>   
+  
+  
+<p><figure entity="ha-p736">   
+<figDesc>Image of prompt-book page 736</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha1562">62: Hebena]</xref> Hand II converts 'o' to 'a' and crosses out 'n' in F   
+'Hebenon'. Q6, 1734, Ward A, 1763, Garrick PB, 1703 Folger read   
+'Hebona'; Q8, Ward B read 'Hebena', as in PB.</p>   
+   
+<p><xref doc="ha1568">68-70: And with . . . bloud:]</xref> Crossed through (69 also circled) .   
+Cut 1763, 1703 Folger; Q6, 1734, Ward A cut 69.</p>   
+   
+<p><xref doc="ha1571">71-73: And a . . . body.]</xref> Crossed through. Cut Ward A, 1763,   
+1703 Folger.</p>   
+   
+<p><xref doc="ha1577">77-80: Unhouzzled, disappointed . . .   
+horrible:]</xref> Circled and   
+crossed through. Cut Q6; 1734, Ward A, B cut 77, 80; 1703 Folger cuts   
+77. 1763, Garrick PB, 1703 Folger assign 80 to Hamlet.</p>   
+   
+<!-- </page> --><!-- <page n=21> -->   
+   
+<p><xref doc="ha1590">90-91: Fire: Farewell, Farewell, / remember   
+me.]</xref> Hand V (or II)   
+crosses through F 'Adieu, adieu, <hi>Hamlet:'</hi> and places   
+'Farewell, Farewell,' after 'Fire:'. Q6, etc. read 'Farewel, remember   
+me. '</p>   
+   
+<p><xref doc="ha1592">92-93: <hi>Ham.</hi> Oh . . . fie:]</xref> Circled and crossed through   
+<hi>('Ham.'</hi> not crossed through) . Cut Q6, 1734, Ward A, B;   
+1763 cuts all but 'O' (93); Garrick PB cuts 'O all . . . Heav'n! ' (92)   
+.</p>   
+   
+<p><xref doc="ha1593">93: hold, hold my heart;]</xref> Hand II interlines 'hold', with a caret   
+before F 'my'. So Q6, 1734, Ward A, B, Garrick PB, 1703 Folger;   
+1763 (and 1773) read 'O hold, My Heart '.</p>   
+   
+<p><xref doc="ha15100">100: All saws of books,]</xref> Crossed through. Q6, etc. read 'Regis-   
+ters' for 'saws'.</p>   
+   
+<p><xref doc="ha15103">103-104: Within the table of my memory.]</xref> Hand II substitutes for   
+F 'the book . . . heaven: ' (crossed through), interlining 'the table of'   
+with a caret before 'the' (103) and inserting 'my memory' after 'brain,'   
+(103). 1734, Ward A, B, Garrick PB cut 104; 1703 Folger cuts part of   
+104 ('Unmixt . matter; ' ).</p>   
+   
+<p><xref doc="ha15107">107: my Tables:]</xref> Crossed through. Cut Q6, etc.</p>   
+   
+<p><xref doc="ha15111">111: farewell]</xref> Hand II substitutes for F 'adieu, adieu,' (crossed   
+through), and interlines with a caret before the first 'adieu,'. So Q6,   
+etc.</p>   
+   
+<p><xref doc="ha15132">132: Look you,]</xref> Crossed through. Omitted Q6, etc.</p>   
+   
+   
+<p><xref doc="ha15133">133: These are wild and windy words,]</xref> Hand II crosses through F   
+'but' and inserts 'windy' above 'hurling' (crossed through) with a caret   
+after 'and'.</p>   
+   
+<p><xref doc="ha15134">134: offend]</xref> PB deletes 'ed' of F 'offended'. Only Ff 3-4 read   
+'offended'.</p>   
+   
+<p><xref doc="ha15135">135: Yes faith, heartily:]</xref> Crossed through. So 1734, Ward A,   
+B.</p>   
+   
+<p><xref doc="ha15142">142: grant]</xref> Hand II substitutes before F 'Give' (crossed through).   
+So 1734, Ward A, B, 1763, Garrick PB.</p>   
+   
+<p><xref doc="ha15144">144-145: Act / Redy]</xref> Hands II, VII.</p>   
+   
+<p><xref doc="ha15147">147-148: <hi>Mar.</hi> We . . . indeed.]</xref> Circled and crossed   
+through. Cut Q6, etc.</p>   
+   
+<p><xref doc="ha15156">156: <hi>Hic &amp; ubique?</hi>]</xref> Circled and crossed through.   
+Omitted 1734, 1763; Ward A, B, 1703 Folger delete and substitute   
+'Nay'; Garrick PB cuts 150-162.</p>   
+  
+<p><figure entity="ha-p737">   
+<figDesc>Image of prompt-book page 737</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha15179">179-180: this you must / Swear.]</xref> Hand II, F 'not . . . you:' being   
+circled and crossed through, places 'you must' after 'do:' (179) . Q6,   
+etc. (except 1763) read as in PB; 1763 (and 1773) also cuts and reads   
+'this do ye swear,'.</p>   
+   
+<p><xref doc="ha15186">186-187: t'expresse his kind&lt;ne&gt;s to you /   
+shall never faile]</xref>   
+Hand II interlines, above 186, 'kind&lt;ne&gt;s to you', F 'love . . .   
+willing' (186-187) being crossed through, and 'never   
+   
+<!-- </page> --><!-- <page n=22> -->   
+   
+faile', with a caret after 'shall', above 'not lack' (187, crossed through).   
+Q6, etc. read 't'express his love and friendship to you / Shall never   
+fail,'.</p>   
+   
+<p><xref doc="ha15191x">191: ]</xref> 'come' has a heavy inkblot   
+on it and may possibly be marked for deletion. 1734, Ward A, B, 1763,   
+1703 Folger either omit or cut the line.</p>   
+   
+<p><xref doc="ha15191y">191: Act Ends.]</xref> Hands II, V. This is the only notation of this kind   
+in the PB. It is given to call attention to the cutting of 1-74 at the   
+beginning of Act II. A similar notation is used in both the Padua and   
+Smock Alley <hi>Macbeth</hi> PB's at the end of III.v. 1703 Folger   
+also notes 'End of Act 2<hi rend="sup">d</hi>'.</p>   
+</div2>   
+</div1>   
+   
+<div1 type="act" n=2>   
+<head>II.</head>   
+<div2 type="scene" n=2.1>   
+<head>II.i.</head>   
+   
+<p><xref doc="ha21open">(opening): ]</xref> 'Actus   
+<hi>Secundus.'</hi> crossed through, probably by Hand II. Hand I has   
+placed 'Chamber' (badly smudged in cancelling) below F <hi>'Actus   
+Secundus.'</hi></p>   
+   
+<p><xref doc="ha211x">1-74: <hi>Enter Polonius . . .</hi>   
+Farewell:]</xref> Circled and crisscrossed through (except 74).    
+<xref doc="ha211y">Hand V begins the second act with 74</xref>   
+<hi>('Polon.</hi> Farewell:'), drawing a heavy line under 73, criss-crossing    
+1-73, and emending F s.d. <hi>'Enter Ophelia.'</hi>    
+to <hi>'Act 2</hi><hi rend="sup"><hi>d</hi></hi><hi>. Enter   
+Ophelia.</hi> meeting Polonius.'. In the right margin, opposite 75-78,   
+Hand II notes 'Act 2<hi rend="sup">d</hi>. / begins &lt;here&gt;' and 'Bed'   
+(Hand questionable) is added above Hand I's 'Cham&lt;ber&gt;'   
+(repeated here by Hand I after cancellation at the beginning of the F   
+scene). Hand VII adds another 'Act &lt;2&gt;' opposite 73 in the   
+margin. The arrangement here arrived at by Hand II leaves Polonius   
+with a rather pointless 'Farewell:' to a Reynaldo who does not appear.   
+Although the arrangement is possible, it seems most likely that Hand II   
+intended to include 'Farewell:' in the cut. Q6, etc. (except Garrick PB)   
+cut 1-74 ('. . . Farewell.'). Collier MS cuts 24-37 ('As . . . that.') .   
+Both Garrick PB and 1703 Folger begin Act III with this scene. Ward A,   
+B, 1763 adapt the Q or F std. and read <hi>'Enter</hi> Ophelia.   
+meeting Polonius', and Ward A, B, like PB, note 'Act Begins / Here'   
+<hi>[Ward A],</hi> Act 2<hi rend="sup">d</hi>.  Begins / Here   
+<hi>[Ward B].</hi> 1734, 1763, Garrick PB give the setting as   
+<hi>'An Apartment in</hi> Polonius's <hi>House</hi>.'</p>   
+   
+<p><xref doc="ha2177">77:  sitting]</xref> Hand II interlines above F 'sowing' (crossed through).   
+Q6, etc. read 'reading'.</p>   
+   
+<p><xref doc="ha2179">79:  all]</xref> Hand II inserts after F 'foul'd' (crossed through). Q6, etc.   
+(except 1763) read 'loose' (see 80, below).</p>   
+   
+<p><xref doc="ha2180">80:  and down-gyved to his Ancle,]</xref> Crossed through ('and' and   
+'gyved' lightly circled in red pencil) . In terms of the circling, the line   
+would have read 'Ungarter'd, down to his Ancle,'. Q6, Ward B, 1703   
+Folger cut 80; 1734 cuts 78 ('with his Doublet,'), 79-80; Ward A, 1703   
+Folger cut 79-80.</p>   
+   
+<!-- </page> --><!-- <page n=23> -->   
+   
+<p><xref doc="ha2181">81:  his knees . . . other,]</xref> Lightly circled in red pencil (as in 80   
+above). Probably no cut finally intended.</p>   
+   
+<p><xref doc="ha2182">82:  in purport,]</xref> Crossed through. Omitted Q6, etc.</p>   
+   
+<p><xref doc="ha2183a">83:  sent from Hell]</xref> Hand II substitutes   
+for F 'loosed out of Hell,' at end of line. So Q6, 1734, Ward A, B,   
+Garrick PB; 1763 cuts 82-84 ('in . . . horrors:'); 1703 Folger cuts   
+'from hell'.</p>   
+   
+<p><xref doc="ha2183b">83-88:  King / Queen / Rosinc&lt;ras&gt; / Guilde&lt;nsterne&gt;   
+/ Hamle&lt;t&gt; [<hi>crossed through</hi>]</xref> /    
+Polon&lt;ius&gt; [<hi>crossed through</hi>] ] Hand   
+II. The original inclusion of Hamlet and Polonius may have arisen from   
+the F s.d.'s vague 'cum <hi>aliis'</hi> at II.ii. I have reconstructed   
+'Rosinc&lt;ras&gt;' and 'Guilde&lt;nsterne&gt;' from the forms usually   
+used by Hand II.</p>   
+   
+<p><xref doc="ha2184">84:  he]</xref> Crossed through. Cut 1703 Folger.</p>   
+   
+<p><xref doc="ha2187">87:  wrist, &amp; held me hard]</xref> Hand IV adds '&amp; . . . hard' after F   
+'wrist,'. The phrase was omitted in Ff 2-4; included in Q6, etc. This is   
+the first appearance in this PB of an eighteenth century hand which   
+makes similar additions and corrections in <hi>Lear, Twelfth Night,</hi>    
+and <hi>Merry Wives</hi>.</p>   
+   
+<p><xref doc="ha2196">96:  he let me go]</xref> Hand II crosses through 's' in F 'lets' and 'go'   
+and adds 'me go' at end of line. 'me' is omitted in Ff 2-4; Q6, etc. read   
+'he lets me go,'.</p>   
+   
+<p><xref doc="ha21103x">103-107:  Whose violent . . . What]</xref>    
+<xref doc="ha21103y">Crossed through.</xref>    
+Cut 1734, 1763; Q6, Ward A, B, 1703 Folger cut 103-106. Ward A,   
+1763, 1703 Folger also cut 101. </p>   
+  
+<p><figure entity="ha-p738">   
+<figDesc>Image of prompt-book page 738</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha21109">109:  scean]</xref> Hand I.</p>   
+   
+<p><xref doc="ha21112a">112:  noted]</xref> Hand ?II transforms F 'quoted' by crossing out 'qu'   
+and interlining 'n' above, with a caret before 'o'. Qq 6-7 read 'coated';   
+Q8 reads 'quoated'. Although this does not look like Hand IV, one is   
+suspicious in as much as Warburton suggested the reading 'noted'. See   
+112-117, below.</p>   
+   
+<p><xref doc="ha21112b">112-117:  I fear . . . discretion.]</xref> Crossed through. Q6, etc. cut   
+111-117 ('. . . discretion.') .</p>   
+   
+</div2>   
+<div2 type="scene" n=2.2>   
+<head>II.ii.</head>   
+   
+<p><xref doc="ha22open">(opening): Court]</xref> Hand I. 1734, 1763, Garrick PB give   
+'<hi>The Palace</hi>.'</p>   
+   
+<p><xref doc="ha226">6-12:  Since not . . . humor,]</xref> These lines are confusingly marked.   
+6-10 ('. . . of.') were first circled; then Hand II crossed through 10-12   
+('I . . . humor,') and wrote 'I know not' at the end of 10 and '&lt;I&gt;   
+&lt;in&gt;treat you' (with a heavy line under it) at the beginning of 11,   
+leaving 6-9 as part of the text. 9-13 would thus read 'So much from th'   
+understanding of himself, / I know not / &lt;I&gt; &lt;in&gt;treat you /   
+That you vouchsafe . . . '. Q6 cuts 12; 1734, Ward A,   
+   
+<!-- </page> --><!-- <page n=24> -->   
+   
+B, 1763, 1703 Folger cut 5-7 ('so . . . was;'), 8-9 ('that himself,'),   
+11-12.</p>   
+   
+<p><xref doc="ha2215">15-18:  and to . . . remedy,]</xref> Another confused passage. 15-18 are   
+crossed through. Hand II interlines above deleted portion of 15 '&amp; to   
+gather if ought'; then with a cross above 'ought' continues in the left   
+margin with '&lt;unk&gt;nowne / afflic&lt;ts&gt; him / &lt;t&gt;hat lies   
+/ &lt;w<hi rend="sup">th</hi> in&gt; &lt;o&gt;ur remedy.' This at least   
+seems to be Hand II's final version. Before this, however, perhaps   
+another Hand (though it looks very much like Hand II again) had written   
+'if ought' after F 'gather' in 15 (crossed through along with the end of   
+15); then between 'him' and '&lt;t&gt;hat' in the left margin presumably   
+the same hand (Hand II) wrote (later deleted) what looks like '&lt; &gt;   
+w<hi rend="sup">th</hi> in / &lt; &gt; &lt;rem&gt;edy.   
+wh<hi rend="sup">ch</hi>' (the last word, of which the reading is uncertain,   
+not being deleted). To add further confusion Hand IV has interlined   
+above the deleted 18 'to us unknown afflicts him thus'. 17 is missing   
+from Ff and Hand II has obviously tried to introduce a form of the Q   
+line 'Whether ought to us unknown afflicts him thus, / That lies within   
+our remedy.' 1734 cuts 15-16 ('gather. . . may'); Ward A cuts 16 and   
+reads 'learn' for 'gather (15).</p>   
+   
+<p><xref doc="ha2222">22:  To shew. . . will,]</xref> Crossed through.</p>   
+   
+<p><xref doc="ha2223">23-25:  Polonius / Redy]</xref> Hands II, VII.</p>   
+   
+<p><xref doc="ha2224">24:  For the . . . hope,]</xref> Crossed through. So Ward B.</p>   
+   
+<p><xref doc="ha2229">29:  but We]</xref> Hand ?IV. So Q6, etc.</p>   
+   
+<p><xref doc="ha2230">30:  in the full bent,]</xref> Crossed through.</p>   
+   
+<p><xref doc="ha2231">31:  service]</xref> The final 's' of F 'services' has been deleted. So Q6,   
+etc. (except 1734, which reads 'selves'). </p>   
+   
+<p><xref doc="ha2232">32:  To be commanded.]</xref> Circled. Omitted Q6, etc.</p>   
+   
+<p><xref doc="ha2234">34:  Thanks <hi>Guildenstare . . .   
+Rosincross</hi>,]</xref> Crossed   
+through. Cut Q6, 1734, Ward A, 1763, 1703 Folger; Ward B cuts 34-36   
+('... Son:').</p>   
+   
+<p><xref doc="ha2251">51-55:  <hi>Pol</hi>.Give . . . distemper.]</xref> Circled (51-52   
+separately) and crossed through. Q6, etc. (except Garrick PB) cut 51-85   
+('. . .  ended. ). Q6, 1734, 1763 also cut 40-46 (' . . . And'); Ward A,   
+B, 1703 Folger cut 38-46 (' . . . And') . It should be noted that PB here   
+keeps some reference to the Ambassadors, unlike all acting texts until   
+Garrick PB.</p>   
+   
+<p><xref doc="ha2257">57 s.d.-85: <hi>Enter Polonius . . .</hi>   
+ended.]</xref> Circled (except   
+85), crossed through, and crisscrossed. See 51-55, above. This cut, in   
+line with that in I.ii. 17-41, gets rid of the Ambassadors as speaking   
+characters.</p>   
+  
+<p><figure entity="ha-p739">   
+<figDesc>Image of prompt-book page 739</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha22112">112-113:  these in . . . these.]</xref> Crossed through.</p>   
+   
+   
+<!-- </page> --><!-- <page n=25> -->   
+   
+<p><xref doc="ha22116">116:  Letter]</xref> Hand VII. Note that   
+this call is not anticipative and that there has been no earlier call   
+for the 'Letter'; cf.IV.  vi.18. It is possible that the notation here   
+is merely meant to reproduce the sidenote in Q6 which marks the lines   
+as 'Letter.' opposite 107. The large star in the left margin, opposite   
+the contents of the 'Letter', is either to indicate the lines as   
+material to be read or simply to call attention to the introduction of   
+the 'Letter'. Both Ward A and B include a 'Letter' in their call for   
+Polonius.</p>   
+   
+<p><xref doc="ha22123">123-124:  whilst this . . . him,]</xref> Crossed through. Cut 1703   
+Folger.</p>   
+   
+<p><xref doc="ha22127">127:  by means,]</xref> Circled and crossed through.</p>   
+   
+<p><xref doc="ha22128">128: All given to mine ear.]</xref> Circled and crossed through. Cut   
+Q6, Ward A, B (and 1773).</p>   
+   
+<p><xref doc="ha22133">133-135:  Hamlet / Redy]</xref> Hands II, VII.</p>   
+   
+<p><xref doc="ha22137">137:  Or given . . . dumbe,]</xref> Crossed through, though, since the   
+page is damaged here, it is possible that 'mute and dumbe'   
+were not meant to be deleted. Q6, Ward B, 1763, 1703   
+Folger cut 137; 1734 cuts 136-139 ('plaid . . . think?')   
+[1747 does not cut 138]; Ward A cuts 136-138 ('plaid . . .   
+Or,) .</p>   
+   
+<p><xref doc="ha22149">149-161: ]</xref> These lines are affected   
+by the loss of the lower right-hand corner of p. 739 (sig. 3R1) .   
+Since the first half of these lines is still intact, we can be   
+reasonably sure that no cuts were made in PB. 158-160 look as if they   
+were lightly crossed through, but this is the result of an ink   
+showthrough from p. 740. None of the later versions cuts these lines,   
+except Ward A which deletes the first half of 149 (part of a cut   
+beginning with 147 ['then . . . '] ).</p>   
+   
+<p><xref doc="ha22171">171:  Ham. Well, god a mercy.]</xref> Crossed through in red pencil.   
+Q6, etc. (except 1734) read 'Ham. Excellent well.' Q6,   
+Ward B cut 171 ('How . . . well.'); 1734 cuts 170 ('O . . .   
+leave.'), 171 ('Ham. Well, God o' 'Mercy.')-172 (' . . .   
+Lord?'); Ward A, 1763 cut 170 ('Oh . . . leave.').</p>   
+   
+<p><xref doc="ha22172">172:  Doe you . . . Lord?]</xref> Lightly circled (in part) and crossed   
+through in red pencil. The speech-head 'Pol.' is not cut. See   
+171, above.</p>   
+   
+<p><xref doc="ha22178">178:   ten]</xref>  Hand II interlines, with a caret after 'of' for F 'two'   
+(crossed through). So Q6, etc. </p>   
+   
+<p><xref doc="ha22197">197:  read]</xref> Hand IV interlines, with a caret below, above F   
+'mean' (crossed through). So Q6, etc.</p>   
+   
+<p><xref doc="ha22207a">207-218]</xref>:   These lines are missing as a result of the loss of the   
+lower right corner of p. 739 (sig. 3R1). 1734, Ward B,   
+1763, Garrick PB read 'Marry, that's out of the Air indeed:   
+   
+<!-- </page> --><!-- <page n=26> -->   
+   
+how pregnant his Replies are!' for 211-212 (1703 Folger reads 'that's   
+out of the Air, Indeed!; how pregnant sometimes his replyes are!'); Q6   
+cuts 213-215 ('which . . . of.'); 1734, Ward A, B, 1763, 1703 Folger   
+cut 213-217 ('which . . . Daughter.'); Ward A cuts 'of you' in 218;   
+1734 omits (though not 1747) and Ward A, B cut 'not' in 220; 1734,   
+Ward A, B, 1763, Garrick PB omit or cut the first two 'except my life,   
+except my life' in 221.</p>   
+   
+<p><xref doc="ha22207b">207-[210]</xref>:  Rosincr&lt;as&gt; / G&lt;uildensterne&gt;] Hand II.   
+The calls are mutilated by the torn page.</p>   
+  
+<p><figure entity="ha-p740">   
+<figDesc>Image of prompt-book page 740</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha22230">230: both? what news?]</xref> Hand II inserts 'what news?' after F   
+'both?'; this picks up F 'Whets the newes.' (240) below and was added   
+after it was decided to cut 41-44. See the next reading.</p>   
+   
+<p><xref doc="ha22231">231-240: <hi>Rosin.</hi> As . . . newes.]</xref> Circled and crossed   
+through. 'Whets the newes.' (240) may at one time have been exempted   
+from the cut (see above). Q6 cuts 231-240 (' . . . strumpet.'); so also   
+1734, Ward A, B, 1763, Garrick PB, 1703 Folger, but (except for 1703   
+Folger) they read F 'Whets the newes.' (240) as 'Well, what news?';   
+Collier MS cuts 238-240 ('Faith . . . Strumpet.').</p>   
+   
+<p><xref doc="ha22244">244-?:  Let me . . . ]</xref> Circled and crossed through. Because of the   
+loss of the left corner of the page, the conclusion of the cut is uncertain,   
+PB taking up again with 'deale justly . . . ' (284-85). Q6, Ward A, B,   
+1703 Folger omit 244-276 ('Let . . . attended;') and 1734, 1763, Garrick   
+PB cut the same lines; Collier MS cuts 263-272 ('. . . Shadowes:'). It   
+seems likely, therefore, that PB also ended its cut with 276 (' . . .   
+attended;'). The final intention in PB is somewhat confused: a single   
+vertical line has been drawn down the center of the column from 231 to   
+the point at which the tear begins (this would seem to imply a   
+cancellation of everything from 231 through ?276); also at one time it   
+was intended to include 'but your newes is not true.' (243-244) as part of   
+the original circled cut.</p>   
+   
+<p><xref doc="ha22267">267-284:  ]</xref> These lines are missing as a result of the loss of the   
+lower left corner of p. 740 (sig. 3R1<hi rend="sup">v</hi>). Q6, etc. cut   
+281-282 ('and . . . half-peny:'). 1703 Folger uniquely inserts 'Sir I thank   
+you--' immediately before the cut.</p>   
+   
+<p><xref doc="ha22305">305: discovery; and]</xref> Hand IV inserts a semi-colon after F 'discovery'    
+and interlines 'and' above F 'of' (crossed out). So all texts   
+except the Ff; the semi-colon is peculiar to Hand IV, other texts insert a   
+comma.</p>   
+   
+<p><xref doc="ha22306">306:  Queen . . . feather;]</xref> Hand ?IV deletes the colon after   
+   
+<!-- </page> --><!-- <page n=27> -->   
+   
+F 'Queen' and changes the comma after 'feather' to a semi-colon. So   
+essentially Q6, etc.</p>   
+   
+<p><xref doc="ha22309">309: heavily]</xref> Hand ?IV interlines, with a caret, 'i' above a deleted   
+F 'en'. So all texts except the Ff.</p>   
+   
+<p><xref doc="ha22312">312: o're-hanging, firmament]</xref> Hand IV, with a caret after F   
+'o're-hanging,' (the caret partially covering the comma) interlines   
+'firmament' above. Ff omit 'firmament'; Q6, etc. (except 1763 which   
+omits) read 'o're-hanged firmament', but the phrase ('this . . .   
+firmament') is cut or omitted in all except Ward B.</p>   
+   
+<p><xref doc="ha22316">316:  is man]</xref> Hand ?IV deletes F 'a' after 'is'. So Q6, etc.</p>   
+   
+<p><xref doc="ha22336">336-338:  the Clown . . . acre:]</xref> Crossed through. Omitted Q6,   
+etc.</p>   
+   
+<p><xref doc="ha22340">340-357: ]</xref>  The first half of these lines is missing as a result of the   
+loss of the lower right corner of p. 739 (sig. 3R1<hi rend="sup">v</hi>).   
+Probably nothing has been cut until 352. Collier MS cuts   
+343-386.</p>   
+   
+<p><xref doc="ha22352x">352-379: &lt;<hi>Ham.</hi> How&gt;</xref><xref doc="ha22352y">   
+. . .  too.]</xref> Circled and crossed through. Omitted  
+Q6, Ward A, B, 1763, 1703 Folger; cut 1734 and Garrick PB.</p>  
+  
+<p><figure entity="ha-p741">   
+<figDesc>Image of prompt-book page 741</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha22374">374:  Polonius]</xref> Hand II.</p>   
+   
+<p><xref doc="ha22386">386 s.d.:  <hi>Flourish for the Players.</hi>]</xref> Crossed through.   
+Ward A and 1703 Folger delete '<hi>A</hi>   
+<hi>Flourish</hi>.'.</p>   
+   
+<p><xref doc="ha22387">387:  <hi>Gild.</hi> There . . . Players.]</xref> Circled and crossed   
+through. Q6, Ward A, 1763, Garrick PB, 1703 Folger read <hi>'Guil.</hi>    
+Shall we call the Players?'; Ward B restores the F reading.</p>   
+   
+<p><xref doc="ha22391a">391: this Garbe]</xref> Hand ?II deletes 'e' in F 'the' and inserts 'is'.   
+See next reading.</p>   
+   
+<p><xref doc="ha22391b">391-394: lest my . . . welcome ]</xref> Crossed through. Q6, etc. (except   
+1703 Folger) cut 390-394 ('let . . . welcome: ); 1703 Folger cuts   
+390-394 ('let . . . yours;').</p>   
+   
+<p><xref doc="ha22409">409:  Players.]</xref> Hand II.</p>   
+   
+<p><xref doc="ha22marg">[In the top margin, above the second column (p. 741), some   
+words have been written which have been badly cropped in   
+binding. The first words are too badly cropped to be guessed at;   
+then comes what looks like 'am' or 'an' (the rest of the word lost)   
+and 'an' or 'err' followed by a large 'L R' or possibly 'L CR'.]</xref></p>   
+   
+<p><xref doc="ha22430">430-432:  <hi>Pol.</hi> If . . . not.]</xref> Circled and crossed   
+through. Q6, Ward B omit; 1734 cuts 429-431; Ward A, 1703 Folger   
+add the F lines (later deleted in Ward A); Collier MS cuts 415-438 ( . . .   
+For').</p>   
+   
+<p><xref doc="ha22437">437: Rubrick]</xref> Hand II has inserted 'Rubrick' in right margin   
+following F 'the' and crossed through F <hi>'Pans Chanson'</hi>.   
+So Q6, etc.</p>   
+   
+<!-- </page> --><!-- <page n=28> -->   
+   
+<p><xref doc="ha22445">445: Ladyship]</xref> Hand ?II crosses through the 'ord' in F 'Lordship'   
+and interlines above 'ady'. So Q6, etc.</p>   
+   
+<p><xref doc="ha22457">457-467: but it . . . speech]</xref> Crossed through. 'one' is written in   
+right margin after F 'One' (crossed through) by Hand II and another   
+hand seems to have written ?'one' again to left of center rule preceding   
+F 'chief'. So Q6, etc.</p>   
+   
+<p><xref doc="ha22476">476-486: When his . . . seeks.]</xref> Crossed through. So Q6, 1734,   
+Ward B; Ward A, 1763, Garrick PB, 1703 Folger retain 486.</p>   
+   
+<p><xref doc="ha22488">488:  Fore God,]</xref> Crossed through. Omitted Q6, etc.</p>   
+   
+<p><xref doc="ha22489">489:  Ham: Proceed you.]</xref> Hand V (or II) adds this speech following    
+Polonius' speech (488-489);Qq 2-5 read 'so proceed you.' at the   
+conclusion of Hamlet's Pyrrhus speech (487) and Q6 (and later Qq)   
+confuse the issue by inserting 'So proceed.' as the conclusion of   
+Polonius' speech (488-489). The confusion was the result of the cutting   
+of 486 in the Betterton version (Q6), the 'So proceed.' at the conclusion   
+of Polonius' speech being intended for Hamlet. The PB reading is a   
+conflation of the two Q readings. 1734, Ward B, 1763 follow the   
+arrangement in PB, but read Hamlet's line as 'So proceed you.'; Ward   
+A, having restored 486, reverts to the Qq 2-5 reading (deleting the   
+second 'So proceed.', which before 486 was restored had been assigned   
+to 'Ham:'); Garrick PB retains both Q readings, assigning the second to   
+Hamlet; 1703 Folger follows PB, but reads 'So proceed.'.</p>   
+   
+<p><xref doc="ha22496x">496-504: Then senselesse</xref><xref doc="ha22496y">   
+. . . nothing.]</xref> Circled and crossed through. Cut  
+Q6, etc. (except Garrick PB); the Qq omit 496 ('Then . . .  
+Illium,').</p>  
+  
+<p><figure entity="ha-p742">   
+<figDesc>Image of prompt-book page 742</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha22515">515-519: all you . . . fiends.]</xref> Circled and crossed through. Cut   
+Q6, etc. (except Garrick PB).</p>   
+   
+<p><xref doc="ha22525">525:  But who . . . seen]</xref> Crossed through (possibly   
+circled).</p>   
+   
+<p><xref doc="ha22529">529: With Bisson Rheume:]</xref> Circled and crossed through. Omitted   
+Q6, etc.</p>   
+   
+<p><xref doc="ha22535">535-541:  But if . . . Gods.]</xref> Circled and crossed through. Cut Q6,   
+etc. (except Garrick PB).</p>   
+   
+<p><xref doc="ha22554">554: Oh much better, S<hi rend="sup">r</hi>]</xref> Hand II crosses through   
+F 'Godsbodikins man,', writes 'Oh much' above, and inserts   
+'S<hi rend="sup">r</hi>' with a caret after 'better.'. Q6, etc. read 'Much   
+better,'.</p>   
+   
+<p><xref doc="ha22575">575:  I so, god buy'ye:]</xref> Crossed through. Q6, Ward A, B, and   
+1763 cut all of 575 ('I . . . alone.'); 1734 cuts as in PB and omits 'Now   
+. . . alone.'; Garrick PB cuts as in 1734, but includes 574   
+<hi>('Ros.</hi> Farewel, my Lord.'), a version of the F and Q line   
+<hi>'Rosin.</hi>    
+Good my Lord.' which appears first in the 1734 cutting (a version   
+also appearing in Ward A, B, 1763, 1703 Folger); 1703 Folger cuts as   
+in PB, but (as in   
+   
+<!-- </page> --><!-- <page n=29> -->   
+   
+   
+1763 also) it transposes 572-574 ('My . . . Lord.') to follow 563 ('. . .   
+friend,'), thus getting rid of Rosencrantz and Guildenstern and all but the   
+leading Player before Hamlet introduces the Gonzago play.</p>   
+   
+<p><xref doc="ha22576">576-578:  Act / Redy]</xref> Hand VII. See below 592-593.</p>   
+   
+<p><xref doc="ha22587">587-588:  the motive for passion and that That   
+I have,]</xref> Such seems   
+to be the reading of PB. Hand II crosses through F 'and the Cue' (587)   
+and places 'and that' after F 'passion'. Q6, however, reads 'the motive,   
+and that for passion / That I have?' and I suspect that Hand II intended   
+to follow Q6; however, Hand II's reading makes possible sense and is   
+not much more awkward than Q6's. 1734, 1763, Garrick PB substitute   
+'that Ground' for F 'and the Cue'; Ward A, B substitute 'that cause';   
+1703 Folger restores F reading.</p>   
+   
+<p><xref doc="ha22588">588-589:  he would . . . speech:]</xref> Crossed through, but Hand II   
+has repeated F 'he would' after 'speech:' Cut Q6, 1734; Ward A, B,   
+1763, Garrick PB, 1703 Folger cut 589.</p>   
+   
+<p><xref doc="ha22591">591-602: Confound the . . . it?]</xref> Crossed through. Cut Q6 (including    
+all of 602); 1734, Ward A, B, 1763 cut 593-602 ('yet . . .   
+be.'); Garrick PB, 1703 Folger cut 593-602 ('yet . . . it:'), inserting   
+'Am I a Cowardþ' (from 598) before 'for' (602).</p>   
+   
+<p><xref doc="ha22592">592-594:  Act / Redy]</xref> Hands II, VII. Repeated from above   
+(592-593). I can see no reason for the double notation. Cf., however,   
+IV.vii.142-144.</p>   
+   
+<p><xref doc="ha22608">608-617: bloody: a . . . Brain.]</xref> Crossed through. So Q6, 1734,   
+Ward A, B, Garrick PB; 1763 and 1703 Folger retain, but the latter   
+reads 617 as 'Now, About my brains. I have heard', and 'Callion' in   
+616.</p>   
+   
+<p><xref doc="ha22623">623:  With most miraculous Organ.]</xref> Crossed through. So Q6,   
+1734.</p>   
+   
+<p><xref doc="ha22626">626:  tent]</xref> Hand ?II. The 'r' of F 'rent' has been converted to 't'.   
+Correction of an error derived from Ff 2-3. So Q6, etc.</p>   
+   
+<p><xref doc="ha22629">629-632:  yea, and . . . me.]</xref> Crossed through. Cut Q6, etc.   
+(except 1763 and 1703 Folger).</p>   
+</div2>   
+</div1>   
+   
+<div1 type="act" n=3>   
+<head>III.</head>   
+<div2 type="scene" n=3.1>   
+<head>III.i.</head>   
+   
+<p><xref doc="ha31opa">(opening): Act 3<hi rend="sup">d</hi>. Scene   
+1<hi rend="sup">st</hi>.]</xref> Hand II. No act-scene division in Ff. Q6   
+introduces the division here; so all later versions (except Garrick PB,   
+which marks this as Act IV, Scene i). Hand VII has placed 'Act 3' in   
+right margin just above F s.d.</p>   
+   
+<p><xref doc="ha31opb">(opening): Throne / 6 Chairs]</xref> Hand VI. Note that no change   
+of scene is called for here, the 'Court' scene being continued from II.ii;   
+none of the later stage versions indicates any change of scene.</p>   
+   
+<!-- </page> --><!-- <page n=30> -->   
+   
+<p><xref doc="ha313x">3-4:  Grating so</xref><xref doc="ha313y"> . . .  
+Lunacy.]</xref> Circled and crossed through. Cut Q6, etc. (except  
+Garrick PB).</p>  
+  
+<p><figure entity="ha-p743">   
+<figDesc>Image of prompt-book page 743</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha319">9-10:  When we . . . state,]</xref> Circled. Cut Q6; 1734, Ward A, B   
+cut 7-10 ('Nor . . . State.').</p>   
+   
+<p><xref doc="ha3127">27:  and drive his purpose on]</xref> Crossed through. Originally Hand II   
+retained F 'on' and interlined above, with a caret after 'purpose', '&amp;   
+vrge him' (then deleted). Q6, etc. read 'And urge him', deleting   
+'on'.</p>   
+   
+<p><xref doc="ha3130">30-31: may here meet with / <hi>Ophelia.</hi>]</xref> Hand II deletes   
+'t' in F 'there', places 'meet with' following 'here', and crosses through   
+'Affront' (31). Q6, etc. read 'may meet <hi>Ophelia</hi> here;   
+'.</p>   
+   
+<p><xref doc="ha3132">32:  (lawfull espials) ]</xref> Crossed through. Cut Q6, etc.</p>   
+   
+<p><xref doc="ha3135">35-37:  if this / Strange Lunn'cy / proceed   
+from Loue / or no.]</xref>   
+This is Hand II's substitution for F 'And gather . . . for.' (35-37). The   
+point of insertion is marked by a small cross in the left margin opposite   
+35, and another small reference cross follows 'this' in Hand II's version.   
+Note that Hand II's call for 'Hamlet', which originally followed 35, has   
+been deleted, presumably in the process of adding the alteration. As a   
+result there is no call for Hamlet's entry at 56 below. Q6, 1734, Ward   
+A, B cut 35, 37.</p>   
+   
+<p><xref doc="ha3144">44-54: Read on . . . burthen!]</xref> Circled and 50-53 crossed through   
+(the circling seems to have been done in two stages). Apparently only   
+50-53 were finally cut, though Q6 (followed by 1734, Ward A, B, 1763,   
+1703 Folger) cut the lines as circled in PB (Ward B and 1703 Folger   
+preserving 'read on this Book.' [44] ) . Note that PB does not follow Q6   
+(and all later versions) in reading 43-44 ('Gracious . . . selves: ') as   
+'whilst we (If so your Majesty shall please) retire conceal'd;', a reading   
+introduced by Q6. Collier MS cuts 46 ('We ú ú . ) -54.</p>   
+   
+<p><xref doc="ha31102">102:  ]</xref>  The scrawl following this line seems to have no significance.</p>   
+   
+<p><figure entity="ha-p744">   
+<figDesc>Image of prompt-book page 744</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha31135x">135-139:  &lt;K&gt;ing / &lt;Po&gt;lonius. /   
+Redy]</xref> Hand II   
+('Redy' Hand VII). <xref doc="ha31135y">Entry marked below (169) with crossed line in left   
+margin</xref>.</p>   
+   
+<p><xref doc="ha31164">164-168:  That suck'd . . . extasie.]</xref> Circled (166-167 ['and . . .   
+youth,'] separately in a light ink) . It is possible that F 'tune' in 166 has   
+been blotted out (though I suspect that the blotting is the result of a   
+deletion on the facing page [745]); at any rate, in the same light ink as   
+the circling of 166-167, some hand has written a word in the left margin   
+opposite 165, the last letters of which seem to be 'est' or 'ost', preceded   
+   
+<!-- </page> --><!-- <page n=31> -->   
+   
+by an 'f' or 't'. Q6 cuts 164; 1734, 1763 cut 159, 161, 164, 167-168   
+('. . . Extasy.'); Ward A cuts 159, 161, 164; Ward B cuts 159-168 ('. .   
+. Extasie.'), though originally it is cut as in 1734; 1703 Folger cuts   
+159.</p>   
+   
+<p><xref doc="ha31173">173-175:  &lt;&gt;danger = / which to   
+prevent,]</xref> Hand V crosses   
+through 173-175 ('O're . . . danger,), places '&lt;&gt; danger =' at   
+the beginning of 173, whith a small cross above F 'soule,' (172) to   
+indicate a point of insertion, and crosses through F 'how' (175). The   
+word missing before 'danger' is probably 'some' (cf. 175). 1734, Ward   
+B cut 172-177 ('there's . . . down:'); Ward A cuts 171-177 ('. . .   
+down:'); 1763 cuts 172 ( There s . . .') -176.</p>   
+   
+<p><xref doc="ha31175">175-176:  &lt;H&gt;amlet. /   
+&lt;Pl&gt;ayers.]</xref> Hand II.</p>   
+   
+<p><xref doc="ha31179">179-183:  Haply the . . . on't?]</xref> Lightly circled (in part) and   
+crossed through. Ward A cuts 178-183 ('For . . . himself.').</p>   
+</div2>   
+<div2 type="scene" n=3.2>   
+<head>III.ii.</head>   
+   
+<p><xref doc="ha32open">(opening): ]</xref> Neither F nor PB indicates a new scene here,   
+nor is there any indication of a new setting in PB. So Q6, etc.</p>   
+   
+<p><xref doc="ha3217x">17-18: Polonius Rosincras / Guildensterne.   
+Redy]</xref> Hand II ('Redy'   
+Hand VII). <xref doc="ha3217y">Point of entry marked with crossed line at 50</xref>.</p>   
+   
+<p><xref doc="ha3239x">39: Horatio. Redy]</xref> Hands II, VII. <xref doc="ha3239y">Point   
+of entry marked with  crossed line at 57</xref>.</p>   
+  
+<p><figure entity="ha-p745">   
+<figDesc>Image of prompt-book page 745</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha3268">68-73: King / Queen / Polonius / Ophelia. /   
+Redy]</xref> Hand II ('Redy'   
+Hand VII). Point of entry marked with crossed line at 96.</p>   
+   
+<p><xref doc="ha3279">79-80: Rosincras / Guildensterne.]</xref> Hand II. At first glance this   
+looks like a separate call, but there is no indication of a separate entry   
+below; exigencies of space forced Hand II to make this division in his   
+call for the state entry at 96.</p>   
+   
+<p><xref doc="ha3296">96 s.d.: ]</xref> Note that PB makes no provisions   
+for the F <hi>'Danish March.'</hi> or <hi>'Flourish.',</hi> though they are   
+not deleted in the F s.d. Q6 calls for <hi>'Trumpets and Kettle Drums';   
+</hi>Ward A, calls for 'Flourish / Throne / Chairs' and marks the   
+actual entry as 'Discover'd', deleting <hi>'Enter'</hi> in Q s.d.; Ward   
+B calls for 'a Flourish'; 1703 Folger marks the entry as   
+'Discou<hi rend="sup">d</hi>'.</p>   
+   
+<p><xref doc="ha32121">121-122: <hi>Ham.</hi> I mean . . .   
+Lord.]</xref> Circled.   
+Omitted Q6, etc.; Collier MS cuts 119-128.</p>   
+   
+<p><xref doc="ha32124">124-128:  <hi>Ophe.</hi> I think . . .   
+Nothing.]</xref> Circled   
+(127-128 separately) . Cut Q6, etc.</p>   
+   
+<p><xref doc="ha32131">131: Prolog&lt;ue&gt; ]</xref> Hand II. The   
+positions of this and the following call show clearly that the   
+deletion of the <hi>'dumbe shew'</hi> was marked before Hand II wrote in   
+these calls. 'Lucianus' is called for the Prologue in Ward B.</p>   
+   
+<!-- </page> --><!-- <page n=32> -->   
+   
+<p><xref doc="ha32135">135-136:  fop Kin&lt;g&gt; I fop   
+Que&lt;en&gt;]</xref> Hand II. I do not know the exact meaning of   
+'fop'. Ward A, B call for 'player King / and Queen', though Ward A   
+prefixes 'Mock' to their speech-heads.  1734, 1747, 1763 call them   
+'Player King' and 'Player Queen'.</p>   
+   
+<p><xref doc="ha32142">142-145 s.d.:  or else . . . <hi>love.   
+Exeunt.</hi>]</xref> Circled. Cut in Ward A, B, 1703 Folger; Q6 cuts   
+142 ('or . . .')-145, leaving Dumb Show untouched; 1734 and Garrick PB   
+cut 142-145 and omit Dumb Show; 1763 omits both.</p>   
+   
+<p><xref doc="ha32146">146:  means the Play]</xref> Hand II blots out F 'this' and, with a caret   
+after 'means', inserts 'the Play' above. So 1734, Ward A, B, 1763,   
+Garrick PB, 1703 Folger.</p>   
+   
+<p><xref doc="ha32149">149:  But what's]</xref> Hand II inserts 'But what's' above F 'Belike this   
+shew imports' (crossed through). So 1734, Ward B, 1763, Garrick PB,   
+1703 Folger; Ward A reads 'But what imports'.</p>   
+   
+<p><xref doc="ha32152">152:  shew all]</xref> Hand II crosses through   
+F 'tell all', inserting 'shew all' after it. So 1734, 1763, Garrick   
+PB, 1703 Folger; Q6, Ward B read 'shew all straight.'; Ward A reads   
+'tell all.'.</p>   
+   
+<p><xref doc="ha32153">153:  Are they go&lt;od at&gt; showes]</xref>   
+Hand II crosses through 153 ('Will . . . meant?') and inserts 'Are . .   
+. showes' in opposite right margin. 1734, 1763, Garrick PB, 1703   
+Folger read 'Are they so good at Shew, my Lord?'; Ward A, B read 'Are   
+they so good at shew?'. Note that these last three readings connect PB   
+with a theatre tradition other than that of Q6. Collier MS cuts   
+153-158.</p>   
+   
+<p><xref doc="ha32154">154: at]</xref> Hand ?II converts F 'or' into 'at'.   
+So 1734, etc. (except Q6).</p>   
+   
+<p><xref doc="ha32158">158:  mark]</xref> Hand II crosses through F 'make'   
+and interlines 'mark' above. So Q6, etc. ('make' is an error of Ff   
+2-4).</p>   
+   
+<p><xref doc="ha32165w">165</xref>, <xref doc="ha32165x">183</xref>,   
+<xref doc="ha32165y"> 196</xref>, <xref doc="ha32165z">235</xref>:   
+Plaier <hi>or</hi> Pla:] Hand V substitutes one of these forms   
+for the F speech-head <hi>'King.'.</hi> The speech-heads for   
+<hi>'Quee.'</hi> are not distinguished. See 135-136 above. For the F   
+std. at 164, 1703 Folger reads <hi>'Enter King and Queen.</hi> from the   
+top.'.</p>   
+   
+<p><xref doc="ha32166">166-168: <hi>Neptunes</hi> salt . . .   
+been,]</xref>: Circled. Cut Q6,   
+734, Ward A, B, 1763; 1703 Folger cuts 167-168.</p>   
+  
+<p><figure entity="ha-p746">   
+<figDesc>Image of prompt-book page 746</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha32179">179-180:  Now what . . . so.]</xref> Circled. Ward B appears to cut   
+177-182.</p>   
+   
+<p><xref doc="ha32192">192-195: <hi>Quee.</hi> The instances . . .   
+Bed.]</xref> Circled. Cut   
+1734, Ward A, B, 1763, 1703 Folger; Q6 cuts 194-195.</p>   
+   
+<p><xref doc="ha32198">198-209:  Purpose is . . . accident.]</xref>   
+Circled. Q6 cuts 206-209; 1734, Ward A, B cut 198-223; 1763, 1703   
+Folger cut 198203, 206-223.</p>   
+   
+<!-- </page> --><!-- <page n=33> -->   
+   
+<p><xref doc="ha32214">214-223:  The great . . . own.]</xref> Circled.   
+Cut Q6; see 198-209 above. Ward A links 197 and 224 with 'So'.</p>   
+   
+<p><xref doc="ha32218">218:  &lt;Luc&gt;ianus.]</xref> Hand II.</p>   
+   
+<p><xref doc="ha32230">230-231: Each opposite . . . destroy:]</xref> Circled. Ff omit 228-229.   
+Q6, etc. cut 228-231 (except Garrick PB).</p>   
+   
+<p><xref doc="ha32241">241: ]</xref> F 'but' appears to be blotted in this   
+line, but I suspect that the 'deletion' is nothing but an ink   
+off-print from the facing page (747); it is impossible to be sure,   
+however, since that corner of p. 747 is torn away.</p>   
+   
+<p><xref doc="ha32258">258-260:  <hi>Ophe. You</hi> are . . .   
+edge.]</xref> Circled. Q6 cuts   
+258; 1734, Ward A, B, 1763, Garrick PB, 1703 Folger cut 258-262 ('. .   
+. Husbands.'); Collier MS cuts 256-262.</p>   
+   
+<p><xref doc="ha32262">262:  So you . . . Husbands.]</xref> Circled. Cut   
+Q6, etc.</p>   
+   
+<p><xref doc="ha32277">277: What, frighted with false fire.]</xref>   
+Circled and crossed through.  Omitted Q6, Ward A, B, 1703 Folger; cut   
+1734: 1763 omits 277-278, combining 278 with 281 after 280.</p>   
+   
+<p><xref doc="ha32290">290-291:  Rosincras / Guildensterne.]</xref> Hand II.</p>   
+  
+<p><figure entity="ha-p747">   
+<figDesc>Image of prompt-book page 747</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha32359">359-]</xref>:  A tear in the lower right corner of   
+p. 747 (sig.  3R5<hi rend="sup">r</hi>) affects the text of III.ii.359-380   
+('Proverbe . . .  thing'), 408 ('blood, . . .')-417; III.iii. 1-25.   
+Nothing appears to have been cut in 359-380; 1763 cuts 360-361 ('Let .   
+. . you,'); all but Q6 and PB introduce Horatio in the place of F   
+'<hi>Enter one with a Recorder</hi>.'(Q6 reads <hi>'Enter the Players with   
+Recorders</hi>.'). Ward A arms Horatio with a 'Flute'; Ward B with 'a   
+pipe'. The advance calls for Polonius (entries at 389 and III.iii.26)   
+have probably been lost. Nothing seems to be cut in 408-417, but how   
+much was cut in III.iii.1-25 it is impossible to know (certainly :5).   
+Q6 cuts 11-23; 1734, 3-23; Ward A, 2-24 ('you . . . Arm you'); Ward B,   
+7 ('We . . .')-23; 1763, 3-26 ('. . . free-footed'); 1703 Folger, 3-24   
+('. . .  pray you') .</p>   
+   
+<p><xref doc="ha32380">380: Act <hi>[deleted]</hi></xref> / King /   
+Rosincr&lt;as&gt; / Guilde&lt;nsterne&gt;] Hand II ('Act' Hand   
+?II).</p>   
+   
+</div2>   
+<div2 type="scene" n=3.3>   
+<head>III.iii.</head>   
+   
+<p><xref doc="ha33open">(opening):  ]</xref> Hand I, at one time,   
+marked this as 'Act 4<hi rend="sup">th</hi> Scene 1 [<hi rend="sup">st</hi>]', but later   
+deleted it; note deleted 'Act' at III.ii. 380 above. Ff, Q6, etc. mark   
+no scene break here.</p>   
+  
+<p><figure entity="ha-p748">   
+<figDesc>Image of prompt-book page 748</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha3326">26: Which now goes too free-footed.]</xref> Crossed   
+through. See III.ii.359.</p>   
+   
+<p><xref doc="ha3337a">37:  first &amp;]</xref> Hand II first crossed   
+through F 'primal!' and interlined 'first &amp;' above, then crossed   
+this through and placed 'first &amp;' in left margin at beginning of   
+line. Omitted Q6, etc. (except 1703 Folger which inserts 'Primal').</p>   
+   
+<p><xref doc="ha3337b">37-38:  Hamlet / Redy]</xref> Hands II, VII.</p>   
+   
+<!-- </page> --><!-- <page n=34> -->   
+   
+<p><xref doc="ha3340">40-64: My stronger . . . evidence.]</xref> This is   
+a most confusingly marked passage: 40-43 ('. . . neglect;') crossed   
+through and partly circled; 43-64 circled, but with 'Stet (?Hand)   
+written in at end of 43; 46-55 ('whereto . . . Queen:') crossed   
+through and partly circled (cross placed at end of 47 to indicate some   
+substitute lines perhaps written in left margin, now torn away); 57   
+(partly missing because of the tear) emended by crossing through of F   
+'currants' (perhaps also F 'corrupted'), with a cross above deleted   
+'currants' (to indicate place of insertion for emendation' presumably   
+written in left margin), Hand II placing 'he may' after F 'world,'   
+(the line reading something like 'In the &lt;corruption&gt; of this   
+world he may'); 58 crossed through. Only lines crossed through are   
+actually deleted. Q6 cuts 57-58; 1734, Ward B, 1703 Folger, 48-50 ('.   
+. . down?) (1734, 1763 also cut 69 [ Help . . .  assay,'] ).</p>   
+   
+<p><xref doc="ha3346">46-]</xref>: A tear in the lower left corner of p.   
+748 (sig.  3R5<hi rend="sup">v</hi>) affects the text of III.iii.46-88 and of   
+III.iv.25-45.  After III.iii.63 and III.iv.30 it is impossible to   
+guess what may have been cut, though probably nothing in the second   
+group of lines. All the acting versions use Q6's version of 73-79   
+(except 1763 and 1703 Folger which cut everything in the scene after   
+72, thus omitting Hamlet's soliloquy entirely); 1734 cuts 80 ('full of   
+Bread,'); it is worth noting that PB cuts nothing in the last part of   
+Hamlet's soliloquy, whereas Q6 cuts 93-95 (. . . goes: ); 1734, Ward B   
+cut, 91 ('At . . . Swearing,'), 94-95 ('. . . goes:'); Ward A, as Ward   
+B but including 93. In III.iv. 95-45 Q6, 1734, Ward A, B cut 37-38.</p>   
+   
+<p><xref doc="ha3389">89: Hamlet Redy]</xref> Hand VII. This is Hand   
+VII's early advance call for Hamlet's entry at III.iv.7, a call   
+already entered by Hand II at the beginning of III.iv.</p>   
+   
+</div2>   
+<div2 type="scene" n=3.4>   
+<head>III.iv.</head>   
+   
+<p><xref doc="ha34open">(opening):  Chamber]</xref> Hand I. A   
+crossed line marks point of entry for Queen and Polonius (the call by   
+Hand ?II being lost with the mutilation of left lower corner of p.   
+748). Neither Ff nor Qq indicate any new scene here; nor do the acting   
+versions call for any change of scene. Ward A contains here the   
+interesting notations : Hamlet / 2 pictures' and 'Two chairs on below   
+/ y<hi rend="sup">e</hi> long trap'.</p>   
+   
+<p><xref doc="ha341">1: Hamlet]</xref> Hand II. Point of entry marked by   
+crossed line at 7; see III.iii.89.</p>   
+   
+<p><xref doc="ha3419">19:  I here set]</xref> Hand II inserts, with a   
+caret, 'here' above F 'I'.  Some change in F was metrically necessary   
+after F2 dropped 'you' after 'set'. It is interesting to note that   
+1703 Folger   
+   
+<!-- </page> --><!-- <page n=35> -->   
+   
+adds 'within there!' at the end of 17, showing that the Queen actually   
+calls for assistance at this point.</p>   
+   
+<p><xref doc="ha3424">24: me, what hast]</xref> Hand II inserts, with a   
+caret, 'what' after F 'me,'. 'what' omitted in F3 only.</p>   
+  
+<p><figure entity="ha-p749">   
+<figDesc>Image of prompt-book page 749</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha3459a">59-59:  A Station . . . hill:]</xref> Circled.   
+This passage, and the others through 151-155, are circled in a lighter   
+ink. Cut Q6, 1734, Ward, A, B.</p>   
+   
+<p><xref doc="ha3459bx">59-60: Ghost.]</xref> Hand II. <xref doc="ha3459by">Point    
+of entry marked by crossed line at 101</xref>. Ward A,   
+at 48-50, notes 'Ghost / Ready at / long trap'; Ward B, at 63-65,   
+notes 'Ghost at / great Trap.'.</p>   
+   
+<p><xref doc="ha3490">90-91:  And there . . . Tinct.]</xref> Circled. Cut   
+Q6, etc.</p>   
+   
+<p><xref doc="ha3493">93-94: honying and . . . Stye.]</xref> Circled.   
+Cut Q6; 1734 cuts 94 ('. .   
+. Sty.'); Ward A, 1763, 1703 Folger, 93-95 ('Stew'd . . . ears,'); Ward   
+B, 93-94 ('Stew'd . . . stye.'), 95; Garrick PB, 94-95 ('to . . . Ears.'   
+[though 'Daggers . . . Ears.' does not seem to be crossed through]   
+).</p>   
+   
+<p><xref doc="ha34118">118-122:  And with . . . end.]</xref> Circled,   
+but later marked 'Stet' in red pencil. Q6, 1734, Ward A, Garrick PB,   
+1703 Folger reduce 121 to 'Your hair'; Ward B, 1763 cut 119-122 ('. .   
+.end ').</p>   
+   
+<p><xref doc="ha34151">151-155:  And doe . . . good.]</xref> Circled.   
+Cut Q6, etc.</p>   
+  
+<p><figure entity="ha-p750">   
+<figDesc>Image of prompt-book page 750</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha34185">185:  Act / Redy]</xref> Hands II, VII.</p>   
+   
+<p><xref doc="ha34188">188-196:  'Twere good . . . down.]</xref>   
+Circled. Q6, 1734, Ward A, Garrick PB cut 188 (' 'twere . . .')-196,   
+202-210; Ward B, 1763 cut everything after 179; 1703 Folger cuts 180   
+('good . . .')-199, 202-end, placing 172 ('for . . .')-179 after 201   
+as concluding lines for what it calls Act IV.</p>   
+   
+<p><xref doc="ha34217">217:  &lt;ri&gt;ng]</xref> ?Hand.</p>   
+   
+</div2>   
+</div1>   
+<div1 type="act" n=4>   
+<head>IV.</head>   
+<div2 type="scene" n=4.1>   
+<head>IV.i.</head>   
+   
+<p><xref doc="ha41opea">(opening):  &lt;A&gt;ct 4<hi rend="sup">th</hi>   
+Scene 1<hi rend="sup">st</hi>]</xref> Hand II. So Q6, etc. (except Garrick PB   
+and 1703 Folger, which here begin Act V); no act division in Ff;   
+Collier MS marks as 'Act 4 Sc. 1'.</p>   
+   
+<p><xref doc="ha41opeb">(opening s.d.):  <hi>Enter King:</hi> and   
+quen]</xref> Hand III inserts 'and quen' after <hi>F 'King.',</hi>   
+converting F period into a colon.</p>   
+   
+<p><xref doc="ha41cour">Court]</xref> Hand I. 1734, 1763, Garrick PB give the setting as   
+'A <hi>Royal Apartment.'</hi> (following Rowe).</p>   
+   
+<p><xref doc="ha411">1-2: These profound . . . translate:]</xref>   
+Circled and crossed through.  1734, 1763 cut 1 ('these profound   
+Heaves,') and substitute 'expound them:' for F 'translate:'; Ward A   
+cuts 1 ('these . . .')-2; Ward B, 2; 1703 Folger, 2-6 (' 'tis . . .   
+Gertrard,').</p>   
+   
+<p><xref doc="ha416">6-7:  &lt;Ros&gt;incras / &lt;an&gt;d   
+Guildensterne]</xref> Hand II.</p>   
+   
+<p><xref doc="ha4114">14-23:  His Liberty . . . life.]</xref> Circled and   
+crossed through ('out' [Hand II] has been written in left margin   
+opposite 15-16 and what may be either 'out' or 'stat' [?Hand] below,   
+opposite 17-18) . So 1734, Ward A, B, 1763; Q6 reduces 18 to 'Should   
+   
+<!-- </page> --><!-- <page n=36> -->   
+   
+have restrain'd'. Both Garrick PB and 1703 Folger replace F 'foule'   
+with 'dire' in 21.</p>   
+   
+<p><xref doc="ha4125">25-27: O're whom . . . pure.]</xref> Circled. Cut   
+Ward A, B; 1734, 1763 cut 25-27 (27 complete); 1703 Folger cuts 25-27   
+('like . . .  he').</p>   
+   
+<p><xref doc="ha4128">28: &lt;Ham&gt;let.]</xref> Hand II. Hand II has   
+also written 'Ham' opposite the end of 27 and deleted it.</p>   
+   
+<p><xref doc="ha4129">29-33: A single line appears to have been drawn   
+opposite these lines in the left margin but it is merely an offprint   
+from a deletion on the facing page (751).</p>   
+   
+<p><xref doc="ha4137">37: &lt;sc&gt;ean]</xref> Hand I. Advance call for   
+new scene ('Chamber') at IV.ii.</p>   
+   
+<p><xref doc="ha4138x">38-45: Come <hi>Gertrude . . .</hi></xref> <xref doc="ha4138y">dismay.]   
+</xref> Crossed through.  Lines 41-44 ('. . .   
+air.') not in Ff. Q6 cuts 43-45; 1734,40 (So, haply, Slander,   
+. . .')-45; Ward A, B 1703 Folger, 41-45,; 1763, 38 ('we'll . .   
+.')-45; Garrick PB completes 40 with 'for slan'drous Malice' and places   
+41-43 ('. . . Shot,') in parentheses.</p>   
+   
+</div2>   
+<div2 type="scene" n=4.2>   
+<head>IV.ii.</head>   
+   
+<p><xref doc="ha42open">(opening): Chamber]</xref> Hand I. new   
+scaen] Hand VIII. Ff, Q6, etc. indicate no scene break or change of   
+scene here. This is the first appearance of Hand VIII and it is not   
+clear what 'new scaen' means, i.e.  whether it refers in some way to   
+'Chamber' or looks forward to the later change for scene iii ('Court')   
+. Cf. V.ii (opening).</p>   
+   
+<p><xref doc="ha429">9: King -]</xref> Hand II. There is no call for the   
+entry of Rosencrantz and Guildenstern at 5 above.</p>   
+   
+<p><xref doc="ha4219">19:  scean]</xref> Hand I. Call for new scene   
+('Court') at IV.iii.</p>   
+   
+<p><xref doc="ha4229">29-31:  <hi>Ham.</hi> The body . . . Lord?]</xref>   
+Circled. Q6, 1734, Ward A, B, 1763 cut 29-32 ('. . . nothing,');   
+Garrick PB, 1703 Folger, 29-30 ('. . . Body:') . PB's retention of 'Of   
+nothing,' in 32 makes no sense.</p>   
+   
+<p><xref doc="ha4232">32-33:  hide Fox, and all after.]</xref> Circled.   
+Omitted Q6, etc.</p>   
+   
+<p><xref doc="ha4233">33:  Rosincras]</xref> Hand II.</p>   
+   
+</div2>   
+<div2 type="scene" n=4.3>   
+<head>IV.iii.</head>   
+   
+<p><xref doc="ha43open">(opening): Court]</xref> Hand I. Ff, Q6,   
+etc. indicate no scene break or change of scene here; Collier MS marks   
+as 'Scene 2', having ignored scene ii above (it also fails to mark   
+scene vii).</p>   
+   
+<p><xref doc="ha433a">3: yet must we / not lay our strict / justice on   
+him]</xref> ?Hand V (perhaps Hand II) inserts this to left of F 'Yet .   
+. . him:' (crossed through), with a small cross at end of 2 and   
+another before 'yet' (of insert) . Ward A cuts 3-11 ('. . . all').</p>   
+   
+<p><xref doc="ha433b">3-5: Hamlet / Guildester]</xref> Hand II. The   
+form 'Guildester' must represent a slip, of the pen.</p>   
+   
+<p><xref doc="ha434">4: He's so lov'd]</xref> ?Hand V interlines 'so',   
+with a caret, after F 'He's'.</p>   
+   
+<!-- </page> --><!-- <page n=37> -->   
+   
+<p><xref doc="ha436">6-11: And where . . . all.]</xref> Crossed through,   
+6-7 also circled.  Ward A cuts 3-11 ('. . . all.'); 1703 Folger, 7-11'   
+('to . . . all.').</p>   
+   
+<p><xref doc="ha438">8: Officers]</xref> Hand II. Although this call and   
+that for Hamlet and Rosencrantz at 3-5 above are separated, they are,   
+I believe, part of the same call, indicating that Hamlet entered at 17   
+under the guard of 'Officers' (as 14 suggests) . There is nothing in   
+the Ff s.d.'s to indicate this; the Qq have 'They enter.' at 16,   
+which, since Guildenstern is already entered as part of <hi>'all the   
+rest'</hi> at 10, implies attendants of some kind. Ward A, B call the   
+'Officers' 'Attendants'; 1734, 1763, <hi>'Guards'.</hi> Edited texts all   
+leave the 'business' here to 'Attendants' (when they list anyone as   
+entering with Hamlet and Guildenstern); the police effect of the   
+'Officers' preserves a detail of the seventeenth-century stage effect   
+otherwise lost, an interpretation of the situation which apparently   
+carried over into the eighteenth century.</p>   
+   
+<p><xref doc="ha4322">22-23: Your worm . . . Beggar.]</xref> Circled and   
+crossed through. The state of PB is peculiar in the marking of 22-31;   
+the final words in each line show no sign of deletion of any kind,   
+though there is a hint of a deletion mark above 'Your' (22) . The   
+lower right corner of sig. [3R6] has been torn at some time and it is   
+possible that it has been restored from another copy, but I do not   
+think so. Cut Q6, etc.; Collier MS 31-33.</p>   
+  
+<p><figure entity="ha-p751">   
+<figDesc>Image of prompt-book page 751</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha4345">45:  w<hi rend="sup">th</hi> sped]</xref> Hand II   
+substitutes 'wth sped' for F 'With fiery quickness,' (crossed   
+through). Omitted Q6, etc. (except Garrick PB).</p>   
+   
+<p><xref doc="ha4346">46-47: the wind is fair / and every thing made   
+fit]</xref> Hand II crosses through F 'at help, Th' Associates tend,'   
+and substitutes 'is fair' after F 'help,'; then, crosses through F 'at   
+bent' and substitutes 'made fit' following it. Q6, etc. (except   
+Garrick PB) substitute 'sits fair,' for F 'at help,' and cut 47   
+(except Garrick PB and 1703 Folger).</p>   
+   
+<p><xref doc="ha4348">48:  Horatio Queene]</xref> Hand II.</p>   
+   
+<p><xref doc="ha4356">56:  close]</xref> Hand II substitutes 'close' for   
+F 'at foot,' (crossed through). Omitted Q6, etc. (except Garrick PB).   
+1703 Folger for some reason tacks on 'England ho!' at the conclusion   
+of Hamlet's preceding speech.</p>   
+   
+<p><xref doc="ha4358">58-70:  And England / if our / present / love   
+thou / holdst / at ought / let it be / testify'd / by Hamlets /   
+death.]</xref> Hand II substitutes these lines to right of F 'Away . .   
+. begun.' (58-70; circled and crossed through). Hand II also seems to   
+have written 'out' above his own 'our', but deleted it. PB   
+   
+<!-- </page> --><!-- <page n=38> -->   
+   
+has a small portion torn out affecting parts of 67-70 and the s.d. at   
+the beginning of scene iv. Q6 cuts 59 ('pray . . .') -70; 1734, 59,   
+61-66, 67 ('do . .')-70; Ward A, B, 1763, 59, 61-70, concluding the   
+scene with: 'And <hi>England,</hi> if my present love thou holdst at   
+ought, / Let it be testified in Hamlet's death.'; Garrick PB cuts 61-67   
+('. . . <hi>Hamlet;'),</hi> 69 ('till . . .')-70, retaining 'present' in   
+60 and inserting 'Let it be testified in Hamlet's death' after 60; 1703   
+Folger cuts everything after 56 ('Tempt . . .'), though originally it   
+cut only 61-67 ('. . . <hi>Hamlet,')</hi> and inserted 'Let . . . death'   
+after 60.</p>   
+   
+</div2>   
+<div2 type="scene">   
+<head>IV.iv.</head>   
+   
+<p><xref doc="ha441">1 s.d-8:  <hi>Enter Fortinbras . . .</hi>   
+on.]</xref> Circled (as part of the preceding cut) . These lines,   
+which are all that appear of scene iv in the Ff, are not crossed   
+through (though the concluding lines of scene iii included in the   
+circling are); that they were cut, however, is shown by the lack of   
+any call for either Fortinbras or his army. Q6, 1734, Ward A, B, 1763   
+cut the whole scene; Garrick PB and 1703 Folger cut out Fortinbras   
+along with 1-8, but they include substantially all the remainder of   
+the scene, substituting Guildenstern for the Q Captain (1703 Folger   
+reverses the roles and substitutes Rosencrans for the Captain; see a   
+full account of the relation between the Garrick PB and 1703 Folger in   
+the Introduction, p. 9, n.22) .  Collier MS cuts as in PB.</p>   
+   
+</div2> <div2 type="scene" n=4.5>    
+<head>IV.v.</head>    
+   
+<p><xref doc="ha45opa">(opening):  Chamber]</xref> Hand VIII. No   
+specific change of scene in Q6, etc.</p>   
+   
+<p><xref doc="ha45opbx">(opening): Ophelia.]</xref> Hand II.    
+<xref doc="ha45opby">Entry   
+marked with crossed line at 21</xref>. Note that Ophelia enters unattended   
+here and in Q6, etc.; Johnson sends Horatio to bring her in. 1703   
+Folger gets rid of Horatio and begins the scene as follows: <hi>'Scene   
+/ Enter King &amp; Queen PS. / King:</hi> See where She comes--it is a   
+piteous Sight. / <hi>Queen.</hi> O She Cleaves my heart--her distemperd   
+mind / Communicates Infection to my own. / <hi>Enter Ophelia distracted   
+/ </hi>Where is the beauteous &amp;c' (this is the final version;   
+originally the dialogue between the Queen and the Gentleman had been   
+divided between the Queen and Claudius; perhaps this may actually   
+represent Garrick's final version; see Introduction, p. 9, n.22).</p>   
+   
+<p><xref doc="ha454x">4-13:  says she</xref> <xref doc="ha454y">. . .   
+unhappily.]</xref> Circled, but marked 'Stet' by Hand II. Q6 cuts 9   
+('they . . .')-13; 1734, 9 ('they . . .')-10, 12; Ward A, 4-13; Ward   
+B, 2-13; 1763, 3 ('What . .   
+.')-13 (repeating 1 ['I . . . her.'] in place of 3 ['What . . .   
+have?']); see preceding entry for 1703 Folger.</p>   
+   
+<p><xref doc="ha4515">15-16:  King / Redy]</xref> Hands II, VII. Entry   
+marked with crossed line at 36.</p>   
+   
+<!-- </page> --><!-- <page n=39> -->   
+   
+<p><xref doc="ha4544">44:  God be at your Table.]</xref> Circled.   
+Omitted Q6, etc.</p>   
+   
+<p><xref doc="ha4559">59-66:  By <hi>Gis . . . bed.</hi>]</xref> Circled   
+(the first four lines apparently as an afterthought). Q6 cuts 52-55,   
+63-66; 1734, 59-66 (inserting 56-58 after 51); Ward A, 52-55 63-66 (at   
+one time inserting 56-58 after 62 [later deleted]); Ward B, 63-66;   
+1763, 1703 Folger cut, 59-66 (inserting 56-58 after 51); Garrick PB   
+retains everything, but inserts 56-08 after 51.</p>   
+   
+<p><xref doc="ha4563">63-65:  Messenger / Redy]</xref> Hands II, VII.   
+Entry marked by crossed line at 96.</p>   
+   
+<p><xref doc="ha4577x">77-94: All from</xref> <xref doc="ha4577y">   
+. . . ear.]</xref> Circled and   
+crossed through (except some few phrases in 80, 82-84); Hand II   
+substitutes, following 76-77, /, 'from her &lt;?n&gt;eg &lt;   
+&gt;Fath&lt;er &gt;'. Two other words, in ?another hand, have been   
+written below, but they are illegible: the first appears to begin with   
+'N' and the second (below) with 'b' (the following letter may be 'e').   
+Q6 cuts 92-96 ('. ear:'); 1734, 77-96 ( O . . . Death. ); Ward A,   
+76-96 ('O this . . . death.'); Ward B, 1703 Folger cut, 77-96 ('and   
+now . . . death.'); 1763, 77-98 ('O . . . matter?'); Garrick PB cuts,   
+92-96 ('. . . Death.'), altering 'violent' to 'frantic' (80) and   
+inserting 'Her Brother tempest-beaten back to Denmark' in place of   
+88.</p>   
+  
+<p><figure entity="ha-p752">   
+<figDesc>Image of prompt-book page 752</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha4586">86:  &lt;Laer&gt;tes / &lt;Re&gt;dy]</xref> Hand   
+VII. Entry marked by crossed line at 111.</p>   
+   
+<p><xref doc="ha4593">93: ]</xref> PB, left margin, shows what may be   
+the remains of a call for Laertes by Hand II.</p>   
+   
+<p><xref doc="ha4594">94:  O my dear <hi>Gertrude,</hi> this, &amp;   
+other troubles]</xref>   
+Hand II inserts '&amp; other troubles' after F 'this,'. </p>   
+   
+<p><xref doc="ha4596">96 s.d.:  <hi>Messenger.</hi> Trefusis.]</xref>   
+Hand VI inserts 'Trefusis.' after F <hi>'Messenger.'.</hi> For Trefusis,   
+the actor who played the Messenger, see Introduction, p. 1. In the   
+left margin, PB shows the remains of what may again (see 93 above) be   
+a call for Laertes by Hand II. However, it is possible that both these   
+illegible calls have reference to offstage 'noise' heralding Laertes'   
+entry.</p>   
+   
+<p><xref doc="ha4597">97: Where are . . . door.]</xref> Partly circled   
+and crossed through. So 1734, Ward A; 1763 cuts 77-98 ('O . . .   
+matter?').</p>   
+   
+<p><xref doc="ha4598">98: ]</xref> PB has a small cross in left margin   
+opposite this line; unless it is connected with offstage noise, I   
+cannot explain it.</p>   
+   
+<p><xref doc="ha4599">99-100:  The Ocean . . . haste]</xref> Circled.   
+1734 cuts 98-101 ('Save   
+. . . Than'); Ward A, 98-111 ('Save . . . broke.'); Ward B 99-101 ('.   
+. . Than'); 1763, 99-101 ('. . . Then').</p>   
+   
+<p><xref doc="ha45101">101:  The young <hi>Laertes</hi>]</xref> F 'Then' has   
+been altered to 'The', allowing for the deletion of 99-100. The word is   
+cut by 1734, Ward A, B, 1763.</p>   
+   
+<!-- </page> --><!-- <page n=40> -->   
+   
+<p><xref doc="ha45103">103-106:  and cry]</xref> Lines 103-105 have been   
+circled and criss-crossed; Hand IX inserts 'and' before F 'They'   
+(deleted) and crosses through F 'choose we'. 1734 cuts 103-106; Ward   
+A, 98-111 ('Save . .   
+. broke.'); Ward B, 1763, 103-105; Garrick PB, 105.</p>   
+   
+<p><xref doc="ha45109">109-110:  <hi>Quee.</hi> How . . . Doggs.]</xref>   
+Circled and crisscrossed. Cut Q6, etc. This common cut gets rid of an   
+ambiguity in the Queen's attitude at this point.</p>   
+   
+<p><xref doc="ha45113">113-114: ]</xref> PB has a small star placed in   
+left margin opposite the first part of 113 and below, in Hand ?II, two   
+only partly legible words '&lt; &gt;er' and '&lt; &gt;se'. The first   
+word may possibly be 'Enter' and the second an actor's name (though I   
+can connect what remains with no actor at Smock Alley at this time);   
+if so, then the star probably marks actual point of entry for Laertes   
+(despite the crossed line marking his entry at 111) . If we accept   
+this interpretation, it raises difficulties with my later   
+identification of Williams as Laertes (see V.ii.153). Another   
+explanation may be that the two words should be read as 'her noise'   
+and that the star indicates the point for the noise (this would link   
+the star with the one above at 98).</p>   
+   
+<p><xref doc="ha45123">123-125:  Divinity about a king / That treason can   
+but offer at w<hi rend="sup">t</hi>. / it would. / Tell me <hi>Laertes</hi>, Only   
+125 is circled; Hand II substitutes 'about', point of insertion marked   
+with a cross, for F 'cloth hedge' (deleted) and 'offer at   
+w<hi rend="sup">t</hi>. / it would.' for F 'peep . . . will.' (124-125;   
+deleted); the last part of 125 ('Tell me <hi>Laertes,')</hi> was thus   
+meant to be retained. Q6 reads 'divinity cloth hedge a King, / That   
+treason dares not reach at what it would, / Acts little of his will:   
+tell me Laertes'; 1734, Ward A, 1763 cut 125-126 ('. . . incens'd?');   
+Garrick PB cuts, 125 ('Acts . . . Will.'); 1703 Folger, 125-126 (all   
+employing the wording of Q6 in 124).</p>   
+   
+<p><xref doc="ha45129">129-130:  &lt;Op&gt;helia / &lt;R&gt;edy]</xref>   
+Hands II, VII.  Beginning with 126 to bottom of first column a more or   
+less transparent mending paper has been pasted over the text.</p>   
+   
+<p><xref doc="ha45132">132-133:  Conscience and . . .   
+Damnation:]</xref> Circled. Cut Q6,   
+1734, Ward B, 1763, Garrick PB, 1703 Folger; Ward A cuts 131-33   
+('. . . damnation,').</p>   
+   
+<p><xref doc="ha45135">135:  Let come what comes:]</xref> Circled. 1734,   
+1763 read 'will' for F 'comes' (1747 reads 'will' and omits F 'only',   
+both corrected by Garrick).</p>   
+   
+<p><xref doc="ha45139">139-143:  Good <hi>Laertes:</hi> will you in revenge   
+/ Of your dear father's death, destroy both friend and foe,]</xref>   
+Hand II inserts 'will you in revenge' after F <hi>'Laertes:',</hi>   
+crosses through 140-141   
+   
+<!-- </page> --><!-- <page n=41> -->   
+   
+('If . . . draw'), and interlines 'destroy' above F 'draw' with a   
+caret; 'Good <hi>Laertes:'</hi> and 143 ('Winner and looser.') are   
+circled (143 also crossed through) . It would appear then that 'Good   
+<hi>Laertes:'</hi> was not included in the cut, but it should be   
+noticed that Q6, which reads the lines as in PB, omits 'Good   
+<hi>Laertes:'.</hi> The later versions all follow Q6. Collier MS   
+cuts 139-147 ('Good . . . that?').</p>   
+   
+<p><xref doc="ha45147">147-148:  you speake / Like a true]</xref> Hand II   
+inserts 'you speake' after F 'that?' (147), deleting F 'what noise is   
+that?' and interlines 'a' before F 'true' (148), deleting F 'a good   
+child, and a'; Hand ?II had earlier inserted 'you speak' above 'noise   
+that?', marking point of insertion with a cross before 'what', but   
+deleted it. Q6 (and F') read 'you speak / Like a good child, and a   
+true', followed by 1734, Garrick PB; Ward A, B, 1763, 1703 Folger read   
+as in PB. </p>   
+   
+<p><xref doc="ha45151">151:  clearly to your Judgement shew]</xref> Hand   
+II interlines 'clearly' above F 'level' (deleted) and inserts 'shew'   
+after F 'pierce' (deleted) . Q6, etc. read 'lye' for 'pierce', except   
+Garrick PB.</p>   
+   
+<p><xref doc="ha45152">152: ]</xref> Following F 'eye.', PB has what looks   
+like 'Call Op', later deleted, (Hand ?II). Either Hand ?II began to   
+add 'Call Ophelia.' to the end of the King's line or the notation was   
+meant to indicate calls of 'Ophelia' as part of F 'A <hi>noise   
+within.'.</hi> In this connection, it is significant that 1734 adds,   
+after the King's speech <hi>'Within.</hi> O poor <hi>Ophelia.'</hi>, so,   
+perhaps, what Hand ?II started to write was 'Call O p'. Ward A adds   
+'poor Ophelia!' to the end of the King's speech; 1763 gives 'O poor   
+Ophelia!' to Horatio <hi>'Within</hi>.'; and Garrick PB transfers the   
+words to Laertes, adding 'My' before 'poor'.  Something like 'Op' has   
+been faintly written in below the F s.d.  '<hi>within</hi>.'.</p>   
+   
+<p><xref doc="ha45154">154-155: Oh heat . . . eye.]</xref> Circled. Q6   
+cuts 153-156 ('. . .  heaven'); 1734, etc. cut 153-155.</p>   
+   
+<p><xref doc="ha45161">161-163:  Nature is . . . loves.]</xref> Circled.   
+Omitted Q6, etc. (and Collier MS).</p>   
+   
+<p><xref doc="ha45171">171:  you may call]</xref> Some Hand, perhaps II,   
+has inserted 'may', with a caret, above F 'call'.</p>   
+   
+<p><xref doc="ha45172">172: Oh, how . . . become?]</xref> Lightly circled.   
+Some Hand, perhaps II, has written what looks like '&lt;t&gt;hat', the   
+initial 't' being lost in the F '?', after 'become?', probably in an   
+attempt to make sense of the F3 reading. Whether a cut was finally   
+intended here is not clear. Ward B cuts 'Oh . . . becomes it,'.</p>   
+   
+<p><xref doc="ha45174">174-180: ]</xref> A tear in the PB has been mended   
+by a piece of paper pasted over the last half of these lines; nothing,   
+however, seems to suggest any cutting.</p>   
+   
+<!-- </page> --><!-- <page n=42> -->   
+   
+<p><xref doc="ha45194">194-196:  Horatio / Servant / Redy]</xref> Hand II   
+('Redy' Hand VII).  Point of entry marked with crossed line at   
+IV.vi.1.</p>   
+   
+<p><xref doc="ha45199">199: <hi>Gramercy on his Soul</hi>.]</xref> The   
+cutting is not clear: <hi>'Gramercy'</hi> is crossed through, and   
+apparently <hi>'on',</hi> but <hi>'his'</hi> and <hi>'Soul'</hi> are barely   
+touched. The difficulty lies in PB's retention of 'And of all Christian   
+Soules' in the line below, which makes no sense without some version   
+of 199's reference to <hi>'Soul'.</hi> Q6, etc. read (for 199-200) 'And   
+peace be with his soul and with all Lovers souls.'.</p>   
+   
+<p><xref doc="ha45200">200-201:  I pray . . . gods?]</xref> Circled   
+(speech-head <hi>'Laer.'</hi> [201] not included). Omitted Q6, etc. (200   
+complete). Garrick PB and 1703 Folger will not be cited after this   
+point (see Introduction, p. 9, n.22).</p>   
+   
+<p><xref doc="ha45202">202-203:  I must . . . right:]</xref> Circled and   
+crossed through.</p>   
+  
+<p><figure entity="ha-p753">   
+<figDesc>Image of prompt-book page 753</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha45204">204:  Saylor]</xref> Hand II.</p>   
+   
+<p><xref doc="ha45211">211:  scean]</xref> Hand I. Call for change of   
+scene ('Castle') at IV.vi.</p>   
+   
+</div2>   
+<div2 type="scene" n=4.6>   
+<head>IV.vi.</head>   
+   
+<p><xref doc="ha46open">(opening): Castle]</xref> Hand I. Ff, Q6,   
+etc. do not mark a new scene here. Capell first gives a new setting:   
+'<hi>Another Room in the same</hi>.'.</p>   
+   
+<p><xref doc="ha466">6-7:  King. / Laertes.]</xref> Hand II.</p>   
+   
+<p><xref doc="ha4618">18:  letter]</xref> Hand VII. Note that there is no   
+advance call for the 'letter'; cf. II.ii.116 and IV.vii.45. Ward A has   
+an advance call at IV.v.174: 'Sailors / w<hi rend="sup">th</hi> Letter / writ',   
+and places the text of the letter in brackets with 'writ' in the right   
+margin, indicating that the letter was actually read from a prepared   
+copy; Ward B gives only the marginal 'writ'.</p>   
+   
+<p><xref doc="ha4627">27:  scean]</xref> Hand I. Call for change of scene   
+('Court') at IV.vii.</p>   
+   
+</div2>   
+<div2 type="scene" n=4.7>   
+<head>IV.vii.</head>   
+   
+<p><xref doc="ha47open">(opening):  Court]</xref> Hand I. Ff, Q6,   
+etc. do not mark a change of scene here.</p>   
+   
+<p><xref doc="ha476">6:  feares]</xref> Hand IX alters F 'feats',   
+converting 'ts' into 'r' and adding 'es'. 1734, 1763 read 'Crimes'.</p>   
+   
+<p><xref doc="ha4710">10:  weak]</xref> Hand ?II (or ?V) crosses through   
+F 'much unsinewed' and, following, substitutes 'weak'. So Q6, etc.</p>   
+   
+<p><xref doc="ha4714">14:  pretious to]</xref> Hand V crosses through F   
+'conjunctive' and, marking place of insertion with a cross, inserts   
+'pretious to' at end of line (F 'to' not deleted in error) . Q6, 1734,   
+Ward B read 'is so precious to'; Ward A cuts 12-18 ('and . . . love');   
+1763, 12-16 ('and . . . her.').</p>   
+   
+<p><xref doc="ha4715">15:  y<hi rend="sup">ts</hi> all]</xref> Hand ?II writes   
+what looks like 'y<hi rend="sup">ts</hi> all' to the left of this line; the   
+reading is doubtful. The words seem to have no possible connection   
+with the actual text, either here or at IV.v.211 opposite; they may   
+mean that the King's speech is to be cut beginning at 16 ('The . .   
+.'), but I know of no other similar notation in the Smock Alley   
+prompt-books.</p>   
+   
+<!-- </page> --><!-- <page n=43> -->   
+   
+<p><xref doc="ha4716a">16:  Messenger]</xref> Hand II.</p>   
+   
+<p><xref doc="ha4716b">16-24:  The other moti&lt;ve is&gt; / the great   
+love &lt;the&gt; / people be&lt;ar&gt; / him.]</xref> Hand II, 16-24   
+('The . . . them.') being circled and crossed through, inserts the   
+above version in the right margin. Q6, 1734, Ward B cut 21-24 (1734   
+probably does not mean to cut the first part of 21); Ward A cuts 12-18   
+('and . . . love'); 1763, 21 ('So . . .')-24. Q6, etc. all read 'the   
+people' for F 'general gender'.</p>   
+   
+<p><xref doc="ha4735a">35:  And that . . . imagine ---]</xref> Circled and   
+crossed through. Cut Q6, etc.</p>   
+   
+<p><xref doc="ha4735b">35 s.d.:  <hi>Messenger.</hi> Trefusis.]</xref> Hand   
+VI inserts 'Trefusis.' after F <hi>'Messenger.'.</hi> See above, IV.v.96   
+s.d.  </p>   
+   
+<p><xref doc="ha4743">43-44:  Let&lt;ter&gt;]</xref> Hand VII. See   
+above IV.vi.18. Ward A has an advance call at 5 above: 'Messenger /   
+w<hi rend="sup">th</hi> Letters / one writ', the letter in the text being   
+marked 'writ' in right margin; Ward B, again, has only a marginal   
+'writ'.</p>   
+   
+<p><xref doc="ha4763">63:  dislikeing of]</xref> Hand ?II crosses   
+through F 'As checking' and alters F 'at' to 'of'. Q6, etc. read 'As   
+liking not'.</p>   
+   
+<p><xref doc="ha4764">64-65: ]</xref> There is a small curved line to   
+the right of these lines.</p>   
+  
+<p><figure entity="ha-p754">   
+<figDesc>Image of prompt-book page 754</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha4788">88-89:  As had . . . thought,]</xref> Circled   
+and crossed through.  Ward A cuts 84-91 ('. . . did.').</p>   
+   
+<p><xref doc="ha4790">90:  That I . . . tricks,]</xref> Crossed through,   
+but marked 'Stet' (Hand II) in left margin.</p>   
+   
+<p><xref doc="ha4794">94-95:  is indeed / The Gemme]</xref> Hand II   
+crosses through F 'the Brooch' in 94 and F 'And' in 95, writing 'The'   
+before it. So Q6, etc.</p>   
+   
+<p><xref doc="ha47107">107: What]</xref> Hand II alters F 'Why' to   
+'What'. So Q6, etc.  (though 1763 reads 'What of'). Note that Ward A,   
+1763 read the first half of 101 as 'To see Laertes match'd:'.</p>   
+   
+<p><xref doc="ha47113">113-114:  And that . . . it:]</xref> Circled and   
+crossed through. Q6, etc. cut 112-114 and the other lines found only   
+in the Qq through 114 ('. . . easing:').</p>   
+   
+<p><xref doc="ha47128">128-129:  Murther Sanctuarize . . .   
+bounds:]</xref> Partly circled and   
+crossed through. Q6, etc. read 'protect a murderer', but do not cut   
+129.</p>   
+   
+<p><xref doc="ha47135">135-136:  remiss, / Most]</xref> Crossed through.</p>   
+   
+<p><xref doc="ha47140x">140:  Queene.]</xref> Hand II. <xref doc="ha47140y">Point    
+of entry   
+marked with crossed line at 164</xref>.</p>   
+   
+<p><xref doc="ha47142">142-144: Act / Redy]</xref> Hand VII.</p>   
+   
+<p><xref doc="ha47150x">150-157:  Weight what</xref><xref doc="ha47150y"> .    
+. .  ha't:]</xref> Circled and crossed through (all   
+but 'I ha't:' [157]).  Q6, Ward B cut 150-155 ('. . . proof:'); 1734,   
+1763, 150-156; Ward A cuts, 150-155 ('. .   
+.soft,').</p>   
+   
+<p><xref doc="ha47162">162:  sword]</xref> Hand II crosses through F 'stuck' and substitutes   
+'sword' following it. So 1734, Ward A, 1763.</p>   
+   
+<!-- </page> --><!-- <page n=44> -->   
+   
+<p><xref doc="ha47163">163:  how now sweet Queen.]</xref> Circled and crossed through. Cut   
+1763; Q6, 1734, Ward A, B, read 'But stay, what noise?'; Ward A,   
+1763 read the first part of the line as 'It shall be death:'.</p>   
+   
+<p><xref doc="ha47166">166-185:  <hi>Laer.</hi> Drown'd. . .   
+drown'd.]</xref> These lines   
+are marked off by heavy lines drawn across the right column from rule   
+to rule; within this larger cut 168 and 178-181 ('. . . element:') were   
+first separately circled and 172 and 183 ('from her melodious by,')   
+crossed through. That the whole passage was finally meant for deletion   
+is shown, I think, by the fact that the original 'act' call which comes   
+opposite 179-180 has been supplemented by another call at 142-144   
+(see above) . Q6 cuts 171-172, 176 ('her . . . ) -178; 1734, 1763 cut,   
+171-172, 176-184 ('her . . . Death.'); Ward A, B, 168, 171-172, 176   
+('her...')-185.</p>   
+   
+<p><xref doc="ha47179">179-180:  Act]</xref> Hand II. After the cutting of 166-185 this 'act'   
+call was superseded by an earlier one at 142-144.</p>   
+   
+<p><xref doc="ha47189">189-190:  when these . . . out.]</xref> Circled. Cut Q6, etc.</p>   
+</div2>   
+</div1>   
+<div1 type="act" n=5>   
+<head>V.</head>   
+<div2 type="scene" n=5.1>   
+<head>V.i.</head>   
+   
+<p><xref doc="ha51opa">(opening):  Act 5<hi rend="sup">th</hi> Scene 18'.   
+Act 5]</xref> Hand II   
+(second 'Act 5' Hand VII).</p>   
+   
+<p><xref doc="ha51opb">(opening): Towne]</xref> Hand I. No advance call for a change of scene,   
+because at the beginning of a new act. No act or scene marked in Ff; Q6,   
+etc. begin Act V at this point (excluding, of course, Garrick PB and 1703   
+Folger); Q6, etc. give no setting, though Ward A has the interesting notation   
+'Long Trap open, Earth, Sculls and Bones in it.'; Rowe gives the setting as   
+'A <hi>Church.'</hi> and Capell as 'A   
+<hi>Church-yard</hi>.'.</p>   
+   
+<p><xref doc="ha51opc">(opening): hamlet Horatio]</xref> Hand VII. This anticipates   
+another call for Hamlet and Horatio (Hand II) below at 45.</p>   
+  
+<p><figure entity="ha-p755">   
+<figDesc>Image of prompt-book page 755</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha5145x">45:  Hamlet Horatio]</xref> Hand II.   
+<xref doc="ha5145y">Point of entry marked with crossed line   
+at 63. Q6, etc. make the entry at 73</xref>.</p>   
+   
+<p><xref doc="ha5196">96-98:  <hi>Ham.</hi> Why . . . Spade,]</xref> Circled. Cut Q6; 1734 cuts   
+90-98 ('. . . Spade;'), 99 ('we . . . see't:'); Ward A, B cut, 90-101, but   
+Ward A restores 98-101 ('here's . . . on't.'), except 99 ('and . . . see't;');   
+1763 cuts, 90-101.</p>   
+   
+<p><xref doc="ha51122">122-126:  <hi>Hor.</hi> Not . . . that.]</xref> Partly circled. Q6 omits   
+115-116 ('Is . . . Recoveries,') and cuts 123-126; 1734 cuts 115-117 ('Is . . .   
+Dirt?'), 123-126; Ward A, B, 1763 cut 112-126 ('hum . . . that.').</p>   
+  
+<p><figure entity="ha-p756">   
+<figDesc>Image of prompt-book page 756</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha51206">206-208: ]</xref>  A call, shaved away except for the last letters of two   
+words, for the entry of the King, Queen, and Laertes, etc. appears opposite   
+these lines.</p>   
+   
+<p><xref doc="ha51223">223:  &lt;sce&gt;ane]</xref> Hand I. Call for change of scene at 241   
+below.</p>   
+   
+<!-- </page> --><!-- <page n=45> -->   
+   
+<p><xref doc="ha51240">240 s.d.:   Church]</xref> Hand I. No indication of change of scene in Q6,   
+Ward A, B; 1734, 1763 note <hi>'Scene draws, and discovers the King,   
+Queen,</hi> Laertes <hi>and Priest, with a Corse.'</hi> See Introduction,   
+p. 8. Note that PB retains F <hi>'Coffin'</hi> in place of Q6   
+<hi>'coarse';</hi> Ward A, in the advance call, notes 'Corpse Supported';   
+Ward B notes simply 'Funeral'.</p>   
+   
+<p><xref doc="ha51281">281:  perdition catch the]</xref> Hand IX crosses through F 'The Devil take   
+thy soul.' and, with a cross to mark point of insertion, writes 'perdition catch   
+the' above. So Q6, etc.</p>   
+   
+<p><xref doc="ha51288">288:  <hi>Gen.</hi> Good . . . quiet.]</xref> Crossed through. 1734, Ward   
+B cut 287-288 <hi>('Queen ....</hi> Gentlemen.'); Ward A, 1763, 287-288   
+('Qu. . . . quiet.').</p>   
+   
+<p><xref doc="ha51296">296:   For love . . . him.]</xref> Circled. Omitted 1763; Q6, etc. omit 'For   
+love of God'; Ward A cuts 295-296; Ward B, 295.</p>   
+  
+<p><figure entity="ha-p757">   
+<figDesc>Image of prompt-book page 757</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha51307">307:  Queen]</xref> Hand III has crossed through F <hi>'King.'</hi> and   
+inserted 'Queen' before it. The reading is not clear, being apparently written   
+over something else. The Qq give the speech to the Queen; so Q6, etc.</p>   
+   
+<p><xref doc="ha51309">309:  scean]</xref> Hand I. Advance call for new scene ('Towne') at   
+V.ii.</p>   
+   
+<p><xref doc="ha51321">321-322:  An hour . . . be.]</xref> Circled and crossed through. Cut Q6,   
+etc.</p>   
+   
+</div2>   
+<div2 type="scene" n=5.2>   
+<head>V.ii.</head>   
+  
+<p><xref doc="ha52open">(opening):  Towne]</xref> Hand I (deleted). new sceen] Hand VIII. Cf.   
+IV.ii. For discussion, see Introduction, p. 8.</p>   
+   
+<p><xref doc="ha5260">60-62:  'Tis dangerous . . . opposites.]</xref> Circled. Cut Q6, 1734, Ward   
+B; Ward A, after several shorter cuts (including this one) cuts the whole   
+scene down to Osric's entrance at 81; 1763 cuts 4-80.</p>   
+   
+<p><xref doc="ha5261">61-62:   Osrick.]</xref> Hand II. Something illegible seems to have been   
+written after 'Osrick', possibly an actor's name.</p>   
+   
+<p><xref doc="ha5264">64: ]</xref>   Beginning with this line someone has scribbled what seem to be   
+an 'O', two 'T' 's (or 'I' 's), and three 'S' 's down the right margin. They   
+seem to have nothing to do with prompt notation, though the 'O' may be the   
+beginning of 'Osrick' again since there is what looks like the remains of an   
+'s' after it.</p>   
+   
+<p><xref doc="ha5268">68-80:  To quit . . . here?]</xref> Marked with a heavy bracket at left,   
+possibly for omission. Omitted in Qq; Ward A, B omit; 1763 cuts   
+4-80.</p>   
+  
+<p><figure entity="ha-p758">   
+<figDesc>Image of prompt-book page 758</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha52172">172-179:  &lt;Kin&gt;g / &lt;Quee&gt;ne / &lt;?W&gt;illian /   
+&lt;Os&gt;rick / &lt; &gt;ne / &lt;Re&gt;dy]</xref> Hand VII. On   
+&lt;?W&gt;illian' (probably the actor David Williams) see, Introduction, p.   
+1. So far as '&lt; &gt;ne' is concerned (the last letter being doubtful),   
+   
+<!-- </page> --><!-- <page n=46> -->   
+   
+although it may well be an actor's name, I can only hazard two guesses.   
+There was a Mrs. Kaine who appeared in the Smock Alley <hi>Henry VIII   
+</hi>as an Old Lady and it is possible that the fop Osric was played by a   
+woman (though not in the London Betterton production) . As I noted at 61-62   
+above, an illegible word appears to follow Osric's name in the call and it is   
+tempting to read the first letter of that word as 'K' and to read, here,   
+'&lt;Kai&gt;ne'. There may, of course, have been a 'Mr. Kaine' as well as a   
+'Mrs. Kaine', but I know of no evidence for such an actor. Clark <hi>(Early   
+lrish Stage, p.</hi> 208) lists a 'Mr. Kaine', but, as I have explained in the   
+General Introduction (p. 14, n.29), this listing arises from a misinterpretation.   
+Alternatively, the call may stand for '&lt;wi&gt;ne' (cf. Ward A: 'King /   
+Queen / Laertes / Attendants / a /Flourish / [line] / one with a / cup of   
+wine').</p>   
+   
+<p><xref doc="ha52190">190-197: ]</xref>  What remains of Hand II's call (apparently scrawled over)   
+for King, Queen, Laertes, etc. can be seen opposite these lines. It may be   
+reconstructed as '&lt;King&gt; / &lt;Queen&gt;e / &lt;Laerte&gt;s /   
+&lt;Attend&gt;ants / &lt;Lord&gt;s'.</p>   
+   
+<p><xref doc="ha52195">195-197:  He did . . . Beavy]</xref> Circled. Q6, 1734, Ward B cut 195-196   
+('. . . it;'); Ward A cuts 190-202; 1763, 189-218 (Ward A, B, 1763 cut   
+203-218, lines not found in Ff, hence omitted in PB); Collier MS cuts 190   
+('He . . .')-203.</p>   
+   
+<p><xref doc="ha52101"><orig reg="201-203">101-103</orig>: ]</xref> The  
+remains of what I take to be a call by Hand II appear opposite these  
+lines. I suppose '&lt; &gt;pet' to be '&lt;trum&gt;pet' and '&lt; &gt;k'  
+below to be either '&lt;music&gt;k' or '&lt;Osric&gt;k' (Osric does not  
+seem to have been specifically included in Hand II's call above at  
+190-197). Ward A calls for 'a / Flourish'.</p>  
+   
+<p><xref doc="ha52227">227: &lt;scea&gt;ne.]</xref> Hand I. Call for change of scene ('Court'   
+[deleted]) at 237.</p>   
+   
+<p><xref doc="ha52230x">230-236:  there's a</xref>  
+<xref doc="ha52230y"> . . . betimes?]</xref>  
+Circled. Cut Q6, Ward A, B, 1763; 1734 ends the cut with 'come:' (234)  
+or 'all,' (234).</p>  
+   
+<p><xref doc="ha52236a">236 s.d.:   throne 2 hairs]</xref> Hand VIII. Either 'hairs' is a slip for   
+'chairs' or what looks like a '2' should be read as a 'C'. Cf. Hand VI's   
+direction at beginning of III.i.</p>   
+   
+<p><xref doc="ha52236b">236 s.d.:  Court]</xref> Hand I (deleted) . The deletion of 'Towne' and the   
+substitution of 'new sceen' by Hand VIII at the beginning of V.ii make a   
+change of scene here unnecessary. That some kind of a discovery at this point   
+is intended in PB is clear; Q6, Ward B indicate no change; 1734, 1763 read   
+<hi>'Scene draws, and discovers King, Queen,</hi> Laertes,   
+<hi>Gentlemen and Guards.';</hi> Ward A alters Q6 s.d. to read   
+'Discover'd   
+   
+<!-- </page> --><!-- <page n=47> -->   
+   
+<hi>Officers with cushions, King, Queen, and</hi> Ostrick, <hi>Foils,   
+and</hi> Laertes.'.</p>   
+   
+<p><xref doc="ha52251">251:  Sir, in this Audience,]</xref> Marked with parenthesis at left. Omitted   
+Q6, etc.</p>   
+   
+<p><xref doc="ha52257">257-261:  But in . . . time.]</xref> Circled ('But . . . time,' [261] not circled   
+but crossed through in red pencil). Cut Q6, etc.</p>   
+   
+<p><xref doc="ha52278">278:  stoops of Wine upon the Table:]</xref> Hand II crosses through F 'the   
+Stopes of', interlining 'stoops of' with a caret before 'the', and F 'that',   
+writing 'the' above. Q6, 1734, Ward B read as in F, except for 'the' for   
+'that'; Ward A reduces to 'Give me the wine.' (having deleted '<hi>A</hi>   
+<hi>Table prepared,'</hi> at 236 s.d.); 1763 reduces to 'Give me a Bowl   
+of Wine.'.</p>   
+   
+<p><xref doc="ha52283">283:  Onix]</xref> Hand ?II alters F 'Union' to 'Onix'. So Q6, etc.</p>   
+  
+<p><figure entity="ha-p759">   
+<figDesc>Image of prompt-book page 759</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha52291">291:  Sound]</xref> Hand VI. Q6, 1734, Ward B, 1763 read '<hi>Trumpets   
+the while</hi>.'; Ward A adds 'Flourish'.</p>   
+   
+<p><xref doc="ha52294">294:  wine]</xref> Hand II crosses through F 'Cup' and substitutes 'wine'   
+following.</p>   
+   
+<p><xref doc="ha52296">296-297:  What say . . . touch,]</xref> Circled. Q6, etc. cut 297 ('A touch, a   
+touch,').</p>   
+   
+<p><xref doc="ha52322">322:  Villan]</xref> Some Hand deletes the 'y' on F 'Villany'. So Q6,   
+1734.</p>   
+   
+<p><xref doc="ha52324">324:  <hi>Hamlet</hi>,]</xref> Crossed through. Omitted Q6, etc.</p>   
+   
+<p><xref doc="ha52329">329: ]</xref>   What appears to be some alteration in F 'here I lye,' is ink   
+smudging from the opposite page (V.ii.283).</p>   
+   
+<p><xref doc="ha52333">333-335:  Ready / Beat / A ma&lt;rch&gt;   
+]</xref> Hand VI. Call for offstage   
+effects at 360.</p>   
+   
+<p><xref doc="ha52336">336:  murd'rous / Damned]</xref> Crossed through. Omitted Q6.</p>   
+   
+<p><xref doc="ha52337">337:  Drink off . . . here?]</xref> Crossed through. Cut Q6, etc.</p>   
+   
+<p><xref doc="ha52338">338-339:  He is . . . himself:]</xref> Crossed through (in red pencil). Cut Q6,   
+etc.</p>   
+   
+<p><xref doc="ha52350">350:  Osrick]</xref> Hand II.</p>   
+   
+<p><xref doc="ha52356">356-60:  fortin&lt;bras&gt; /   
+Ambass&lt;adors&gt; / Drum / [line]</xref> /   
+Red&lt;y&gt;] Hand II ('Red&lt;y&gt;' Hand VII); 'Red&lt;y&gt;' has been   
+badly smeared, perhaps deleted. Although PB appears to omit <hi>'Colours'   
+</hi>as called for in the F s.d. at 372, it is possible that something of the   
+sort originally followed PB's 'Drum'.</p>   
+   
+<p><xref doc="ha52360">360: shout / drum]</xref> Hands VI, III. Note that Hand VI's 'shout' is not   
+anticipative and that Hand III's 'drum' essentially repeats Hand VI's advance   
+call at 333-335 and Hand II's immediately beside it.</p>   
+   
+<p><xref doc="ha52375">375:  His quarry . . . Havock.]</xref> Crossed through. Cut Q6 (also 406   
+['Let four Captains']); 1734, Ward B cut 372-406; Ward A, 1763, 372-411;   
+Collier MS cuts 372-414.</p>   
+   
+<!-- </page> --><!-- <page n=48> -->   
+  
+<p><figure entity="ha-p760">   
+<figDesc>Image of prompt-book page 760</figDesc>   
+</figure></p>   
+    
+<p><xref doc="ha52408">408-409:  For he . . . royally:]</xref> Bracketed. See above for Ward A,   
+1763.</p>   
+   
+<p><xref doc="ha52414">414: Goe, bid . . .shoot.]</xref> Bracketed. Cut Q6, Ward A, B, 1763.</p>   
+   
+</div2>   
+</div1>   
+</div0>   
+<!-- </page> -->   
+</body>   
+</text>   
+</TEI.2>   
+   
+  
+ 

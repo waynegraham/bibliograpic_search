@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//ELEMENTS TEI Lite XML ver. 1//EN"
+                       "http://www.tei-c.org/Lite/DTD/teixlite.dtd" [
+ 
+<!NOTATION jpg SYSTEM "JPEG">  
+  
+<!ENTITY he8-p542 SYSTEM "he8-p542.jpg" NDATA jpg>  
+<!ENTITY he8-p554 SYSTEM "he8-p554.jpg" NDATA jpg>  
+<!ENTITY he8-p564 SYSTEM "he8-p564.jpg" NDATA jpg>  
+<!ENTITY he8cov SYSTEM "he8cov.jpg" NDATA jpg>  
+<!ENTITY he8spin SYSTEM "he8spin.jpg" NDATA jpg> 
+<!ENTITY he8ti SYSTEM "he8ti.jpg" NDATA jpg> 
+<!ENTITY he811104 SYSTEM "he811104.jpg" NDATA jpg> 
+<!ENTITY he811106 SYSTEM "he811106.jpg" NDATA jpg> 
+<!ENTITY he811113 SYSTEM "he811113.jpg" NDATA jpg> 
+<!ENTITY he811113a SYSTEM "he811113a.jpg" NDATA jpg> 
+<!ENTITY he811113b SYSTEM "he811113b.jpg" NDATA jpg> 
+<!ENTITY he811121 SYSTEM "he811121.jpg" NDATA jpg> 
+<!ENTITY he811124 SYSTEM "he811124.jpg" NDATA jpg> 
+<!ENTITY he811126 SYSTEM "he811126.jpg" NDATA jpg> 
+<!ENTITY he811127 SYSTEM "he811127.jpg" NDATA jpg> 
+<!ENTITY he811130 SYSTEM "he811130.jpg" NDATA jpg> 
+<!ENTITY he811130a SYSTEM "he811130a.jpg" NDATA jpg> 
+<!ENTITY he811130b SYSTEM "he811130b.jpg" NDATA jpg> 
+<!ENTITY he811131 SYSTEM "he811131.jpg" NDATA jpg> 
+<!ENTITY he811134 SYSTEM "he811134.jpg" NDATA jpg> 
+<!ENTITY he81136 SYSTEM "he81136.jpg" NDATA jpg> 
+<!ENTITY he81138 SYSTEM "he81138.jpg" NDATA jpg> 
+<!ENTITY he81139 SYSTEM "he81139.jpg" NDATA jpg> 
+<!ENTITY he81148 SYSTEM "he81148.jpg" NDATA jpg> 
+<!ENTITY he81154 SYSTEM "he81154.jpg" NDATA jpg> 
+<!ENTITY he81154a SYSTEM "he81154a.jpg" NDATA jpg> 
+<!ENTITY he81154b SYSTEM "he81154b.jpg" NDATA jpg> 
+<!ENTITY he81162 SYSTEM "he81162.jpg" NDATA jpg> 
+<!ENTITY he81165 SYSTEM "he81165.jpg" NDATA jpg> 
+<!ENTITY he81178 SYSTEM "he81178.jpg" NDATA jpg> 
+<!ENTITY he81191 SYSTEM "he81191.jpg" NDATA jpg> 
+<!ENTITY he831101 SYSTEM "he831101.jpg" NDATA jpg> 
+<!ENTITY he831102 SYSTEM "he831102.jpg" NDATA jpg> 
+<!ENTITY he831103 SYSTEM "he831103.jpg" NDATA jpg> 
+<!ENTITY he831104 SYSTEM "he831104.jpg" NDATA jpg> 
+<!ENTITY he831105 SYSTEM "he831105.jpg" NDATA jpg> 
+<!ENTITY he83116 SYSTEM "he83116.jpg" NDATA jpg> 
+<!ENTITY he83118 SYSTEM "he83118.jpg" NDATA jpg> 
+<!ENTITY he83119 SYSTEM "he83119.jpg" NDATA jpg> 
+<!ENTITY he83121 SYSTEM "he83121.jpg" NDATA jpg> 
+<!ENTITY he83122 SYSTEM "he83122.jpg" NDATA jpg> 
+<!ENTITY he83123 SYSTEM "he83123.jpg" NDATA jpg> 
+<!ENTITY he83124 SYSTEM "he83124.jpg" NDATA jpg> 
+<!ENTITY he83128 SYSTEM "he83128.jpg" NDATA jpg> 
+<!ENTITY he83129 SYSTEM "he83129.jpg" NDATA jpg> 
+<!ENTITY he83133 SYSTEM "he83133.jpg" NDATA jpg> 
+<!ENTITY he83154 SYSTEM "he83154.jpg" NDATA jpg> 
+<!ENTITY he83160 SYSTEM "he83160.jpg" NDATA jpg> 
+<!ENTITY he83161a SYSTEM "he83161a.jpg" NDATA jpg> 
+<!ENTITY he83161b SYSTEM "he83161b.jpg" NDATA jpg> 
+<!ENTITY he83169 SYSTEM "he83169.jpg" NDATA jpg> 
+<!ENTITY he83173 SYSTEM "he83173.jpg" NDATA jpg> 
+<!ENTITY he83174 SYSTEM "he83174.jpg" NDATA jpg> 
+<!ENTITY he83178 SYSTEM "he83178.jpg" NDATA jpg> 
+<!ENTITY he83191 SYSTEM "he83191.jpg" NDATA jpg> 
+<!ENTITY he83193 SYSTEM "he83193.jpg" NDATA jpg> 
+<!ENTITY he83197 SYSTEM "he83197.jpg" NDATA jpg> 
+<!ENTITY he83198 SYSTEM "he83198.jpg" NDATA jpg> 
+<!ENTITY he831open SYSTEM "he831open.jpg" NDATA jpg> 
+<!ENTITY he851128 SYSTEM "he851128.jpg" NDATA jpg> 
+<!ENTITY he851129 SYSTEM "he851129.jpg" NDATA jpg> 
+ 
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOnum  SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub  SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech;
+]>  
+<TEI.2 id="ShaHe8P">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title>Shakespearean prompt-books of the seventeenth century, vol. 8
+                                        (Henry VIII) [a machine-readable transcription] </title>
+                                <author>Shakespeare, William </author>
+                                <respStmt>
+                                        <resp>Creation of machine-readable version: </resp>
+                                        <name>Electronic Text Center, University of Virginia </name>
+                                        <resp>Creation of digital images: </resp>
+                                        <name>Electronic Text Center, University of Virginia </name>
+                                        <resp>Conversion to TEI.2-conformant markup: </resp>
+                                        <name>University of Virginia Library Electronic Text Center.
+                                        </name>
+                                </respStmt>
+                        </titleStmt>
+                        <extent>75 kilobytes </extent>
+                        <publicationStmt>
+                                <publisher>University of Virginia Library. </publisher>
+                                <pubPlace>Charlottesville, Va. </pubPlace>
+                                <idno>Bibliographic Society, ShaHe8P </idno>
+                                <availability>
+                                        <p>Publicly-accessible </p>
+                                        <p n="public">URL:
+                                                http://etext.lib.virginia.edu/bsuva/promptbook/ </p>
+                                </availability>
+                                <date>1997 </date>
+                        </publicationStmt>
+                        <seriesStmt>
+                                <p>Shakespearean prompt-books of the seventeenth century </p>
+                        </seriesStmt>
+                        <notesStmt>
+                                <note>The electronic text contains the Introduction and the
+                                        Collations. The selected pages of the Prompt-Book included
+                                        in this Volume have been rendered as images. </note>
+                                <note> </note>
+                        </notesStmt>
+                        <sourceDesc>
+                                <biblFull>
+                                        <titleStmt>
+                                                <title>Shakespearean prompt-books of the seventeenth
+                                                  century, vol. 8 </title>
+                                                <title> </title>
+                                                <author>William Shakespeare </author>
+                                                <respStmt>
+                                                  <resp>Editor </resp>
+                                                  <name>G. Blakemore Evans </name>
+                                                </respStmt>
+                                        </titleStmt>
+                                        <editionStmt>
+                                                <p>Issued in portfolios. The prompt-books are
+                                                  reproduced in collotype facsimile. </p>
+                                        </editionStmt>
+                                        <extent> </extent>
+                                        <publicationStmt>
+                                                <publisher>Bibliographical Society of the University
+                                                  of Virginia </publisher>
+                                                <pubPlace>Charlottesville, VA </pubPlace>
+                                                <date>1996 </date>
+                                                <idno>Print copy consulted: First Edition provided
+                                                  by the BSUVA </idno>
+                                        </publicationStmt>
+                                        <seriesStmt>
+                                                <p>Shakespearean prompt-books of the seventeenth
+                                                  century </p>
+                                        </seriesStmt>
+                                        <notesStmt>
+                                                <note>In Memoriam Fredson T. Bowers </note>
+                                        </notesStmt>
+                                </biblFull>
+                        </sourceDesc>
+                </fileDesc>
+                <encodingDesc>
+                        <projectDesc>
+                                <p>Prepared for the University of Virginia Library Electronic Text
+                                        Center. </p>
+                        </projectDesc>
+                        <editorialDecl>
+                                <p>All quotation marks retained as data. </p>
+                                <p>All unambiguous end-of-line hyphens have been removed, and the
+                                        trailing part of a word has been joined to the preceding
+                                        line. </p>
+                                <p>The images exist as archived TIFF images, one or more JPEG
+                                        versions for general use, and thumbnail GIFs. </p>
+                                <p>Keywords in the header are a local Electronic Text Center scheme
+                                        to aid in establishing analytical groupings. </p>
+                        </editorialDecl>
+                        <refsDecl>
+                                <p> </p>
+                        </refsDecl>
+                        <classDecl>
+                                <taxonomy>
+                                        <bibl>
+                                                <title>Library of Congress Subject Headings </title>
+                                        </bibl>
+                                </taxonomy>
+                        </classDecl>
+                </encodingDesc>
+                <profileDesc>
+                        <creation>
+                                <date>1960-1996 </date>
+                        </creation>
+                        <langUsage>
+                                <language>English </language>
+                        </langUsage>
+                        <textClass>
+                                <keywords>
+                                        <term>drama; prose </term>
+                                </keywords>
+                                <keywords>
+                                        <term>LCSH </term>
+                                </keywords>
+                                <keywords>
+                                        <term> </term>
+                                        <term> </term>
+                                        <term type="format">24-bit color; 400 dpi </term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <change>
+                                <date>May 1997 </date>
+                                <respStmt>
+                                        <resp>corrector </resp>
+                                        <name>Michele Ierardi, Electronic Text Center </name>
+                                </respStmt>
+                                <item>Corrected transcription errors; corrected an error in the
+                                        print text: note 7 of the introduction: ed Montague] ed.
+                                        Montague. </item>
+                        </change>
+                        <change>
+                                <date>May 1997 </date>
+                                <respStmt>
+                                        <resp>corrector </resp>
+                                        <name>Michele Ierardi, Electronic Text Center </name>
+                                </respStmt>
+                                <item>Added TEI header </item>
+                        </change>
+                </revisionDesc>
+        </teiHeader>
+
+        <text id="ShaHe8P">
+                <front>
+                        <div type="cover">
+                                <p>
+                                        <figure entity="he8spin">
+                                                <figDesc>Image of the spine: Shakespearean
+                                                  Prompt-Books, Vol. VIII</figDesc>
+                                        </figure>
+                                </p>
+                                <p>
+                                        <figure entity="he8cov">
+                                                <figDesc>Image of the cover, part 1: Shakespearean
+                                                  Prompt-Books, Vol. VIII: Ki! Henry VIII, The Merry
+                                                  Wives of Windsor, Twelth Night, The Comedy of
+                                                  Errors, The Winter's Tale</figDesc>
+                                        </figure>
+                                </p>
+                                <p>
+                                        <figure entity="he8ti">
+                                                <figDesc>Image of the titlepage, part 1:
+                                                  Shakespearean Prompt-Books, Vol. VIII: King Lear,
+                                                  Henry VIII, The Merry Wives of Windsor, Twelth
+                                                  Night, The Comedy of Errors, The Winter's Tale
+                                                </figDesc>
+                                        </figure>
+                                </p>
+
+                        </div>
+                        <titlePage>
+                                <docTitle>
+                                        <titlePart type="main"> SHAKESPEAREAN <lb/>PROMPT-BOOKS
+                                                <lb/> of the <lb/>SEVENTEENTH CENTURY </titlePart>
+                                        <titlePart type="sub"> Vol. VIII <lb/><hi>King Lear, Henry
+                                                  VIII,</hi>
+                                                <lb/><hi>The Merry Wives of Windsor</hi>
+                                                <lb/><hi>Twelfth Night, The Comedy of Errors</hi>
+                                                <lb/><hi>The Winter's Tale</hi>
+                                        </titlePart>
+                                </docTitle>
+                                <docAuthor>
+                                        <hi>Edited by</hi>
+                                        <lb/>G. Blakemore Evans </docAuthor>
+                                <docImprint>
+                                        <hi>A Publication of</hi>
+                                        <lb/>The Bibliographical Society of the University of
+                                        Virginia <pubPlace>Charlottesville</pubPlace>
+                                        <date>1996 </date>
+                                </docImprint>
+                        </titlePage>
+                </front>
+                <body>
+                        <!-- <page n=17><ID>ShaHe8P17</ID> -->
+                        <div0 type="introduction">
+                                <head> Smock Alley <lb/>Henry VIII <lb/>Third Folio
+                                        <lb/>Introduction </head>
+
+
+                                <p>TERMINAL dates for the Smock Alley <hi>Henry VIII</hi>
+                                        prompt-book (PB) may be set with some confidence as between
+                                        1674/75 and 1682. John Totterdale, who is called for the
+                                        role of the <hi>'third Gentleman'</hi> at IV.i.37, seems to
+                                        have begun appearing on the Dublin stage in 1674 or 1675 but
+                                        cannot be traced as acting in Dublin after "the early
+                                        1680's." <note target="n1"> [1]</note> and a second actor,
+                                        Henry Smith, who appears as Griffith in V.ii, died in Dublin
+                                        in early August 1682.<note target="n2"> [2]</note> Three
+                                        other actors are named: Andrews (as Brandon, I.i.161-164, as
+                                        Gardiner, II.ii. 62, and as a <hi>'Gentleman'</hi>, III.i
+                                        [opening, to enter at line 14]); Kaine (as the <hi>'Old
+                                                Lady'</hi>, V.i.129);<note target="n3"> [3]</note>
+                                        and 'Arstedt' (as a <!-- </page> -->
+                                        <!-- <page n=18><ID>ShaHe8P18</ID> -->
+                                        <hi>'Sergeant-at-Armes'</hi>, I.i.161-164 ). Of the first
+                                        two actors nothing further is known, and the name of the
+                                        third is almost illegible and resembles no name associated
+                                        with Smock Alley at this time.<note target="n4"> [4]</note>
+                                </p>
+                                <p>Only two hands appear to have worked on the <hi>Henry VIII</hi>
+                                        PB. Hand I, which is found also in the Smock Alley
+                                                <hi>Hamlet</hi> (Hands I and II),<note target="n5">
+                                                [5]</note>
+                                        <hi>Macbeth</hi> (Hands I and II), <hi>Othello</hi> (Hand
+                                        II), <hi>King Lear</hi> (Hand I), and <hi>I Henry I V</hi>
+                                        (Hand II), is responsible for the advance character calls,
+                                        for all but one of the actors' names, occasionally for
+                                        changes in the original handling of a scene (e.g., II.i),
+                                        and, I believe, for most of the initial cutting of the play.
+                                        Hand II, which appears again in the Smock Alley <hi>King
+                                                Lear</hi> (Hand II) and, perhaps, in <hi>Hamlet</hi>
+                                        (Hand V), is associated with a number of verbal
+                                        substitutions modernizing or simplifying Shakespeare's
+                                        language, one character substitution (V.i.79), some revision
+                                        of Hand I's scene arrangements (e.g., I.i.54-100; see
+                                                <hi>Textual cuts</hi>), and probably one actor's
+                                        name (II.ii.62). </p>
+                                <p> The work of Hands I and II seems to represent different stages
+                                        in the "production" of the play, but whether the play was
+                                        ever produced in some form resembling Hand I's initial
+                                        version must remain a question, even though Hand I's call
+                                        for a particular actor (Totterdale) in a part of IV.i that
+                                        was later cut would appear to suggest an earlier performance
+                                        in which Totterdale acted the role of the <hi>'third
+                                                Gentleman'</hi> (see <hi>Textual cuts</hi>). </p>
+                                <p>One of the confused (and confusing) aspects of this promptbook is
+                                        Hand I's apparently abandoned attempt to get rid of the
+                                        character of Campeius. In II.ii, Hand I substitutes the
+                                        Bishop of Lincoln; in II.iv he first gives Campeius' lines
+                                        (64-68) to Lincoln and then restores Campeius, leaving
+                                        Campeius' lines 121-24 untouched but assigning Campeius'
+                                        speech at 230 to Wolsey; in III.i, he omits Campeius and
+                                        either cuts his lines or assigns them to Wolsey, adjusting
+                                        the dialogue to allow for the omission of Campeius through
+                                        line 139, but abandoning such adjustment for the remainder
+                                        of the scene. In each instance Campeius appears to have been
+                                        restored: in II.ii by Hand II, in II.iv by Hand I, while in
+                                        III.i Hand I's failure to carry through to the end of the
+                                        scene his adjustment of the dialogue <!-- </page> -->
+                                        <!-- <page  n=19> --> presumably indicates that he finally
+                                        decided to retain Campeius. <note target="n6"> [6]</note>
+                                        Since almost all the changes in II.ii and III.i made by Hand
+                                        I to allow for the omission of Campeius remain uncanceled,
+                                        the prompt-book, so far as these two scenes are concerned,
+                                        is rendered seriously misleading if considered as a
+                                        functionable prompt-book. </p>
+                                <p> The <hi>Henry VIII</hi> PB is unusual in another respect. Except
+                                        for <hi>The Comedy of Errors</hi> and <hi>The Winter's
+                                                Tale</hi>, neither of which was, I believe, ever
+                                        produced, it is the only other Smock Alley prompt-book that
+                                        does not contain scene settings. This absence of scene
+                                        notation may, perhaps, suggest that some kind of single set
+                                        was used throughout, a manner of staging not impossible in
+                                                <hi>Henry VIII</hi>, which calls for no very radical
+                                        changes of scene. Curiously, the three earliest published
+                                        theatre versions (1734, 1762, 1773; see below), like the
+                                        Smock Alley prompt-book, are also without any indication of
+                                        setting or scene changes. While, however, it is possible
+                                        that the single-setting explanation may be arguable for this
+                                        comparatively early Smock Alley production, the absence of
+                                        specific scene notations in the eighteenth-century acting
+                                        texts is almost certainly misleading, at least so far as
+                                        London productions were concerned, since we know that when
+                                        Sir William Davenant revived <hi>Henry VIII</hi> for the
+                                        Duke's Company at the theatre in Lincoln's Inn Fields in
+                                        December of 1663 the play was rather lavishly presented,
+                                        "being all new Cloath'd and new Scenes."<note target="n7">
+                                                [7]</note>
+                                </p>
+                                <p>The <hi>Henry VIII</hi> PB is fairly heavily cut. The equivalent
+                                        of 595 lines, a figure that includes the Prologue and
+                                        Epilogue, are finally cut (46 lines originally cut being
+                                        restored, mostly by Hand II), leaving a play of about 2,316
+                                                lines.<note target="n8"> [8]</note> Compared,
+                                        however, with the three eighteenth-century acting texts
+                                        mentioned above and John Philip Kemble's early
+                                        nineteenth-century acting version, the Smock Alley acting
+                                        text is comparatively long: Powell (1734), roughly 2,078
+                                        lines; Garrick ( 1762), 1,767 lines; Bell (1773), 1,733
+                                        lines; and Kemble (1804) 1,666 lines.<note target="n9">
+                                                [9]</note>
+                                        <!-- </page> -->
+                                        <!-- <page n=20><ID>ShaHe8P20</ID> --> The play, of course,
+                                        makes much of its appeal through pageantry and show of
+                                        various kinds, all of which consume precious stage time. It
+                                        is therefore surprising that the <hi>Henry VIII</hi> PB, as
+                                        in Davenant's earlier production, <note target="n10">
+                                                [10]</note> is the only one of these theatre texts
+                                        that retains "The Vision" in IV.i. </p>
+                                <p> The principal cuts are as follows: I.i.54-100 (conversation
+                                        between Buckingham and Norfolk on the state of the kingdom
+                                        and its relation to Cardinal Wolsey); I.iv.1-34 (chitchat
+                                        preceding Wolsey's entry); II.i.1-54 (conversation of
+                                                '<hi>two Gentlemen</hi>' about Buckingham's sentence
+                                        and Wolsey's hand in it); II.i.136-169 (further comment from
+                                        the '<hi>two Gentlemen</hi>'); II.iii.1-32 (conversation
+                                        between Anne Bullen and an '<hi>Old Lady</hi>' on the
+                                        desirability of being a queen [lines 33-49 were also
+                                        originally cut but restored by Hand II]); IV.i. 1-117 (the
+                                        lines of the three '<hi>Gentlemen</hi>' [i.e., all of the
+                                        dialogue], leaving only the 'show' of 'The Order of the
+                                        Coronation.'); V.i.1-55 (discussion between Gardiner and Sir
+                                        Thomas Lovell reporting the plot against Cranmer and
+                                        Cromwell). A glance at the section on <hi>Textual cuts</hi>
+                                        will show that, except for the second (I.iv.1-34), these
+                                        cuts are closely reflected in the four acting texts referred
+                                        to above. A similar closeness may frequently be observed in
+                                        the shorter deletions as well. Such comparative continuity
+                                        in the cutting of the play suggests a fairly unbroken acting
+                                        tradition possibly stemming from Davenant's 1663 London
+                                        revival; indeed, Downes claims that Thomas Betterton, who
+                                        played the king, was specially instructed in the role by
+                                        Davenant himself, "who had it from Old Mr. <hi>Lowen</hi>,
+                                        that had his instructions from Mr. <hi>Shakespear</hi>
+                                                himself.''<note target="n11"> [11]</note> The Folio
+                                        Prologue and Epilogue are unmarked in any way but were
+                                        almost certainly omitted, as they are in the four later
+                                        acting texts mentioned above. </p>
+                                <note id="n1"> 1. See W. S. Clark, <hi>The Early Irish Stage</hi>
+                                        (1935), p. 76. In Appendix D Clark gives Totterdale's
+                                        association with Smock Alley as "c. 1674-c. 1688".
+                                        Totterdale also appears in the Smock Alley <hi>Macbeth</hi>
+                                        (V.v) and <hi>Othello</hi> (I.ii). </note>
+                                <note id="n2"> 2. See R. C. Bald, "Shakespeare in Restoration
+                                        Dublin," <hi>PMLA</hi>, 56 (1941), 372. Clark (<hi>Irish
+                                                Stage</hi>, p. 77) notes a record of Smith's burial
+                                        on 2 August 1682. Smith also appears in the Smock Alley
+                                        Macbeth (V.iii) and in the <hi>Julius Caesar</hi> cast list
+                                        as Antony (see the General Introduction, Vol. I: Part i, p.
+                                        13 of this series. </note>
+                                <note id="n3"> 3. Bald p. (373) refers to Kaine as a man, but the
+                                        role calls for a woman; Clark (<hi>Irish Stage</hi>, p. 77)
+                                        lists Kaine, "a gentleman in <hi>Henry VIII</hi>," and Mrs.
+                                        Kaine, "the old Lady in <hi>Henry VIII</hi>." I suspect that
+                                        "Mr." Kaine is a ghost generated from Bald's slip;
+                                        certainly, I can find no prompt-call associated with a
+                                        'Kaine' in the role of a "gentleman" in the <hi>Henry
+                                                VIII</hi> PB. </note>
+                                <note id="n4"> 4. The name could as easily be deciphered as 'Arshed'
+                                        or'Arsledt'. </note>
+                                <note id="n5"> 5. See the Introduction to the Smock Alley
+                                                <hi>Lear</hi>, p. 2, note 3. </note>
+                                <note id="n6"> 6. See <hi>Textual changes</hi>," II.ii.72 s.d. and
+                                        III.i.23 s.d.; <hi>Textual cuts</hi>, II.iv.18-34, 64-68. </note>
+                                <note id="n7"> 7. John Downes, <hi>Roscius Anglicanus</hi> (1708),
+                                        ed. Montague Summers, n.d., p. 24: <hi>The London Stage
+                                                1660-1800</hi>. Part I: 1660-1700 (ed. William Van
+                                        Lennep, 1965), pp. 72-73. </note>
+                                <note id="n8"> 8. This figure is based on Alfred Hart's total of 807
+                                        lines for the whole play (<hi>Review of English
+                                        Studies</hi>, 8 [1932], 21). </note>
+                                <note id="n9"> 9. The <hi>Henry VIII</hi> Smock Alley PB has been
+                                        compared throughout with these four acting texts (see
+                                        Collations, particularly <hi>Textual cuts</hi>). J. Powell
+                                        is the Dublin publisher (1734) of a text that claims to
+                                        present the play 'As it is acted . . . at the Theatres of
+                                        London and Dublin.' Garrick refers to a version of the play
+                                        prepared for production at Drury Lane and published in 1762
+                                        (Garrick himself did not play in the production). Bell
+                                        refers to the play as published by John Bell in Vol. IV
+                                        (1773) of his edition of <hi>Shakespeare's Plays, As they
+                                                are now performed at the Theatres Royal in
+                                                London</hi>, a slightly shortened and revised
+                                        version of Garrick's 1762 text. John Philip Kemble's acting
+                                        text (1804) is the first to give scene settings (Theobald,
+                                        Vol. V, 1733, was the first scholarly editor to introduce
+                                        scene settings). </note>
+                                <note id="n10"> 10. See Montague Summers' note in Downes'
+                                                <hi>Roscius Anglicanus</hi>, pp. 183-184. </note>
+                                <note id="n11"> 11. Downes, <hi>Roscius Anglicanus</hi>, p. 24. </note>
+
+                        </div0>
+                        <!-- </page> -->
+                        <!-- <page n\d+\.?\d{0,2}$=21><ID>ShaHe8P21</ID> -->
+                        <div0 type="collations">
+                                <head> Collations <lb/>Henry VIII </head>
+                                <div1 type="figures">
+                                        <head/>
+                                        <p><figure entity="he8-p542">
+                                                  <figDesc>Image of page 542 of the Henry VIII
+                                                  prompt-book (I.i.36-I.i.137). </figDesc>
+                                                </figure></p>
+                                        <p><figure entity="he8-p554">
+                                                  <figDesc>Image of page 554 of the Henry VIII
+                                                  prompt-book (III.i.1-III.i.108). </figDesc>
+                                                </figure></p>
+                                        <p><figure entity="he8-p564">
+                                                  <figDesc>Image of page 564 of the Henry VIII
+                                                  prompt-book (V.i.99-V.ii.20). </figDesc>
+                                                </figure></p>
+                                </div1>
+
+                                <div1 type="introduction">
+                                        <head/>
+                                        <p>THE following collations are arranged by categories. The
+                                                act, scene, and line numbering is that of the Globe
+                                                text ( 1911 ed.). Angle brackets are used to
+                                                indicate letters (or words) illegible or shaved in
+                                                binding. Abbreviations employed are as follows: </p>
+                                        <list>
+                                                <item>Bell . . . . . . . . . . acting version of
+                                                  Henry VIII as performed at Covent Garden, in
+                                                  Bell's Shakespeare's Plays, Vol. IV (1773) </item>
+                                                <item>Collier MS . . . . . . .the Collier-Perkins
+                                                  Second Folio (1632), in the Huntington Library </item>
+                                                <item>F . . . . . . . . . . .here used for Third
+                                                  Folio (1663/64) </item>
+                                                <item>Ff.....................indicates substantial
+                                                  agreement of all four Folio texts of Henry VIII </item>
+                                                <item>Garrick ............David Garrick's acting
+                                                  version (1762) of Henry VIII as performed at Drury
+                                                  Lane </item>
+                                                <item>Kemble...............J. P. Kemble's acting
+                                                  version of Henry VIII (1804) as performed at
+                                                  Covent Garden </item>
+                                                <item>PB . . . . . . . . . . Smock Alley, Henry VIII
+                                                  promptbook </item>
+                                                <item>Powell . . . . . . . . . Henry VIII 'As it is
+                                                  acted ... at the Theatres of London and Dublin.'
+                                                  published by S. Powell, Dublin (1734) </item>
+                                                <item>Powell+....................indicates
+                                                  substantial agreement of Powell, Garrick, Bell,
+                                                  and Kemble </item>
+                                                <item>s.d. . . . . . . . . . . stage direction
+                                                  (plural s.dd.) </item>
+                                        </list>
+                                </div1>
+                                <div1 type="settings">
+                                        <head>
+                                                <hi>Scene settings</hi>
+                                        </head>
+                                        <p>The <hi>Henry VIII</hi> PB, unlike other Smock Alley
+                                                prompt-books (discounting <hi>The Comedy of
+                                                  Errors</hi> and <hi>The Winter's Tale</hi>,
+                                                preliminary cuttings <!-- </page> -->
+                                                <!-- <page n=22><ID>ShaHe8P22</ID> --> showing no
+                                                evidence of stage production), contains no scene
+                                                notations. Their absence may possibly suggest that a
+                                                single setting was used throughout (see the
+                                                Introduction, p. 19). </p>
+                                </div1>
+                                <div1 type="notations">
+                                        <head> Act notations </head>
+                                        <p>Advance calls (i.e., 'Act ready') for the act breaks, all
+                                                in Hand I, occur at I.iv.82 (for Act II); II.iv.206
+                                                (for Act III); III.ii.419 for Act IV); IV.ii.138
+                                                (for Act V); V.v.36 (for the conclusion of Act V). A
+                                                similar final call, for the conclusion of the last
+                                                act, is found in the Smock Alley prompt-books only
+                                                in the <hi>Twelfth Night</hi> PB. </p>
+                                </div1>
+                                <div1 type="actors">
+                                        <head> Actors named for comparatively minor roles </head>
+                                        <div2 type="summary">
+                                                <head/>
+                                                <p>For what little is known of the actors named
+                                                  below, see the Introduction, p. 17.</p>
+                                        </div2>
+                                        <div2 type="scene" n="1.1">
+                                                <head>I.i</head>
+                                                <p><hi rend="bold">161-164 Andrews / Arstedt / 2 or
+                                                  3 / Guard]</hi> Hand I (called to play Brandon,
+                                                  who enters at 198; 'Arstedt' [the reading is very
+                                                  uncertain and may equally well be 'Arched' or
+                                                  'Arsledt'] is called to play the '<hi>Sergeant at
+                                                  Armes</hi>', who enters with Brandon). </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.2">
+                                                <head>II.ii</head>
+                                                <p><hi rend="bold">62 endrews]</hi>
+                                                  <hi>Hand ?II</hi> (i.e., Andrews, called to play
+                                                  Gardiner, who enters at 117). </p>
+                                        </div2>
+                                        <div2 type="scene" n="3.1">
+                                                <head>III.i</head>
+                                                <p><xref doc="he831open">(opening) Andrews /
+                                                  (r)eady]</xref>
+                                                  <hi>Hand I</hi> (called to play a
+                                                  '<hi>Gentleman</hi>', who enters at 15). </p>
+                                        </div2>
+                                        <div2 type="scene" n="4.1">
+                                                <head>IV.i</head>
+                                                <p><hi rend="bold">37 Mr Totterdale]</hi>
+                                                  <hi>Hand I</hi> (called to play the '<hi>third
+                                                  Gentleman</hi>', who enters at 55; all speaking
+                                                  roles in IV.i later cut). </p>
+                                                <p><hi rend="bold">92-94 Queen / &amp; / Mr.
+                                                  Smyth]</hi>
+                                                  <hi>Hand I</hi> (called to play Griffith, who
+                                                  enters at the beginning of IV.ii). </p>
+                                        </div2>
+                                        <div2 type="scene" n="5.1">
+                                                <head>V.i</head>
+                                                <p><xref doc="he851129">129 Kaine.]</xref>
+                                                  <hi>Hand I</hi> (called to play '<hi>Old
+                                                  Lady</hi>', who enters at 158; in her earlier
+                                                  appearance [II.iii] 'old Lady' has been altered to
+                                                  'a Lady' in the opening F s.d. by Hand I). Powell
+                                                  reads 'Lady' here and in II.iii; Kemble replaces
+                                                  '<hi>Old Lady</hi>' with Lady Denny in both
+                                                  scenes. </p>
+                                        </div2>
+                                </div1>
+                                <div1 type="properties">
+                                        <head> Stage properties </head>
+                                        <p>See below, <hi>F stage directions altered</hi>:
+                                                I.iii.18-21; II.ii.45-46; III.ii.3842. </p>
+                                </div1>
+                                <!-- </page> -->
+                                <!-- <page n=23><ID>ShaHe8P23</ID> -->
+                                <div1 type="sound">
+                                        <head> Sound effects </head>
+                                        <p>See below, <hi>F stage directions altered</hi>: I.iv.34;
+                                                I.iv.52-53; IV.ii.21-22; IV.ii.38-42. Hand I does
+                                                not include in his advance calls entry sound effects
+                                                (e.g., '<hi>Cornets</hi>.' [I.ii],
+                                                '<hi>Hoboyes</hi>.' [II.iv], '<hi>Flourish</hi>.'
+                                                [IV.v.4]), and of the three offstage sound effects
+                                                called for by F only one (I.iv.49) is noted by Hand
+                                                I at I.iv.34. Hand I's unspecific advance calls for
+                                                Katherine's trial (II.iv), Anne Bullen's coronation
+                                                (IV.i), and Elizabeth's baptism (V.v; see <hi>F
+                                                  stage directions altered</hi>) make no reference
+                                                to sound effects. </p>
+                                </div1>
+                                <div1 type="calls">
+                                        <head> Advance character calls </head>
+                                        <p>Hand I is responsible for all the advance character calls
+                                                except probably that at II.ii.62 (see <hi>Actors
+                                                  named for comparatively minor roles</hi>). No
+                                                advance calls for characters entering at the
+                                                beginning of an act occur, except for a general call
+                                                for 'The Order of the Coronation.' at the beginning
+                                                of IV.i. </p>
+                                </div1>
+                                <div1 type="directions">
+                                        <head> F stage directions altered; new stage directions
+                                                added </head>
+                                        <div2 type="scene" n="1.1">
+                                                <head>I.i</head>
+                                                <p><hi rend="bold">(opening s.d.)</hi>
+                                                  <hi>and the Lord Aburgavenny</hi>.] Placed in
+                                                  parentheses by Hand ?II to indicate the omission
+                                                  of Aburgavenny from the scene; his speeches are
+                                                  cut as part of a recutting of this scene by Hand
+                                                  II (see <hi>Textual cuts</hi>); Kemble also omits
+                                                  the character of Aburgavenny. </p>
+                                                <p><xref doc="he81191">91-92 Cardinall &lt; &gt; /
+                                                  Purse Bearer]</xref> Hand I's call is for Wolsey's
+                                                  entry at 115. The illegible word, shaved in
+                                                  binding, may be 'Secretaries' or 'Guard' (cf. the
+                                                  F s.d. '<hi>Enter Cardinall Wolsey, the Purse born
+                                                  before him, certain of the Guard, and two
+                                                  Secretaries with Papers; . . .</hi>'). The
+                                                  position of this advance call indicates that it
+                                                  was made before the complete cutting of 54-100
+                                                  (see <hi>Textual cuts</hi>). </p>
+                                                <p><hi rend="bold">200-204 King / Nobles /
+                                                  &lt;Sr&gt; Th&lt;o.&gt; L&lt;ovell&gt; /
+                                                  Cardin&lt;ll&gt; / Attend&lt;ants&gt;]</hi> Hand
+                                                  I's call for the entry of Henry at the beginning
+                                                  of I.ii; he adds 'Attend&lt;ants&gt;' to the F.
+                                                  s.d. but omits the F call for '<hi>Cornets</hi>'.
+                                                </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.3">
+                                                <head>I.iii</head>
+                                                <p><hi rend="bold">18-21 &lt;Ta&gt;ble /
+                                                  &lt;re&gt;ady &amp; / &lt;Ba&gt;nquett.]</hi> Hand
+                                                  I's call for the first part of the opening F s.d.
+                                                  to I.iv, '<hi>Hoboyes. A small Table under a State
+                                                  for the Cardinall, a longer Table for the
+                                                  Guests.</hi>' <!-- </page> -->
+                                                  <!-- <page n=24><ID>ShaHe8P24</ID> --> Note
+                                                  omission of '<hi>Hoboyes</hi>' and '<hi>a
+                                                  State</hi>' and that only one table is called for,
+                                                  though perhaps the '<hi>longer Table</hi>' is
+                                                  implied by '&lt;Ba&gt;nquett'. Powell omits any
+                                                  reference to tables or a state: 'Anna Bullen,
+                                                  <hi>Gentlemen, Ladies, and Sir</hi> Henry
+                                                  Guilford, <hi>discover'd.</hi>'; Garrick, Bell
+                                                  retain two tables and '<hi>a State</hi>'; Kemble
+                                                  reads '<hi>A State for the Cardinal, and a Table
+                                                  for the Guests</hi>.' (see <hi>Textual cuts</hi>).
+                                                </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.4">
+                                                <head>I.iv</head>
+                                                <p><hi rend="bold">34 Drum &amp; Trumpet /
+                                                  ready]</hi> Hand I's call in preparation for the F
+                                                  s.d. at 49, '<hi>Drumme and Trumpet, Chambers
+                                                  discharged</hi>.' The call is very faint and
+                                                  something illegible follows 'ready', perhaps
+                                                  relating to '<hi>Chambers</hi>', which otherwise
+                                                  is omitted by Hand I. Powell reads '<hi>A
+                                                  Flourish; and Guns go off</hi>.'; Garrick, Bell
+                                                  simply substitute '<hi>guns</hi>' for
+                                                  '<hi>Chambers</hi>'; Kemble substitutes
+                                                  '<hi>Cannon</hi>'. </p>
+                                                <p><hi rend="bold">34s.d. all the ladies]</hi> Hand
+                                                  I alters the F s.d. '<hi>Hoboyes. Enter Cardinall
+                                                  Wolsey, and takes his State</hi>.' by crossing
+                                                  through '<hi>takes his State</hi>' and inserting
+                                                  'all the ladies' above. See <hi>Textual cuts</hi>. <!-- </page> -->
+                                                  <!-- <page n=24><ID>ShaHe8P24</ID> --> Note
+                                                  omission of F '<hi>Hoboyes</hi>.' Powell+
+                                                  substitute Cromwell for 'Servant' at 52. </p>
+                                                <p><hi rend="bold">41 King &amp; Dancers]</hi> Hand
+                                                  I's call in preparation for the F s.d. at 63,
+                                                  '<hi>Hoboyes. Enter King and others as Maskers, .
+                                                  . .</hi>' Note that '<hi>Maskers</hi>' become
+                                                  'Dancers' and that '<hi>Hoboyes</hi>.' is omitted.
+                                                  Powell reduces the F s.d. to '<hi>Enter King and
+                                                  others disguis'd, and Lord Chamberlain</hi>.';
+                                                  Kemble reworks the F s.d., '<hi>Enter</hi>
+                                                  Cromwell, <hi>and Chamberlain, introducing the
+                                                  King</hi>, Norfolk, <hi>and</hi> Suffolk, <hi>in
+                                                  masks, and eight Attendants, habited as Shepherds,
+                                                  followed by two Gentlemen</hi>.' </p>
+                                                <p><hi rend="bold">52-53 Musick ready / for the
+                                                  Dance]</hi> Hand I's call in preparation for the F
+                                                  s.d. at 76, '<hi>Musick, Dance</hi>.' </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.1">
+                                                <head>II.i</head>
+                                                <p><hi rend="bold">17-22 &lt;Buc&gt;kingham /
+                                                  &lt;Tip&gt;staves / &lt;Exe&gt;cutioner /
+                                                  &lt;Sr&gt; Tho: / &lt;Lov&gt;ell / &lt;&amp;&gt;
+                                                  others.]</hi> Hand I's call for Buckingham's entry
+                                                  at 54. Note that (like Powell+) Hand I adds
+                                                  '&lt;Exe&gt;cutioner' to the F s.d. but omits
+                                                  '<hi>Halberds</hi>' and specific reference to
+                                                  '<hi>Sir Nicholas Vaux, Walter Sands, and common
+                                                  people, etc.</hi>'. Powell, Garrick, Bell omit
+                                                  Sands and '<hi>common people, etc.</hi>'; Kemble
+                                                  omits Sands, Vaux, and '<hi>common people,
+                                                  etc.</hi>' but adds Sir Henry Guildford. </p>
+                                                <!-- </page> -->
+                                                <!-- <page n=25><ID>ShaHe8P25</ID> -->
+
+                                                <p><hi rend="bold">145-146 Ld Chamberlain / with a
+                                                  letter.]</hi> Hand I's original advance call in
+                                                  preparation for F s.d. at beginning of II.ii,
+                                                  '<hi>Enter Lord Chamberlain, reading this
+                                                  Letter</hi>.' After the cutting of 136-169, Hand I
+                                                  crossed through this call and inserted a new call,
+                                                  'Chamberlain', at 113, omitting any reference to
+                                                  the 'letter', as well as inserting new calls for
+                                                  Norfolk and Suffolk at 127 replacing those at 152.
+                                                  See <hi>Textual cuts</hi>. Garrick, Bell, Kemble
+                                                  cut the '<hi>Letter</hi>' (II.ii.1-12), including
+                                                  the Chamberlain's first speech. </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.2">
+                                                <head>II.ii</head>
+                                                <p><hi rend="bold">73 s.d. and Campeius with a
+                                                  Commission.]</hi> Hand I crosses through this part
+                                                  of the F s.d. and inserts '&lt;Bisho&gt;p of
+                                                  Lincoln.' before F '<hi>Enter Wolsey</hi>'. Hand I
+                                                  then adapts the rest of the scene to allow for the
+                                                  substitution of Lincoln for Campeius; apparently,
+                                                  however, Hand II determined to restore Campeius
+                                                  (see <hi>Textual changes</hi> and <hi>Textual
+                                                  cuts</hi>). For discussion of the confused
+                                                  handling of Campeius here and in II.iv and III.i,
+                                                  see Introduction, p. 18. </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.3">
+                                                <head>II.iii</head>
+                                                <p><hi rend="bold">(opening s.d.) Make ready for the
+                                                  show]</hi> Hand I's first warning call, written
+                                                  above F s.d., for the trial court scene which
+                                                  opens II.iv. </p>
+                                                <p><hi rend="bold">(opening s.d.)</hi>
+                                                  <hi>old Lady</hi>] Hand I crosses through F
+                                                  '<hi>old</hi>' and substitutes 'a' above. Hand I's
+                                                  advance call at II.ii.117 was simply 'Lady'; the
+                                                  role was presumably played by Mrs. Kaine as in
+                                                  V.i.158. Powell also omits '<hi>old</hi>' here and
+                                                  in V.i; Kemble substitutes Lady Denny in both
+                                                  scenes. </p>
+                                                <p><hi rend="bold">73 All that are con&lt;cern'd&gt;
+                                                  &lt;in&gt; / the play be ready]</hi> Hand I's
+                                                  second call for the trial court scene that opens
+                                                  II.iv. The nature of Hand I's calls here and at
+                                                  II.iii (opening) suggests that the numerous
+                                                  characters were 'discovered' already set in their
+                                                  assigned positions, a supposition supported by
+                                                  Powell+; in F the characters enter one after the
+                                                  other as a procession. </p>
+                                        </div2>
+                                        <div2 type="scene" n="3.1">
+                                                <head>III.i</head>
+                                                <p><xref doc="he83123">23 s.d. <hi>Enter the two
+                                                  Cardinals, Wolsey and Campian</hi>.]</xref> Hand I
+                                                  crosses through '<hi>and Campian</hi>' (an error
+                                                  in the Ff for '<hi>Campeius</hi>') but carelessly
+                                                  fails to adjust the rest of the F s.d. Campeius is
+                                                  omitted from the scene, the dialogue, but only
+                                                  through 139, being adjusted to refer to Wolsey
+                                                  alone (see <hi>Textual changes</hi>) and his lines
+                                                  either cut (61-67, 168) or assigned by <!-- </page> -->
+                                                  <!-- <page n=26><ID>ShaHe8P26</ID> --> Hand I to
+                                                  'Wol:'. Powell, Garrick, Bell retain Campeius;
+                                                  Kemble omits the whole scene. </p>
+                                        </div2>
+                                        <div2 type="scene" n="3.2">
+                                                <head>III.ii</head>
+                                                <p><hi rend="bold">70-72 &lt;King&gt; with /
+                                                  &lt;S&gt;chedule / &lt;Sr T&gt;ho: Lovell]</hi>
+                                                  Hand I's call in preparation for F s.d. at 106,
+                                                  '<hi>Enter King reading of a Schedule</hi>.' Note
+                                                  that Hand I here adds Lovell's entry, necessary
+                                                  for the stage business called for by the F s.d. at
+                                                  135 but omitted by Ff, an oversight not
+                                                  editorially corrected until Theobald's edition
+                                                  (1733). </p>
+                                        </div2>
+                                        <div2 type="scene" n="4.1">
+                                                <head>IV.i</head>
+                                                <p><hi rend="bold">(opening) All the people in the
+                                                  house ready &lt;?for&gt; / the show]</hi> Hand I's
+                                                  call, placed above F '<hi>Actus Quartus. Scena
+                                                  Prima</hi>.', for 'The Order of the Coronation.'
+                                                  at 35. Like PB, Powell and Garrick omit all
+                                                  dialogue from the scene (see <hi>Textual
+                                                  cuts</hi>) but retain 'The Order of the
+                                                  Coronation.'; Bell, Kemble omit the whole scene,
+                                                  including the 'Coronation'. </p>
+                                        </div2>
+                                        <div2 type="scene" n="4.2">
+                                                <head>IV.ii</head>
+                                                <p><hi rend="bold">(opening s.d.)</hi>
+                                                  <hi>Enter Katherine Dowager, sick, led between
+                                                  Griffith, her Gentleman-Usher, and Patience her
+                                                  Woman</hi>.] Hand I's advance call at IV.i.92
+                                                  reduces the F s.d. to 'Queen / &amp; / Mr. Smyth'
+                                                  (Smyth playing Griffith) and omits Patience. This
+                                                  is apparently simply an oversight, since Patience
+                                                  is referred to by name three times in the scene
+                                                  and only one of her two speeches is cut. Garrick,
+                                                  Bell, Kemble substitute Cromwell for Griffith. </p>
+                                                <p><hi rend="bold">21-22 Solemn / Musick]</hi> Hand
+                                                  I's call in preparation for the F s.d. at 80,
+                                                  '<hi>Sad and solemn Musick</hi>.' Powell, Garrick,
+                                                  Bell retain the F s.d.; Kemble replaces with a
+                                                  four-line song sung by Patience. </p>
+                                                <p><hi rend="bold">38-42 Dance&lt;rs&gt; /
+                                                  Music&lt;k&gt; / ready &lt;?for&gt; / the
+                                                  Da&lt;nce&gt;]</hi> Hand I's call for '<hi>The
+                                                  Vision</hi>.' at 82. Powell+ cut '<hi>The
+                                                  Vision</hi>.', though Kemble inserts a song (see
+                                                  above, IV.ii. 21-22). </p>
+                                        </div2>
+                                        <div2 type="scene" n="5.1">
+                                                <head>V.i</head>
+                                                <p><hi rend="bold">79 s.d.</hi>
+                                                  <hi>Enter Sir Anthony Denny</hi>.] Hand II crosses
+                                                  through '<hi>Sir Anthony Denny</hi>' and
+                                                  substitutes 'Surrey'. Hand I's advance call for
+                                                  Denny at 57 is uncanceled and Denny's lines are
+                                                  not reassigned to 'Surrey'. Kemble substitutes
+                                                  Lovell for Denny. </p>
+                                        </div2>
+                                        <div2 type="scene" n="5.2">
+                                                <head>V.ii</head>
+                                                <p><hi rend="bold">(opening) Councill Scene ready /
+                                                  &amp; all concern'd in it.]</hi> Hand I's call for
+                                                  the meeting of the King's Council introduced
+                                                  following 35 <!-- </page> -->
+                                                  <!-- <page n=27><ID>ShaHe8P27</ID> --> (Globe
+                                                  begins Scene iii at this point). Treated as a
+                                                  'discovery' scene in Powell+ and probably so in PB
+                                                  (cf. II.iii.73). </p>
+                                                <p><hi rend="bold">(opening) King aboue]</hi> Hand
+                                                  I's call for F s.d. at 19, '<hi>Enter the King,
+                                                  and Butts, at a Window above</hi>.' Hand I calls
+                                                  for 'Dr. Butts.' at V.i.165 to enter in Scene ii
+                                                  at 6, but gives no advance call for his re-entry
+                                                  with the King at 19. Kemble substitutes Sir Henry
+                                                  Guildford for Butts. </p>
+                                        </div2>
+                                        <div2 type="scene" n="5.3">
+                                                <head>V.iii</head>
+                                                <p><hi rend="bold">95 (= F V.ii. 130) s.d.</hi>
+                                                  <hi>Enter the Guard</hi>.] Hand I gives no advance
+                                                  call for '<hi>the Guard</hi>'. Powell+ also do not
+                                                  introduce '<hi>the Guard</hi>' here but re-enter
+                                                  the Keeper of the Council-chamber at this point.
+                                                </p>
+                                        </div2>
+                                        <div2 type="scene" n="5.4">
+                                                <head>V.iv</head>
+                                                <p><hi rend="bold">18 (= F V.iii.18) Make ready for
+                                                  the Christening Show all that / are concern'd in
+                                                  it.]</hi> Hand I's warning call for the
+                                                  christening procession that opens F V.iv (Globe
+                                                  V.v). The 'Show' seems to be handled as a
+                                                  'discovery' by Powell, Garrick, Bell; Kemble
+                                                  retains the christening as a procession, as
+                                                  apparently does PB. </p>
+
+
+                                        </div2>
+                                </div1>
+                                <div1 type="cuts">
+                                        <head>
+                                                <hi>Textual cuts </hi>
+                                        </head>
+                                        <div2 type="summary">
+                                                <head/>
+                                                <p>It is very difficult to identify the hand or
+                                                  hands responsible for the cutting. My general
+                                                  assumption is that Hand I did most of the initial
+                                                  cutting (by circling lines to be deleted) at the
+                                                  same time that he entered the advance character
+                                                  calls, etc. and that Hand II then revised Hand I's
+                                                  cuts, restored a few lines here and there,
+                                                  proceeded to do some further quite substantial
+                                                  cutting, and crisscrossed many of Hand I's
+                                                  originally deleted lines to make their omission
+                                                  clearer. It is possible, however, that some other
+                                                  hand did the initial cutting by circling the lines
+                                                  to be deleted and that Hands I and II only revised
+                                                  the cutting as this hypothetical third hand had
+                                                  left it. I associate the crisscrossing of many of
+                                                  the circled cuts with Hand II because restored
+                                                  lines are only circled and never crisscrossed. For
+                                                  example, in II.iii, where Hand I, originally
+                                                  intending to retain lines 1-49 (as shown by the
+                                                  position of the advance call for Anne Bullen and
+                                                  the Lady placed at II.ii.117), changed his mind
+                                                  and circled line 1-49 for deletion; Hand II then
+                                                  restored lines 33 ('Nay, . . .)-49, placing 'Stet'
+                                                  in the left margin but crisscrossing lines 1-33
+                                                  ('... it.') to distinguish them as still being
+                                                  deleted (compare the treatment of II.iv.18-34).
+                                                  Occasionally, shorter deletions are made by
+                                                  crossing through, but by what hand is uncertain.
+                                                </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.1">
+                                                <head>I.i</head>
+                                                <p><hi rend="bold"> (opening s.d.)</hi>
+                                                  <hi> and the Lord Aburgavenny</hi>.] See <hi>F
+                                                  stage directions altered</hi>. <hi rend="bold"
+                                                  >11-12 which had . . . one?]</hi> Circled and
+                                                  crisscrossed, <!-- </page> -->
+                                                  <!-- <page n=28><ID>ShaHe8P28</ID> --> Hand I/II
+                                                  (Powell+ cut 7-13 ["Twixt . . . Prisoner.']). <hi
+                                                  rend="bold">14-28 Men might . . . Beggar.]</hi>
+                                                  Circled and crisscrossed, Hand I/II (so Bell;
+                                                  Powell, Garrick cut 14-18 ['Men . . . it's.'],
+                                                  22-28 ['Their. . . Beggar.']; Kemble cuts 14-18
+                                                  ['Their . . . Beggar.']). <hi rend="bold">36-38
+                                                  that former . . . beleev'd.]</hi> Circled, Hand ?I
+                                                  (Powell, Garrick, Bell cut 36 ['that . . .']-49;
+                                                  so Kemble, who, however, retains a slightly
+                                                  rephrased version of 36-38 ['that . . . beleev'd
+                                                  ']). <hi rend="bold">39-45</hi>
+                                                  <hi>Nor. As I . . .</hi> Function:] Circled and
+                                                  crisscrossed, Hand I/II; Hand II adds, following
+                                                  38, 'but pray ye' as a link to Buckingham's next
+                                                  speech at 45. <hi rend="bold">52-53 No mans . . .
+                                                  finger.]</hi> Crossed through, Hand ?II (so
+                                                  Powell, Garrick, Bell). <hi rend="bold">54-100 I
+                                                  wonder . . . Grace.]</hi> Circled and
+                                                  crisscrossed, Hand I/II; Hand II adds 'Sir'
+                                                  following 54 as a link to Norfolk's speech at 101
+                                                  (speech-prefix '<hi>Nor</hi>.' in 100 cut in
+                                                  error; see <hi>Textual changes</hi>. Before this
+                                                  long cut was decided on, probably by Hand II, Hand
+                                                  I had already made three short cuts: <hi
+                                                  rend="bold">54-57 I wonder . . . Earth]</hi>
+                                                  Circled; <hi rend="bold">62-63 But Spider-like . .
+                                                  . note,]</hi> Circled ('O! . . . note,' being also
+                                                  crossed through); <hi rend="bold">78-80 and his .
+                                                  . . Papers.]</hi> Circled (the only cut marked in
+                                                  the Collier MS). Powell cuts 57-73 ('Surely . . .
+                                                  Out!'), 78-80 ('and his . . . Papers.'), 100
+                                                  ('Like it your grace,'); so Garrick, except for
+                                                  cutting 54-73; Bell, Kemble cut 54-73 ('. . .
+                                                  gut,), 78-100 ('and his . . . Grace.'). <xref
+                                                  doc="he811106">106-108 To consider . . .
+                                                  Power.]</xref> Circled and crisscrossed, Hand I/II
+                                                  (Bell, Kemble cut 102-108 ('I advise . . .
+                                                  Power.'). <xref doc="he811113a">113-114 Loe, where
+                                                  . . . shunning.]</xref> Crossed through, Hand
+                                                  I/II. <xref doc="he811121">121 - 123 therefore
+                                                  best . . . blood.]</xref> Crossed through, Hand
+                                                  I/II (Powell, Bell, Kemble cut 122-125 ['A Beggars
+                                                  . . . requires.']; Garrick cuts 123-125 ['What . .
+                                                  . requires.']). <xref doc="he811127">127 Me as . .
+                                                  . object.]</xref> Crossed through, Hand II, who
+                                                  inserts 'me' at the end of 126 (Powell reads
+                                                  'Creature' for F 'object'). <xref doc="he811130a"
+                                                  >130 with your . . . question]</xref> Crossed
+                                                  through, Hand II, who substitutes 'weigh'. <xref
+                                                  doc="he811131">131-132 to climb. . .
+                                                  first.]</xref> Crossed through, Hand ?II (Powell
+                                                  cuts 140-146 ['. . . again,']; Garrick, 134-145
+                                                  ['Not . . . it:']; Bell 131-145 ['to climb . . .
+                                                  it:'] Kemble 131-139 ['to climb . . . persons.'],
+                                                  141-149 ['We . . . passion.']). <xref
+                                                  doc="he811134">134-136 Not a . . . Friend.]</xref>
+                                                  Crossed through, Hand ?II (retained, Powell). <hi
+                                                  rend="bold">139 no persons]</hi> Crossed through,
+                                                  Hand II, who substitutes 'none'. <hi rend="bold"
+                                                  >141-149 We may . . . passion.]</hi> Circled and
+                                                  crossed through, Hand I/II (see 131-132 above).
+                                                  <hi rend="bold">152-155 but From . . .
+                                                  gravel!;]</hi> Circled, Hand ?I. <hi rend="bold"
+                                                  >157-158 make my . . . attend.]</hi> Crossed
+                                                  through, Hand II, who substitutes 'prove it to'
+                                                  (Garrick, Bell substitute 'my lord' for F
+                                                  'attend'). <hi rend="bold">171-172 to as . . .
+                                                  dead.]</hi> Crossed through, Hand I, who
+                                                  substitutes 'no matter <!-- </page> -->
+                                                  <!-- <page n=29><ID>ShaHe8P29</ID> --> how'. <hi
+                                                  rend="bold">174-190 Now this . . . peace.]</hi>
+                                                  Circled and crisscrossed, Hand I/II (so Powell,
+                                                  Garrick, Bell; Kemble cuts only 182-183 ['for . .
+                                                  . him.']). <hi rend="bold">205-206 to look . . .
+                                                  present]</hi> Crossed through, Hand ?II (so
+                                                  Powell+). <hi rend="bold">211</hi>
+                                                  <hi>Aburgany</hi>: Fare you well.] See <hi>Textual
+                                                  changes</hi>. <hi rend="bold">212-216</hi>
+                                                  <hi>Bran</hi>. Nay . . . obey'd.] Circled and
+                                                  crossed through, Hand I/II (Powell, Garrick, Bell
+                                                  reduce 214-216 ['As . . . obey'd.'] to 'The King's
+                                                  Pleasure must be obey'd.'; Kemble cuts 211-216 [.
+                                                  . . Obey d. ]) </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.2">
+                                                <head>I.ii </head>
+                                                <p><hi rend="bold">37 And danger . . . them.]</hi>
+                                                  Possibly crossed through, Hand ?II. <hi
+                                                  rend="bold">44-50 But you . . . load;]
+                                                  </hi>Circled and crisscrossed, Hand I/II; Hand II
+                                                  furnishes a link with 50 ('They say . . .') by
+                                                  inserting 'yet' before F 'But' in 44. Hand I's cut
+                                                  originally included only 44-47 ('But . . .
+                                                  acquaintance.'). <hi rend="bold">60-65 this makes
+                                                  . . . Will:]</hi> Circled and crisscrossed, Hand
+                                                  I/II (Powell+ cut 63-65 ['and it's . . . Will:']).
+                                                  <hi rend="bold">66-67 for Their . . .
+                                                  baseness.]</hi> Circled and crisscrossed, Hand
+                                                  I/II (so Powell+). <hi rend="bold">78-85 which
+                                                  ever, . . . Act:]</hi> Circled and crisscrossed,
+                                                  Hand I/II (Powell+ cut 76-85 ['we must . . .
+                                                  Act:']). <hi rend="bold">114-121 yet see, . . .
+                                                  minute:]</hi> Circled, Hand ?I, who inserts 'yet'
+                                                  at end of 114 to link with 'He . . .' in 121
+                                                  (Powell+ cut 112-121 ['his . . . minute:]). <hi
+                                                  rend="bold">125-126 of him . . . sad.]</hi>
+                                                  Crossed through, Hand ?II. <hi rend="bold">176
+                                                  Yes, heartily . . . you.]</hi> Crossed through,
+                                                  Hand ?II (so Powell, Bell, Kemble). <hi
+                                                  rend="bold">179-182 For this . . . doe:]</hi>
+                                                  Circled and crisscrossed, Hand I/II (Powell, cuts
+                                                  180-182 ['until! . . . doe:']; Bell, Kemble cut
+                                                  179-182 ['so . . . do: ]) </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.3">
+                                                <head>I.iii </head>
+                                                <p><hi rend="bold">27-32 as Fights . . . men,]</hi>
+                                                  Circled and crisscrossed, Hand I/II (Powell,
+                                                  Garrick, Bell cut 34-37 ['They . . . catching
+                                                  it.']; Kemble, the same, but gives 37-38 ['What .
+                                                  . . vanities?'] to Lord Sands). <hi rend="bold">53
+                                                  To many . . . Ladies;]</hi> Crossed through, Hand
+                                                  ?II. </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.4">
+                                                <head>I.iv </head>
+                                                <p><hi rend="bold">1-34</hi>
+                                                  <hi>S. Hen. Guilf.</hi> Ladies . . . alone.]
+                                                  Circled and crisscrossed, Hand ?I; that this cut
+                                                  was not originally intended is shown by the
+                                                  placement of the advance calls, though the
+                                                  decision to cut seems to have been Hand I's (see
+                                                  <hi>F stage directions altered</hi>). Powell cuts
+                                                  21 ('His Grace is entring.'). <hi rend="bold"
+                                                  >37-48 This to . . . me.]</hi> Circled, Hand I, in
+                                                  two parts, at bottom of F p. 546 and top of p.
+                                                  547; both parts of the cut are restored by Hand II
+                                                  with 'Stet' (twice). <hi rend="bold">49</hi>
+                                                  <hi>San.</hi> I told . . . anon.] Circled, Hand <!-- </page> -->
+                                                  <!-- <page n=30><ID>ShaHe8P30</ID> --> I/II. <hi
+                                                  rend="bold">57-58 you can . . . Nobly,]</hi>
+                                                  Circled, Hand I/II (Kemble cuts 57 ['you . . .
+                                                  tongue ]) </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.1">
+                                                <head>II.i </head>
+                                                <p><hi rend="bold">1-55</hi>
+                                                  <hi>Enter two</hi> . . . him.] Circled and
+                                                  crisscrossed, Hand I/II (so Powell+, except that
+                                                  all omit the first half-line [55] of Buckingham's
+                                                  speech). Although included in the circling, the F
+                                                  s.d. at 54 is not crisscrossed and the advance
+                                                  call for Buckingham's entry is given by Hand I at
+                                                  II.i.17 (see <hi>F stage directions altered</hi>).
+                                                  For the possibility that deletion of these lines
+                                                  was an afterthought, see 136-169 below. <hi
+                                                  rend="bold">136-169</hi>
+                                                  <hi>Exeunt Duke</hi>. . . . more.] Circled and
+                                                  crisscrossed, Hand I/II (so Powell+). This cut is
+                                                  in line with the deletion of 1-55 above (i.e., the
+                                                  further commentary of the two Gentlemen on the
+                                                  implications of the execution of Buckingham), but
+                                                  it is clear from the repositioning of the advance
+                                                  calls for the following scene (ii) that these
+                                                  lines (and probably 1-55) were originally intended
+                                                  for inclusion by Hand I (see <hi>F stage
+                                                  directions altered</hi>). </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.2">
+                                                <head>II.ii </head>
+                                                <p><hi rend="bold">73 s.d.</hi>
+                                                  <hi>and Campeius with a Commission</hi>.] See
+                                                  <hi>F stage directions altered</hi>. <hi
+                                                  rend="bold">76-78 You'r welcome . . . it:]</hi>
+                                                  Circled, Hand I. This is the first textual
+                                                  adjustment made by Hand I to replace Campeius with
+                                                  the Bishop of Lincoln (see <hi>Textual
+                                                  changes</hi>).<hi rend="bold"> 96-98 This good . .
+                                                  . more I]</hi> See <hi>Textual changes</hi>. <hi
+                                                  rend="bold">99-107</hi>
+                                                  <hi>Kin</hi>. And once . . . businesse.] The
+                                                  King's and Campeius' speeches circled, Hand I.
+                                                  Hand II with 'Stet' (twice) in left margin
+                                                  restores both speeches to the scene (see
+                                                  Introduction, p. 18). <hi rend="bold">108 Two
+                                                  equal men:]</hi> Crossed through, Hand I. <hi
+                                                  rend="bold">122-136</hi>
+                                                  <hi>Camp.</hi> My Lord . . . persons.] Circled and
+                                                  crisscrossed, Hand ?II; Hand I originally assigned
+                                                  Campeius' four speeches to 'Linc:' before 122-136
+                                                  were cut, presumably by Hand II. Powell cuts
+                                                  131-132 ('. . . rebuke.'). </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.3">
+                                                <head>II.iii </head>
+                                                <p><hi rend="bold">1-49 An. Not for . . .
+                                                  here?]</hi> Circled, Hand I, but crisscrossed,
+                                                  Hand II, only from 1-33 ('. . . stretch it.'),
+                                                  lines 33-49 ('Nay, good . . . here?) being
+                                                  restored, with 'Stet' in left margin, by Hand II
+                                                  (see <hi>Textual changes</hi>). Powell cuts 5-18
+                                                  ('Oh, no . . . verilly'), rephrases 22-23 ('Our .
+                                                  . . Queen!') as 'Who wou'd on such Conditions be a
+                                                  Queen?', cuts 25 ('And venture . . . for't,'),
+                                                  27-33 ('You that . . . it.'), 35 ('Yes troth &amp;
+                                                  troth:'), 36 ("Tis strange'), 37-44 ('but I . . .
+                                                  Boy.'); so Kemble essentially but retains Powell's
+                                                  rephrasing of 22-23, 25, 37-39 ('but I . . .
+                                                  Title:'), 41-42 ('. . . comes to:'). <hi
+                                                  rend="bold">85 of pounds]</hi> Crossed through,
+                                                  Hand I/II (Powell+ cut 81-94 ['. . .
+                                                  <hi>Larke</hi>:']). <!-- </page> -->
+                                                  <!-- <page n=31><ID>ShaHe8P31</ID> -->
+                                                  <hi rend="bold">89-92 Forty pence, . . . it?]</hi>
+                                                  Circled and crisscrossed, Hand I/II (see preceding
+                                                  entry). </p>
+                                        </div2>
+
+                                        <div2 type="scene" n="2.4">
+                                                <head> II.iv </head>
+                                                <p><hi rend="bold">18-34 Alass, Sir . . .
+                                                  discharg'd?]</hi> Circled, Hand I, but
+                                                  crisscrossed only from 22-34 ('heaven . . .
+                                                  discharg'd; '), lines 18-22 ('Alass, Sir . . .
+                                                  from me.') being restored by Hand II with 'Stet'
+                                                  in left margin (Powell, Bell, Kemble cut 25-34 ['.
+                                                  . . discharg'd?']). <hi rend="bold">64-68</hi>
+                                                  <hi>Camp</hi>. His Grace . . . heard.] Hand I
+                                                  first reassigns the speech to 'Linc', then circles
+                                                  the whole speech for deletion, and finally
+                                                  restores the speech to Campeius and places 'Stet'
+                                                  to the left of 64-68 (Campeius' speech at 121-124
+                                                  is untouched). <hi rend="bold">69</hi>
+                                                  <hi>Wol</hi>. Your pleasure, Madam.] Circled, but
+                                                  marked 'Stet', Hand I. <hi rend="bold">134-140 (If
+                                                  thy . . . out)]</hi> Circled, Hand I/II (so Bell,
+                                                  Kemble). <hi rend="bold">158-169 You are, . . .
+                                                  inducement.]</hi> Circled and crisscrossed, Hand
+                                                  I/II (Powell, Bell, Kemble cut 163-64 ['never . .
+                                                  . but'], 167-169 [. . . inducement.']; Garrick
+                                                  cuts 163-164 ['never . . . but']). <hi rend="bold"
+                                                  >182-186 enter'd me; . . . Caution.]</hi> Circled
+                                                  and crisscrossed, Hand I/II (so Powell, Garrick,
+                                                  plus some other small cuts in the King's speech;
+                                                  Bell, Kemble cut 173-222). <hi rend="bold">196-206
+                                                  Then follows, . . . Learn'd.]</hi> Circled and
+                                                  crisscrossed, Hand I/II (Powell cuts 196 ['Then
+                                                  follows, that'], 203-204 ['which . . . well,'];
+                                                  Garrick cuts 196 ['Then follows, that'], 203-204
+                                                  ['which . . . well,']; Garrick cuts 196 ['Then
+                                                  followes, that']; Bell, Kemble cut 173-222,
+                                                  223-224 ['but the . . . forward:]). </p>
+                                        </div2>
+
+                                        <div2 type="scene" n="3.1">
+                                                <head> III.i </head>
+                                                <p><xref doc="he83133">33-38 My Lords, . . .
+                                                  in:]</xref> Circled and crisscrossed, Hand I/II
+                                                  (Powell cuts 1-14, 33-53; Garrick cuts 33-39; Bell
+                                                  cuts 33-40 [. . . <hi>integritas</hi>']; Kemble
+                                                  omits whole scene. <xref doc="he83161a">61-67
+                                                  <hi>Camp</hi>. Most honoured . . . me.]</xref>
+                                                  Circled and crisscrossed, Hand I/II (speech-prefix
+                                                  '<hi>Queen</hi>.' cut in error in 67). Powell,
+                                                  Bell cut 64-65. <xref doc="he83174">74-76 I was .
+                                                  . . businesse;]</xref> Circled, Hand I/II. <hi
+                                                  rend="bold">168</hi>
+                                                  <hi>Camp.</hi> Madam, you'll . . . Virtues]
+                                                  Crossed through, Hand I/II, a cut that appears to
+                                                  give the rest of Campeius' speech to Wolsey,
+                                                  though rather awkwardly (Powell, Garrick, Bell cut
+                                                  168-174) </p>
+                                        </div2>
+
+                                        <div2 type="scene" n="4.1">
+                                                <head> IV.i </head>
+
+                                                <p><hi rend="bold">1-36, 37-117</hi>
+                                                  <hi>Enter two Gentlemen</hi>, . . . 1. Y'are well
+                                                  . . . coming. . . .2. A Royal . . . Sir. Exeunt.]
+                                                  Circled and crisscrossed, Hand I/II (i.e., all
+                                                  spoken dialogue in the scene, leaving only 'The
+                                                  Order of the Coronation.' procession). Perhaps
+                                                  Hand I intended to retain the dialogue, since he
+                                                  calls for 'Mr Totterdale' at IV.i.37 to play
+                                                  '<hi>third Gentleman</hi>', who enters at 55; <!-- </page> -->
+                                                  <!-- <page n=32><ID>ShaHe8P32</ID> --> no advance
+                                                  calls for 1. and 2. Gentleman since this is
+                                                  beginning of Act IV. It is possible, though
+                                                  unlikely, that the F s.d. and the first three
+                                                  lines of dialogue were intended to be pre- served;
+                                                  they are not circled, falling at the foot of the
+                                                  second column of F p. 559. Powell, Garrick, like
+                                                  PB, retain only 'The Order of the Coronation.'
+                                                  (each in a revised and extended form, Garrick
+                                                  adding 'The Champion's Procession in the Hall.');
+                                                  Bell and Kemble apparently omit the whole scene,
+                                                  including "The Order of the Coronation.'. </p>
+                                        </div2>
+
+                                        <div2 type="scene" n="4.2">
+                                                <head> IV.ii </head>
+                                                <p><hi rend="bold">95-99</hi>
+                                                  <hi>Patience</hi>. Do you . . . her.] Circled and
+                                                  crisscrossed, Hand I/II (Powell+ cut 94 ['Bid the
+                                                  . . .']-99. <hi rend="bold">168-170 strew me . . .
+                                                  Grave:]</hi> Circled, Hand I/II (Powell+ rephrase
+                                                  these lines with some cutting). </p>
+                                        </div2>
+
+                                        <div2 type="scene" n="5.1">
+                                                <head> V.i </head>
+                                                <p><hi rend="bold">1-55</hi>
+                                                  <hi>Enter Gardiner</hi> . . . servant.] Circled
+                                                  and lightly crisscrossed, Hand I/II (so cut
+                                                  Powell+, all of which introduce Lovell following
+                                                  60; PB has no advance call for Lovell, who enters
+                                                  at the beginning of V.i in F, where as usual there
+                                                  are no advance calls for the characters entering).
+                                                  <hi rend="bold">73-74 and in . . . Queen.]</hi>
+                                                  Crossed through, Hand ?II. <xref doc="he851128"
+                                                  >128-133 their practices. . . done.]</xref>
+                                                  Circled, Hand I/II (Powell, Garrick, Bell cut
+                                                  125-141 ['which I . . . destruction.']; Kemble
+                                                  cuts 126-143 ['I fear . . . me.']). </p>
+                                        </div2>
+
+                                        <div2 type="scene" n="5.3">
+                                                <head> V.iii </head>
+                                                <p><hi rend="bold">20-24 Which Reformation . . .
+                                                  manage.]</hi> Circled and crisscrossed, Hand I/II
+                                                  (speech-prefix cut in error). Powell cuts 21-24
+                                                  ('for those . . . manage.'); Garrick, Bell cut
+                                                  29-31 'as of . . . memories,'); Kemble cuts 24-31
+                                                  ('if we . . . memories.'). <hi rend="bold">37-45
+                                                  nor is . . . best.]</hi> Circled and crisscrossed,
+                                                  Hand I/II (Powell, Kemble cut 37-41 ['nor is . . .
+                                                  do:'], 43-45 ['Men that . . . best.']; Garrick
+                                                  cuts 36-37 ['and the . . . well:']; Bell cuts
+                                                  36-41 ['and the . . . do:'], 43-45 [Men that . . .
+                                                  best.']). <hi rend="bold">64-65 Win straying . . .
+                                                  away.]</hi> Lightly crossed through, Hand ?II.
+                                                </p>
+                                        </div2>
+
+                                        <div2 type="scene" n="5.5">
+                                                <head> V.v </head>
+                                                <p><hi rend="bold">24-33</hi>
+                                                  <hi>Saba</hi> was . . . sorrow:] Circled, Hand
+                                                  I/II (Powell cuts 24-25 ['<hi>Saba</hi> was . . .
+                                                  him:']; Garrick, Bell, Kemble cut 24-29
+                                                  ['<hi>Saba</hi> was hen'], 33-55 ['Good grows . .
+                                                  . him.']. <hi rend="bold">37-40 God shall. . .
+                                                  with her:]</hi> Circled and crisscrossed, Hand
+                                                  I/II (see preceding entry). <hi rend="bold">48-50
+                                                  And so . . . him;]</hi> Circled and crisscrossed,
+                                                  Hand I/II (see preceding entry). <hi rend="bold"
+                                                  >65-66 never, before . . . any thing.]</hi> Hand
+                                                  I/II crosses out all but 'That happy Child,'
+                                                  (Powell+ cut completely). <hi rend="bold">69-73
+                                                  and praise . . . thankful!.]</hi>
+                                                  <!-- </page> -->
+                                                  <!-- <page n=33><ID>ShaHe8P33</ID> --> Circled and
+                                                  crisscrossed, Hand I/II (so Bell, Kemble; Powell,
+                                                  Garrick cut 69 ['and praise my Maker.']). </p>
+                                        </div2>
+                                </div1>
+                                <div1 type="changes">
+                                        <head>
+                                                <hi>Textual changes </hi>
+                                        </head>
+                                        <div2 type="summary">
+                                                <head/>
+                                                <p>Hands I and II are both responsible for textual
+                                                  changes. Hand I's are largely concerned with his
+                                                  substitution of the Bishop of Lincoln for Campeius
+                                                  in II.ii and the elimination of Campeius in III.i;
+                                                  Hand II's are concerned with linking cuts, getting
+                                                  rid of archaic or "hard" words, and softening
+                                                  references to God. The resulting readings are
+                                                  unique to PB, unless otherwise noted. </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.1">
+                                                <head> I.i </head>
+                                                <p><hi rend="bold">38 Oh you go farre.]</hi> Oh you
+                                                  go farre, but pray ye <hi>Hand II</hi> (the added
+                                                  words are a link, following the cutting of 39-45
+                                                  ['<hi>Nor.</hi> As . . . Function:']; see
+                                                  <hi>Textual cuts</hi>). <hi rend="bold">48 Once
+                                                  certes, . . . Element]</hi> Once faith, . . .
+                                                  Element? <hi>Hand II</hi> (F 'Once' is a
+                                                  corruption of F1 'One'; Hand II's added question
+                                                  mark does not seem to help the sense). <hi
+                                                  rend="bold">54 Vanities? I wonder,]</hi> Vanities?
+                                                  Sir <hi>Hand II</hi> (the deletion of 'I wonder,'
+                                                  is the beginning of a long cut that runs through
+                                                  100; 'Sir' is followed by a vertical stroke with
+                                                  three short horizontals through it, a symbol
+                                                  repeated by Hand II to the left of 101, but it is
+                                                  not clear whether 'Sir' is intended to conclude
+                                                  what is left of Buckingham's speech beginning at
+                                                  52 or to begin Norfolk's speech at 101; see
+                                                  <hi>Textual cuts</hi>). <hi rend="bold">65 gives
+                                                  for him]</hi> has given him <hi>Hand ?I</hi> (one
+                                                  of the lines originally retained before Hand II's
+                                                  cutting of 54-100; see <hi>Textual cuts</hi>).
+                                                  <xref doc="he811104">104 plentious]</xref> your
+                                                  <hi>Hand II</hi>. <xref doc="he811113b">113 Loe,
+                                                  where]</xref> Loke, where <hi>Hand ?I</hi> ('Loke'
+                                                  is not certain, but cf. I.i. 202; 113 ['Loe, . .
+                                                  .]-114 were later cut; see Textual cuts). <xref
+                                                  doc="he811124">124 God]</xref> Heavn <hi>Hand
+                                                  II</hi> (see <hi>Textual cuts</hi>). <xref
+                                                  doc="he811126">126 revil'd]</xref> revil'd me
+                                                  <hi>Hand II</hi> (deleting 'Me as . . . object.'
+                                                  in 127). <xref doc="he811130b">130 with your
+                                                  Choller question]</xref> weigh <hi>Hand II</hi>.
+                                                  <hi rend="bold">139 no persons.]</hi> none
+                                                  <hi>Hand II</hi> (see <hi>Textual cuts</hi>). <hi
+                                                  rend="bold">157-158 make my . . . attend.]</hi>
+                                                  prove it too <hi>Hand II</hi> (Powell, Garrick,
+                                                  Bell retain F, but substitute 'my lord' for F
+                                                  'attend'). <hi rend="bold">164 suggests]</hi>
+                                                  counseld <hi>Hand II</hi>. <hi rend="bold">171-172
+                                                  to as . . . dead.]</hi> no matter how <hi>Hand
+                                                  II</hi>. <hi rend="bold">191 thus the]</hi> this
+                                                  base <hi>Hand II</hi>. <hi rend="bold">194 he
+                                                  were]</hi> ye were <hi>Hand II</hi> (F4 reads 'you
+                                                  were', as do Powell, Garrick, Bell). <hi
+                                                  rend="bold">202 Loe you]</hi> Loke you <hi>Hand
+                                                  II</hi> (cf. I.i. 113) <hi rend="bold">211</hi> O
+                                                  my Lord <hi>Aburgany</hi>: Fare you well.] O my
+                                                  Lord Fare well. <hi>Hand II</hi> (PB's final
+                                                  arrangement of this scene omits Aburgavenny [see
+                                                  <hi>F stage directions altered</hi>], as does
+                                                  Kemble, omitting 211; Powell reads 'Farewel, my
+                                                  Lord.'; Garrick, Bell read 'O my Lord, fare ye
+                                                  well.'). <!-- </page> -->
+                                                  <!-- <page n=34><ID>ShaHe8P34</ID> -->
+                                                </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.2">
+                                                <head> I.ii </head>
+                                                <p><hi rend="bold">44 others? But]</hi> others? yet
+                                                  <hi>Hand II</hi> ('yet' substituted to link with F
+                                                  'They say . . .' at 50; see <hi>Textual
+                                                  cuts</hi>). <hi rend="bold">110</hi>
+                                                  <hi>Quee.</hi>] King <hi>Hand II</hi> (correction
+                                                  of F error). <hi rend="bold">114-121 yet see, . .
+                                                  . minute:]</hi> Hand ?I inserts 'yet' to the right
+                                                  of 114 as a link to 'He, (my Lady) . . .' in 121
+                                                  (see <hi>Textual cuts</hi>); Garrick, Bell, Kemble
+                                                  cut 112-121 ('his training . . . minute:') and
+                                                  substitute 'But'. <hi rend="bold">151 sped]</hi>
+                                                  speed <hi>Hand II</hi> (the change makes no sense;
+                                                  Kemble substitutes 'went'). <hi rend="bold"
+                                                  >190-191 remember of such]</hi> Hand ?II deletes F
+                                                  'of' (Powell reads 'I remember well that Time,').
+                                                  <hi rend="bold">201 God]</hi> Heavn <hi>Hand
+                                                  II</hi> (so Powell+). </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.3">
+                                                <head> I.iii </head>
+                                                <p><hi rend="bold">27 Pertaining]</hi> belonging
+                                                  <hi>Hand II</hi>. </p>
+                                        </div2>
+                                        <div2 type="scene" n="1.4">
+                                                <head> I.iv </head>
+                                                <p>
+                                                  <hi rend="bold">94 Sweet heart]</hi> Madam
+                                                  <hi>Hand II</hi> (Powell reads 'Sweet Lady'). </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.2">
+                                                <head> II.ii </head>
+                                                <p><hi rend="bold">96-98 This good . . . more
+                                                  I]</hi> A good man, / A just and Learned Priest,
+                                                  Cardinall <hi>Campeius</hi>, / I will soone
+                                                  <hi>Hand I</hi> (part of Hand I's intention to
+                                                  substitute the Bishop of Lincoln for Campeius in
+                                                  this scene; see <hi>F stage directions
+                                                  altered</hi> at II.ii.73 s.d. and <hi>Textual
+                                                  cuts</hi>). <hi rend="bold">122, 124, 125,
+                                                  127</hi>
+                                                  <hi>Camp.</hi>] Linc <hi>or</hi> Linc: <hi>Hand
+                                                  I</hi> (Hand I mistakenly crossed through the F
+                                                  speech-prefix '<hi>Wol</hi>.' at 126 but restored
+                                                  it; see preceding entry and <hi>Textual
+                                                  cuts</hi>). </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.3">
+                                                <head> II.iii </head>
+                                                <p><hi rend="bold">33 Nay, good troth.]</hi> Nay, in
+                                                  good troth I woud not be a Queen <hi>Hand II</hi>.
+                                                  <hi rend="bold">34 Yes troth]</hi> Yes faith
+                                                  <hi>Hand II</hi>. <hi rend="bold">56 God]</hi>
+                                                  Heavn <hi>Hand II</hi> (so Powell+). <hi
+                                                  rend="bold">97 moe]</hi> more <hi>Hand II</hi> (so
+                                                  Powell+, following Rowe). <hi rend="bold">103
+                                                  salute]</hi> exalt <hi>Hand II</hi> (Collier MS
+                                                  proposes 'elate'). </p>
+                                        </div2>
+                                        <div2 type="scene" n="2.4">
+                                                <head> II.iv </head>
+                                                <p><hi rend="bold">206 First I began in
+                                                  private,]</hi> I began in private, then <hi>Hand
+                                                  ?II</hi>. <hi rend="bold">208 reek]</hi> sink
+                                                  <hi>Hand ?II</hi> (Rowe emends F 'reek' to
+                                                  'reel'). <hi rend="bold">230 Camp.]</hi> Wol.
+                                                  <hi>Hand I</hi>. </p>
+                                        </div2>
+                                        <div2 type="scene" n="3.1">
+                                                <head> III.i </head>
+                                                <p><xref doc="he83116">16 the two great
+                                                  Cardinals]</xref> the great Cardinal <hi>Hand
+                                                  I</hi> (the first of Hand I's changes to allow for
+                                                  the omission of Campeius from this scene; see
+                                                  <hi>F stage directions altered</hi> at III.i.23
+                                                  s.d.). <xref doc="he83118">18 their Graces]</xref>
+                                                  his Grace <hi>Hand I</hi>. <xref doc="he83119">19
+                                                  their businesse]</xref> his busnes <hi>Hand I</hi>
+                                                  (though the 'i' in 'busnes' seems to be lacking,
+                                                  the first 's' seems to be dotted). <xref
+                                                  doc="he83121">21 their]</xref> his <hi>Hand
+                                                  I</hi>. <xref doc="he83122">22 They should . . .
+                                                  affaires]</xref> he should be a good man, his
+                                                  affaires <hi>Hand I</hi>. <xref doc="he83124">24
+                                                  Graces find]</xref> Grace finds <hi>Hand I</hi>.
+                                                  <xref doc="he83128">28 we]</xref> I <!-- </page> -->
+                                                  <!-- <page n=35><ID>ShaHe8P35</ID> -->
+                                                  <hi>Hand I</hi>. <xref doc="he83129">29
+                                                  our]</xref> my <hi>Hand I</hi>. <xref
+                                                  doc="he83154">54 We]</xref> I <hi>Hand I</hi>.
+                                                  <xref doc="he83160">60 (Like free . . .
+                                                  opinions,]</xref> (Like a free and honest man) my
+                                                  just opinion, <hi>Hand I</hi>. <xref
+                                                  doc="he83161b">61 comforts]</xref> comfort
+                                                  <hi>Hand I</hi>. <xref doc="he83169">69 like
+                                                  honest men]</xref> like an honest man <hi>Hand
+                                                  I</hi>. <xref doc="he83173">73 such men]</xref>
+                                                  such a man <hi>Hand I</hi>. <xref doc="he83178">78
+                                                  Graces]</xref> Grace <hi>Hand I</hi>. <xref
+                                                  doc="he83191">91, 105, 120, 133 Lords]</xref> Lord
+                                                  <hi>Hand I</hi>. <xref doc="he83193">91, 93, 101,
+                                                  124 Camp.]</xref> Wol: or Wols: <hi>Hand I</hi>.
+                                                  <xref doc="he83197">97 He tells]</xref> I1 tell
+                                                  Hand I ('I1' is uncertain, perhaps just 'I' with
+                                                  an upward flourish). <xref doc="he83198">98
+                                                  both]</xref> thats <hi>Hand I</hi>. <xref
+                                                  doc="he831101">101 us]</xref> me <hi>Hand I</hi>.
+                                                  <xref doc="he831102">102 holy men]</xref> a holy
+                                                  man <hi>Hand I</hi>. <xref doc="he831103">103 two
+                                                  Reverend Cardinall Virtues]</xref> a Reverend
+                                                  Cardinall virtue <hi>Hand I</hi>. <xref
+                                                  doc="he831104">104 Cardinall Sins, . . .
+                                                  hearts]</xref> a Cardinall Sin, and hollow heart
+                                                  <hi>Hand I</hi>. <hi rend="bold">139 We]</hi> I
+                                                  <hi>Hand I</hi> (this is the last of Hand I's
+                                                  adjustments to allow for the omission of Campeius,
+                                                  although a number of similar adjustments are
+                                                  required in the remainder of the scene). <hi
+                                                  rend="bold">168</hi>
+                                                  <hi>Camp.</hi>] Hand I crosses through the first
+                                                  line of Campeius' speech, including the
+                                                  speech-prefix, thus giving the remainder of the
+                                                  speech to Wolsey (see <hi>Textual cuts</hi>). </p>
+                                        </div2>
+                                        <div2 type="scene" n="3.2">
+                                                <head> III.ii </head>
+                                                <p><hi rend="bold">54 The Lord forbid]</hi> Hand
+                                                  I/II crosses through 'Lord' but without
+                                                  substituting another word. Powell, Garrick read
+                                                  'Heav'n' for 'The Lord'; part of a cut Bell,
+                                                  Kemble. <hi rend="bold">55 moe]</hi> more <hi>Hand
+                                                  ?I</hi> (so Pope; Powell+ cut 55-56 ['there . . .
+                                                  sooner.]). <hi rend="bold">192 that am, have, and
+                                                  will be]</hi> that I am, have, and will be
+                                                  <hi>Hand ?I</hi> (the first attempt to deal with a
+                                                  textual crux; see the long note in <hi>Cambridge
+                                                  Shakespeare</hi>, V [1893], 744-746). What is
+                                                  presumably the same hand has underlined the lemma
+                                                  above and 'crack' in 193. <hi rend="bold">411
+                                                  Honours.]</hi> Honours, more <hi>Hand II</hi>
+                                                  (though extra-metrical, Hand II's 'more' clarifies
+                                                  the point of Wolsey's meaning, which only becomes
+                                                  clear with 'again' in 412). <hi rend="bold">412
+                                                  weighed]</hi> weighted <hi>Hand ?II</hi> (corrects
+                                                  F error). </p>
+                                        </div2>
+                                        <div2 type="scene" n="5.3">
+                                                <head> V.iii </head>
+                                                <p><hi rend="bold">146 mean]</hi> means <hi>Hand
+                                                  ?II</hi> (so Powell, Garrick, Bell, following
+                                                  Pope). </p>
+                                        </div2>
+                                        <div2 type="scene" n="5.5">
+                                                <head> V.v </head>
+                                                <p><hi rend="bold">64 O Lord]</hi> My Lord <hi>Hand
+                                                  ?II</hi>. </p>
+                                                <!-- </page> -->
+                                        </div2>
+                                </div1>
+                        </div0>
+                </body>
+        </text>
+</TEI.2> 
+ 

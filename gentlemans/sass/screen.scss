@@ -1,0 +1,63 @@
+// ---------------------------------------------------------------------------
+// Imports
+
+@import "base";
+
+/* -------------------------------------------------------------------------*/
+/* Layout */
+
+
+$bcolor: #990000;
+
+#container {
+  @include container;
+  @include susy-grid-background;
+
+  .p li {
+    list-style: none;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  img.center {
+    display: block;
+    margin: 0 auto;
+  }
+
+  header {
+    img {
+      float: left;
+    }
+
+  nav {
+    margin-left: 185px;
+    border-top: 1px solid $bcolor;
+    border-bottom: 1px solid $bcolor;
+
+    li {
+      display: inline;
+      list-style-type: none;
+      padding-right: 20px;
+
+      a {
+        font-weight: bold;
+        color: #000099;
+        text-decoration: none;
+
+        &:visited {
+          color: $bcolor;
+        }
+        &:hover {
+          color: #999900;
+        }
+        &:active {
+          color: #000099;
+        }
+      }
+    }
+  }
+}
+
+}

@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//ELEMENTS TEI Lite XML ver. 1//EN"
+                       "http://www.tei-c.org/Lite/DTD/teixlite.dtd" [
+ 
+<!NOTATION jpg SYSTEM "JPEG">  
+  
+<!ENTITY twe-p255 SYSTEM "twe-p255.jpg" NDATA jpg>  
+<!ENTITY twe-p271 SYSTEM "twe-p271.jpg" NDATA jpg>  
+<!ENTITY twecov SYSTEM "twecov.jpg" NDATA jpg>  
+<!ENTITY twespin SYSTEM "twespin.jpg" NDATA jpg>  
+<!ENTITY tweti SYSTEM "tweti.jpg" NDATA jpg>  
+<!ENTITY twe115 SYSTEM "twe115.jpg" NDATA jpg>  
+<!ENTITY twe11open SYSTEM "twe11open.jpg" NDATA jpg>  
+<!ENTITY twe1211 SYSTEM "twe1211.jpg" NDATA jpg>  
+<!ENTITY twe1219 SYSTEM "twe1219.jpg" NDATA jpg>  
+<!ENTITY twe122 SYSTEM "twe122.jpg" NDATA jpg>  
+<!ENTITY twe127 SYSTEM "twe127.jpg" NDATA jpg>  
+<!ENTITY twe12open SYSTEM "twe12open.jpg" NDATA jpg>  
+<!ENTITY twe4213 SYSTEM "twe4213.jpg" NDATA jpg>  
+<!ENTITY twe42132 SYSTEM "twe42132.jpg" NDATA jpg>  
+<!ENTITY twe42133 SYSTEM "twe42133.jpg" NDATA jpg>  
+ 
+  
+<!ENTITY % ISOlat1 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat1.ent"> %ISOlat1;
+<!ENTITY % ISOlat2 SYSTEM "http://text.lib.virginia.edu/charent/iso-lat2.ent"> %ISOlat2;
+<!ENTITY % ISOnum  SYSTEM "http://text.lib.virginia.edu/charent/iso-num.ent"> %ISOnum;
+<!ENTITY % ISOpub  SYSTEM "http://text.lib.virginia.edu/charent/iso-pub.ent"> %ISOpub;
+<!ENTITY % ISOtech SYSTEM "http://text.lib.virginia.edu/charent/iso-tech.ent"> %ISOtech;  
+]>  
+<TEI.2 id="ShaTweP">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Shakespearean prompt-books of the seventeenth century, vol. 8 (Twelfth Night) [a
+     machine-readable transcription] </title>
+    <author>Shakespeare, William </author>
+    <respStmt>
+     <resp>Creation of machine-readable version: </resp>
+     <name>Electronic Text Center, University of Virginia </name>
+     <resp>Creation of digital images: </resp>
+     <name>Electronic Text Center, University of Virginia </name>
+     <resp>Conversion to TEI.2-conformant markup: </resp>
+     <name>University of Virginia Library Electronic Text Center. </name>
+    </respStmt>
+   </titleStmt>
+   <extent>35 kilobytes </extent>
+   <publicationStmt>
+    <publisher>University of Virginia Library. </publisher>
+    <pubPlace>Charlottesville, Va. </pubPlace>
+    <idno>Bibliographic Society, ShaTweP </idno>
+    <availability>
+     <p>Publicly-accessible </p>
+     <p n="public">URL: http://etext.lib.virginia.edu/bsuva/promptbook/ </p>
+    </availability>
+    <date>1997 </date>
+   </publicationStmt>
+   <seriesStmt>
+    <p>Shakespearean prompt-books of the seventeenth century </p>
+   </seriesStmt>
+   <notesStmt>
+    <note>The electronic text contains the Introduction and the Collations. The selected pages of
+     the Prompt-Book included in this Volume have been rendered as images. </note>
+    <note> </note>
+   </notesStmt>
+   <sourceDesc>
+    <biblFull>
+     <titleStmt>
+      <title>Shakespearean prompt-books of the seventeenth century, vol. 8 </title>
+      <title> </title>
+      <author>William Shakespeare </author>
+      <respStmt>
+       <resp>Editor </resp>
+       <name>G. Blakemore Evans </name>
+      </respStmt>
+     </titleStmt>
+     <editionStmt>
+      <p>Issued in portfolios. The prompt-books are reproduced in collotype facsimile. </p>
+     </editionStmt>
+     <extent> </extent>
+     <publicationStmt>
+      <publisher>Bibliographical Society of the University of Virginia </publisher>
+      <pubPlace>Charlottesville, VA </pubPlace>
+      <date>1996 </date>
+      <idno>Print copy consulted: First Edition provided by the BSUVA </idno>
+     </publicationStmt>
+     <seriesStmt>
+      <p>Shakespearean prompt-books of the seventeenth century </p>
+     </seriesStmt>
+     <notesStmt>
+      <note>In Memoriam Fredson T. Bowers </note>
+
+      <note/>
+
+     </notesStmt>
+    </biblFull>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>Prepared for the University of Virginia Library Electronic Text Center. </p>
+   </projectDesc>
+   <editorialDecl>
+    <p>All quotation marks retained as data. </p>
+    <p>All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has
+     been joined to the preceding line. </p>
+    <p>The images exist as archived TIFF images, one or more JPEG versions for general use, and
+     thumbnail GIFs. </p>
+    <p>Keywords in the header are a local Electronic Text Center scheme to aid in establishing
+     analytical groupings. </p>
+   </editorialDecl>
+   <refsDecl>
+    <p> </p>
+   </refsDecl>
+   <classDecl>
+    <taxonomy>
+     <bibl>
+      <title>Library of Congress Subject Headings </title>
+     </bibl>
+    </taxonomy>
+   </classDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+    <date>1960-1996 </date>
+   </creation>
+   <langUsage>
+    <language>English </language>
+   </langUsage>
+   <textClass>
+    <keywords>
+     <term>drama; prose </term>
+    </keywords>
+    <keywords>
+     <term>LCSH </term>
+    </keywords>
+    <keywords>
+     <term> </term>
+     <term> </term>
+     <term type="format">24-bit color; 400 dpi </term>
+    </keywords>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change>
+    <date>July 1997 </date>
+    <respStmt>
+     <resp>corrector </resp>
+     <name>Catherine Tousignant, Electronic Text Center </name>
+    </respStmt>
+    <item>Corrected transcriptional errors. </item>
+   </change>
+   <change>
+    <date>May 1997 </date>
+    <respStmt>
+     <resp>corrector </resp>
+     <name>Michele Ierardi, Electronic Text Center </name>
+    </respStmt>
+    <item>Added TEI header </item>
+   </change>
+  </revisionDesc>
+ </teiHeader>
+
+ <text>
+  <front>
+   <div type="cover">
+    <p><figure entity="twespin">
+      <figDesc>Image of the spine: Shakespearean Prompt-Books, Vol. VIII</figDesc>
+     </figure></p>
+    <p><figure entity="twecov">
+      <figDesc>Image of the cover, part 1: Shakespearean Prompt-Books, Vol. VIII: Ki! Henry VIII,
+       The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The Winter's Tale</figDesc>
+     </figure></p>
+    <p><figure entity="tweti">
+      <figDesc>Image of the titlepage, part 1: Shakespearean Prompt-Books, Vol. VIII: King Lear,
+       Henry VIII, The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The Winter's Tale
+      </figDesc>
+     </figure></p>
+   </div>
+   <titlePage>
+    <docTitle>
+     <titlePart type="main"> SHAKESPEAREAN <lb/>PROMPT-BOOKS <lb/> of the <lb/>SEVENTEENTH CENTURY </titlePart>
+     <titlePart type="sub"> Vol. VIII <lb/><hi>King Lear, Henry VIII,</hi>
+      <lb/><hi>The Merry Wives of Windsor</hi>
+      <lb/><hi>Twelfth Night, The Comedy of Errors</hi>
+      <lb/><hi>The Winter's Tale</hi>
+     </titlePart>
+    </docTitle>
+    <docAuthor>
+     <hi>Edited by</hi>
+     <lb/>G. Blakemore Evans </docAuthor>
+    <docImprint>
+     <hi>A Publication of</hi>
+     <lb/>The Bibliographical Society of the University of Virginia
+      <pubPlace>Charlottesville</pubPlace>
+     <date>1996 </date>
+    </docImprint>
+   </titlePage>
+  </front>
+  <body>
+   <!-- <page n=59><ID>ShaTweP59</ID> -->
+   <div0 type="introduction">
+    <head> Smock Alley <lb/><hi>Twelfth Night</hi>
+     <lb/>Third Folio &amp; <lb/>Folger Second Folio <lb/><hi>Twelfth Night</hi>
+     <lb/>Introduction </head>
+    <div1 type="section">
+     <head> I: The Smock Alley Twelfth Night </head>
+     <p>THE Smock Alley <hi>Twelfth Night</hi> prompt-book (PB) like the Smock Alley <hi>Merry Wives
+       of Windsor</hi> and <hi>King Lear</hi>, contains no actors' names, but it is tied to other
+      Smock Alley prompt-books (1) by inclusion in S. W. Singer's list of twelve plays in "a
+      tattered copy of the third folio of Shakespeare," which showed abundant evidence of a
+      theatrical provenience (i.e., the Smock Alley Third Folio [1663/64] before it was broken up by
+       Halliwell-Phillipps);<note target="n1">[1]</note> (2) by the appearance of a prompt-hand
+      (Hand I) that occurs in the Smock Alley <hi>Hamlet</hi> (Hands I and II; c. 1676-79),<note
+       target="n2">[2]</note>
+      <hi>Macbeth</hi> (Hands I and II; c. <!-- </page> -->
+      <!-- <page n=60><ID>ShaTweP60</ID> --> 1674-82), <hi>Henry VIII</hi> (Hand I c. 1674/75-79),
+       <hi>Othello</hi> (Hand II; c. 1677-78 or 1682-83), <hi>I Henry IV </hi>(Hand II; c. 1675-85)
+       and<hi>King Lear</hi> (Hand I; ? after 1681). The presence of Hand I in these other plays,
+      ranging in date from about 1674 to 1685, suggests that the Smock Alley <hi>Twelfth Night</hi>
+      probably falls somewhere within the same general span. If we add to this the possibility that
+      Francis Baker, who played Falstaff in <hi>I</hi> and <hi>2 Henry IV</hi>, also played Sir Toby
+      Belch (Thomas Betterton played both roles in London), then at least a terminal date of 1685,
+      the year in which Baker left Smock Alley to act with the United Company in London, may be set
+      for the Smock Alley <hi>Twelfth Night</hi>. </p>
+     <p>Hand I, the only prompt-hand in the Smock Alley prompt-book, is responsible for scene
+      settings, stage properties (one call only), sound effects, advance character calls, stage
+      directions altered or added (one of each), textual cuts (five only), and textual changes (one
+      only). Hand I, however, makes no attempt to modernize syntax or language. A second hand (Hand
+      II), an eighteenth-century hand that also appears in the Smock Alley <hi>Hamlet</hi> (Hand
+      IV), <hi>King Lear</hi> (Hand III), <hi>Merry Wives of Windsor</hi> (Hand II), and
+       <hi>Midsummer Night's Dream</hi> (Hand II), as usual emends the Third Folio text by inserting
+      emendations proposed by editors from Rowe (1709) through Hanmer (1743). Only selective
+      readings by Hand II are recorded in the Collations (see <hi>Textual changes</hi>). </p>
+     <p> Like the Smock Alley <hi>Merry Wives</hi>, the Smock Alley <hi>Twelfth Night</hi> is very
+      lightly cut (only 10 lines out of a total of 2,429).<note target="n3">[3]</note> Of its five
+      cuts, two (I.ii.62; III.i.52-54) may have been made to remove "bawdry"; one (II.iv.87) because
+      of an error in the Third Folio text that makes nonsense of the line; and two (II.iv.5-6;
+      III.iv.290-292) because the passages concerned are not immediately clear in meaning. A few
+      lines may possibly (though not, I think, probably) have been cut on Folio pages 265 and 266,
+      where a substantial part (lower outer corner of sig. Z1) has been torn away, affecting the
+      text as follows: III.i.59-99 ('bring a . . . own'), enough inner marginal text remaining to
+      rule out <!-- </page> -->
+      <!-- <page n=61><ID>ShaTweP61</ID> --> any cuts; III.i.124-163 ('Myself . . . pride,');
+      III.ii.6-50 ('<hi>And</hi>. Marry I . . . although the'); III.ii.76-III.iii.18 ('ever believe
+      . . . firm,'), enough outer marginal text remaining to rule out any cuts. </p>
+     <p> The Smock Alley <hi>Twelfth Night</hi> has been compared throughout with the following
+      theatre texts (the first possibly earlier than the Smock Alley PB): Folger Second Folio
+       <hi>Twelfth Night</hi> cuts about 36 lines; (2) Douai MS <hi>Twelfth Night</hi> (1694), cuts
+      about 266 lines; (3) <hi>Twelfth Night</hi> in John Bell's <hi>Shakespeare's Plays, As they
+       are now performed at the Theatres Royal in London</hi>, Vol. V (1773), cuts about 235 lines;
+      (4) John Philip Kemble's Covent Garden <hi>Twelfth Night</hi> (n.d., about 1811), cuts about
+      the same number of lines as in (3), but individual cuts differ.<note target="n4">[4]</note>
+      The so-called Collier MS has also been consulted. </p>
+     <p> The scene settings are stock (occurring in other Smock Alley prompt-books) and are limited
+      to three: 'Presence' (used once), 'Towne' (used three times), and 'Court' (used or implied
+      thirteen times). The last two are the most frequently used among Smock Alley settings;
+      'Presence' appears elsewhere only in <hi>Othello</hi>.<note target="n5">[5]</note> Obviously,
+      it was not intended to mount <hi>Twelfth Night</hi> with any unnecessary expense. </p>
+     <p> Because both the Smock Alley <hi>Twelfth Night</hi> and <hi>Merry Wives</hi>
+      <note target="n6">[6]</note> are, comparatively, so lightly cut, it is tempting to think that
+      they may represent first steps in the preparation of the final prompt-books and that some hand
+      other than the main prompt hand (Hand I in both) was expected to go over the play again with
+      an eye to more substantial cutting. Against such a view, however, except for the lack of
+      significant cutting, both are quite adequate to serve as actual prompt-books. Moreover, the
+      comparatively small amount of cutting (c. 36 lines) in the Folger Second Folio <hi>Twelfth
+       Night</hi> PB, of uncertain date and possibly earlier than the Smock Alley <hi>Twelfth
+       Night</hi>, suggests that <hi>Twelfth Night</hi> at least, if not Merry Wives, was not
+      considered as a play demanding much shortening. Finally, the length of both plays after
+      cutting (Smock Alley <hi>Twelfth Night</hi>, c. 2,419 lines; Folger Second Folio <hi>Twelfth
+       Night</hi>, c. 2,393 lines; <hi>Merry </hi>
+      <!-- </page> -->
+      <!-- <page n=62><ID>ShaTweP62</ID> -->
+      <hi>Wives</hi>, c. 2,582 lines) is considerably less than the Smock Alley acting texts of
+       <hi>Hamlet</hi> (c. 2,860 lines) and <hi>Othello</hi> (c. 2,808 lines). </p>
+     <note id="n1"> 1. <hi>The Text of Shakespeare Vindicated</hi> (1853), pp. vi-vii. </note>
+     <note id="n2"> 2. For an explanation of the telescoping of Hands I and II in <hi>Hamlet</hi>
+      and <hi>Macbeth</hi>, see Introduction to the Smock Alley <hi>Lear</hi>, p. 2, note 3. </note>
+     <note id="n3"> 3. The line-count here is based on Alfred Hart's count of 2,429 lines for
+       <hi>Twelfth Night</hi> (<hi>Review of English Studies</hi>, 8 [1932], 21). Because of the
+      substantial amount of prose in <hi>Twelfth Night</hi>, line-counts are more than usually open
+      to variation depending on the format of the particular text being referred to. </note>
+     <note id="n4"> 4. Neither the Folger F2 PB nor the Douai MS <hi>Twelfth Night</hi> shares cuts
+      with the Smock Alley PB. </note>
+     <note id="n5"> 5. See General Introduction, Vol. I: Part i, pp. 23-24, of this series. </note>
+     <note id="n6"> 6. See Introduction to the Smock Alley <hi>Merry Wives</hi> PB, p. 43. </note>
+    </div1>
+    <div1 type="section">
+     <head> II: The Folger Second Folio Twelfth Night </head>
+     <p>The Folger Second Folio <hi>Twelfth Night</hi> (hereafter Folger F2 PB) has no connection,
+      so far as I know, with Smock Alley and is of unknown provenience. Like the Smock Alley
+      prompt-books, however, it also belonged at one time to Halliwell-Phillipps, who describes it
+      in his <hi>Some Account of the Antiquities, . . . In the Possession of James Orchard
+       Halliwell, Esq.</hi> F.R.S. (1852).<note target="n7">[7]</note> Of its history before 1852,
+      however, nothing is known, although it seems probable that it has a London (or English
+      provincial) rather than a Dublin origin. Whatever its provenience, Folger F2 PB was never
+      completed: all prompt notations cease after IV.ii, thus ruling out its use as a workable
+      prompt-book. </p>
+     <p> The absence of any scene settings in Folger F2 PB suggests a question. Does this indicate,
+      perhaps, that this prompt-book should be dated some time before 1660, after which changeable
+      scenery became common in the public theatres? One characteristic of this prompt-book, however,
+      suggests that it is more probably post-Restoration: the marking of the point of entry for a
+      character by a horizontally slanted and crossed line, an entry signal often appearing in
+      Restoration prompt-books,<note target="n8">[8]</note> but not, to my knowledge, found in
+      earlier prompt-books. </p>
+     <p> A single prompt-hand worked on the Folger F2 PB, which, <!-- </page> -->
+      <!-- <page n=63><ID>ShaTweP63</ID> --> though it is the only prompt-hand, I have called Hand
+      I. It has some superficial points of likeness with Hand I in the Smock Alley <hi>Twelfth
+       Night</hi> PB, but it is, I am sure, a different hand, and one that does not appear elsewhere
+      in other Smock Alley prompt-books. Hand I is responsible for the act notations, calls for
+      sound effects, advance character calls, Folio stage directions altered or added, textual cuts,
+      and textual changes. It also, with some consistency, marks points of entry with a horizontally
+      slanted and crossed line (see note 8), usually placed in the right or left margin. </p>
+     <p> The Folger F2 PB has been very lightly cut (c. 36 lines, leaving a play of c. 2,393 lines),
+      though slightly more heavily cut than the Smock Alley <hi>Twelfth Night</hi>. Of its four
+      cuts, two (II.iii.39-47, 115-121) shorten or cut song lyrics, and two get rid of dated
+      references to 'the old Hermit of <hi>Prage</hi>' and 'King <hi>Gorbodacke</hi>' (IV.ii.13-23)
+      and to 'the old vice' with his 'Dagger of Lath' (IV.ii.133-141). There is no agreement between
+      these cuts and those in the Smock Alley PB, further evidence, aside from Hand I,
+      disassociating the Folger F2 PB from a possible Smock Alley provenience. </p>
+     <p> The Folger F2 PB has been compared throughout with the same theatre texts listed above for
+      the Smock Alley <hi>Twelfth Night</hi>. </p>
+     <note id="n7"> 7. P. 115, Item 91: "The Play of Twelfth Night, from the edition of 1632, a
+      play-house copy of about the date 1640, with the names of the characters in the place where
+      they were to be in readiness to take their parts etc. fol[io]. This volume is extremely
+      interesting, as showing the plan of an early performance of the play. It is curious to observe
+      how little is omitted from the original text. The places for 'Musicke' are noted. Instead of
+      the song at the end of Act iv, Sc. 2, we have only the following lines, I am gone, Sir, and,
+      anon, Sir / Ile be with you againe, sir." Halliwell-Phillipps fails to note that this PB was
+      never completed, and the date, "about 1640," is presumably only his best guess. </note>
+     <note id="n8"> 8. See, for example, <hi>Hamlet</hi> and <hi>Othello</hi> (both Smock Alley;
+      Folger Shakespeare Library), <hi>Comedy of Errors</hi> ('Nursery'; University of Edinburgh
+      Library), John Wilson <hi>The Cheats</hi> (King's Company, London; MS at Worcester College,
+      Oxford), and James Shirley, <hi>The Sisters</hi> (King's Company, London; Sion College,
+      London). </note>
+    </div1>
+   </div0>
+   <!-- </page> -->
+   <!-- <page n=64><ID>ShaTweP64</ID> -->
+
+   <div0 type="collations">
+    <head> Collations <lb/><hi>Twelfth Night</hi>
+    </head>
+    <div1 type="figures">
+     <head/>
+     <p><figure entity="twe-p255">
+       <figDesc>Image of page 255 of the Twelfth Night prompt-book (I.i.1-I.ii.42). </figDesc>
+      </figure></p>
+     <p><figure entity="twe-p271">
+       <figDesc>Image of page 271 of the Twelfth Night prompt-book (IV.ii.8-IV.iii.3). </figDesc>
+      </figure></p>
+    </div1>
+    <div1 type="introduction">
+     <head/>
+     <p>THE following collations are arranged by categories. The act, scene, and line numbering is
+      that of the Globe text (1911 ed.). Angle brackets are used to indicate letters (or words)
+      illegible or shaved in binding. Abbreviations employed are as follows: </p>
+     <list>
+      <item>Bell . . . . . . . . . . <hi>Twelfth Night</hi>, ed. Francis Gentleman, in Bell's
+        <hi>Shakespeare's Plays</hi>, Vol. V (1773) </item>
+      <item>Collier MS . . . . . . . . the Collier-Perkins Second Folio (1632), in the Huntington
+       Library </item>
+      <item>Douai MS . . . . . . . . MS of <hi>Twelfth Night</hi> (1694), in the Douai Public
+       Library </item>
+
+      <item>F . . . . . . . . . . . here used for Third Folio (1663/64) </item>
+      <item>Ff.....................indicates substantial agreement of all four Folio texts of
+        <hi>Twelfth Night</hi>
+      </item>
+      <item>Folger F2 PB . . . . . . . the Folger Second Folio <hi>Twelfth Night</hi> prompt-book,
+       in the Folger Shakespeare Library </item>
+      <item>Kemble J. P. Kemble's acting version of <hi>Twelfth Night</hi> (n.d., about 1811) </item>
+      <item>PB . . . . . . . . . . used to refer to both the Smock Alley <hi>Twelfth Night</hi>
+       prompt-book and to Folger F2 PB <hi>Twelfth Night</hi>
+      </item>
+      <item>s.d. . . . . . . . . . . stage direction (plural s.dd.)</item>
+     </list>
+    </div1>
+    <div1 type="settings">
+     <head> Scene settings </head>
+     <div2 type="summary">
+      <head/>
+      <p>Hand I is responsible for all the scene notations in the Smock Alley PB. No scene notations
+       in Folger F2 PB. </p>
+     </div2>
+     <div2 type="scene" n="1.1">
+      <head> I.i </head>
+      <p><xref doc="twe11open"> (opening)</xref> Presence (Bell, 'SCENE <hi>the Palace</hi>';
+       Kemble, '<hi>A Room in</hi> Duke Orsino's <hi>Palace</hi>' [reverses scenes i and ii]). </p>
+     </div2>
+     <!-- </page> -->
+     <!-- <page n=65><ID>ShaTweP65</ID> -->
+     <div2 type="scene" n="1.2">
+      <head> I.ii </head>
+      <p><xref doc="twe12open">(opening)</xref> Towne (Bell, 'SCENE <hi>the street</hi>'; Kemble,'
+        <hi>The Seacoast</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="1.3">
+      <head> I.iii </head>
+      <p><hi rend="bold">(opening)</hi> Court (Bell, 'SCENE Olivia's <hi>house</hi>'; Kemble, '<hi>A
+        Room in</hi> Olivia's <hi>House</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="1.4">
+      <head> I.iv </head>
+      <p><hi rend="bold"> (opening)</hi> Court (thus continuing the setting; Bell, 'SCENE <hi>the
+        palace</hi>'; Kemble, '<hi>A Room in</hi> Duke Orsino's <hi>Palace</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="1.5">
+      <head> I.v </head>
+      <p><hi rend="bold">(opening)</hi> setting continued (Bell, 'SCENE Olivia's <hi>house</hi>';
+       Kemble, '<hi>A Room in</hi> Olivia's <hi>House</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="2.1">
+      <head> II.i </head>
+      <p><hi rend="bold">(opening)</hi> Towne (Bell, 'SCENE <hi>the street</hi>'; Kemble, 'A
+        <hi>Sea</hi>port'). </p>
+     </div2>
+     <div2 type="scene" n="2.2">
+      <head> II.ii </head>
+      <p><hi rend="bold"> (opening)</hi> Court (Bell, setting continued; Kemble, 'A <hi>Street
+        before</hi> Olivia's <hi>House</hi>' [reverses scenes II.i and II.ii]). </p>
+     </div2>
+     <div2 type="scene" n="2.3">
+      <head> II.iii </head>
+      <p><hi rend="bold">(opening)</hi> setting continued (Bell, 'SCENE Olivia's <hi>house</hi>';
+       Kemble, 'A <hi>Dining-room in</hi> Olivia's <hi>House</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="2.4">
+      <head>II.iv </head>
+      <p><hi rend="bold">(opening)</hi> setting continued (Bell, 'SCENE <hi>The palace</hi>';
+       Kemble, 'A <hi>Hall in</hi> Duke Orsino's <hi>Palace</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="2.5">
+      <head> II.v </head>
+      <p><hi rend="bold">(opening)</hi> setting continued (Bell, Kemble, 'SCENE Olivia's
+        <hi>garden</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="3.1">
+      <head> III.i </head>
+      <p><hi rend="bold">(opening)</hi> Court (thus continuing the setting; Bell, Kemble, as in II.v
+       [Kemble places III.iii after III i]). </p>
+     </div2>
+     <div2 type="scene" n="3.2">
+      <head> III.ii </head>
+      <p><hi rend="bold">(opening)</hi> setting continued (Bell, 'SCENE Olivia's <hi>house</hi>';
+       Kemble, '<hi>A Room in</hi> Olivia's <hi>House</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="3.3">
+      <head> III.iii </head>
+      <p><hi rend="bold">(opening)</hi> scene setting lost because of tear in PB (Bell, 'SCENE
+        <hi>the street</hi>'; Kemble, 'A <hi>public Square</hi>' [Kemble places III.iii before
+       III.ii]). </p>
+     </div2>
+     <div2 type="scene" n="3.4">
+      <head>III.iv </head>
+      <p><hi rend="bold">(opening)</hi> Court (Bell, 'SCENE Olivia's <hi>house</hi>'; Kemble, '<hi>A
+        Room in</hi> Olivia's <hi>House</hi>'; Bell, Kemble begin a new scene at III.iv.301). </p>
+     </div2>
+     <!-- </page> -->
+     <!-- <page n=66><ID>ShaTweP66</ID> -->
+     <div2 type="scene" n="4.1">
+      <head> IV.i </head>
+      <p><hi rend="bold"> (opening)</hi> Town (Bell, 'SCENE <hi>the street</hi>'; Kemble, '<hi>The
+        Street before</hi> Olivia's <hi>House</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="4.2">
+      <head> IV.ii </head>
+      <p><hi rend="bold">(opening)</hi> Court (Bell, 'SCENE Olivia's <hi>house</hi>'; Kemble, '<hi>A
+        Gallery in</hi> Olivia's <hi>House</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="4.3">
+      <head>IV.iii </head>
+      <p><hi rend="bold">(opening)</hi> setting continued (Bell, 'SCENE <hi>a street</hi>'; Kemble,
+       'Olivia's <hi>Garden</hi>'). </p>
+     </div2>
+     <div2 type="scene" n="5.1">
+      <head> V.i </head>
+      <p><hi rend="bold">(opening)</hi> Court (thus continuing the setting; Bell, 'SCENE <hi>a cut
+        wood</hi>'; Kemble, '<hi>The Street before</hi> Olivia's <hi>House</hi>'). </p>
+     </div2>
+    </div1>
+    <div1 type="notations">
+     <head> Act notations </head>
+     <p>The Smock Alley PB has advance calls for act breaks ('Act'), all marked by Hand I, at
+      I.v.302 (for Act II); II.v.176-177 (for Act III; almost entirely cropped); III.iv.386 (for Act
+      IV; almost entirely cropped); IV.iii (opening) (for Act v); V.i.270 (for end of Act V; almost
+      entirely cropped; elsewhere found only in Smock Alley <hi>Henry VIII</hi> PB). </p>
+     <p>Folger F2 PB has advance calls for act breaks ('Act / ready' or 'Act') at I.v.307 (for Act
+      II); II.v.204-205 (for Act III); III.iv.289 (for Act IV; almost entirely cropped); no prompt
+      notations after IV.ii. </p>
+    </div1>
+
+    <div1 type="properties">
+     <head> Stage properties </head>
+     <p>The Smock Alley PB has an advance call for 'letter' (Hand I) at II.iv.107 for Maria to drop
+      at II.v.24 as bait for Malvolio; no call for a letter in F s.d. at II.v.l6. No advance call
+      for a letter at V.i.287, where the F s.d. does call for a letter ('<hi>Enter the Clown with a
+       Letter, . . .</hi>'). </p>
+     <p>Folger F2 PB contains no prompt calls for properties. </p>
+    </div1>
+    <div1 type="sound">
+     <head> Sound effects </head>
+     <p>The Smock Alley PB has advance calls, in Hand I, for 'Musique' before I.i (placed to the
+      left of the play's title; no F s.d. calling for music) and at II.iii.202 and above II.iv.31
+      (almost entirely obliterated) in preparation for F. s.dd. after II.iv.14 and 51. </p>
+     <p>Folger F2 PB has advance calls, in Hand I, for 'Musicke' at II.iii.204 and II.iv.33-34 in
+      preparation for F2 s.dd. after II.iv.14 and 51 (in both instances the points at which the F2
+      s.dd. call for music are marked with a horizontally slanted crossed line, the same signal used
+      in PB to mark point of entry for characters); and at III.i.126-127 ('Clock') in preparation
+      for the F2 s.d. ('<hi>Clocke strikes</hi>.') after 140 (F2 s.d. marked with a horizontally
+      slanted crossed line). A similar advance call in the Smock <!-- </page> -->
+      <!-- <page n=67><ID>ShaTweP67</ID> --> Alley PB may have been lost when the lower right half
+      of F p. 265 was torn off. </p>
+    </div1>
+    <div1 type="calls">
+     <head> Advance character calls </head>
+     <p>In the Smock Alley PB all advance character calls are in Hand I. There are no advance calls
+      for characters entering at the beginning of an act. Because of the severe damage to F pp. 265
+      and 266, advance calls are missing for III.ii (opening) and for Maria's entry after III.ii.69.
+      The advance call for Maria at V.i.80 omits the '<hi>attendants</hi>' called for by the F s.d.
+      after 99. </p>
+     <p>In the Folger F2 PB all advance character calls are in Hand I, and the point at which a
+      character enters is, usually, marked by a horizontally slanted crossed line, even for
+      characters entering at the beginning of a scene, except for the first scene of an act, where,
+      also, there are no advance calls for characters there entering. </p>
+    </div1>
+    <div1 type="directions">
+     <head> F stage directions altered; new stage directions added </head>
+     <p>In the Smock Alley PB Hand I converts '<hi>and others</hi>' in the opening s.d. of II.iv to
+      '&lt;At&gt;tendants' in the advance call above at II.iii.179; he omits '<hi>attendants</hi>'
+      in the F s.d. at V.i.99 in the advance call for Olivia at V.i.80. </p>
+     <p> In the Folger F2 PB Hand I makes the following changes from F2 in entry s.dd.: II.v.204,
+      Maria's entry is dropped from after 204 to after 205 (so Capell; Kemble drops to after 206);
+      III.ii.69, Maria's entry is dropped from after 69 to after 71 (so Kemble); III.i.155, Sir
+      Andrew's entry is dropped from after 155 to after 156 (so Kemble). Hand I places a cross in
+      right margin at III.i.107, perhaps to indicate an exit for Sir Toby, Sir Andrew' and Maria
+      (not in F2; first given by Rowe). </p>
+    </div1>
+    <div1 type="cuts">
+     <head> Textual cuts </head>
+     <div2 type="summary">
+      <head/>
+      <p>In the Smock Alley PB all cuts were probably made by Hand I. </p>
+     </div2>
+     <div2 type="scene" n="1.2">
+      <head> I.ii </head>
+      <p><hi rend="bold">I.ii.62 Be you . . . be,]</hi> Underlined, most probably for deletion
+       (Bell, Kemble retain, but Kemble substitutes 'page' for F 'Eunuch'). </p>
+     </div2>
+     <div2 type="scene" n="2.4">
+      <head>II.iv </head>
+      <p><hi rend="bold">II.iv.5-6 More then . . . times.]</hi> Circled (Bell, Kemble cut 1-14). <hi
+        rend="bold">87 Tell her . . . fortune:]</hi> Circled (F reads 'told' for Ff 1-2 'hold',
+       making nonsense of the line; Hand II corrects to 'hold'). </p>
+     </div2>
+     <div2 type="scene" n="3.1">
+      <head>III.i </head>
+      <p><hi rend="bold"> 52-54 I am . . . chin.]</hi> Circled (Bell, Kemble cut 53-54 ['though . .
+       . chin.'], Hand I making the same cut originally, then including 'I am . . . one,'). </p>
+     </div2>
+     <!-- </page> -->
+     <!-- <page n=68><ID>ShaTweP68</ID> -->
+     <div2 type="scene" n="3.4">
+      <head>III.iv </head>
+      <p><hi rend="bold"> 290-292 Nothing of . . . velour.]</hi> Partly circled, probably for
+       deletion. </p>
+     </div2>
+     <div2 type="summary">
+      <head/>
+      <p> In the Folger F2 PB all cuts were probably made by Hand I. </p>
+
+     </div2>
+     <div2 type="scene" n="2.3">
+      <head>II.iii </head>
+      <p><hi rend="bold">39-47</hi>
+       <hi>An. I</hi>, I. I . . . good.] Short angled lines through speech-prefixes at 39 and 47
+       suggest a possible cut (Bell cuts 31-59 ['Now a . . . contagion.']; Kemble cuts 32-60 ['there
+       is . . . indeed?']). <hi rend="bold">115-121</hi>
+       <hi>To</hi>. But I . . . <hi>not.</hi>] Between heavy horizontal lines, 117 partly underlined
+       (Bell, Kemble cut 118-121 and read, respectively, F 'Out o'tune sir, ye lye' [122] as 'Sir,
+       you lie:' and '<hi>You lie.</hi>', an adjustment required by Hand I's cut, but not made).
+      </p>
+     </div2>
+     <div2 type="scene" n="4.2">
+      <head>IV.ii </head>
+      <p><xref doc="twe4213"> 13-23 <hi>Clo. Bonos dies</hi> . . . Knave.]</xref> Heavy slanted
+       vertical stroke through these lines, probably for deletion. <xref doc="twe42133">133-141 In a
+        trice . . . Divell.] </xref>Between crisscrossed horizontal lines (so Bell, Kemble; see
+        <hi>Textual changes</hi>, IV.ii.132). </p>
+     </div2>
+    </div1>
+    <div1 type="changes">
+     <head> Textual changes </head>
+     <div2 type="summary">
+      <head/>
+      <p>In the Smock Alley PB Hand I makes only one certainly identifiable textual change: IV.ii.32
+       thus wronged] thus usd (F reading heavily blotted). There are a number of heavy blots
+       obscuring the F text, but only in this instance does Hand I make any attempt to bridge the
+       gap in the underlying F text. Hand II, an intrusive eighteenth-century hand (see
+       Introduction, p. 60), substitutes emendations proposed by Rowe through Hanmer. Only readings
+       uncertainly Hand II's and readings original (or partly original) with Hand II are here
+       recorded. After III.ii.71 Hand II's meddling ceases. </p>
+     </div2>
+     <div2 type="scene" n="1.1">
+      <head>I.i </head>
+      <p><xref doc="twe115"> 5 sound]</xref> South / or Sough <hi>Hand II</hi> ('south', Pope, Bell,
+       Kemble; 'Sough', Anon. conj. in Cambridge, presumbly later than Hand II's reading). </p>
+     </div2>
+     <div2 type="scene" n="1.2">
+      <head>I.ii </head>
+      <p><xref doc="twe122"> 2 This is]</xref> Crossed through, Hand ?II (so Pope, Bell). <xref
+        doc="twe127">7 and]</xref> Crossed through, Hand ?II (so Pope, Bell). <xref doc="twe1211">11
+        droving]</xref> driving<hi>Hand ?II</hi> (correction of error in F). <xref doc="twe1219">19
+        unfoldeth to]</xref> unfoldeth too <hi>Hand II</hi> (a possible reading not elsewhere
+       recorded). </p>
+     </div2>
+     <div2 type="scene" n="1.3">
+      <head>I.iii </head>
+      <p><hi rend="bold"> 122 kick-shawses]</hi> kick-shaws <hi>Hand ?II</hi> (so F4, Rowe, Bell,
+       Kemble). <hi rend="bold">124 whatsoever]</hi> whatsoeer <hi>Hand ?II</hi>. <hi rend="bold"
+        >139 Sink-a-pace]</hi>
+       <!-- </page> -->
+       <!-- <page n=69><ID>ShaTweP69</ID> --> Cinque Pas <hi>Hand II</hi> ('cinque pace', Hanmer;
+       Hand II's French form may have been suggested by Sir Toby's '<hi>Porquoy</hi>', corrected to
+        '<hi>Pour-quoy</hi>' by Hand II, in 95). </p>
+     </div2>
+
+     <div2 type="summary">
+      <head/>
+      <p>In the Folger Fe PB Hand I makes only three textual changes. </p>
+     </div2>
+     <div2 type="scene" n="2.4">
+      <head>II.iv </head>
+      <p><hi rend="bold"> 75</hi>
+       <hi>Duk.</hi>] Clo. (correction of an error peculiar to F2). </p>
+     </div2>
+     <div2 type="scene" n="3.4">
+      <head>III.iv </head>
+      <p><hi rend="bold"> 313 damn'd]</hi> hangd (perhaps an attempt to soften Sir Andrew's
+       language). </p>
+     </div2>
+     <div2 type="scene" n="4.2">
+      <head>IV.ii </head>
+      <p><xref doc="twe42132"> 132 you againe:]</xref> you againe: Sir (132 precedes the cutting of
+       133-141; Kemble reads '<hi>you again, &amp;c.</hi>'). </p>
+      <!-- </page> -->
+     </div2>
+    </div1>
+   </div0>
+  </body>
+ </text>
+</TEI.2> 
+ 
