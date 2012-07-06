@@ -31,6 +31,9 @@ Dir['*.html'].each do |file|
 
   id = generate_id
   xml += "<field name='id'>#{id}</field>"
+  xml += "<field name='project_s'>Attributions of Authorship in the 
+European Magazine</field>"
+xml += "<field name='slug_s'>/bsuva/euromag/</field>"
 
   title = html.title
   xml += "<field name='title_s'>#{title}</field>"

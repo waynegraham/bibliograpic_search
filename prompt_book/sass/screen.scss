@@ -1,0 +1,53 @@
+// ---------------------------------------------------------------------------
+// Imports
+
+@import "base";
+
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/reset";
+
+
+@import "bootstrap/buttons";
+@import "bootstrap/component-animations";
+@import "bootstrap/forms";
+@import "bootstrap/pager";
+@import "bootstrap/type";
+
+@import "bootstrap/wells";
+
+
+/* -------------------------------------------------------------------------*/
+/* Layout */
+
+a {
+  color: $linkColor;
+  text-decoration: none;
+}
+a:hover {
+  color: $linkColorHover;
+  text-decoration: underline;
+}
+
+
+#container {
+
+  @include container;
+  @include susy-grid-background;
+
+
+  h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+    font-family: Garamond, "Adobe Garamond Pro", Georgia, Times, "Times New Roman", serif;
+  }
+
+  font: 90%/1.4 "Helvetica Neue", Helvetica, Arial, "Franklin Gothic Book", "Franklin Gothic", "Trebuchet MS", Verdana, sans-serif;
+  color: #444;
+
+  .div2 {
+    h1 {
+      text-align: center;
+    }
+  }
+
+}

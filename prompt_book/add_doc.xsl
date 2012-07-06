@@ -30,6 +30,8 @@
                     <field name="id">
                         <xsl:value-of select="generate-id()"/>
                     </field>
+                    <field name="project_s">Shakespearean Prompt-Books</field>
+                    <field name="slug_s">/bsuva/promptbook/</field>
                     <field name="section_s"><xsl:value-of select="@type" /></field>
                     <field name="title_s">
                         <xsl:value-of select="head" />
