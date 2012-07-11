@@ -5,17 +5,24 @@ task :clean do
   cleanup
 end
 
+desc 'Compiles the stylesheets'
+task :compile_styles do
+  sh "compass compile"
+end
+
 desc 'Build the HTML site'
-task :build => :clean do
+task :build => [:clean, :compile_styles] do
 
   setup
 
   Dir["*.xml"].each do |file|
     #TODO get file basename
-    command = "java -jar saxon/saxon9he.jar -o:_site/#{file}.html -xsl:generate_html.xsl #{file}"
-    puts command 
+    f = File.basename(file, '.xml')
+    command = "java -jar saxon/saxon9he.jar -o:_site/#{f}.html -xsl:generate_html.xsl #{file}"
+    sh command
   end
-end
+
+  end
 
 def jpegtran(directory, opts = "")
   begin
@@ -49,6 +56,10 @@ end
 
 def setup
   FileUtils.mkdir_p('_site')
+  FileUtils.cp_r 'stylesheets', '_site/stylesheets'
+  FileUtils.cp_r 'javascripts', '_site/javascripts'
+  FileUtils.cp_r 'images', '_site/images'
+
 end
 
 def cleanup
