@@ -34,6 +34,37 @@ if ($query) {
         die("<html><head><title>SEARCH EXCEPTION</title><body><pre>{$e->__toString()}</pre></body></html>");
     }
 }
+
+function displayResults($results)
+{
+    $html = '';
+    
+    if ($results) {
+        $total = (int) $results->response->numFound;
+        $start = min(1, $total);
+        $end = min($limit, $total);
+
+        //$html = "<div>Results {$start} - {$end} of {$total}</div>";
+        $html .= "<div id='results'>";
+
+        foreach ($results->response->docs as $doc) {
+            $title = htmlspecialchars($doc->__get('title_s'), ENT_NOQUOTES, 'utf-8');
+            $snippet = substr(htmlspecialchars($doc->__get('fulltext_t'), ENT_NOQUOTES, 'utf-8'), 0, 300);
+            $url = $doc->__get('file_s') . '.html#' . $doc->__get('section_s');
+
+            $html .= "<div class='result'>";
+            $html .= "<h3><a href='{$url}'>{$title}</a></h3>";
+            $html .= "<p class='snippet'>{$snippet}</p>";
+            $html .= "</div>";
+        }
+
+        $html .= '</div>';
+
+    }
+    return $html;
+
+}
+
 ?>
 <!doctype html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -45,100 +76,46 @@ if ($query) {
     <title>The Bibliographical Society of the University of Virginia</title>
     <meta name="description" content="The Bibliographical Society of the University of Virginia Digital Publication Search"/>
     <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/style.css">
     <link rel="stylesheet" href="stylesheets/screen.css">
     <script src="js/vendor/modernizr-2.5.3.min.js"></script>
 </head>
 <body>
-<div id="container">
-    <header>
-        <h1>Bibliographic Society of Virginia</h1>
-        <form accept-charset="utf-8" method="get" class="well form-search">
-            <input type="text" name="q" class="input-xlarge search-query" id="q" results="5" autosave="bsuva_query" placeholder="Search..." value="<?php echo htmlspecialchars($query, ENT_QUOTES, 'utf-8'); ?>" />
-            <button class="btn" type="submit">Search</button>
-                 <!-- <div class="facets control-group">
-                <div class="controls">
-                <input type="checkbox" name="facet" value="all">
-                <label class="checkbox">All</label><br/>
-                <input type="checkbox" name="facet" value="gm2">
-                <label class="checkbox">Gentleman's Magazine</label>
-                <br/>
-                                <input type="checkbox" name="facet" value="euro">
-<label class="checkbox">European Magzine</label>
-
-                <br/>
-                                <input type="checkbox" name="facet" value="quartos">
-<label class="checkbox">Shakespeare Quartos</label>
-
-                </div> -->
-        </form>
+    <header role="banner">
+        <h1><a href=""><img src="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/bsuva-logo.png" alt="Bibliographical Society" /></a></h1>
     </header>
     <div id="content">
 
-    <!-- <div id="masthead">
-        <img src="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/type.jpg">
-    </div>-->
+        <div id="masthead">
+            <img src="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/type.jpg">
+        </div>
 
+        <article>
+            <header><h1>Search Digital Publications</h1></header>
 
-<?php
-
-// display results
-if ($results) {
-    $total = (int) $results->response->numFound;
-    $start = min(1, $total);
-    $end = min($limit, $total);
-    ?>
-    <div>Results <?php echo $start; ?> - <?php echo $end;?> of <?php echo $total; ?>:</div>
-
-    <div id="results">
-        <?php foreach($results->response->docs as $doc): ?>
-            <?php 
-    $title = htmlspecialchars($doc->__get('title_s'), ENT_NOQUOTES, 'utf-8');
-    $snippet = substr(htmlspecialchars($doc->__get('fulltext_t'), ENT_NOQUOTES, 'utf-8'), 0, 300);
-    $url = $doc->__get('file_s') . '.html#' . $doc->__get('section_s');
-            ?>
-            <div class="result">
-                <h2><a href="<?php echo $url;?>"><?php echo $title; ?></a></h2>
-                <div class="snippet">
-                <?php echo $snippet; ?>...
+            <div class="entry-content">
+                <form accept-charset="utf-8" method="get" class="well form-search">
+                    <input type="text" name="q" class="input-xlarge search-query" id="q" results="5" autosave="bsuva_query" placeholder="Search..." value="<?php echo htmlspecialchars($query, ENT_QUOTES, 'utf-8'); ?>" />
+                    <button class="btn" type="submit">Search</button>
+                </form>
+                 <?php
+                    echo displayResults($results);
+                ?>
+                <div class="pager">
+                    <ul>
+                        <li class="previous"><a href="#">&larr; Prev</a></li>
+                        <li class="next"><a href="#">Next &rarr;</a></li>
+                    </ul>
                 </div>
-            </div>
-        <?php endforeach; ?>
-    </div>
-<!--    <ol>
-    <?php
-    // iterate result documents
-    foreach ($results->response->docs as $doc) {
-        ?>
-        <li>
-        <table style="border: 1px solid black; text-align: left">
-        <?php
-        // iterate document fields / values
-        foreach ($doc as $field => $value) {
-            ?>
-            <tr>
-                <th><?php echo htmlspecialchars($field, ENT_NOQUOTES, 'utf-8'); ?></th>
-                <td><?php echo htmlspecialchars($value, ENT_NOQUOTES, 'utf-8'); ?></td>
-            </tr>
-            <?php
-        }
-        ?>
-        </table>
-        </li>
-    <?php
-    }
-    ?>
-    </ol>
-    <?php
-}
-?>-->
-<div class="pager">
-        <ul>
-            <li class="previous"><a href="#">&larr; Prev</a></li>
-            <li class="next"><a href="#">Next &rarr;</a></li>
-        </ul>
-    </div>
 
-</div>
-</div>
-  </body>
+            </div>
+
+            <ul class="page-nav">
+                    <li>Facets</li>
+            </ul>
+
+        </article>
+
+    </div>
+</body>
 </html>
