@@ -10,6 +10,15 @@ task :compile_styles do
   sh "compass compile"
 end
 
+desc 'Generates Solr Add Docs'
+task :solr do
+  Dir['*.xml'].each do |file|
+    f = File.basename(file, '.xml')
+    command = "java -jar ../saxon/saxon9he.jar -o:../add_docs/#{f}.xml -xsl:add_doc.xsl #{file}"
+    sh command
+  end
+end
+
 desc 'Build the HTML site'
 task :build => [:clean, :compile_styles] do
 

@@ -57,10 +57,13 @@
             <field name="id">
                 <xsl:value-of select="generate-id()"/>
             </field>
+            <field name="project_s">Shakespearean Prompt-Books</field>
             <field name="section_s">
                 <xsl:value-of select="@type" />
             </field>
-            <field name="title_s">Collations</field>
+            <field name="title_s">
+                <xsl:value-of select="/TEI.2/teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title" />
+            </field>
             <field name="fulltext_t">
                 <xsl:value-of select="."/>
             </field>
@@ -77,8 +80,9 @@
                 <xsl:value-of select="generate-id()" />
             </field>
             <field name="section_s">front</field>
+            <field name="project_s">Shakespearean Prompt-Books</field>
             <field name="title_s">
-                <xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/title" />
+                <xsl:value-of select="/TEI.2/teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title" />
             </field>
             <field name="fulltext_t">
                 <xsl:value-of select="node()"/>
@@ -96,9 +100,10 @@
             <field name="id">
                 <xsl:value-of select="generate-id()"/>
             </field>
+            <field name="project_s">Shakespearean Prompt-Books</field>
             <field name="section_s">header</field>
             <field name="title_s">
-                <xsl:value-of select="/TEI.2/teiHeader/fileDesc/titleStmt/title" />
+                <xsl:value-of select="/TEI.2/teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title" />
             </field>
             <field name="fulltext_t">
                 <xsl:value-of select="node()"/>
