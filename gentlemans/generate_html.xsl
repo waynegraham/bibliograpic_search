@@ -13,9 +13,9 @@
         <xsl:for-each select="//div1">
             <xsl:variable name="filename" select="concat(@id, '.html')"/>
             <xsl:value-of select="$filename"/>
-            
+
             <xsl:result-document href="{$filename}" format="html">
-                
+
                 <html lang="en">
                     <xsl:call-template name="head">
                         <xsl:with-param name="description" />
@@ -43,11 +43,11 @@
                         <div class="file_navigation">
                             <p>
                             <xsl:for-each select="//div1">
-                            
+
                                 <a href="{@id}.html">
                                     <xsl:value-of select="head/date"/>
                                 </a>&#xA0;
-                            
+
                             </xsl:for-each>
                             </p>
                         </div>
@@ -56,7 +56,7 @@
             </html>
         </xsl:result-document>
     </xsl:template>
-    
+
     <xsl:template name="head">
         <xsl:param name="description"/>
         <xsl:param name="title"/>
@@ -69,7 +69,7 @@
                 </xsl:when>
                 <xsl:otherwise><title>Attributions of Authorship in the Gentleman's Magazine</title></xsl:otherwise>
             </xsl:choose>
-            
+
             <meta name="description" content="{$description}"/>
             <meta name="viewport" content="width=device-width"/>
             <link href="stylesheets/screen.css" media="screen, projection" rel="stylesheet"

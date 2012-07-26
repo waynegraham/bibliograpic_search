@@ -1,13 +1,18 @@
-#1/bin/bash
+#!/bin/bash
 
 CORE='bsuva'
 FILES='*.xml'
-OUTPUT='./add_docs'
+OUTPUT='add_docs'
 BASE="http://sds6.itc.virginia.edu:8080/solr"
+PROD1='http://sds3.itc.virginia.edu:8080/solr'
+PROD2='http://sds4.itc.virginia.edu:8080/solr'
+PROD3='http://sds5.itc.virginia.edu:8080/solr'
 SERVER=$BASE/$CORE/update
 PRODUCTION='quandu_production'
 
-for f in $OUTPUT/$FILES
+mkdir -p $OUTPUT
+
+for f in $FILES
 do
   filename=${f%.*}
   echo "Processing $filename"
@@ -31,8 +36,12 @@ echo Environment: $RAILS_ENV
 
 if [ $RAILS_ENV == $PRODUCTION ]; then
   echo production stuff
+  curl $PROD1/admin/cores -F command=RELOAD -F core=$CORE  
+  curl $PROD2/admin/cores -F command=RELOAD -F core=$CORE  
+  curl $PROD3/admin/cores -F command=RELOAD -F core=$CORE  
 else
   curl $BASE/admin/cores -F command=RELOAD -F core=$CORE
 fi
 
 echo
+

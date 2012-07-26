@@ -3,37 +3,9 @@
 
 //@import "base";
 
-@import "bootstrap/variables";
-@import "bootstrap/mixins";
-@import "bootstrap/reset";
-
-@import "bootstrap/accordion";
-@import "bootstrap/alerts";
-@import "bootstrap/breadcrumbs";
-@import "bootstrap/button-groups";
-@import "bootstrap/buttons";
-@import "bootstrap/close";
-@import "bootstrap/component-animations";
-@import "bootstrap/forms";
-@import "bootstrap/grid";
-@import "bootstrap/hero-unit";
-@import "bootstrap/labels-badges";
-@import "bootstrap/layouts";
-@import "bootstrap/navbar";
-@import "bootstrap/navs";
-@import "bootstrap/pager";
-@import "bootstrap/pagination";
-@import "bootstrap/popovers";
-@import "bootstrap/responsive-navbar";
-@import "bootstrap/responsive-utilities";
-@import "bootstrap/scaffolding";
-@import "bootstrap/sprites";
-@import "bootstrap/tables";
-@import "bootstrap/thumbnails";
-@import "bootstrap/tooltip";
-@import "bootstrap/type";
-@import "bootstrap/utilities";
-@import "bootstrap/wells";
+@import 'bootstrap';
+@import 'responsive';
+@import 'bootstrap/variables';
 
 /* -------------------------------------------------------------------------*/
 /* Layout */
@@ -42,6 +14,7 @@ a {
   color: $linkColor;
   text-decoration: none;
 }
+
 a:hover {
   color: $linkColorHover;
   text-decoration: underline;

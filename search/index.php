@@ -2,7 +2,7 @@
 /* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
 header('Content-Type: text/html; charset=utf-8');
 
-$limit = 10;
+$limit = 100;
 $query = isset($_REQUEST['q']) ? $_REQUEST['q'] : false;
 $results = false;
 
@@ -16,20 +16,18 @@ if ($query) {
     $solr = new Apache_Solr_Service($server, $port, $path);
 
     $additionalParameters = array(
-        'facet' => true,
+        'facet' => 'true',
         'facet.mincount' => 1,
         'facet.limit' => 10,
-        'facet.field' => 'file_s',
-        'hl' => true,
+        'facet.field' => 'project_s',
+        'hl' => 'true',
         'hl.snippets' => 1,
         'hl.fragsize' => '300',
         'hl.fl' => 'fulltext_t'
     );
 
     try {
-
-        $results = $solr->search($query, 0, $limit);
-
+        $results = $solr->search($query, 0, $limit, $additionalParameters);
     } catch (Exception $e) {
         die("<html><head><title>SEARCH EXCEPTION</title><body><pre>{$e->__toString()}</pre></body></html>");
     }
@@ -38,7 +36,7 @@ if ($query) {
 function displayResults($results)
 {
     $html = '';
-    
+
     if ($results) {
         $total = (int) $results->response->numFound;
         $start = min(1, $total);
@@ -61,8 +59,26 @@ function displayResults($results)
         $html .= '</div>';
 
     }
+
     return $html;
 
+}
+
+function displayFacets($results)
+{
+    $html = '<ul class="page-nav">';
+
+    foreach ((array)$results->facet_counts->facet_fields as $facet => $values) {
+
+        foreach ($values as $label => $count) {
+            $html .= '<li><a href="">' . $label . '</a></li>';
+        }
+
+    }
+
+    $html .= '</ul>';
+
+    return $html;
 }
 
 ?>
@@ -76,8 +92,8 @@ function displayResults($results)
     <title>The Bibliographical Society of the University of Virginia</title>
     <meta name="description" content="The Bibliographical Society of the University of Virginia Digital Publication Search"/>
     <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/style.css">
     <link rel="stylesheet" href="stylesheets/screen.css">
+    <link rel="stylesheet" href="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/style.css">
     <script src="js/vendor/modernizr-2.5.3.min.js"></script>
 </head>
 <body>
@@ -87,7 +103,7 @@ function displayResults($results)
     <div id="content">
 
         <div id="masthead">
-            <img src="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/type.jpg">
+            <img alt="masthead" src="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/type.jpg">
         </div>
 
         <article>
@@ -95,7 +111,7 @@ function displayResults($results)
 
             <div class="entry-content">
                 <form accept-charset="utf-8" method="get" class="well form-search">
-                    <input type="text" name="q" class="input-xlarge search-query" id="q" results="5" autosave="bsuva_query" placeholder="Search..." value="<?php echo htmlspecialchars($query, ENT_QUOTES, 'utf-8'); ?>" />
+                    <input type="text" name="q" class="input-xlarge search-query" id="q" placeholder="Search..." value="<?php echo htmlspecialchars($query, ENT_QUOTES, 'utf-8'); ?>" />
                     <button class="btn" type="submit">Search</button>
                 </form>
                  <?php
@@ -110,12 +126,12 @@ function displayResults($results)
 
             </div>
 
-            <ul class="page-nav">
-                    <li>Facets</li>
-            </ul>
 
         </article>
-
+        <div id="sidebar">
+            <h3>Limit Search</h3>
+            <?php echo displayFacets($results); ?>
+        </div>
     </div>
 </body>
 </html>

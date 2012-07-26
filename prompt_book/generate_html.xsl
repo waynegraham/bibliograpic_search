@@ -25,11 +25,31 @@
                     <title><xsl:value-of select="$title"/></title>
                     <meta name="description" content="{$description}"/>
                     <meta name="viewport" content="width=device-width"/>
-                    <link rel="stylesheet" href="../stylesheets/screen.css"/>
+                    <link rel="stylesheet" href="stylesheets/screen.css"/>
                     <script src="javascripts/modernizr-2.5.3.min.js"></script>
                 </head>
                 <body>
-                    
+                    <header role="banner">
+                        <h1>
+                            <a href="#">
+                                <img src="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/bsuva-logo.png" alt="Bibliographic Society"/>
+                            </a>
+                        </h1>
+                        <div class="menu-header">
+                            <ul id="menu-main-menu" class="menu">
+                                <li><a href="">Home</a></li>
+                                <li><a href="">About</a></li>
+                                <li><a href="">Joining</a></li>
+                                <li><a href="">Publications</a></li>
+                                <li><a href="">Archives</a></li>
+                            </ul>
+                        </div>
+                    </header>
+                    <div id="content">
+                        <div id="masthead">
+                            <img src="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/type.jpg"/>
+                        </div>
+                    </div>
                     <div class="navbar navbar-fixed-top row">
                         <div class="navbar-inner">
                             <div class="container-fluid">
@@ -50,8 +70,20 @@
                             <ul class="nav nav-list">
                             <xsl:for-each select="//div0">
                                 <li class="nav-header"><xsl:value-of select="@type"/></li>
-                                <!-- <li><a href="#{@type}"><xsl:value-of select="head"/></a></li> -->
-                                <xsl:call-template name="page-navigation" />
+                                <xsl:choose>
+                                    <xsl:when test="@type = 'introduction'">
+                                        <li><a href="#{@type}"><xsl:value-of select="head"/></a></li>
+                                    </xsl:when>
+                                    <xsl:when test="@type = 'preface'">
+                                        <li><a href="#{@type}"><xsl:value-of select="head"/></a></li>
+                                    </xsl:when>
+                                    <xsl:when test="@type = 'notes'">
+                                        <li><a href="#{@type}"><xsl:value-of select="head"/></a></li>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:call-template name="page-navigation" />
+                                    </xsl:otherwise>
+                                </xsl:choose>                                
                             </xsl:for-each>
                             </ul>
                         </div>
@@ -64,9 +96,9 @@
                     <footer>
                         (c)
                     </footer>
+                    <script src="http://platform.twitter.com/widgets.js"></script>
                     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-                    <script src="javascripts/bootstrap-tooltip.js"></script>
-                    <script src="javascripts/bootstrap-popover.js"></script>
+                    <script src="javascripts/bootstrap.min.js"></script>
                     <script src="javascripts/plugin.js"></script>
                 </body>
             </html>
@@ -99,13 +131,16 @@
     </xsl:template>
     
     <xsl:template match="head">
-        <h1><xsl:apply-templates /></h1>
+ 
         <xsl:choose>
-            <xsl:when test="parent::node() = 'div1'">
-                <h1 id="u"><xsl:apply-templates /></h1>
+            <xsl:when test="parent::div0">
+                <h1 id="{parent::div0[@type]}"><xsl:apply-templates /></h1>
             </xsl:when>
-            <xsl:when test="parent::node() = 'div2'">
-                <h2><xsl:apply-templates /></h2>
+            <xsl:when test="parent::div1">
+                <h2 id="div1_{parent::div1[@type]}"><xsl:apply-templates /></h2>
+            </xsl:when>
+            <xsl:when test="parent::div2">
+                <h3 id="div_{parent::div2[@n]}"><xsl:apply-templates /></h3>
             </xsl:when>
         </xsl:choose>
         
@@ -124,13 +159,30 @@
     </xsl:template>
     
     <xsl:template name="page-navigation">
+        
         <xsl:for-each select="div1">
-            <li><a href="#div1_{@type}" class="nav-heading"><xsl:value-of select="@type" /></a></li>
+            <xsl:for-each select="div2">
+                <li><a href="#div2_{@n}" class="nav-heading">Act <xsl:value-of select="head" /></a></li>
+            </xsl:for-each>
         </xsl:for-each>
     </xsl:template>
     
     <xsl:template match="xref">
-        <a id="{@doc}" class="fragment" data-fragment="{@doc}" href="../images/{@doc}.jpg"><xsl:apply-templates /></a>
+        
+        <div class="modal hide fade" id="{@doc}">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">x</button>
+                <h3>Original</h3>
+            </div>
+            <div class="modal-body">
+                <img src="images/{@doc}.jpg" />
+            </div>
+            <div class="modal-footer">
+                <a href="#" class="btn">close</a>
+            </div>
+        </div>
+        
+        <a class="fragment" data-toggle="{@doc}" href="#{@doc}"><xsl:apply-templates /></a>
     </xsl:template>
     
     <xsl:template match="list">
@@ -142,7 +194,9 @@
     </xsl:template>
     
     <xsl:template match="figure">
-        <img src="../images/{@entity}.gif" alt="{figDesc}" />
+        <a href="images/{@entity}.jpg">
+            <img src="images/{@entity}.gif" alt="{figDesc}" />
+        </a>
     </xsl:template>
     
     <xsl:template match="note">
