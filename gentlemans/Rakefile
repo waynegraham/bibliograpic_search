@@ -1,0 +1,75 @@
+task :default => :build
+
+desc 'Clean up generated files'
+task :clean do
+  cleanup
+end
+
+desc 'Compiles the stylesheets'
+task :compile_styles do
+  sh "compass compile"
+end
+
+desc 'Generates Solr Add Docs'
+task :solr do
+  Dir['*.xml'].each do |file|
+    f = File.basename(file, '.xml')
+    command = "java -jar ../saxon/saxon9he.jar -o:../add_docs/#{f}.xml -xsl:solr_docs.xsl #{file}"
+    sh command
+  end
+end
+
+desc 'Build the HTML site'
+task :build => [:clean, :compile_styles] do
+
+  setup
+
+  Dir["*.xml"].each do |file|
+    f = File.basename(file, '.xml')
+    command = "java -jar ../saxon/saxon9he.jar -o:_site/#{f}.html -xsl:generate_html.xsl #{file}"
+    sh command
+  end
+
+  end
+
+def jpegtran(directory, opts = "")
+  begin
+    command = "jpegtran -copy non -optimize -verbose"
+    command += opts
+
+    Dir["#{directory}/*.jpg"].each do |file|
+      sh command + " -outfile " + file + " " + file
+    end
+  rescue
+    puts "Install jpegtran: brew install jpegtran"
+  end
+end
+
+def optipng(directory, opts = "")
+  begin
+    Dir["#{directory}/*.png"].each do |image|
+      FileUtils.rm(image)
+    end
+
+    command = "optipng -dir #{directory} -o7 -q "
+    command += opts
+
+    Dir["images/*.png"].each do |image|
+      sh command + image
+    end
+  rescue
+    puts "Install optipng: brew install optipng"
+  end
+end
+
+
+def setup
+  FileUtils.mkdir_p('_site')
+  FileUtils.cp_r 'stylesheets', '_site/stylesheets'
+  FileUtils.cp_r 'javascripts', '_site/javascripts'
+  FileUtils.cp_r 'images', '_site/images'
+end
+
+def cleanup
+  FileUtils.rm_rf('_site')
+end
