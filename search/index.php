@@ -15,6 +15,12 @@ if ($query) {
 
     $solr = new Apache_Solr_Service($server, $port, $path);
 
+    $fq = '';
+
+    if (isset($_GET['fq'])) {
+        $fq = htmlspecialchars($_GET['fq']);
+    }
+
     $additionalParameters = array(
         'facet' => 'true',
         'facet.mincount' => 1,
@@ -23,7 +29,8 @@ if ($query) {
         'hl' => 'true',
         'hl.snippets' => 1,
         'hl.fragsize' => '300',
-        'hl.fl' => 'fulltext_t'
+        'hl.fl' => 'fulltext_t',
+        'fq' => $fq
     );
 
     try {
@@ -48,7 +55,9 @@ function displayResults($results)
         foreach ($results->response->docs as $doc) {
             $title = htmlspecialchars($doc->__get('title_s'), ENT_NOQUOTES, 'utf-8');
             $snippet = substr(htmlspecialchars($doc->__get('fulltext_t'), ENT_NOQUOTES, 'utf-8'), 0, 300);
-            $url = $doc->__get('file_s') . '.html#' . $doc->__get('section_s');
+
+            $url = $doc->__get('slug_s');
+            $url .= $doc->__get('file_s') . '.html#' . $doc->__get('section_s');
 
             $html .= "<div class='result'>";
             $html .= "<h3><a href='{$url}'>{$title}</a></h3>";
@@ -71,7 +80,8 @@ function displayFacets($results)
     foreach ((array)$results->facet_counts->facet_fields as $facet => $values) {
 
         foreach ($values as $label => $count) {
-            $html .= '<li><a href="">' . $label . '</a></li>';
+            $facet = $_GET['q'] . '&fq=' . htmlspecialchars($label);
+            $html .= '<li><a href="?q='. $facet .'">' . $label . ' (' . $count . ')</a></li>';
         }
 
     }
@@ -80,6 +90,33 @@ function displayFacets($results)
 
     return $html;
 }
+
+function getParams(
+        $req=null, $qParam='q', $facetParam='solrfacet', $other=null
+    ) {
+        if ($req === null) {
+            $req = $_REQUEST;
+        }
+        $params = array();
+
+        if (isset($req[$qParam])) {
+            $params['q'] = $req[$qParam];
+        }
+
+        if (isset($req[$facetParam])) {
+            $params['facet'] = $req[$facetParam];
+        }
+
+        if ($other !== null) {
+            foreach ($other as $key) {
+                if (array_key_exists($key, $req)) {
+                    $params[$key] = $req[$key];
+                }
+            }
+        }
+
+        return $params;
+    }
 
 ?>
 <!doctype html>
