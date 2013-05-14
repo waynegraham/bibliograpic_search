@@ -25,7 +25,6 @@ do
 
   echo Optimizing
   curl $SERVER --data-binary '<optimize/>' -H 'Content-type:text/xml; charset=utf-8'
-
 done
 
 if [ -z $RAILS_ENV ]; then

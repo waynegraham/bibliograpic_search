@@ -1,58 +1,58 @@
 <?php
-/* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
+
 header('Content-Type: text/html; charset=utf-8');
 
 $limit = 100;
 $query = isset($_REQUEST['q']) ? $_REQUEST['q'] : false;
 $results = false;
 
-$server = 'sds6.itc.virginia.edu';
-$port = 8080;
-$path = '/solr/bsuva';
+// $server = 'sds6.itc.virginia.edu';
+// $port = 8080;
+// $path = '/solr/bsuva';
+
+$server = 'localhost';
+$port = 8983;
+$path = '/solr';
 
 if ($query) {
-    include_once 'lib/Service.php';
 
+    include_once 'lib/Service.php';
     $solr = new Apache_Solr_Service($server, $port, $path);
 
-    $fq = '';
+    // If a facet has been selected, add it to the query.
+    $fq = isset($_GET['fq']) ? htmlspecialchars($_GET['fq']) : '';
 
-    if (isset($_GET['fq'])) {
-        $fq = htmlspecialchars($_GET['fq']);
-    }
+    // Execute query.
+    $results = $solr->search($query, 0, $limit, array(
+        'facet'             => 'true',
+        'facet.mincount'    => 1,
+        'facet.limit'       => 10,
+        'facet.field'       => 'project_s',
+        'hl'                => 'true',
+        'hl.snippets'       => 1,
+        'hl.fragsize'       => '300',
+        'hl.fl'             => 'fulltext_t',
+        'fq'                => $fq
+    ));
 
-    $additionalParameters = array(
-        'facet' => 'true',
-        'facet.mincount' => 1,
-        'facet.limit' => 10,
-        'facet.field' => 'project_s',
-        'hl' => 'true',
-        'hl.snippets' => 1,
-        'hl.fragsize' => '300',
-        'hl.fl' => 'fulltext_t',
-        'fq' => $fq
-    );
-
-    try {
-        $results = $solr->search($query, 0, $limit, $additionalParameters);
-    } catch (Exception $e) {
-        die("<html><head><title>SEARCH EXCEPTION</title><body><pre>{$e->__toString()}</pre></body></html>");
-    }
 }
 
 function displayResults($results)
 {
+
+    global $limit;
     $html = '';
 
     if ($results) {
+
         $total = (int) $results->response->numFound;
         $start = min(1, $total);
         $end = min($limit, $total);
 
-        //$html = "<div>Results {$start} - {$end} of {$total}</div>";
-        $html .= "<div id='results'>";
+        $html = "<div>Results {$start} - {$end} of {$total}</div>";
 
         foreach ($results->response->docs as $doc) {
+
             $title = htmlspecialchars($doc->__get('title_s'), ENT_NOQUOTES, 'utf-8');
             $snippet = substr(htmlspecialchars($doc->__get('fulltext_t'), ENT_NOQUOTES, 'utf-8'), 0, 300);
 

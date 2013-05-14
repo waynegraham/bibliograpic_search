@@ -3,11 +3,13 @@
 CORE='bsuva'
 FILES='*.xml'
 OUTPUT='./'
-BASE="http://sds6.itc.virginia.edu:8080/solr"
+# BASE="http://localhost:8983/solr"
+BASE="http://localhost:8983/solr"
 PROD1='http://sds3.itc.virginia.edu:8080/solr'
 PROD2='http://sds4.itc.virginia.edu:8080/solr'
 PROD3='http://sds5.itc.virginia.edu:8080/solr'
-SERVER=$BASE/$CORE/update
+# SERVER=$BASE/$CORE/update
+SERVER=$BASE/update
 PRODUCTION='quandu_production'
 
 mkdir -p $OUTPUT
@@ -35,10 +37,9 @@ fi
 echo Environment: $RAILS_ENV
 
 if [ $RAILS_ENV == $PRODUCTION ]; then
-  echo production stuff
-  curl $PROD1/admin/cores -F command=RELOAD -F core=$CORE  
-  curl $PROD2/admin/cores -F command=RELOAD -F core=$CORE  
-  curl $PROD3/admin/cores -F command=RELOAD -F core=$CORE  
+  curl $PROD1/admin/cores -F command=RELOAD -F core=$CORE
+  curl $PROD2/admin/cores -F command=RELOAD -F core=$CORE
+  curl $PROD3/admin/cores -F command=RELOAD -F core=$CORE
 else
   curl $BASE/admin/cores -F command=RELOAD -F core=$CORE
 fi
