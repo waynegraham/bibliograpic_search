@@ -3,11 +3,13 @@
 CORE='bsuva'
 FILES='*.xml'
 OUTPUT='./'
+# TODO|localhost
 # BASE="http://localhost:8983/solr"
 BASE="http://localhost:8983/solr"
 PROD1='http://sds3.itc.virginia.edu:8080/solr'
 PROD2='http://sds4.itc.virginia.edu:8080/solr'
 PROD3='http://sds5.itc.virginia.edu:8080/solr'
+# TODO|localhost
 # SERVER=$BASE/$CORE/update
 SERVER=$BASE/update
 PRODUCTION='quandu_production'
