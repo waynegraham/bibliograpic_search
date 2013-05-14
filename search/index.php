@@ -33,7 +33,7 @@ if ($query) {
     );
 
     if (isset($_REQUEST['fq'])) {
-        $additionalParameters['fq'] = 'facet_title:"' . $_REQUEST['fq'] .'"';
+        $additionalParameters['fq'] = $_REQUEST['fq'];
     }
 
     if (isset($_REQUEST['start'])) {
@@ -146,6 +146,10 @@ function previousLink($start, $rows)
     <script src="js/vendor/modernizr-2.5.3.min.js"></script>
 </head>
 <body>
+
+    <header role="banner">
+        <h1><a href=""><img src="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/bsuva-logo.png" alt="Bibliographical Society" /></a></h1>
+    </header>
 
     <div id="content">
 
