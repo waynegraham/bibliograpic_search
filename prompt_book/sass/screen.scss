@@ -4,11 +4,69 @@
 //@import "base";
 
 @import 'bootstrap';
-@import 'responsive';
 @import 'bootstrap/variables';
+@import 'responsive';
+
 
 /* -------------------------------------------------------------------------*/
 /* Layout */
+
+html {
+  background-color: #f0f0e0;
+  background-image:
+  url('http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/linotype.png');
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+body {
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  margin: 60px auto;
+  max-width: 960px;
+}
+
+#content {
+  padding: 1.5em 3em 3em;
+}
+
+.container{
+
+  width: auto;
+  font: 14px "Helvetica Neue", Helvetica, Arial, "Franklin Gothic Book", "Franklin Gothic", "Trebuchet MS", Verdana, sans-serif;
+  line-height: 20px;
+  color: #444;
+
+  .masthead {
+    height: 100px;
+    overflow: hidden;
+  }
+
+  .super {
+    vertical-align: super;
+    font-size: small;
+  }
+
+  .sidebar-nav {
+    margin: 30px 30px 30px 0;
+  }
+
+  h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+    font-family: Garamond, "Adobe Garamond Pro", Georgia, Times, "Times New Roman", serif;
+    margin: 10px;
+  }
+
+  .div2 {
+    h1 {
+      text-align: center;
+    }
+  }
+
+}
+
+
+/* -------------------------------------------------------------------------*/
+/* Links */
 
 a {
   color: $linkColor;
@@ -18,32 +76,4 @@ a {
 a:hover {
   color: $linkColorHover;
   text-decoration: underline;
-}
-
-
-#container {
-
-  margin-top: 85px;
- // @include container;
-  //@include susy-grid-background;
-
-  .super {
-    vertical-align: super;
-    font-size: small;
-  }
-
-  h1,h2,h3,h4,h5,h6 {
-    text-align: center;
-    font-family: Garamond, "Adobe Garamond Pro", Georgia, Times, "Times New Roman", serif;
-  }
-
-  font: 90%/1.4 "Helvetica Neue", Helvetica, Arial, "Franklin Gothic Book", "Franklin Gothic", "Trebuchet MS", Verdana, sans-serif;
-  color: #444;
-
-  .div2 {
-    h1 {
-      text-align: center;
-    }
-  }
-
 }

@@ -30,7 +30,7 @@
         <doc>
           <field name="id"><xsl:value-of select="generate-id()"/></field>
           <field name="project_s">Attributions of Authorship in the Gentleman's Magazine</field>
-          <field name="slug_s">/bsuva/gm/</field>
+          <field name="slug_s">/bsuva/gm3/</field>
           <field name="title_s"><xsl:value-of select="../../../head"/></field>
             <field name="section_s"><xsl:value-of select="position()"/></field>
             <field name="fulltext_t"><xsl:value-of select="node()"/></field>

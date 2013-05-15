@@ -20,15 +20,15 @@ task :solr do
 end
 
 desc 'Build the HTML site'
-task :build => [:clean, :compile_styles] do
+# task :build => [:clean, :compile_styles] do
+task :build => [:clean] do
 
   setup
 
   Dir["*.xml"].each do |file|
     #TODO get file basename
     f = File.basename(file, '.xml')
-    command = "java -jar ../saxon/saxon9he.jar -o:_site/#{f}.html -xsl:generate_html.xsl #{file}"
-    sh command
+    sh "java -jar ../saxon/saxon9he.jar -o:_site/#{f}.html -xsl:generate_html.xsl #{file}"
   end
 
   end
@@ -64,10 +64,11 @@ def optipng(directory, opts = "")
 end
 
 def setup
+  sh "compass compile"
   FileUtils.mkdir_p('_site')
   FileUtils.cp_r 'stylesheets', '_site/stylesheets'
   FileUtils.cp_r 'javascripts', '_site/javascripts'
-  FileUtils.cp_r 'images', '_site/images'
+  # FileUtils.cp_r 'images', '_site/images'
 end
 
 def cleanup
