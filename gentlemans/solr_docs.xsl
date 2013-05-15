@@ -34,7 +34,7 @@
           <field name="title_s"><xsl:value-of select="../../../head"/></field>
             <field name="section_s"><xsl:value-of select="position()"/></field>
             <field name="fulltext_t"><xsl:value-of select="node()"/></field>
-            <field name="file_s"><xsl:value-of select="concat($filename, '.html#', $id)" /></field>
+            <field name="file_s"><xsl:value-of select="$filename" /></field>
         </doc>
     </xsl:template>
 </xsl:stylesheet>

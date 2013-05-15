@@ -9,7 +9,7 @@ def processHTML(file_path)
 end
 
 def generate_id
-  o =  [('a'..'z'),('A'..'Z')].map{|i| i.to_a}.flatten;  
+  o =  [('a'..'z'),('A'..'Z')].map{|i| i.to_a}.flatten;
   string  =  (0..8).map{ o[rand(o.length)]  }.join;
   return string
 end
@@ -23,7 +23,6 @@ Dir['*.html'].each do |file|
 
   xml += "<doc>"
   basename = File.basename(file, '.html')
-  #puts "Processing #{basename}..."
 
   f = File.open(file)
   html = Nokogiri::HTML(f)
@@ -31,9 +30,8 @@ Dir['*.html'].each do |file|
 
   id = generate_id
   xml += "<field name='id'>#{id}</field>"
-  xml += "<field name='project_s'>Attributions of Authorship in the 
-European Magazine</field>"
-xml += "<field name='slug_s'>/bsuva/euromag/</field>"
+  # xml += "<field name='project_s'>Attributions of Authorship in the European Magazine</field>"
+  xml += "<field name='slug_s'>/bsuva/euromag/</field>"
 
   title = html.title
   xml += "<field name='title_s'>#{title}</field>"
@@ -47,7 +45,7 @@ xml += "<field name='slug_s'>/bsuva/euromag/</field>"
   body = html.xpath('//text()').remove
   #body.text.gsub('&nbsp;', '')
   #body = Nokogiri::XML::DocumentFragment.parse(html.css('body'))
-  
+
   xml += "<field name='fulltext_t'>#{body.to_xml}</field>"
 
   xml += '</doc>'

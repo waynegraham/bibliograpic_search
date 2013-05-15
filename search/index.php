@@ -45,6 +45,7 @@ if ($query) {
     } catch (Exception $e) {
         die("<html><head><title>SEARCH EXCEPTION</title><body><pre>{$e->__toString()}</pre></body></html>");
     }
+
 }
 
 function displayResults($results, $start, $rows)
@@ -53,6 +54,7 @@ function displayResults($results, $start, $rows)
     $html = '';
 
     if ($results) {
+
         $total = (int) $results->response->numFound;
         $start = min($start+1, $total);
         $end = min($start+$rows-1, $total);
@@ -61,15 +63,18 @@ function displayResults($results, $start, $rows)
         $html .= "<div id='results'>";
 
         foreach ($results->response->docs as $doc) {
+
             $title = htmlspecialchars($doc->__get('title_s'), ENT_NOQUOTES, 'utf-8');
             $id = $doc->__get('id');
             $snippet = $results->highlighting->$id->fulltext_t[0];
-            $url = $doc->__get('file_s').'.html#'.$doc->__get('section_s');
+            $url = 'http://bsuva-epubs.org'.$doc->__get('slug_s');
+            $url .= $doc->__get('file_s').'.html#'.$doc->__get('section_s');
 
             $html .= "<div class='result'>";
             $html .= "<h3><a href='{$url}'>{$title}</a></h3>";
             $html .= "<p class='snippet'>{$snippet}</p>";
             $html .= "</div>";
+
         }
 
         $html .= '</div>';

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth
                                                   century, vol. 8  </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 8
                                         (Henry VIII) [a machine-readable transcription] Shakespeare, William Creation of machine-readable version: Electronic Text Center, University of Virginia Creation of digital images: Electronic Text Center, University of Virginia Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center.
                                         75 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographic Society, ShaHe8P Publicly-accessible URL:
@@ -16,7 +16,7 @@
                                         versions for general use, and thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme
                                         to aid in establishing analytical groupings. Library of Congress Subject Headings  1960-1996 English drama; prose LCSH 24-bit color; 400 dpi  May 1997 corrector Michele Ierardi, Electronic Text Center Corrected transcription errors; corrected an error in the
                                         print text: note 7 of the introduction: ed Montague] ed.
-                                        Montague. May 1997 corrector Michele Ierardi, Electronic Text Center Added TEI header </field><field name="file_s">ShaHe8P</field></doc><doc><field name="id">d1e138</field><field name="section_s">front</field><field name="project_s">Shakespearean Prompt-Books</field><field name="title_s">Shakespearean prompt-books of the seventeenth
+                                        Montague. May 1997 corrector Michele Ierardi, Electronic Text Center Added TEI header </field><field name="file_s">ShaHe8P</field></doc><doc><field name="id">d1e138</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth
                                                   century, vol. 8  </field><field name="fulltext_t">Image of the spine: Shakespearean
                                                   Prompt-Books, Vol. VIIIImage of the cover, part 1: Shakespearean
                                                   Prompt-Books, Vol. VIII: Ki! Henry VIII, The Merry
@@ -28,7 +28,7 @@
                                                   SHAKESPEAREAN PROMPT-BOOKS
                                                  of the SEVENTEENTH CENTURY  Vol. VIII King Lear, Henry
                                                   VIII,The Merry Wives of WindsorTwelfth Night, The Comedy of ErrorsThe Winter's TaleEdited byG. Blakemore Evans A Publication ofThe Bibliographical Society of the University of
-                                        Virginia Charlottesville1996 </field><field name="file_s">ShaHe8P</field></doc><doc><field name="id">d1e192</field><field name="project_s">Shakespearean Prompt-Books</field><field name="slug_s">/bsuva/promptbook/</field><field name="section_s">introduction</field><field name="title_s"> Smock Alley Henry VIII Third Folio
+                                        Virginia Charlottesville1996 </field><field name="file_s">ShaHe8P</field></doc><doc><field name="id">d1e192</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">introduction</field><field name="title_s"> Smock Alley Henry VIII Third Folio
                                         Introduction </field><field name="fulltext_t"> Smock Alley Henry VIII Third Folio
                                         Introduction  TERMINAL dates for the Smock Alley Henry VIII
                                         prompt-book (PB) may be set with some confidence as between
