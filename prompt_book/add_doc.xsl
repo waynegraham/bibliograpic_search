@@ -18,7 +18,7 @@
             </xsl:apply-templates> 
             <xsl:apply-templates select="TEI.2/text/body/div0" >
                 <xsl:with-param name="filename" select="$filename"/>
-            </xsl:apply-templates>  
+            </xsl:apply-templates>
         </add>
 
     </xsl:template>

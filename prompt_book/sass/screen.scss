@@ -36,6 +36,14 @@ body {
   line-height: 20px;
   color: #444;
 
+  header {
+    background-color: rgba(15,35,65,0.8);
+    font: 2em Garamond;
+    font-weight: bold;
+    color: white;
+    padding: 1em;
+  }
+
   .masthead {
     height: 100px;
     overflow: hidden;

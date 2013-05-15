@@ -31,6 +31,8 @@
 
                     <div class="container">
 
+                        <header role="banner">Shakespearean Prompt-Books</header>
+
                         <div class="masthead">
                             <img src="http://bsuva-epubs.org/wordpress/wp-content/themes/bsuva/images/type.jpg"/>
                         </div>
