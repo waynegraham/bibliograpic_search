@@ -66,7 +66,8 @@
                           </div>
 
                           <script src="http://platform.twitter.com/widgets.js"></script>
-                          <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+                          <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+                          <script src="javascripts/jquery.lightbox.min.js"></script>
                           <script src="javascripts/bootstrap.min.js"></script>
                           <script src="javascripts/plugin.js"></script>
 
@@ -116,7 +117,7 @@
     </xsl:template>
 
     <xsl:template match="xref">
-
+        <!--
         <div class="modal hide fade" id="{@doc}">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">x</button>
@@ -128,9 +129,9 @@
             <div class="modal-footer">
                 <a href="#" class="btn">close</a>
             </div>
-        </div>
+        </div> -->
 
-        <a class="fragment" data-toggle="{@doc}" href="#{@doc}"><xsl:apply-templates /></a>
+        <a class="fragment" data-toggle="{@doc}" href="images/{@doc}.jpg"><xsl:apply-templates /></a>
     </xsl:template>
 
     <xsl:template match="list">

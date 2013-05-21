@@ -15,14 +15,5 @@ if (!(window.console && console.log)) {
 
 
 $(function() {
-  //$('#com3269').modal();
- // $('.fragment').click(function(event) {
-   //event.preventDefault();
-
-    //$(this).popover({
-      //title: 'title',
-      //content: $(this).attr('href')
-    //});
- // });
-
+  $('a.fragment').lightbox();
 });
