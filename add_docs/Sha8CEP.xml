@@ -1,110 +1,230 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 8 (The Comedy of Errors) [a
-     machine-readable transcription] Shakespeare, William Creation of machine-readable version: Electronic Text Center, University of Virginia Creation of digital images: Electronic Text Center, University of Virginia Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. 55 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographic Society, Sha8CEP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1997 Shakespearean prompt-books of the seventeenth centuryThe electronic text contains the Introduction and the Collations. The selected pages of
-     the Prompt-Book included in this Volume have been rendered as images. Shakespearean prompt-books of the seventeenth century, vol. 8 William Shakespeare Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype facsimile. Bibliographical Society of the University of Virginia Charlottesville, VA 1996 Sha8CEP Shakespearean prompt-books of the seventeenth century In Memoriam Fredson T. Bowers  Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has
-     been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general use, and
-     thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in establishing
-     analytical groupings. Library of Congress Subject Headings  1960-1996 English drama; prose LCSH 24-bit color; 400 dpi  July 1997 corrector Catherine Tousignant, Electronic Text Center Corrected transcriptional errors. May 1997 corrector Michele Ierardi, Electronic Text Center Added TEI header </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e139</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t">Image of the spine: Shakespearean Prompt-Books, Vol. VIIIImage of the cover, part 1: Shakespearean Prompt-Books, Vol. VIII: Ki! Henry VIII,
-       The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The Winter's TaleImage of the titlepage, part 1: Shakespearean Prompt-Books, Vol. VIII: King Lear,
-       Henry VIII, The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The Winter's
-       Tale  SHAKESPEAREAN PROMPT-BOOKS  of the SEVENTEENTH CENTURY  Vol. VIII King Lear, Henry VIII,The Merry Wives of WindsorTwelfth Night, The Comedy of ErrorsThe Winter's TaleEdited byG. Blakemore Evans A Publication ofThe Bibliographical Society of the University of Virginia
-      Charlottesville1996 </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e193</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">introduction</field><field name="title_s"> Smock Alley The Comedy of ErrorsThird Folio  Introduction </field><field name="fulltext_t"> Smock Alley The Comedy of ErrorsThird Folio  Introduction  THE Smock Alley Comedy of Errors, like the Smock Alley Midsummer Night's
-      Dream and The Winter's Tale, strictly considered, is not a prompt-book. It
-     contains no scene settings, actors' names, advance character calls, calls for stage properties
-     or sound effects, and act notations.[1] What it offers is a text of
-     the play as it appears in the Third Folio (1663/ 64) fairly heavily cut for acting, possibly,
-     as R. C. Bald has suggested, to be presented as an afterpiece.[2] If we accept Bald's suggestion, the Errors PB should most probably be dated sometime
-     after 1700, since before that date afterpieces were rarely included as part of an evening at
-     the theatre.[3] Though considerably cut the Errors PB is
-     still somewhat  too long (about 1,215 lines) for the average
-      afterpiece,[4] and such external and internal evidence as the
-     prompt-book affords, admittedly slender, suggests that it was probably prepared at Smock Alley
-     sometime before 1700. It was, we know, part of the same copy of the Third Folio in which the
-     seventeenth-century Smock Alley prompt-books were prepared before that volume was finally
-     broken up by Halliwell-Phillipps around the middle of the nineteenth century.[5] This common provenience, though suggestive, proves nothing, of course, so far as
-     dating is concerned. Internal evidence in the Errors PB depends entirely on an
-     analysis of the revising hands responsible for the cutting.  The Errors PB contains one main revising hand (Hand I). Hand I is responsible, I
-     believe, for most of the cutting, a few changes in the Folio stage directions, all but possibly
-     three of the linking bits of added dialogue, and probably the greater number of the single word
-     substitutions. So far as I am able to judge, Hand I occurs nowhere else in the Smock Alley
-     prompt-books and so offers no relatively datable link with other Smock Alley prompt-hands. What
-     appears to be a second hand (Hand II) is found most clearly in a number of 'stet' notations
-     (see I.i.99-109; III.i.86-106; III.ii.33-40; V.i.52-54, 58, 61), notations that are noticeably
-     and consistently different from Hand I's 'stet' notations.[6] Besides
-     restoring some of Hand I's cuts, Hand II is probably responsible for some of the single word
-     substitutions and perhaps for three of the linking tags (see I.i.65-78, 88-95; III.i.108-114).
-     Hand II may be the same as Hand II in the Smock Alley Henry VIII (see 'stet' at
-     I.iv.37-38; II.ii.97-107; II.iv.38), a hand that also appears in the Smock Alley Lear
-     (Hand II) and perhaps as Hand V in the Smock Alley Hamlet.  Whether, however, Hand II's work as a whole, apart from
-     the use of 'stet', in Errors and Henry VIII, is indeed by the same hand, it
-     is, I think, nearly certain that at least the 'stet' notations, associated above with Hand II
-     in both plays, are by the same hand, in themselves representing possibly a third hand common to
-     both prompt-books. This 'stet' link, then, between Errors and Henry VIII,
-     since the Henry VIII PB can be dated as not later than 1682,[7] suggests (though does not prove) a seventeenth-century provenience for the Smock
-     Alley Errors.  Already the shortest of Shakespeare's plays (1,753 lines),[8] the
-     Third Folio text of Errors has been cut by about 538 lines (a figure including
-     half-lines), leaving a play of about 1,215 lines. The principal cuts (of 10 lines or more) are:
-     I.i.65-78; II.i.8-42, 88-111; II.ii.26-40, 65-111, 32-148, 172-182; III.i.87- 97; III.ii.45-58,
-     159-169; IV.iii.16-35; V.i.75-84, 92-108, 138-154, 231-253, 397-406. Adriana's role is
-     proportionately the most heavily cut, and the character of Balthazar has been omitted, his
-     lines, when uncut, being spoken by Angelo. In addition to his omission of Balthazar, Hand I
-     makes two other, apparently quite senseless, rearrangements. The first occurs in III.ii, where
-     Hand I decides to make Antipholus of Syracuse exit with Luciana at line 70, thus clearing the
-      stage.[9] He then begins a new scene and, following line 70, brings
-     Dromio of Syracuse and Antipholus of Ephesus on together, these two carrying on the dialogue
-     describing Luce the kitchen maid through line 151, at which point, realizing that only
-     Antipholus of Syracuse could take part in the following exchange with Dromio of Syracuse, he
-     exits Antipholus of Ephesus, after a new two-line speech (only partly legible), and enters
-     Antipholus of Syracuse. As a result of this rearrangement, Dromio of Syracuse's farcically
-     exaggerated description of Luce loses all point when addressed to Antipholus of Ephesus, who,
-     as her master, must already know her. The second alteration is much slighter but equally
-     difficult to understand. Near the end of V.i, at line 414, the first two lines of Dromio of
-     Syracuse's speech are assigned, again by Hand I, to Dromio of Ephesus, and the third line (416)
-     is reassigned to Dromio of Syracuse. So far as I can see, this  redistribution of the dialogue makes nonsense, and I can
-     only suppose that here (as in III.ii) Hand I has fallen victim to his own comedy of errors.  The confused nature of Hand I's alterations and the absence of the other stigmata
-     characteristic of a prompt-book make it clear, of course, that the Smock Alley Errors
-     could never have served as a prompt-book unlike the probably somewhat earlier 'Nursery'
-      Errors, which was produced not later than 1677.[10] Had the
-     Smock Alley Errors been produced, however, it would probably have been very similar to
-     the version that emerged under Hands I and II (with Hand I's unhappy alterations ironed out).
-     Together the 'Nursery' PB and the Smock Alley Errors extend our knowledge of the
-     acting tradition by nearly a hundred years, the first post-Restoration performance of the play
-     of which we possess an acting text being Thomas Hull's adaptation (acted 1762, privately
-     printed 1770, revised edition 1793).[11] The cuts and other changes in the Smock Alley Errors PB have been compared
-     throughout (see Collations) with: (1) the 'Nursery' Comedy of Errors PB (not later
-     than 1677; about 1,375 lines), (2) Thomas Hull's 1793 revised adaptation of The Comedy of
-      Errors (about 1,544 lines); (3) The Comedy of Errors (about 1,565 lines), edited
-     by Francis Gentleman in Vol. VIII, 1774, of John Bell's Shakespeare's Plays, As they were
-      performed at the Theatres Royal in London (Gentleman only suggests cuts but claims no
-     authority for them as representing performance at either Drury Lane or Covent Garden); (4)
-      The Comedy of Errors in Mrs. Inchbald's British Theatre, Vol. I (1808),
-     essentially Hull's adaptation (see Collations); (5) John Philip Kemble's acting text (1815) of
-      The Comedy of Errors (essentially the same as Inchbald; see Collations). Occasional
-     reference is made to the Douai MS of The Comedy of Errors (l694);[12] the so-called Collier MS; and William Woods' The Twins, or Which Is
-      Which (1780; see note 4).   1. The Smock Alley Errors will be referred to by the abbreviation PB. It
-     is worth noting, perhaps, that the Smock Alley Midsummer Night's Dream, though only an
-     unacted cutting like the Errors PB, includes scene settings (see Vol. VII of this
-     series). It is possible, therefore, that the absence of scene settings in Errors
-     reflects the revisers' intention to use a single setting for the whole play (see Introduction
-     to the Smock Alley Henry VIII PB, p. 19). Capell first introduced a single setting
-     ('Ephesus. A publick Place.') and is followed by Gentleman (see below); Hull,
-     Inchbald, and Kemble (see below) introduce a number of scene changes, following Pope.  2. "Shakespeare on the Stage in Restoration Dublin," PMLA, 56 (1941) 373.   3. See The London Stage 1660-1800, Part I: 1660-1700 (ed. William Van
-     Lennep, 1965), p. cxxxix; Part II: 1700-1729 (ed. E. L. Avery, 1960), pp. cxvi-cxx.   4. The Comedy of Errors was made into an afterpiece, and so described,
-     entitled The Twins, or Which Is Which by William Woods and acted at Edinburgh in 1780,
-     Woods himself playing the role of Antipholus of Ephesus (the text was published in John Bell's
-      British Theatre, Vol. XV, 1780, pp. 1-21). Errors is there cut to under 800
-     lines.   5. S. W. Singer, The Text of Shakespeare Vindicated (1853), pp. vi-vii.   6. Hand I's form of 'Stet' (capital 'S', Secretary 'e', both 't's uncrossed, see
-     I.i.32-36; II.i.86-l06; IV.i.110-113; IV.iii.83-92; V.i.92-112, 341-345) differs from Hand II's
-     form of 'stet' (lower case 's', italic 'e', both 't's crossed) and appears very similar to the
-     form used by Hand I in the Smock Alley Henry VIII PB (see II.iv.64-68, 69). Since,
-     however, apart from 'Stet', Hand I in Errors is markedly different from Hand I in
-      Henry VIII and since there is good reason for believing that 'Stet' is the work of
-     the otherwise different Hand I in each play, this particular form of 'Stet' furnishes no link
-     between Errors and Henry VIII.   7. See Introduction to the Smock Alley Henry VIII PB, p. 17.   8. My line-count is based on Alfred Hart's total of 1,753 lines for the whole
-     play (Review of English Studies, 8 [1932], 21).   9. See F stage directions altered , III.i.69, 70 s.d., 151, 152;
-      Textual cuts and textual changes, III.ii.151.   10. See Vol. III: Part i of this series, p. 7.   11. The earliest recorded post-Restoration performance of The Comedy of
-      Errors did not take place until 1741 (acting text not extant); two earlier adaptations,
-      Every Body Mistaken (1716) and See If You Like It (1734), were never
-     published. An account of the principal cuts and additions in Hull's 1770 and 1793 texts may be
-     found in C. B. Hogan, Shakespeare in the Theatre, 1701-1800 II (1957), 149 150 (see
-     also I [1952], 98-99, for information on earlier eighteenth-century performances).   12. See G. Blakemore Evans, "The Douai Manuscript--Six Shakespeare Transcripts
-     (1694-95)," Philological Quarterly, 41 (1962), 158-172. </field><field name="file_s">Sha8CEP</field></doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e571</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_3.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t">III.i(opening s.d.)and Balthazar Crossed through, Hand I. Hand I cuts out the character of Balthazar
+       and gives his lines to Angelo but fails to delete 'the Merchant' in the F s.d.,
+       which here describes Balthazar. Hull and Woods retain Balthazar (but Hull omits him from the
+       list of 'Dramatis Personae'); Inchbald, Kemble omit Balthazar (but Inchbald retains
+       him in the 'Dramatis Personae'). </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e589</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_3.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t">III.ii69 hand.] hand. Exit Hand I. From its position (in the
+       right margin opposite the end of Antipholus of Syracuse's speech) Hand I's 'Exit' seems to
+       apply only to Antipholus of Syracuse, leaving Luciana to get off as best she may (F1 gives
+       Luciana an 'Exit.' at 70 [omitted F2-3] and Ff leave Antipholus of Syracuse on
+       stage, continuing the scene). 70 s.d. Enter Dromio, Siracusia.
+        &amp; Anti: of E&lt;ph.&gt;] Hand I begins a new scene here and enters Antipholus of
+       Ephesus (having exited Antipholus of Syracuse at 69). This is, of course, the wrong
+       Antipholus, but that the change was intentional is shown by the added s.dd. at 151 and 152
+       (see Introduction, p. 75). 151 wheel. Exit Ant. Eph.] Hand I inserts (to
+       left of center rule) this s.d. following the end of Dromio of Syracuse's speech (143-151),
+       but he first gives Antipholus of Ephesus a two-line speech (see Textual cuts and textual
+        changes). 152 &lt;En&gt;ter Sir. Ant. Go hie] Hand I here
+       enters Antipholus of Syracuse, thus restoring the F assignment of speeches for the remainder
+       of the scene. </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e621</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_5.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t">V.i126 s.d.Enter Adriana and Lucio.] Crossed through. Hand ?I is misled by s.dd. first
+       appearing in F2 following 117 ('Exeunt'), at 117 ('Enter Merchant and
+        Goldsmith.'), 128 ('Enter . . . Lucio.'), 132 ('Enter Adriana.'),
+       which, as in PB, appear to begin a new scene, the 'Exeunt' following 117 clearing
+       the  stage; in canceling the direction at 128 ('Enter .
+        . . Lucio.'), Hand ?I, retaining the entry for Adriana at 132, fails to retain an entry
+       for Luciana, who speaks at 129 ('Lucio' is a mistake in F2-4 for
+       'Luciana'). Pope is the first editor to restore the F1 arrangement and is followed
+       by all later acting versions. </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e662</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_1.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t">I.i8-9 Who wanting . . . blouds,] Possibly bracketed for deletion
+       (NPB cuts 5-12). 32-36 A heavier . . . leave.] 32 crossed through;
+       33-36 boxed and crisscrossed; restored by Hand I with 'Stet' in left margin. NPB cuts 33
+       ('vnspeakable . . .')-35; Hull+ cut 33-35 and rewrite 36. 39 And by . . .
+        bad:] Circled (so Hull+; NPB cuts 39-50 ['had . . . became'], substituting 'ere she
+       became'). 42-46 till my...under  47-49 the
+        pleasing punishment. . . was:] Boxed and crisscrossed; Hand I substitutes, in right
+       margin, with a cross before 42 and after 48, 'where sone / wee liv'd' (probably 'time' after
+       'sone' has been shaved off in binding and Hand I intended to write 'some' instead of 'sone',
+       thus reading 'where some time / wee liv'd'). See 39 for NPB; Hull+ reduce to 'By prosperous
+       traffic 'till my factor's death, / Drew us unwillingly to Epidamnum.' 50
+        she] wee Hand ?II (so Hull+). 62 we not saild]
+       Hand ?II inserts 'not' after F 'we'. 65-78 Gave any . . . us.]
+       Partly boxed and crisscrossed; Hand ?II substitutes, in right margin, with a cross following
+       'deep' (64), 'ran [sic] was t&lt; &gt; / to watry m t&lt; &gt; / tains which t&lt; &gt; /
+       moment t&lt; &gt; / ned sure d t&lt; &gt; / tion' (the addition probably read 'was turn'd /
+       to watry moun / tains which each / moment threat / ned sure destruc / tion'. NPB cuts 64-67
+       (substituting 'a storm aros t&lt;e&gt; / which Did conuay'), 70-76; Hull+ cut 70-76. 88-95 Was carried . . . came,] Boxed; 91 separately crossed through.
+       NPB cuts 84-88; Hull+ cut 81, 85, 89-91, 94, 95 ('oh let . . .')-96. 
+        99-109Merch. Oh had . . . woe,] Hand II reduces these lines to 'At last Our helpless Ship
+       was splitted in the midst; / Her part, poor soul,'; 108 ('seeming . . .')-109 crossed
+       through, but marked 't&lt;st&gt; et' by Hand II; speech-prefix deleted in error. NPB cuts
+       99-111 ('. . . they'); Douai MS and Hull+ read 'helpless'(Hull+ following Rowe) for F
+       'helpful!' (es in PB); Hull+ cut 97 ('do . . .')-101, 103, 105-107, 109 ('but . . . woe,').
+        116-121 And would. . . mishaps.] Boxed and crisscrossed (NPB cuts
+       116-118; Hull+ cut 114-115, 118-123 ['. . . to']). 133 Greecia] Hand ?II
+       corrects F's 'Greene'; F1 Greece'. 147-149 But though . . .
+        disparagement:] Possible cut suggested by  a light short line above 147 and below 149. 151 Therefore Merchant,] Crossed through. 152 by beneficial
+        help,] Crossed through. </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e727</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_1.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> I.ii80 That stands . . . undispos'd:] Crossed through. 98-102 As nimble . . . sinne:] Boxed and crisscrossed (so NPB; so Hull+, which
+       substitute 9 new lines in place of F 104-105). </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e737</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_2.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> II.i 8-42 Time is . . . trie:] 8-14 boxed and crisscrossed; 15-42
+       criss-crossed (so NPB; Hull+ cut 8, 21, 23, expand 31 to 9 lines, rephrase 32-35, with some
+       rewriting throughout). A short line under the beginning of 3 suggests that the cut was
+       originally thought of as including 4-7. 43 O Here comes] Hand ?I inserts
+       'O' before F 'Here'. 43 now is . . . nie.] Crossed through (NPB
+       substitutes 'you'l/ heare news of him.' for F 'is . . . nie.'). 88-111
+        Whil'st I . . . will:] Cut in several stages: 88 crossed through; 89-105 boxed and
+       crisscrossed; 106-108 boxed and crisscrossed; 110-111 boxed and crisscrossed. NPB cuts
+       88-116; Hull+ cut 103 and rewrite 106-111; Collier MS cuts 109-111. 116Luc. How many . . . Jealousie?] Crossed through (so NPB, Hull+). </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e758</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_2.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> II.ii 26-40 Antiph. Because that . . . beaten?] Boxed and crisscrossed (NPB
+       cuts 26-39; Gentleman suggests cutting 31-32; Hull+ cut 34-39 ['. . . shoulders, but']). 65-111Ant. Well sir, . . . yonder?] Hand I substitutes, along right margin, 'Hold leave
+       your prating: see who beckens / to us yonder' ('prating' written above a deleted 'jesting').
+       The new speech is obviously meant to be spoken by Antipholus of Syracuse, but the only
+       indication of where it is to be inserted is a small cross placed across the center rule
+       opposite 63 (a short speech by Dromio of Syracuse). NPB cuts 67-110; Gentleman suggests
+       cutting 67-111; Hull+ cut 48-56, 60-111 ('. . . soft,') and add 3 lines (using F 'who wafts
+       us yonder?' [111] before Adriana's and Luciana's entrance). 123-127 Thy self
+        . . . love:] 123-125 boxed and crisscrossed; 126-127 separately deleted by a line under
+       and after F 'love:'. NPB cuts 126-148; Hull+ cut 124-125. 128 gulfe,]
+       sea Hand ?II. 130 Without addition or diminishing,] Crossed
+       through (so Hull+; see 123-127 for NPB). 132-148 How dearly . . .
+        undishonoured.] Crisscrossed and partly boxed (see 123-127 for NPB; Gentleman suggests
+       cutting 134-135, 141-146; Hull cuts 142-143, 146; Inchbald, Kemble cut 131 ['and not me
+       too.']-148). 149 dame] Lady Hand ?II. 172-182
+        Abetting him. . . confusion.] Crisscrossed and partly boxed; a marginal line above 170
+       and below 188 suggests that 170-188 was first considered as a cut. NPB cuts 173-182; Hull+
+       cut 171-172 end rewrite 176. 202 'Tis true . . . grasse.] Crossed
+       through (Hull+ reduce 190-204 to 3 half-lines, place 205-213 after 214-218 [partly
+       rewritten], and replace 219-221 with a 16-line soliloquy by Dromio of Syracuse). 210 And shrive . . . pranks:] Crossed through (so NPB; see 202 for Hull+).
+      </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e804</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_3.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> III.i 2 shrewish] Peevish Hand ?II. 4
+        Carkanet] golden chain Hand I (Hull+ read 'bracelet'). 19Balthazar] angelo Hand I (so Inchbald, Kemble; see F stage directions
+        altered at III.i [opening s.d.]). 21Bal.] Ang: Hand I (Hull+ omit 21). 22-29E. Ant. Oh Signior . . . hart.] 22-26 boxed and crisscrossed; 27-29 separately boxed
+       and crisscrossed; F speech-prefix cut at 27 when it was decided to cut 27-29, leaving 30
+       unassigned. Hull+ cut 13-18, 21-29, 33, 40-41, 45-47. 50-56 and
+        so...blow.] Boxed and crisscrossed (NPB cuts 50-53, 55-57; Gentleman suggests cutting
+       52-60; Hull+ cut 49 ['Faith . . .']53, 55-57 ['. . . me in.']). 59-60Ant. You'll cry . . . Town?] Boxed and crisscrossed (so Gentleman, Hull+). 65-68 If you . . . hither.] Boxed and crisscrossed (Gentleman suggests
+       cutting 70-83; Hull+ replace 65-84 with 15 lines by Hull). 71-72 Your cake .
+        . . sold.] Boxed and crisscrossed (see 65-68 for Gentleman, Hull+). 75-77E. Dro. A man . . . hinde.] Boxed and crisscrossed (see 65-68 for Gentleman and
+       Hull+). 85Balth.] Ang: Hand I (cf. 19 above). 86-106 Herein you .
+        . . possession.] Confusingly marked: the final intention seems to have been to retain
+       86 (perhaps 86-88) and 98-100, these lines being restored in each case by 'stet' at left of
+       center rule, the two 'stet's (i.e., 'Stet' and 'stet'), however, being in different hands,
+       the first by Hand I, the second by Hand II. Originally only parts of this speech seem to have
+       been cut: 89-91 and 94-97 being separately boxed and crisscrossed, 101-102 being crossed
+       through, with a line drawn between 100 and 101. Hand II writes 'stet' six times down the left
+       margin, in each case opposite a separately marked group of lines, a move intended to reverse
+       the complete cutting of the passage, which had been indicated by boxing lines and a large,
+       heavy crisscross. Hand II's 'stet's, however, have been crossed through for 89-91 and 94-97,
+       and all the 'stet's canceled by a vertical line drawn through them. Four stages may,
+       therefore, be postulated: partial cutting, complete cutting, complete  restoration, and a second partial cutting. NPB cuts
+       89-91, 98-106; Hull gives 85-93 to Balthazar, the remainder of the speech to Angelo;
+       Inchbald, Kemble (as partially in PB) assign 85-106 to Angelo but break the speech after 93
+       by inserting the last four lines of Hull's addition (see 65-68). 108-114
+        And in . . . dinner,] Boxed and crisscrossed; Hand ?I substitutes, following 107, 'in
+       ye / mean / time', linking with F 'get you home' in 114. </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e883</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_3.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> III.ii 2-8 shall Antipholis . . . blindnesse:] Boxed and
+       crisscrossed; Hand ?II links 2 and 9 with 'but' in left margin opposite lo; Gentleman
+       suggests cutting 5-6, 8; Hull+, after 47 lines and a 16-line song by Hull (Kemble calls for a
+       song but omits Hull's lyric), cut 4, 8. 11-18 Look sweet . . .
+        boord:] 13-16 first cut (boxed and crisscrossed); then 11-12 crossed through and
+       11-18 boxed and crisscrossed. NPB cuts 9-24; Gentleman suggests cutting 13-20, 93; Hull+ cut
+       13-14. 21-22 Alas poor . . . us.] Though . . .us] Crossed through (see 11-18 for NPB, Gentleman;
+       Hull cuts 19, 23; Inchbald, Kemble cut 19-24). 27-28 'Tis holy . . .
+        strife.] Crossed through. 33-40 Teach me . . . yeeld.]
+       33-38 first boxed and crisscrossed; then 33 crossed through and included in a second
+       crisscross, and 39-40 made part of the 33-38 cut but restored with 'stet' by Hand II, with a
+       small cross below 'stet' to the left of center rule. NPB cuts 33-41; Gentleman suggests
+       cutting 33-46; Hull+ cut 30-32, 35, 41 But if that] Hand ?I
+       substitutes 'I say if' (Hull+ read the line as 'But if I am Antipholis, I swear'). 44 far more] my loue Hand ?I. 44
+        decline] incline Hand ?1 (so NPB, Collier MS; Hull+ read 'inclines',
+       rewriting the line). 45-58 Oh traine . . . night.] Boxed and
+       crisscrossed (NPB cuts 45-52; see 33-40 for Gentleman; Hull+ cut 52). 70
+        fetch] aske Hand I (Hull+ read 'seek'). 105-106 for why? . .
+        . it.] Crossed through (Gentleman suggests cutting 103-109, 116-145 ['is spherical! . .
+       . me,']; Hull+ cut 91-93 ['I such . . . reverence:'], 95, 100-143 ['if she . . . low.'];
+       Collier MS cuts 103-143 ['. . . low.']). 122-132Ant. Where Scotland? . . . it.] Boxed and crisscrossed (see 105-106). 146 privie] Crossed through (Gentleman reads 'private'; Hull+ read
+       'secret'). 151 turn i'th wheel] Following the conclusion of Dromio of
+       Syracuse's lines at 151, Hand I gives Antipholus of Ephesus two lines written up the left
+       margin (first line shaved in binding) just before Hand I exits him:'&lt;.o&gt; &lt;. . .&gt;
+       &lt;. . .&gt; you on my wifes &lt;. . .&gt; / to spight her I will glue my wench her chaine'
+       (see III.ii.70 s.d. 151, 152 in F stage directions altered). 159-169 As from . . . song.] 159-160 crossed through; 161-169
+       crisscrossed but not boxed (Hull+ cut 157-158, 163-167 and rearrange the lines retained).
+      </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e959</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> IV.i 6 Or Ile attach] Or Ill be forcd to attach Hand 1. 7 Even] why Hand I. 8 growing to me by] owing
+       me sir, by Hand I (Douai MS, Pope emend F 'growing' to 'owing'). 9
+        And] for Hand I. 11 for the same] Crossed through. 12-13 Pleaseth you . . . will] Please you to walk with me down to his
+       house, &amp; / Ile Hand I (Douai MS, Rowe3 read 'Please you to walk'; Hull+ read
+       'Please you but walk', following Pope). 15 house, go] house, myselfe go
+        Hand I. 15 house go thou] Following the end of 15, Hand I, in
+       lower margin, right center rule, writes 'not finisht yet sayest thou?'. There is no
+       indication where this half-line is to be inserted, though it would appear to be for
+       Antipholus of Ephesus, presumably preceding the opening line of his first speech (15), the
+       'thou' referring to Dromio of Ephesus, who enters with him after 13. 17
+        their] her Hand I (so Douai MS, Rowe; 'these' Collier MS; Hull+ read 17 as
+       'Among the base confederates of my wife,'). 18 by day] to day Hand
+        I (so Hull+). 25-26 Belike you . . . not.] Crossed through (so
+       Hull+). 50-51 I should . . . brawle.] Boxed. 57-58Ant. Fie, now . . . it.] Boxed. 61 If not, . . . Officer.]
+       Boxed. 78 If he . . . apparently.] Boxed. 93 now! a
+        Madman! Why . . . sheep,] F 'a' and 'Why thou peevish sheep,' crossed through (NPB
+       substitutes 'fellow' for F 'sheep'; Hull+ read 'now, madman!', but retain 'Why . . .
+       sheep,').  110-113 Where Dowsabell . . . fulfill.] 110-111
+       scratched out but marked 'Stet' by Hand I; 112-113 boxed. Hull+ cut 111-113 (later rephrasing
+       111) and expand Dromio of Syracuse's 5-line concluding speech to 11 prose lines, similarly
+       though differently expanded by Woods. </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e1047</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> IV.ii 2-6 Might'st thou . . . face.] Boxed; 6 may have been first crossed
+       through (so Gentleman: NPB cuts 6). 8 the more my spight.] Crossed
+       through (Hull+ read 'wrong' for F 'spight'). 13-28Adr. With what . . . curse.] Boxed, but only 19-20 ('crooked . . . bodied,'), 22, 27
+       were originally cut, Hand I linking the two parts of 19 and 20 with 'and' and substituting
+       'base' for F 'blunt' in 21. Gentleman suggests cutting 16-22, 25-28; Hull+ read 19-20 as 'Oh,
+       he is shapeless, crooked, old, and seer,', substitute 'rude' for F 'blunt' in 21, and cut
+       23-24, 26, 28, substituting a 9-line speech by Luciana for F 23-24. 34-40 One whose . . . hell.] Partly boxed; 34 separately crossed through
+       (Hull+ telescope 32-33 and cut 36, 39-40). 57-62Adri. As if . . . day?] Boxed (Hull+ cut 45, 50-52). 65-66 Come
+        sister . . . injurie.] Boxed (so Hull+, adding 9 new lines divided between the
+       sisters). </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e1076</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.3</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> IV.iii 13-l4 what have . . . apparal'd?] Crossed through (Hull+ substitute
+       'What, have you got rid of the fiend?'). 15 What Adam . . .
+       mean?] Crossed through (Hull+ substitute 'fiend' for F 'Adam'). 16-35 S. Dro. Not that . . . Is there] Partly boxed; 34-35 ('. . . there')
+       crossed through; Hand I, above 16, substitutes 'Dro: ye gold you sent me for:'; then, in
+       place of 34-35 ('. . . there'), Hand I substitutes 'I sent thee to the bay roge to see if' to
+       link with F 'any Ship puts forth to night?' in 35, the F speech-prefix 'Ant.' for Antipholus
+       of Syracuse in 34 being deleted in error. Hull+ cut 16-19 ('. . . Prodigall:'), 22-23 ('. . .
+       leather;'), 27 ('he that . . .')-28. 35-36 may we be gone?] Crossed
+       through. 53-55 and thereof . . . wench:] Circled (Gentleman suggests
+       cutting 52 ['And here . . .']-58; Hull+ cut 48-55 ['. . . wench:'], 59-81, and add 23 new
+       lines following 47). 61-65 S. Dro. Master, if . . . devil!.]
+       Boxed (see 53-55). 83-92 Else would . . . way.] Boxed and crisscrossed,
+       but 83-86 restored with 'Stet' by Hand I (Hull+ cut 87-92, as in PB's final cutting). </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e1114</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.4</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> IV.iv 22 Good now] Crossed through; the rest of 22 ('hold thy tongue.')
+       appears to be lightly crossed through but is necessary to make sense of 23-24. 39-42 I bear . . . door.] Boxed, but cut should have begun at least with F
+       'nay' preceding F 'I bear'; what looks like 'Com' (Hand ?) appears in lower margin to left of
+       center rule and may be intended as a warning to move to Antipholus of Ephesus's speech at 43,
+       which begins with F 'Come'. 123-124 Bear me . . . it.] Boxed (Hull+ cut
+       124-133). </field><field name="file_s">Sha8CEP</field></doc><doc><field name="id">d1e1128</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_5.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> V.i 49-91Ab. Hath he . . . him.] These lines are set off by short lines across left rule
+       above 49 and below 91; as an early provisional cut, i.e., 48 followed by 92, this makes no
+       sense, but at one stage in the cutting 102-105 (later part of a larger cut) may have been
+       intended to follow 48 (see 92-112 below). NPB cuts 49-90. 52-54 A sin. . .
+        to?] Crossed through; 53-54 also boxed and crisscrossed, but 52 restored with 'stet' by
+       Hand II (see 49-91 for NPB). 58-61 I, but . . . enough.] Crossed
+       through, but 59 restored with 'stet' by Hand II (see 49-91 for  NPB). 67 it was . . . bad.]
+       Crossed through, but Hand I substitutes 'how he was / to blame'. Hand I's reading is heavily
+       smeared, perhaps with intention to cancel; point of insertion marked with small crosses
+       before F 'it' and Hand I's 'how'. See 49-91 for NPB; Hull+ read 'it was vile and base.'. 75-84 Thereof the . . . beast:] Circled and crisscrossed (see 49-91 for
+       NPB; Hull+ cut 83-84). 92-112Ab. No, not . . . him.] 92 boxed and crisscrossed; 102-105 only included in the cut
+       by a single line down right center rule; 106-112 represent another separate block in the
+       cutting, but 106-108 was first crossed through and then included in the larger cut by
+       crisscrossing; finally, Hand I brackets 108-112 in right margin and restores these lines with
+       'Stet' in right margin. Hull+ cut only 100. 118 By this . . . five:]
+       Crossed through. Large stars appear in the right margin opposite F s.d. 'Enter Merchant
+        and Goldsmith.'and 118 end opposite 129 end Fs.d. 'Enter the Duke . . .
+        Officers.'; the purpose behind the use of these stars remains a mystery (see V.i.128
+       s.d., Stage directions altered). 120 to the Melancholy vale;]
+       Heavily smeared through. 137-138 Whom I . . . day,] Crossed through;
+       Hand I substitutes 'who&lt;m&gt;' following 136 to link with 139 (so NPB). 139-154 took him, . . . fled] F 'took him,' (139) crossed through, as is F 'Each'
+       (151) and F 'then they fled' (154), and 140-154 boxed and crossed across; Hand I substitutes,
+       across right rule, 'hash taken &lt;this&gt; / ill day / is fled'. NPB cuts 142-154; Hull+ cut
+       50-51 ('and himself, . . . passion,'). 155 them,] him Hand I
+       (Hull+ read "em'). 158 Nor send . . . thence.] Crossed through. 161-164 Long since . . . could,] Circled (so NPB); F 'Wars' in 161 seems to
+       show some sort of alteration. 169-170, 177, 180-181] Hand ?I places
+       three small crosses to left of center rule, and, in left margin, opposite the third cross
+       (180-181), places the following badly shaved words: '&lt; &gt;an / &lt; &gt;dly / &lt; &gt;ak
+       for ['for' doubtful] / &lt; &gt;ion'. I cannot see any connection between the marginal
+       notation and the text, though possibly some offstage noises are being called for, as at F s.d
+       following 183 ('Cry within.'). 191-194 Even for . . . Justice.]
+       Boxed (so NPB). 198 She whom . . . wife;] Crossed through (NPB cuts
+       198-200). 20l-202 Even in . . . me.] Crossed through (see 198 for NPB;
+       Hull+ cut 201-202). 215-217 Neither disturb'd . . . mad.] Circled and
+       crisscrossed (NPB cuts 210, 215-216,229 ['. . . not.'], 237 ['Pinch . . .']-238,
+       240-241, 244; Gentleman suggests cutting 224-253; Hull+ cut 214-253, 256-268, 281). 219-221 were he . . . then,] Crossed through; Hand ?I substitutes, across
+       right rule, 'can  wittness / it.'; F 'Who' in 222 appears to have been
+       crossed through but is necessary to the sense. A dash is inserted in PB following the end of
+       218 and 222; whatever the intention, these dashes cannot, in terms of sense, mark a suggested
+       cut. See 215-217. 231-253 I did . . . indignities.] Boxed and doubly
+       crisscrossed (see 215-217). 302-306Fat. Dromio, nor . . . him.] Boxed (so Hull+). 311-318 Though now .
+        . . Antipholis.] Boxed and crossed across (Hull+ cut 316). 341-345 Speak old . . . AEmilia.] Crisscrossed, but marked 'Stet' by Hand I. 352-353 from them, . . . Epidamium.] Crossed through by Hand ?I,
+       who substitutes 'away' as a link to 354. 355 I, to . . . in.] Crossed
+       through. 367-368E. Ant. Brought to . . . Uncle.] Crisscrossed (Hull+ read 'Minaphon' for F
+        'Menaphon'). 391-392Cur. Sir, I . . . cheer.] Crisscrossed (so Hull+, which do a good deal of
+       rearranging and padding from 346 to the end). 397-406 That by . . .
+        Nativity.] Boxed; 397-398 crisscrossed, 399-406 crossed across (Hull+ cut 400-402).414S. Dro.] E. Dro. Hand I (the 'E.' is badly smeared and not clear, but see
+       416 below). Hull+ cut everything after 407, adding 9 new lines, which conclude with '
+       "Whatever is is right." ' 416 She now] S: She now Hand I (the
+       change of speech-prefix here and at 414 above makes no sense; see Introduction, p. 75) </field><field name="file_s">Sha8CEP</field></doc></add>

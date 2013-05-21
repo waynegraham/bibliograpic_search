@@ -1,30 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 8 (The Winter's Tale) [a
-     machine-readable transcription] Shakespeare, William Creation of machine-readable version: Electronic Text Center, University of Virginia Creation of digital images: Electronic Text Center, University of Virginia Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. 25 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographic Society, Sha8WTP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1997 Shakespearean prompt-books of the seventeenth century The electronic text contains the Introduction and the Collations. The selected pages of
-     the Prompt-Book included in this Volume have been rendered as images. Shakespearean prompt-books of the seventeenth century, vol. 8 William Shakespeare Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype facsimile. Bibliographical Society of the University of Virginia Charlottesville, VA 1996 Print copy consulted: First Edition provided by the BSUVA Shakespearean prompt-books of the seventeenth century In Memoriam Fredson T. Bowers  Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a word has
-     been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general use, and
-     thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in establishing
-     analytical groupings. Library of Congress Subject Headings  1960-1996 English drama; prose LCSH 24-bit color; 400 dpi  July 1997 corrector Catherine Tousignant, Electronic Text Center Corrected transcriptional errors. May 1997 corrector Michele Ierardi, Electronic Text Center Added TEI header </field><field name="file_s">Sha8WTP</field></doc><doc><field name="id">d1e139</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t">Image of the spine: Shakespearean Prompt-Books, Vol. VIIIImage of the cover, part 1: Shakespearean Prompt-Books, Vol. VIII: Ki! Henry VIII,
-       The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The Winter's TaleImage of the titlepage, part 1: Shakespearean Prompt-Books, Vol. VIII: King Lear,
-       Henry VIII, The Merry Wives of Windsor, Twelth Night, The Comedy of Errors, The Winter's Tale
-        SHAKESPEAREAN PROMPT-BOOKS of the SEVENTEENTH CENTURY  Vol. VIII King Lear, Henry VIII,The Merry Wives of WindsorTwelfth Night, The Comedy of ErrorsThe Winter's TaleEdited byG. Blakemore Evans A Publication ofThe Bibliographical Society of the University of Virginia
-      Charlottesville1996 </field><field name="file_s">Sha8WTP</field></doc><doc><field name="id">d1e193</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">introduction</field><field name="title_s"> Smock AlleyThe Winter s Tale Third Folio  Introduction </field><field name="fulltext_t"> Smock AlleyThe Winter s Tale Third Folio  Introduction  THE Smock Alley Winter's Tale prompt-book (PB) is not, strictly considered, a
-     prompt-book but a preliminary (and probably incomplete) cutting of the play, similar in this
-     respect to the Padua Winter's Tale.[1] The method of cutting
-     is noticeably like that in the Smock Alley King Lear PB, where it is associated with
-     Hand II, who, as here, cuts by circling lines, phrases, and single words. Aside from the
-     various cuts, no other prompt notations occur.   There is no record of any performance of The Winter's Tale during the Restoration,
-     and the play was not produced in the eighteenth century until 1741-42 (fourteen performances).
-     No further performances are recorded until 1754, at which time and in the years following the
-     original play was replaced by three much shortened adaptations dealing primarily with the
-     pastoral elements in Acts IV-V: The Sheep-Shearing: Or, Florizel and Perdita (1755),
-     by MacNamara Morgan; Florizel and Perdita, A Dramatic Pastoral (1756), by David
-     Garrick; The Sheep Shearing (1777), by George Colman. These and a somewhat shortened
-     version of the original by Thomas Hull (1771) held  the boards for the remainder of the eighteenth
-      century.[2] A second version of the original was produced by John
-     Philip Kemble at Drury Lane in 1802.[3] Both Hull's and Kemble's
-     acting texts have been compared with the Smock Alley promptbook; also compared are the Padua
-      Winter's Tale PB and the so-called Collier MS.   1. See Vol. II: Part i, of this series, pp. 21-29.   2. See C. B. Hogan, Shakespeare in the Theatre, 1701-1800, II (1957),
-     674-698. Hogan indicates the principal cuts in Morgan, Garrick, Hull, and Colman, pp. 674-676.
-     Hull's acting version was first published in John Bell's Shakespeare's Plays, As they are
-      now performed at the Theatres Royal in London, Vol. V, 1773.   3. The edition of Kemble's acting version here used was published in Mrs.
-     Inchbald's British Theatre, Vol. III, 1808. </field><field name="file_s">Sha8WTP</field></doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e318</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t">All cuts are made by circling the lines to be deleted, such circling only noted in the
+       Collations when there is some irregularity. Where a "massed entry" at the beginning of a
+       scene occurs, no attempt was made to adjust it or mark the entry of characters who actually
+       enter later in the scene. </field><field name="file_s">Sha8WTP</field></doc><doc><field name="id">d1e324</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_1.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> I.ii 12-14 that may . . . truly] So Hull, Kemble. 24-25 which to . . . me;] Hull cuts 24-27 ('which . . . brother.'); Kemble cuts
+       23-27 ('My affairs . . . brother.'). 37 Wee'1 thwack . . .
+        Distaffes.] Hull cuts 28-29 ('I had . . . stay:'), 34-39 ('. . . week.'). 80 Grace to Boot:] Circled and crossed through (Hull cuts 71-86 ['had we .
+       . . us.']; Kemble cuts 84-86 ['. . . us.']). 105 'Tis grace indeed.] So
+       Hull, Kemble. 120-129Leo. I fecks: . . . me: yet] Hull cuts 119-146
+        ('Mamillius, . . . Browes'); Kemble cuts 132 ('As o're dy'd Blacks,'), 132-134
+       ('false . . . mine;'), 138-146 ('. . . Browes)'); Collier MS cuts 123-125 ('. . . Neat!'),
+       138-146 ('. . . Browes)'). 133-134 by one . . . mine;] See 120-129. 135-146 Come (Sir. . . Browes)] See 120-129. 195-198 by Sir
+        . . . will.] Hull cuts 190-209 ('There . . . there?'); Kemble cuts 194-198 ('been . . .
+       will:'), 203-206 ('be it . . . baggage:'); Collier MS cuts 195-198 ('And his . . . will.'),
+       203-207 ('From East . . . not.'). 200-206 Physick for's . . . baggage:]
+       Only 'Physick . . . none:' may have been circled originally; see 195-198. 252-254 But that . . . Lord.)] Padua PB cuts 235-284 ('. . . true.'); Hull cuts
+       238-239 (I . . . reform'd:'), 242 ('To bide upon't:'), 243 ('If . . . way,'), 244-245 ('. . .
+       requir'd:'), 250-254, 266-267 ('. . . mine.'), 268-271 ('. . . mute)', 271 ('for. . .')-272,
+       275 ('then . . .')-278, 283-284 ('. . . true.'); Kemble cuts 249-254 ('My . . . forth'),
+       260-261 ('. . . non-performance;'), 268-269 ('or. . . Horn'); Collier MS cuts 253-254 ('. . .
+       forth'). 260-261 Whereof . . . non-performance;] See 252-254. 268-272 you have . . . think)] See 252-254. 288 horsing
+        foot on foot?] So Hull, Kemble. 291 with the pin and web,]
+       Retained, Padua PB, Hull, Kemble, Collier MS. 314 Have bench'd, and]
+       Kemble cuts 313-314 ('whom . . . worship,'). 323-324 (So Soveraignly. . .
+        thee.] Padua PB cuts 318-341 ('Cam. Sir . . . none.'); Hull cuts 323-324 ('So
+       . . . rot;'); retained Kemble and Collier MS, the first giving 'I have lov'd thee.' to
+       Leontes and reading 'I've loved thee, - ' (after Theobald). 333 Could man so
+        blench?] Padua PB cuts 318-341 ('Cam. Sir . . . none.'); Hull cuts 332-333
+       ('Would . . . blench?'). 378-380 Be intelligent. . . not.] So Hull;
+       Kemble cuts 377-384 ('do . . . with't.'). 390Camillo,] See 391-394. 391 certainly] See 391-394. 391-394 there to
+        / Clerk-like . . . gentle:] Hull cuts 382-397 ('for . . . concealment.'); Kemble cuts
+       391-394 ( . . . gentle: ) </field><field name="file_s">Sha8WTP</field></doc><doc><field name="id">d1e411</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_2.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> II.i 9-11 so that. . . Pen.] Hull, Kemble substitute 'so they be / In a
+       semicircle cut,'. 38-45 Alack, for . . . Spider.] Kemble cuts 39 ('There
+       . . .')-46. 71-74 (these Petty-brands . . . Ha's,] Hull  cuts 60-64 ('. . . Nayward.'), 67-76 ('Honourable . .
+       . honest:'); Kemble cuts 60 ('and let . . ')-64 but retains 71-74, reading 'pretty brands'
+       for F 'Petty-brands'. 82-87 O, thou . . . Beggar:] So Hull, but
+       Gentleman (in Bell) says these lines and 89-94 ('and . . . Titles;') should be retained;
+       Kemble retains 82-87. 92 But with . . . Principal;] Hull cuts 89-94
+       ('and . . . Titles;'); Kemble cuts 92 ('But . . . Principal;'), 93-94 ('even . . . Titles;').
+        93 A Bed-swarver.] See 92. 135-136 Ile go. . .
+        her:] Hull cuts 133-139 ('If . . . be.'), 139 ('Lord. Good my Lord.'), 143-157
+       ('. . . dungy earth.'); Kemble cuts 131-139 ('. . . be.'), 139 ('Lord. Good my
+       Lord.'), 142-143 ('would . . . honor-flaw'd,'), 147 ('Ire geld 'em all:'), 148-150 ('they . .
+       . issue.'), 161 (Leo. Why . . .')-172; Collier MS cuts 153-154 ('. . . feel.'). 162-163 but rather . . . instigation?] See 135-136. 176-179
+        (Which was . . . deed)] Hull cuts 162-174 ('but . . . fool:'), 177-179 ('. . . deed)'),
+       181-182 ('. . . wild'), 191 ('such; . . .')-199; Kemble cuts 161 'Leo. Why . .
+       .')-167, 177-179 ('. . . deed)'), 182 ('in post,'), 197-199 (replaced by 168-172 [. . .
+       overture.']). </field><field name="file_s">Sha8WTP</field></doc><doc><field name="id">d1e459</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_2.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> II.ii 33-35 If I . . . more:] Kemble cuts 34-35 ('. . . more:'). </field><field name="file_s">Sha8WTP</field></doc><doc><field name="id">d1e466</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_2.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> II.iii 20-22 in himself . . . serve.] Line 21 omitted in Ff 2-4; Hull cuts
+       18-23 ('Fie, . . . her:'), and, as in Collier MS, omits III.1; Kemble cuts 17 ('Leave . .
+       .')-18, substituting 'Polixenes, thou Fie! no more of him;', and interpolating III.i before
+       II.iii. </field><field name="file_s">Sha8WTP</field></doc><doc><field name="id">d1e473</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_3.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> III.ii l62-l66 which had . . . done:] Hull cuts 164-171 ('though . . .
+       Honour:'); Kemble inserts 147-148 ('the Heavens . . . Injustice.') after 151 and begins a new
+       scene with 154 ('Apollo pardon . . .'), inserting 'Break up the court.', to explain
+       the new scene-break, as the second half of the original 154. 182-183 Fancies
+        too . . . Nine)] So Hull, Kemble; Hull also cuts 177-178 ('What flaying? . . .
+       Oyles?'), 184-200 ('stark-mad: . . . last:'); Kemble also cuts 177-178 (as in Hull), 186-200
+       ('. . . last:'). </field><field name="file_s">Sha8WTP</field></doc><doc><field name="id">d1e486</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.4</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 8  </field><field name="fulltext_t"> IV.iv 58-62 now here . . . sip.] Hull cuts 60-62 ('her . . . sip.'), 65-66
+       ('for . . . known.'); Kemble omits IV.i and here cuts 58-62 ('. . . sip.'). 99-103 Ile not . . . me.] 99-102 ('Ire . . . well:) first circled, then 102-103 ('and
+       . . . me.'). Hull cuts 84-103 ('and . . . me.'); Kemble inserts 160-161 ('Good . . . Cream.')
+       between 72 and 73 and cuts 74 ('these . . .')-75, 79 ('Sir . . . ')-108. 353-355 O Father . . . much.] Hull cuts 331-353 ('Ser. Master .
+       . . hereafter:'); Kemble cuts 331-352, 354-355 ('. . . much.'), 356-357 ('. . . feasting.'),
+       358 ('And handed love, as you do;'), 362-366 ('If . . . know'). 442 Farre
+        than . . . words)] Only 'Farre . . . off:' may have been originally circled. Hull cuts
+       441-442, 446-448 ('. . . thee.'); Kemble cuts 441 ('no . . .') 442, 443-445 ('Thou . . .
+       it:'), 446-448 ('. . . thee.'), 450, and inserts 'Camillo, come. - ' after 'Court.' in 443
+       and 'Follow, sir. - ' after 'to't' in 452. </field><field name="file_s">Sha8WTP</field></doc></add>

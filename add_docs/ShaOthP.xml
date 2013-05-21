@@ -1,418 +1,765 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
-                            Alley Othello) </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock Alley
-                    Othello) [a machine-readable transcription] Shakespeare, William Creation of machine-readable version: University of Virginia Library Electronic Text Center Creation of digital images: Catherine Tousignant, Electronic Text Center Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. 125 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographical Society, ShaOthP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1997 Shakespearean prompt-books of the seventeenth century. The electronic text contains the Introduction and the Collations. The
-                    prompt-book is rendered as page images. Images of the manuscript have been included from volume 6, part 2. Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
-                            Alley Othello) William Shakespeare Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype
-                            facsimile. University Press of Virginia Charlottesville, VA 1980 Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.6
-                        Shakespearean prompt-books of the seventeenth century Published for the Bibliographical Society of the University of
-                            Virginia The print source incorrectly annotates Act V, scene 2, lines 94-95 as
-                            lines 94-85.  Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a
-                    word has been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general
-                    use, and thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in
-                    establishing analytical groupings. Library of Congress Subject Headings  1960-1980 English drama; prose; non-fiction LCSH 24-bit color; 400 dpi  March 1997 corrector Catherine Tousignant, Electronic Text Center Added TEI header and tags.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e130</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
-                            Alley Othello) </field><field name="fulltext_t"> SHAKESPEAREAN PROMPT-BOOKSof the SEVENTEENTH CENTURY Vol. VI: Part i Introduction to the Smock Alley
-                            Othello Collations Edited by G. Blakemore Evans A Publication of The Bibliographical Society of the University of
-                    Virginia University Press of Virginia, Charlottesville 1980 PR
-                    2757.E9 1960 V.6 Pt.1 Copy 3 THE UNIVERSITY PRESS OF VIRGINIA
-                    Copyright 1980 by the Rector and Visitors of the University of Virginia
-                    First published 1980Library of Congress Cataloging in Publication Data Shakespeare,
-                    William, 1564-1616. Shakespearean prompt-books of the seventeenth
-                    century. ContentsIntroduction to the Smock Alley Othello ....... 1Collations ............................................. 13</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e194</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">introduction</field><field name="title_s">Introduction Smock Alley Othello Third Folio</field><field name="fulltext_t">Introduction Smock Alley Othello Third Folio THE Smock Alley Othello[1] shares several
-                    prompt-hands with other Smock Alley prompt-books and is further linked with the
-                    Smock Alley Hamlet, Macbeth, I and II Henry IV, Henry VIII,
-                    and John Wilson's Belphegor by the appearance of six actors' names
-                    (more than in any other Smock Alley Shakespearean prompt-book), all inserted by
-                    Hand V (see below), among the prompt-calls: Joseph Trefusis (as ?Officer in
-                    I.iii, and as First Gentleman in II.i), John Totterdale (role uncertain, in
-                    I.iii), Barnes (as Sailor in II.i), Walmsley (as Second Senator in I.iii), John
-                    Freeman (as Montano in II.i), and Charles [?Ashbury] (as a Messenger in I.iii
-                    and as Third Gentleman in II.i).[2] What appear to be
-                    two other names occur,  but they have been so badly shaved in binding
-                    as to be unidentifiable: `. . . oin' (or'. . . vin'), who played the First
-                    Senator in I.iii, and `. . . ick', whose role, also in I.iii, is uncertain.[3] As with other Smock Alley prompt-books, the relative dating of Othello
-                    depends upon the appearance of such actors' names. Unfortunately, the evidence
-                    for assigning initial and terminal dates for actors appearing at Smock Alley is
-                    in most instances more or less conjectural, especially so because actors often
-                    seem to have moved back and forth between Smock Alley and the London theatres.
-                    W. S. Clark assigns tentative dates for five of these actors: Trefusis (c.
-                    1675-88), Totterdale (c. 1674-88), Barnes (c. 1675-c. 1680), Walmsley (c.
-                    1675-88), and Freeman (c.1675-82).[4] Allan Stevenson
-                    first suggested the possible identification of `Charles' as Charles Ashbury, the
-                    son of Joseph Ashbury, himself an actor and the manager of the Smock Alley
-                    Theatre from 1675-1720, but we know nothing more definite about Charles than
-                    that he was probably associated with Smock Alley around the dates indicated by
-                    Clark for the other actors involved.[5] Even if some
-                    kind of tentative dating may be suggested on the basis of these actors' names,
-                    such dating would probably give us only a terminus ad quem, since there
-                    is evidence that the Othello prompt-book may have been used for at
-                    least one earlier production before these particular actors took part in the
-                        play.6 Only one of the actors named, John Freeman, may perhaps help to set certain
-                    probable limits for dating the Othello promptbook, at least in so far
-                    as his connection with the production is concerned. Clark's dating for Freeman,
-                    as noted above, is "c.  1675-82," but in the light of more complete
-                    information now furnished by The London Stage (Part 1: 1660-1700)[7] it can now be shown that Freeman was performing in
-                    London at Dorset Garden in December 1680 (1680-81 season), November 1681
-                    (1681-82 season), and December 1683 (1683-84 season), but does not appear in
-                    London again until March 1686 (1685-86 season). This would seem to leave three
-                    probable dates for the appearance of his name in the Othello
-                    prompt-book: (1) prior to 1680, (2) the 1682-83 season, and (3) the 1684-85
-                        season.[8] A choice between these three possibilities may perhaps be influenced by
-                    consideration of the Smock Alley prompt-book (manuscript) of John Wilson's
-                        Belphegor,[9] which received its first
-                    performance, an apparently disastrous one, in Dublin. Clark and Stevenson differ
-                    on the most probable date for this production, but they are agreed that the play
-                    was produced at Smock Alley when Wilson was himself in Dublin. Stevenson
-                    advances three possible periods that would satisfy this requirement: 1677-78,
-                    1680, and 1682-83.[10] Clark advances 1677-78 as the
-                    date, without mentioning any other possibility.[11]
-                    Stevenson, while admitting that 1677-78 "may have been the most suitable one,"
-                    believes that 1682-83 "seems more appropriate for the whole group of actors and
-                    fits better" with a satiric allusion,  which he dates as 1683 or
-                    after, to the play's failure. Among the eleven actors named in the
-                        Belphegor prompt-book, two, John Freeman and Barnes,[12] also appear in Othello, and two other
-                    members of the Belphegor cast, George Bright and Mrs. Osborne, can,
-                    along with Freeman, be traced on the London stage (Dorset Garden) during some of
-                    the years in question. All the available evidence, detailed in the note
-                        below,[13] tends to support Clark's claim for the
-                    years 1677-78.  The link between the Othello and the Belphegor promptbooks
-                    furnished by the common appearance of Freeman and Barnes in both,[14] while admittedly fragile, may suggest that the  two earlier terminal dates for Othello (prior to 1680 or
-                    1682-83) are slightly more likely than the third (1684-85). Moreover, the
-                    absence of Trefusis in Belphegor and his presence in Othello,
-                        Hamlet (c. 1676-79), and I Henry IV (at least
-                    before January 1685),[15] where his name is written in
-                    by the same hand (there Hand III) as Hand V in Othello, though again
-                    evidentially fragile, further suggests that these prompt-books may fall into a
-                    position after, but not long after, the Belphegor production, which, as
-                    I have shown above, may most probably be dated in 1677-78. In the first volume
-                    of this series, I advanced 1680-82 as a likely terminal date for the Othello
-                        prompt-book.[16] I would now, in the light of
-                    the fuller information on Freeman and the date of the Belphegor
-                    production, suggest a terminal date for Othello either shortly before
-                    1680 or in 1682-83, still admitting, however, what seems to me the less likely
-                    possibility of the 1684-85 season.  Before we consider further the possibility that more than one production of the
-                    play is represented in the Othello promptbook, that is, a production
-                    predating the insertion of the actors' names by Hand V, it will be necessary to
-                    discuss the main prompt-hands and, so far as possible, identify their appearance
-                    in the other Smock Alley prompt-books. R. C. Bald long ago noted that "as many
-                    as six hands are visible in the notes to Othello."[17] There are, however, a number of notations where exact
-                    identification is at best uncertain and still other hands may well be
-                        present.[18] Hand I is responsible for the advance
-                    prompt-calls and appears again in Macbeth as Hand III. Hand II gives
-                    the scene settings and makes occasional changes in the  text, usually
-                    in connection with readings found in Q1-3 and Q (1681). It occurs again in
-                        Macbeth (Hands I and II), Hamlet (Hands I and II),
-                        Lear (Hand b, Twelfth Night (Hand I), Henry VIII
-                    (Hand I) and I Henry IV (Hand II).[19] It is,
-                    thus, the most ubiquitous and important hand in the Smock Alley prompt-books.
-                    Hand III writes in emendations in the text and is to be distinguished from Hand
-                    IV, which also inserts emendations, by characteristics usually associated with
-                    earlier seventeenth-century hands. Hand IV appears to be later than any of the
-                    others (?eighteenth-century) and is, like Hand II, usually associated with
-                    changes made in conformity with quarto readings. Neither Hand III nor IV seems
-                    to occur elsewhere in the Smock Alley prompt-books. Hand V, which has already
-                    been mentioned in connection with the vexed problem of dating, is responsible
-                    for all the actors' names and a number of other important prompt-notes. It
-                    occurs elsewhere only in I Henry IV (as Hand III] and, possibly (see
-                    note 13), in the Belphegor prompt-book. Hand VI inserts a number of
-                    prompt-notes mostly concerned with scene settings and sound effects. The same
-                    hand also appears in Hamlet (Hand III), Julius Caesar (acting
-                    list), Macbeth (Hand IV), Merry Wives (Hand I), and, perhaps,
-                    Wilson's Belphegor (main prompt-hand).  With the main prompt-hands now established, we may return to the question
-                    postponed above: Does the Smock Alley Othello show evidence of serving
-                    for more than one production of the play? Such evidence as there is would seem
-                    to support the view that Hand V's participation in the prompt-book may indeed
-                    represent a later reworking of an earlier production. Hand V supplements or
-                    cancels prompt-notes by other hands, but his own annotations are never
-                    superseded or supplemented. The beginning of II.i shows perhaps the clearest
-                    example of Hand V's work. His addition to (or perhaps substitution for) Hand
-                    II's setting (`&lt;Ca&gt;stle') of `ye Shipps' and his handling of the Folio
-                    three Gentlemen, whom he reduces to two, appearing to  supersede (or
-                    at least supplementing) Hand I's treatment, as well as his cancelation of
-                    prompt-notes by Hand ?III (lines 20, 49-51) and Hand VI (lines 73-74, 75), aimed
-                    at getting rid of the gun salutes (lines 55, 94), all strongly suggest a
-                    probable reworking of the scene as originally planned. But there is little here
-                    to tell us whether Hand V's revisions represent changes for a later separate
-                    production or were made as the final stage in the initial preparation of the
-                    prompt-book. Perhaps however, Hand V's cancellation of prompt-notes by hands
-                    other than Hands I and II, who may be credited with preparing the first rough
-                    draft of the prompt-book, may be taken as evidence that Hand V's work represents
-                    a distinct new production. If this is so, and I would say the evidence in II.i
-                    and elsewhere[20] seems generally to support such a
-                    view, we must assign a date for the original production as somewhat earlier than
-                    the years associated with Hand V's intervention (i.e. shortly before 1680,
-                    1682-83, or possibly 1684-85). How much earlier there is no certain way of
-                    knowing, but the general community of prompt-hands, particularly Hand II, with
-                    other Smock Alley promptbooks, none of which can be shown to be earlier than
-                    1675, suggests a date in the later part of the 1670's.  The Othello prompt-book is, unfortunately, incomplete, lacking six pages
-                    (795-800, sigs. 3X5-3Y1 in F3) of the text from II.i.88 to III.iii.19 and the
-                    final page (817, sig.3Z4 in F3), containing the concluding lines of the play
-                    (V.ii.360-371), a total of 735 lines.[21] The loss of
-                    these sections of the text makes it very difficult to determine the exact amount
-                    of cutting undertaken for the Smock Alley production (or productions). In  what remains of the prompt-book, roughly around 326 lines have been
-                    marked, by one hand or another, for omission, but we can only guess at the
-                    extent of the cutting in the missing pages. Of the 723 lines lost between
-                    II.i.88 and III.iii.19, the eighteenth-century acting texts cut somewhat over
-                    two hundred lines, including the whole of II.ii (the proclamation scene), III.i
-                    (the clown scene), and III.ii (Othello giving letters to be sent to Venice).
-                    Although the Clown was originally retained in the prompt-call by Hand I at the
-                    opening of III.iv, a later hand (Hand ?III) has deleted his entry and cut lines
-                        1-22.[22] It seems likely, therefore, that the
-                    Clown's earlier appearance in III.i (some 30 lines) was also deleted at the same
-                    time, but whether the rest of the scene (another 28 lines) was also cut, as in
-                    the eighteenth-century acting texts, or retained, as in the Collier MS cutting,
-                    must remain uncertain. Since the amount of cutting in other parts of the Smock
-                    Alley Othello is comparatively light, we may perhaps suggest a total of
-                    about 95 lines cut in the missing six pages. This would give an over-all total
-                    of around 421 lines cut and leave a final acting version of about 2,808 lines, a
-                    stage text considerably longer than any found in the eighteenth-century acting
-                    texts and Kemble.[23] Marvin Rosenberg, in his interesting stage-history, The Masks of Othello
-                    (1961), has analyzed a number of the cuts in the Smock Alley PB and finds there
-                    some attempt being made to "refine" both Othello and Desdemona in accordance
-                    with  the doctrine of decorum, citing Thomas Rymer's famous attack on
-                    the play and its principal characters.[24] While I
-                    would agree that questions of decorum may play some slight part in the pattern
-                    of cutting, probably under the influence of Thomas Betterton's "heroic"
-                    conception of the role of Othello (noted by Rosenberg; see, perhaps, I.iii.273;
-                    III.iii.24, 180-183; IV.i.35-44, IV.ii. 56- 64, 161-165), I suspect that the
-                    real reason for deleting `Exchange me for a Goat' in III.iii.180-183 was more
-                    concerned with a desire to get rid of the difficult language in the following
-                    lines than with the possible indecorum in the reference to such a vulgar animal
-                    as a goat. In III.iii.345-357, Othello's famous "farewell" to his "occupation,"
-                    which is reduced to some four lines,[25] it is
-                    possible to see "refinement" at work, perhaps, in the cutting of lines 345-347,
-                    but that the latter part of the speech was cut because of an over-bombastic,
-                    rhetorical tone, unsuitable to the heroic Othello (as Mr. Rosenberg suggests)
-                    seems very questionable. The speech was left untouched in eighteenth-century
-                    acting versions and singled out for special praise by Francis Gentleman (see the
-                    Collations). More simply, I think, what is behind the cutting here, and for the
-                    most part in the remainder of the play, is a desire to shorten the play somewhat
-                    by deleting what seemed to the reviser(s) non-essential lines and passages, in
-                    two cases perhaps under the influence of Quarto 1 (see IV.iii.22-57, 88-102).
-                        [26] And, although one may note the occasional
-                    deletion of passages with special sexual reference (as in III.iii.345-347,
-                    IV.i.35-44, or IV.ii. 56-64), other passages equally or more explicitly sexual
-                    remain untouched. Moreover, although the eighteenth century completely deleted
-                    Othello's trance scene in IV.i, excised the character of Bianca from the play
-                    and Othello's brief appearance in V.i., each in its way, we may assume,
-                    considered  offenses against aspects of the doctrine of decorum, the
-                    Smock Alley PB retains them essentially uncut.[27] In
-                    other words, decorum or refinement in eighteenth-century terms played a very
-                    small part in the production of the Smock Alley PB.  As in the other Restoration theatre versions generally, the reviser(s) at Smock
-                    Alley either jettisoned "hard" or obsolete words and phrases (for example,
-                    I.i.16; I.ii.17, 56, 89; II.i.63-65; III.iii.287; IV.ii.30) or substituted other
-                    readings (for example, I.i.39; I.ii.17, 22; I.iii.275; II.i.8-9; V.i.22). He (or
-                    they) also shows a knowledge of the earlier quarto editions, particularly Q2-3
-                    and possibly Q1 and Q (1681)[28](see I.i.110; I.ii.22;
-                    I.iii.110, 159, 261, etc.), a knowledge that argues for a close connection
-                    between the Smock Alley PB and the current London performances, which, according
-                    to the 1681 quarto, used the quarto version stemming from Q2 (1630). Since there
-                    was a continual exchange between the London theatres and Smock Alley, it is fair
-                    to assume that many of the cuts and other changes, which now appear for the
-                    first time in the Smock Alley PB, were in fact importations from London and that
-                    the Smock Alley PB preserves for us in its essentials Othello as it was
-                    performed in Restoration London. Another indication of this influence is the
-                    large number of cuts common to the Smock Alley PB and the eighteenth-century
-                    London acting versions (see the Collations), since the line of influence would
-                    certainly not be through Smock Alley. On the other hand, the Smock Alley PB has
-                    a substantial number of cuts (for example, I.ii.19-24; I.iii. 83-87; II.i.36-42;
-                    III.iii.351-357) and some twenty-eight readings (I.i.39, 159; I.ii.12, 17;
-                    I.iii.59, 258, 264, 274, 279, 374; II.i.8-9, 10, 34 (bis), 53, 56-57,
-                    59, 60,66-67; III.iii.135, 137,393,455,478; IV.i.22; IV.ii.74; V.i. 14, 22)
-                    which are either unique or anticipate later editorial emendations. There is, of
-                    course, no way of determining whether at least some of these cuts or readings
-                    are really peculiar to Smock Alley or whether they represent details of the
-                    London tradition that failed to leave their mark on later stage practice.  The stage settings used for the Smock Alley Othello seem to be almost
-                    entirely stock scenes, all but one (`ye Shipps' II.i) being employed at least
-                    once in other Smock Alley Shakespeare  prompt-books.[29] They are: `Towne' (I.i); `Presence' (I.iii, IV.ii
-                    [later replaced]); `Castle' (II.i, V.i); `ye Shipps' (II.i [perhaps a rear
-                    shutter to be used with `Castle']); `Chamber' (III.iv); `Court' (IV.i
-                    [replaced]); `pallace' (IV.i); `Anti-Chamber' (IV.ii); `Bed Chamber' (V.ii
-                    [presumably the same as `Chamber' with the addition of a bed]).[30]1. The Smock Alley Othello promptbook is now in the
-                        Folger Shakespeare Library, Washington, D.C., and is here reproduced by the
-                        kind permission of the Trustees.2. It has only recently been pointed out that `Charles' took the
-                        roles of Peto and Page in II Henry IV. Gunnar Sorelius discovered
-                        twenty-seven cuttings (from the Smock Alley Third Folio) of I Henry
-                            IV and twenty-four of II Henry IV in the
-                        Halliwell-Phillipps' scrapbooks in the Shakespeare Memorial Library in
-                        Stratford-upon-Avon (I Henry IV: Vols. I-III, VI, IX; II Henry
-                            IV: Vols. III-VI) and has published an account of what remains of
-                        these Smock Alley prompt-books (including the earlier known single fragment
-                        of I Henry IV in the Folger Shakespeare Library) in the
-                            Shakespeare Quarterly ("The Smock Alley Prompt-Books of
-                            I and 2 Henry IV," XXII (1971), 111-128). In addition
-                        to the appearance of `Charles' in II Henry IV, Trefusis played the
-                        First Carrier in II.i of I Henry IV and Powell (perhaps George
-                        Powell, son of Martin Powell, also an actor, who, with his father, appears
-                        with the United Company in 1686-87), the Second Carrier. From the Folger
-                        fragment it was already known that Longmore (who continued to play at Smock
-                        Alley into the eighteenth century) played the Chamberlain in II.i and II.ii.
-                        In the dramatis personae list for II Henry IV in the Third
-                        Folio (sig. 212v) Sorelius found the names of the actors
-                        who played the `Irregular Humorists': Poins by `Shepheard', Falstaff by
-                        `Baker', Bardolph by `Eales', Pistol by `Gilbert', `Charles', as already
-                        noted, playing Peto and Boy. Except for `Charles', none of these names
-                        appears elsewhere in the Smock Alley prompt-books. Francis Baker has long
-                        been known to have played Falstaff at Smock Alley before 1685, but this is
-                        the first evidence tying him directly to the role. Of the others, apart
-                        perhaps from `Charles' [?Ashbury] nothing is known.3. Allan Stevenson ("The Case of the Decapitated Cast or The
-                            Night-walker at Smock Alley,"SQ, VI [1955],
-                        291) suggests that we might "just possibly" read the second name as
-                        `&lt;P&gt;ink' (i.e. William Pinkethman). Pinkethman appears in the cast of
-                        the Smock Alley Belphegor about 1677-78 (see later discussion).4. William Smith Clark, The Early Irish Stage: The Beginnings
-                            to 1720 (1955), pp.207-209. Clark does not mention
-                        `Charles'.5. Stevenson, p. 290.6. Othello was produced at Smock Alley, very shortly
-                        after the Restoration, in late 1662 (see Clark, p. 61), but this production
-                        could have had no direct connection with the present prompt-book, since it
-                        could not have used a copy of the Third Folio (1663/64) as a basis for its
-                        prompt-book.7. Ed. by William Van Lennep, 1965 (Critical Introduction by Emmet
-                        L. Avery and Arthur H. Scouten).8. We are forced to work with such evidence as we possess, but it
-                        should be pointed out that these dates are less definite than they might
-                        seem for two special reasons: (1) because an actor can be shown to have
-                        taken part in a performance during a given season does not mean that he (or
-                        she) necessarily remained with the company throughout the season (he may
-                        have acted elsewhere, Smock Alley, for example); (2) on the other hand, the
-                        fact that his name is not associated with say the Duke's Company, or later
-                        the United Company (from the 1682-83 season on), for other performances (or
-                        indeed for any performances) during a particular season does not mean that
-                        he did not act various unrecorded roles during that season, since our
-                        records of the personnel of the London companies for any given year depend
-                        most frequently upon occasional theatre documents and actor lists (printed
-                        or manuscript) attached to published versions of the plays performed. More
-                        often than not we simply do not know who performed in the bulk of the
-                        productions for the season in question.9. Folger MS. V.b.109 (formerly 827.1). The scribe is the same as
-                        the one responsible for copying out the missing pages in the Smock Alley
-                            Merry Wives of Windsor prompt-book, and as Eland VI in
-                            Hamlet. There are numerous textual revisions in Wilson's hand,
-                        but whether they are connected with the Smock Alley production or with the
-                        much later London production (1690) is not now clear. This prompt-book was
-                        unknown to M. C. Nahm (John Wilson's "The Cheats," 1935), who is
-                        the principal source of biographical information on Wilson.10. Stevenson, p. 293.11. Clark, pp. 81-82.12. Freeman played the role of Belzebub (46 lines, of which 15
-                        have been cut; roughly comparable to his role of Montano in
-                        Othello, 60 lines, amount of cutting uncertain because of missing
-                        pages in the prompt-book). Of Barnes, who was introduced as a `Boy' to sing
-                        a single lyric, (his part as a Sailor in Othello is even slighter,
-                        four lines), nothing is really known, although Clark (p. 207) gives "c.
-                        1675-C. 1680" as the span of his acting career at Smock Alley. The only
-                        evidence for these dates is Clark's dating of Belphegor in 1677-78,
-                        a date which I am inclined to accept (see discussion above). All we know
-                        further is that a `Mr. Barns' (or `Barnes') turns up as a member of the
-                        United Company in London in the seasons of 1689-90 and 1690-91, at which
-                        times at least six other actors formerly associated with Smock Alley are
-                        also members of the company.13. The London Stage (Part l: 1660-1700), ed. William
-                        Van Lennep, 1965) furnishes the following information: (1) George Bright
-                        first appears on the London stage (Dorset Garden) in 1678-79 (April 1679),
-                        then in 1679-80 (June 1680), 1681-82 (November 1681; January 1682), 1682-83
-                        (November 1682; May 1683), 1683-84 (December 1683; March 1684); (2) Mrs.
-                        Osborne first appears on the London stage (Dorset Garden) in 1671-72
-                        (September 1671; January 1672; August 1672), then in 1672-73 (November 1672;
-                        March 1673; May 1673); 1674-75 (November 1674), 167576 (July 1676), 1677-78,
-                        (September 1677),1679-80 (February, 1680), 1681-82 (November 1681, twice;
-                        January 1682) 1682-83 (May 1683), 1684-85 (August 1685). This evidence,
-                        coupled with that on Freeman, suggests that the second and third dates for
-                        the Belphegor production are unlikely, first, because, though
-                        Bright and Mrs. Osborne appear to have been absent from the London stage in
-                        1680-81, Freeman was performing at Dorset Garden in those years (December
-                        1680 and January 1681); and, second, because, though Freeman was apparently
-                        available for Smock Alley in 1682-83, Bright and Mrs. Osborne (Bright
-                        particularly) were acting in London during that season. We are left,
-                        therefore, with the earliest proposed date (1677-78). For this date the
-                        evidence as far as Freeman and Bright are concerned is negative (i.e., there
-                        is no record of their performance in London at this time), but Mrs.
-                        Osborne's London record shows that she could have been playing at Smock
-                        Alley at any time between October 1677 and January 1679.14. Apart from the appearance of Freeman and Barnes in both casts
-                        there are perhaps two other slender connecting links between the
-                            Othello and Belphegor prompt-books: (1) the main
-                        prompt-hand in Belphegor may be the same as Hand VI in
-                            Othello (I am much less sure of this than I was formerly, see
-                        Vols. I and IV of this series, pp. 17 and 3 respectively); (2) in both
-                        instances where Barnes' name appears in the prompt-calls in
-                            Belphegor (pp. 36, 37), it appears to be inserted by a hand
-                        different from the main prompt-hand. This second hand may be, though again I
-                        cannot be sure, the same as Hand V in Othello the hand responsible
-                        for Barnes' and the other actors' names, where Hand V also inserts an
-                        actor's name into another hand's advance call (see I.ii.79-82, I.iii.
-                        (opening), II.i.1-5).15. Stevenson (p. 284) is wrong when he argues that Francis
-                        Baker, who played Falstaff (see note 2), was in London by 1683. He
-                        interpreted literally a misprint in the actors' list of Edward Ravenscroft's
-                            Dame Dobson (1684; acted May 1683 at Dorset Garden) that
-                        assigned the role of Mrs. Francis to `Mr. Baker' instead of, as properly, to
-                        Mrs. Baker. Van Lennep (The London Stage, Part I, p. 319) silently
-                        corrects the error.16. General Introduction, Vol. I, Part i, pp. 19-20. A single
-                        unique agreement at III.iii.362 between the Smock Alley PB and the 1681
-                        quarto edition of Othello (see the Collations) is perhaps
-                        suggestive but does not in itself rule out a date before 1681 for the
-                        version of the Smock Alley PB connection with Hand V. There is possibly some
-                        influence of Q(1681) at III.iii.135, where its error might lead to Hand II's
-                        unique emendation.17. "Shakespeare on the Stage in Restoration Dublin,"
-                            PMLA, LVI (1941), 373.18. See particularly I.i.159; I.iii.342 (and IV.iii.25); III.iv.
-                        (opening s.d.); V.ii. (opening).19. I have come to the belated conclusion that Hands I and II in
-                            Hamlet and Macbeth, Hand I in Lear,
-                            Twelfth Night, and Henry VIII, and Hand II in
-                            Othello and I Henry IV are in fact all the same hand.
-                        This conclusion, of course, vitiates my treatment of this hand in the Smock
-                        Alley Hamlet and Macbeth prompt-books (Vols. IV and V) of
-                        this series and telescopes what, in the General Introduction (Vol. I, p.
-                        17), I called Hands A and C. I should also  add here that what I treat
-                        as Hands III and VII in Hamlet are, I now believe, a single hand. I
-                        apologize for what I now consider to be these serious errors, but anyone who
-                        has tried to disentangle seventeenth-century hands, especially prompt-book
-                        hands, will, I trust, feel more sorrow than anger.20. See the Collation at III.iii.422; III.iv.60-67; IV.i.152-163,
-                        177-186, 225; IV.ii (setting), 168; V.ii (setting), 222-226, 243-
-                        248.21. Although the reason for the loss of these four leaves can
-                        only be guessed at, it seems highly likely that the agent of loss here, as
-                        elsewhere in the Smock Alley prompt-books, was Halliwell-Phillipps. Since
-                        the last page of Othello (817) in F3 was the recto of the first
-                        page (818) of Antony and Cleopatra, it is almost certain, when the
-                        Smock Alley F3 was broken up by Halliwell-Phillipps and the plays bound
-                        separately, that this page was included with Antony and Cleopatra
-                        (now lost). The Smock Alley Macbeth and Hamlet offer an
-                        exactly analogous case (see Vol. V, Part i, p. I of this series). The other
-                        six missing pages (795-800) were most probably either (1) detached for
-                        special exhibition purposes and never reassembled (compare the treatment of
-                        four leaves in the Smock Alley Macbeth) or (2) cut up into
-                        fragments and pasted into one of Halliwell-Phillipps' many scrapbooks
-                        (compare the scandalous treatment of the Smock Alley I and II
-                            Henry IV referred to above in Note 2). Someday, we may still hope,
-                        all four leaves may be recovered. Professor Gunnar Sorelius (see note 1) has
-                        kindly assured me that the missing leaves are not lurking in the Stratford
-                        or Folger Halliwell-Phillipps' scrapbooks.22. The Clown appears in the cast list in the 1681 Player's
-                        Quarto as played by Joseph Haines in a performance associated with Drury
-                        Lane in January of 1675. So far as I know, there is no evidence of his
-                        omission on the London stage during the seventeenth century (his omission in
-                        an incomplete MS cast list of c. 1690-91 is inconclusive; see The London
-                            Stage, I, 387).23. The Smock Alley Othello PB has been compared
-                        throughout in matters of staging, cutting, additions, etc. with five
-                        eighteenth-century acting versions and one from the early nineteenth
-                        century, as well as with the Collier MS (see the Collations). Using Alfred
-                        Hart's figure of 3,229 as the total number of lines in an uncut
-                            Othello text (R.E.S., VIII [1932], 21), we may offer
-                        the following rough estimates of comparative length: Smock Alley PB, 2,808
-                        (cutting 421 lines); 1755 Witford edition (Covent Garden), 2,384 (cutting
-                        845); John Palmer PB for 1766 (in a copy of the Hitch-Hawes 1761 edition),
-                        2,363 (cutting 866); anonymous 1755 PB (in a copy of the Witford 1755
-                        edition), 2,266 (cutting 963); 1764 Garland-Exshaw edition (Drury Lane),
-                        2,315 (cutting 914); Bell's acting edition (Drury Lane, 1773), 2,429
-                        (cutting 800); J. P. Kemble's acting edition (Covent Garden, 1804), 2,539
-                        (cutting 690). Occasional references are made to a 1770 acting edition with
-                        Drury Lane and Covent Garden casts for 65 and to the R. Butters edition (c.
-                        1788; Covent Garden). The Collier MS (in a copy of the Second Folio, 1632)
-                        suggests cutting only about 293 lines in all, 83 of these falling in the
-                        central missing section of the Smock Alley PB.24. Rosenberg leaves the impression that Rymer's criticism of
-                            Othello might have had some direct influence on the cutting in
-                        the Smock Alley PB. Considering the date of the Smock Alley PB (not later
-                        than 1684-85) and the date of Rymer's critique in A Short View of
-                            Tragedy (1692), any such direct influence seems impossible. See
-                        also an earlier article by Rosenberg on Othello on the
-                        eighteenth-century stage in SP, LI (1954), 75-94.25. The last part of line 357 (`Othello's Occupation's
-                        gone.') is wrongly included as part of the cut by Rosenberg.26. These cuts, which more or less follow the Q1 text (1622),
-                        may, of course represent an earlier stage tradition and thus indicate no
-                        necessary connection with Q1. The scene is even more heavily cut in the
-                        eighteenth-century acting texts and Kemble (see Collations).27. In V.i the last three lines (34-36) are marked for cutting,
-                        mainly, I suggest, because of textual difficulties (particularly in
-                        F3).28. See notes 16 and 26.29. See the list of Smock Alley stage settings in Vol. I, Part i,
-                        of this series (pp. 23-24). The recent discovery of parts of the Smock Alley
-                            I Henry IV and II Henry IV (see note 2) makes it
-                        possible to add three scenes to the above list: I Henry IV,
-                        `chamber of State' (I.i. [replaced]); `Stable' (II.i); `Camp' (IV.i, iii;
-                        also II Henry IV, IV.i).30. Compare `Chamber without ye Bed' in Smock Alley Merry
-                            Wives, I.iv, and Smock Alley Hamlet, II.i.  </field><field name="file_s">ShaOthP</field></doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e826</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_1.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">I.i.Image of prompt-book page 788(opening) Towne / [line]] Hand II. 1755,
+                            1764, Bell, Kemble give the scene as `a Street in Venice'
+                            (after Theobald); Palmer PB adds: `4 B-Letter's / 1 with Cries / Balcony
+                            PS. /  / Ryalto 1:st gr.' (
+                            indicates "whistle for change of scene"; '1:st gr.,
+                            means first groove and refers to the position for the `Ryalto'
+                            scene).16 certes,] Circled and crisscrossed. Pope
+                            irons out the line by omitting `For' before `certes', but the change
+                            here is almost certainly to get rid of an archaic word.20-21 Brabantio / &lt;a&gt;boue] Hand I. Point of entrance marked with crossed line at
+                                81. See 36-41. below.21 A fellow . . . wife] Circled and crossed
+                            through. The beginning of 20-24 is damaged by having been glued down and
+                            then separated. Deletion is an obvious way of getting rid of a famous
+                            crux. 1764, Bell, Kemble also delete, but adopt `a fellow' in place of F
+                            `a Florentine' in 20; 1755 reads `--(the Florentine's / A
+                            fellow almost damn'd in a fair phyz;)--'; Palmer PB alters 
+                            1755 to `--(a Florentine / A fellow . . . phyz;)--'; 1770 reads
+                            as 1755 but adds `fair' before `fellow'.25-26 Wherein the . . . he,] Circled and
+                            crossed through. The line in the left margin is an off-print from p.
+                            789. All 18th-century acting texts and Kemble cut 24 (`Unlesse . .
+                            .')-31; so also Collier MS.29-30 and on . . . Heathen)] Circled and
+                            crossed through. See 25-26, above, for 18th-century acting texts,
+                            Kemble, and Collier.31 By Debitor, and Creditor.] Circled and a
+                            colon placed after F `calm'd' at the end of 30.36-41 [line] / &lt;Bra&gt;bantio / &lt;a&gt;boue /
+                                [line]] Hand I. This call, though probably earlier,
+                            duplicates that at 20-21.39 justice ought] Hand III alters F `just terme
+                            am Affin'd' to `justice ought' [or `aught'] by altering F `ter' to
+                            `ice', deleting the rest of the line, and adding `ought' after it. 1755,
+                            1764, Bell read the line as `If I in any just term am assign'd' (`If'
+                            from Pope; `assign'd' from Q1).40-41] The ink blots on these lines do not
+                            indicate any deletions. The page is again damaged at the beginning of
+                            42-43.48 old, Casheer'd.] Some hand has inserted a
+                            comma after F `old' (as in Rowe). 1755, 1764 cut 43-60; Bell, Kemble,
+                            43-58; Collier MS, 43-57.53 lin'd their] Some hand crosses out F `in'
+                            following `lin'd' (a reading found only in F3-4).72 on's] The ink blot again seems to be
+                            accidental.82-84] A hole in the page affects the beginning
+                            of these lines.Image of prompt-book page 78987 Your heart is burst,] Circled and crossed
+                            through. Butters edition (c. 1788) cuts as in PB; 1755, Bell cut 86
+                            (`for . . .')87; Kemble, 86-89 (`put . . . Ewe'); 1764, curiously,
+                            retains the whole speech. Gentleman (Bell) remarks about 88-89 (`Even .
+                            . . Ewe.'): "The lines distinguished by italics, for sake of decency,
+                            should be omitted, though usually spoken."102 Brabantio / servants] Hand I. Point of entrance marked with a crossed line at
+                                160. Palmer PB calls for `3 Serv:ts / w:
+                                t Lights'.104-106] The ink blot on these lines is again
+                            accidental.110 service, you] Some hand crosses through F
+                            `and' before `you', following the reading of Q1-3, Q (1681). 1755, Bell
+                            cut 107-111 (`. . . Ruffians,'); Kemble, 108 (`Because . . .')-114.
+                            Gentleman (Bell), as "an eligible means of avoiding an offence to
+                            decency," suggests cutting 107-119.147-152 [line] / Othell&lt;o&gt; / Iago /
+                                Attenda&lt;nts&gt; / [line]] Hand I. Point of entrance marked with crossed line at beginning of scene
+                                ii.159 Sagitary by the] Some hand inserts, with a
+                            caret, `by' after F `Sagitary'. Apparently the reviser takes F `Lead' as
+                            `Led'. Kemble adopts `Sagittar', the Q1 reading.168-173 [line] / Cass&lt;io&gt; / [line] /
+                                Cashi&lt;o&gt; [crossed through] / [line]] Hand I
+                            first wrote `Cash&lt;o&gt;' (this is the first call for the character);
+                            Hand II then crossed it out and wrote `Cass&lt;io&gt;' above. Hand I's
+                            form probably represents the common pronunciation of Cassio's name.
+                                The point of entrance is marked with a crossed
+                                line at I.ii.33. Palmer PB gives Cassio `3 Serv:ts / w:t Lights'; Kemble, at
+                            I.ii.33, has `Enter Servants with torches, Cassio, Giovanni,
+                                and Luca.'.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e977</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_1.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">I.ii.(opening)] PB indicates no change of scene,
+                            nor does Butters. 1755, 1764, Bell give the setting as `another
+                                Street before the Sagittary' (Theobald, after Rowe); Kemble
+                            gives `Another Street.'. Palmer PB does not delete the 1755
+                            setting but adds: `0 / French / Town / 1 st Gr.' (this failure to delete
+                            the 1755 setting, when a new setting is substituted, is regular in
+                            Palmer PB).4 times] The ink blot on `times' is an off-print
+                            from the facing page (788).12 the Magnifico] Some hand crosses through F
+                            `That' before `the'.Image of prompt-book page 79016-19 [line] / &lt;Br&gt;abantio / &lt;Rod&gt;origo /
+                                &lt;Off&gt;icers / [line]] Hand I. Point
+                                of entrance marked with crossed line at 54. Palmer PB's call
+                            substitutes `Servants' for `Officers'.17 liberty] Hand I crosses through F `Cable'
+                            and substitutes `liberty' after it.19-24 `Tis yet . . . reach'd.] Circled. The
+                            deletion of these lines would seem to be somewhat later work than Hand
+                            I's `liberty' at 17, above, since Hand I also makes a substitution in 22
+                            (see below).22 height] Hand I crosses through F `Siege' and
+                            substitutes `height' (the reading of Q1-3, Q (1681)) above. The
+                            18th-century acting texts, and Kemble retain F `Siege'.40-44 The Gallies . . . already.] Circled.
+                            1755, 1764, Bell, Kemble cut 40-44 (`It . . . already.').56 Othel. Holla, stand there.] Crossed
+                                through.56-62 [line] / &lt;Duk&gt;e / &lt;Sena&gt;tors /
+                                &lt;Offic&gt;ers / [line]] Hand I. Palmer PB calls for `Duke
+                            / Senators / Behind'. 1755, 1764, Bell replace F `Officers'
+                            with Q1 `Attendants' in the opening s.d. at I.iii, bringing an
+                                `Officer' on at 9; Kemble gives the opening s.d. at I.iii
+                            as `The Duke, Gratiano, Lodovico, seven other Senators, and
+                            Marco, in waiting, discovered.' and at 9 gives
+                                `Enter Paulo, and a Sailor'; 1764 has `Enter
+                                Sailors.' at 9.63 &lt;Totterd&gt;ell / &lt;W&gt;almsly 2 / &lt;
+                                &gt;oin i Tref: &amp;c: / &lt; &gt;ick] Hand V. The readings `&lt; &gt;oin' and `&lt; &gt;ick' are
+                            uncertain. See the Introduction, p. 2, for what is known or conjectured
+                            about these actors. Presumably, the actors here named are to play the
+                            characters entering at the beginning of scene iii. `&lt; &gt;oin' and
+                            `&lt;W&gt;almsly' can be assigned as `1. Sen.' and `2.
+                                Sen.' and probably Trefusis as the Officer (at 12). This
+                            would seem to leave `&lt;Totterd&gt;ell' as the Duke, but such an
+                            assignment for Totterdale at this point in his career would seem
+                            unlikely. Clark (Early Irish Stage, 1955, p. 76) gives
+                            Totterdale the role of an officer, but the order of the PB entry would
+                            seem to support Trefusis' claim to that role. Perhaps, however, the
+                            `&amp;c:'after Trefusis' name implies that he and others came on to
+                            "swell the scene" as other Senators and Officers. Whether the mysterious
+                            `&lt; &gt;ick' should be interpreted as the remains of an actor's name
+                            is not at all certain. Under other circumstances I would propose
+                            `&lt;mus&gt;ick', but there seems no reason to open scene iii with music
+                            of any kind.79-82 [line] /Salor / Mr Barnes / [line]]
+                            Hands I and V. Point of entrance marked with crossed
+                                line at I.iii.13. Bald (p. 373) suggests that the hand in `M'
+                            Barnes' may not be the same as that in the prompt-note at 63, above, but
+                            I can see no cause for questioning their identity. Palmer PB calls for
+                            `Messengers / Sailors / a Letter', though it (as well as 1755, Bell)
+                            omits the Sailor's cry within (also 1764, Kemble) and gives his later
+                            speech (14-16) to a Messenger; Kemble, 1764 retains 14-16 for the
+                            Sailor.85, 87, 88 till . . . obey] Some hand has
+                            traced over in ink the F `ti' in `till', `obe' in `obey', and the second
+                            `e' in `therewith'.89 about my side] Crossed through.91 Cass.] Hand I crosses through F
+                                `Officer.' and assigns the speech to `Cass.'. So also,
+                            1755, 1764, Bell, Kemble. The line drawn at the end of this line to the
+                            right margin, and there crossed, does not appear to have any
+                            function.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e1100</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_1.3</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">I.iii.(opening)  / Presence.] Hand II.
+                            Clark (Early Irish Stage, p.74) interprets `Presence' as
+                            meaning "a presence chamber with a chair of state." 1755, 1764, Bell
+                            give the setting as `the Senate-house' (after Rowe); Palmer PB
+                            gives ` Saloon. 3:d gr. / Table / 8 Chairs
+                            / 1 Great Do. / Lights / Pen Ink &amp;c' (
+                            is another symbol for "whistle for a change of scene"); 1755 PB also
+                            uses the whistle symbol for a change of scene; Kemble gives `A
+                                council-chamber' (after Capell).(opening) Mesinger / [line] / Charles /
+                                [line]] Hands I and V. For `Charles' (? Ashbury), who is to
+                            play the role of the Messenger, seethe Introduction, p. 2.4-11 Brabantio / Othello / Cassio / Rodorigo /
+                                Officers] Hand I. Point of entrance marked with crossed line at
+                                47. Palmer PB, in its call, substitutes `Gents' for F
+                                `Officers' and crosses out `Cassio' in the actual
+                            entry, though including him in the call; Kemble substitutes `Giovanni,
+                                and Luca' for F `Officers'.10-12 I doe . . . sense.] Bracketed. 1755,
+                            1764, Bell, Kemble cut 10-12, including also the Sailor's cry within;
+                            1755 PB cuts everything down to Brabantio's entrance at 48.Image of prompt-book page 79114 Barnes Saylor.] Hand V inserts
+                            `Barnes' before F `Saylor.'. See above, I.ii.79-82.18-30 `Tis a . . . profitlesse.] Circled. 1755,
+                            1764, Bell, cut 17-18 (`This . . . Reason.'), 19 (`when . . .')-30;
+                            Kemble cuts 19 (`when . . .')-31; Collier MS cuts 21-30. See 10-12 for
+                            1755 PB.32 s.d. cha: [line] / Messenger.] Hand
+                            V inserts `cha:' and a line above F `Messenger.'.59 1. Sen.] Some hand (probably Hand
+                            II) has inserted `1.' before F `Sen.'; 1755, Bell retain the F
+                            speech-prefix, probably meaning "Senators"; Q1-3, Q (1681), and 1764
+                            read `All.'; Kemble assigns to `Duke.'.63 Being] The ink blot on `in' in F `Being' is
+                            an off-print from the prompt-note on the facing page (790).66] Below this line, left bottom margin, some
+                            hand has written an apparently meaningless `there'.83-87 For since . . . Battle,] Circled. The ink
+                            lines in the right margin here and above appear to be meaningless, in
+                            part an off-print from the facing page (790).89 your] The ink blot on `ur' of F `your' is
+                            accidental. The same is true of F `you' in m 8.94 Maiden never] The F comma after `Maiden' has
+                            perhaps been deleted (so in Q1-3, Q (1681), Kemble).110 1. Sen.] Presumably the same hand
+                            (Hand ?II) as at 59 has inserted `1.' before F `Sen.', as in
+                            Q1-3, Q(1681). 1755, Bell, Kemble cut 107-110 (`. . . him. / But') and
+                            continue 110-114 (`. . . affordeth?') to the Duke; 1764 cuts 106-110
+                            (`To . . . him. / But').Image of prompt-book page 792125-130 [line] / &lt;De&gt;sdimona / &lt;Ia&gt;go: /
+                                &lt;Atte&gt;ndants / [line]] Hand I. Point of entrance marked with crossed line at 170. Palmer PB
+                            calls for `Desde: / Iago / Roder: / [double line]' (although not marked
+                            Roderigo must have exited with Iago at 121, as in Bell, Kemble).142 Such was my Processe,] Crossed through.
+                            Part of a larger cut in 1755, 1764, Bell (139-145 [`. . . shoulders.']),
+                            which is replaced by: `Of battles bravely, hardly, fought; of victories
+                            / For which the conqueror [conquerors 1764] mourn'd, so many
+                                 fell: / Sometimes I told the story of a siege, /
+                            Wherein I had to combat, Plagues and Famine [famines 1764]; /
+                            Soldiers unpaid; fearful to fight, / Yet bold in dangerous mutiny.'
+                            (authorship unknown); F lines restored in Kemble.159 sighs] Hand IV crosses through F `kisses'
+                            and substitutes `sighs' (the reading of Q1-3, Q (1681)) following it. So
+                            18th-century acting texts and Kemble (following Pope).171 my] The ink blot on `y' in F `my' is an
+                            off-print from a MS correction on the facing page (793).191 I had . . . it.] Crossed through.202-203 When remedies . . . depended.]
+                            Circled. Part of a larger cut in 1764, Bell, Kemble, all of which cut
+                            195-220 (`For your . . . humbly'), though Kemble retains 198 (`I have
+                            done, my Lord.'); 1755, 1770 retain this couplet, but cut 195 (`For your
+                            sake (Jewell)'), 206-220 (`. . . humbly'), adding Q1-3, Q (1681) `Into
+                            your favour_' following 201 (after Pope); 1755 also cuts 196-205;
+                            Collier MS cuts 204-220 (`. . . humbly').206-209 What cannot . . . grief.] Partly
+                            circled. For 18th-century acting texts and Kemble, see note on
+                            202-203.212-219 He beares . . . eare.] Bracketed. For
+                            18th-century acting texts and Kemble, see note on 202-203.223-226 And though . . . you:] Partly circled.
+                            Cut in 18th-century acting texts and Kemble.Image of prompt-book page 793258 which] Hand III deletes F `y' in `why' and
+                            interlines `ich' above.261 Your voies [sic] Lords,] Hand II
+                            crosses through F `Let her have your voyce.' and substitutes, to the
+                            right, `Your voies Lords,' (from Q1-3, Q (1681)). The 18th-century
+                            acting texts and Kemble also adopt Q1 here and add Q1-3, Q(1681)
+                            `beseech you, let her will / Have a free way.' in place of F `Vouch with
+                            me heaven,'.264-269 or to comply / with heat] Hand II
+                            substitutes these words, to the right of 263-264, for F 264-269 (`Nor to
+                            . . . me.'), which appear to have been circled in two stages: first
+                            264-265. second 266-269 (F `you' has been separately crossed through in
+                            267). 1764, Bell cut 264-265; 1755 retains 264-269 (reading `distinct'
+                            [after Theobald] for F `defunct' in 265); Kemble cuts 262-275; Collier
+                            MS cuts 264-266.273 Let Housewives . . . Helme,] Crossed
+                            through by Hand ?II. Cut in all 18th-century acting texts and Kemble;
+                            Collier MS cuts 269-275.274 may] Hand II crosses through F `And' and
+                            substitutes `may' to the left. With the cutting of 273 some change was
+                            necessary; 18th-century acting texts substitute `Let'.275 reputation.] Hand IV substitutes
+                            `reputation.' for F `Estimation.', following Q1-3, Q(1681). Collier was
+                            the first editor to adopt the Q1 reading.279 1. Sen.] Presumably the same hand
+                            as at 110 (Hand ?II) has inserted `1.' before F `Sen.'.
+                            18th-century acting texts and Kemble follow Q1-3, Q (1681) in continuing
+                            279 to the Duke; Dyce, aside from PB, first assigned the line to the
+                            First Senator.292 1. Sen.] The same hand (Hand ?II)
+                            as at 279 has inserted `1.' before F `Sen.', as in Q1-3, Q
+                            (1681). 18th-century acting texts and Kemble, except 1764, cut 292; 1764
+                            assigns as in F; Collier MS cuts the speech.300 and direction] Twice crossed through,
+                            first in light brown ink, second in a darker ink (the same as in 275
+                            above).322-340 'tis in . . . will.] Circled and
+                            crisscrossed. `Cut' (Hand ?III) has been placed, in right margin,
+                            opposite 322 and repeated opposite 339 below. So Bell; 1755, 1764,
+                            Kemble retain 322-323 (` 'tis . . . thus.'); Collier MS cuts 323-330
+                            (`Our . . . wills.'). Gentleman (Bell), on this part of the scene,
+                            remarks that it "is very much, and very properly, reduced, from its
+                            original prolixity."342 Act] Hand ? places `Act' in right margin,
+                            an advance warning call for interact music. The same hand makes the same
+                            notation at IV.iii.25 and does not seem to appear elsewhere in PB. The
+                            little addition problem in shillings and pence in the right margin below
+                            `Act' would appear to be an occasional jotting without any obvious
+                            theatrical connection.363-370 [line] /act re&lt;ady&gt; / [line]]
+                            Hand V repeats the `Act' call at 342. Palmer PB places `Act' at 382.373 My cause is hearted;] Circled by Hand III.
+                            See next note.374 thou hast] Hand III alters `ine' in F
+                            `shine' to `ou' and `th' in F `hash' to `st'. Q1-3, Q (1681) read `shine
+                            has'.Image of prompt-book page 794410 ring. [line]] Hand V's call for interact
+                            music.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e1373</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_2.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">II.i.(opening) ye Shipps] Hand V perhaps
+                            substitutes this scene setting for Hand II's `&lt;Ca&gt;stle.' (written
+                            over something else?) Just below. Clark (p. 74) considers `ye Shipps' as
+                            a rear shutter added to the `Castle' scene. Hand II places the symbol
+                            `' (=whistle for a change of scene) inside the left rule
+                            opposite `&lt;Ca&gt;stle.', preceding the F opening s.d. 18th-century
+                            acting texts give the scene as `The Capital City of Cyprus.',
+                            but Palmer PB gives `Port Tunis /  2: gr. PS'. `Port Tunis' is
+                            obviously a scene adapted from some other play and means that the
+                            suggested Cyprus setting of 1755 was not employed. Kemble gives the
+                            setting as `A Platform before the Town'.(opening s.d) Freem. Trefuse &amp; Cha: [`Cha:'
+                                    crossed through]] Hand V writes in the actors' names above the F s.d.
+                                `Enter Montano, and Gentlemen.'. For the actors involved
+                            (Freeman, Trefusis, and Charles (?Ashbury)), see the Introduction, p. 2.
+                            18th-century acting texts and Kemble cut everything down to Cassio's
+                            entrance at 43. For an explanation of the deletion of `Cha:', see 1-5,
+                            below. Gentleman (Bell) notes: "The Second Act commonly begins here
+                                [i.e. with Cassio's entrance at 43]; yet we think that the
+                            scene which precedes, as originally written, should be retained, as it
+                            contains some fine passages, and raises a pleasing proper anxiety, for
+                                Othello's safety."1-5 [line] / &lt;Gen&gt;tleman [Hand I] /
+                                &lt;Cha&gt;rles [Hand V] / [line]] Hand I calls for
+                            the F entrance of `a Gentleman' at 19, but Hand V, who had originally
+                            brought `Cha:' on at the beginning of the scene as one of two Gentlemen,
+                            decides to bring on only one (Trefusis) and to use `Charles' to play the
+                            F Third Gentleman, who enters at 19 (thus his deletion of `Cha:' above),
+                            and assigns the Second Gentleman's speech at 10 to the First Gentleman.
+                            The Second Gentleman is thus entirely omitted.8-9 can weather it] Hand III substitutes this
+                            phrase for F 8-9 (`when Mountains . . . Morties.'), which has been
+                            circled (`when' separately crossed through).10 1.] Hand V alters F `2.' to `1.' See 1-5,
+                            above.13-17 The wind-shak'd . . . Flood.] Circled,
+                            but `Stet.' placed in left margin, opposite 13-14, by Hand ?IV. Collier
+                            MS cuts 10-19.15-17 [line] / &lt;Ca&gt;ssio / [line]] Hand I.
+                            Point of entrance marked with a crossed line at 42.19. s.d. cha:] Hand V writes `cha:' above
+                                `Gentleman' in the F s.d. See 1-5, above. `cha:' thus
+                            speaks the lines assigned to the Third Gentleman in F.20 &lt; &gt;ns ready [crossed
+                                through]] Reading uncertain, probably `Guns ready' (Hand
+                            ?III). The gun salutes (55 and 94), at one time included in PB, seem to
+                            have been cut out (see deletion of 56-57 and prompt-note at 75),
+                            probably by Hand V. 1755, 1770, Kemble retain the gun salutes; Palmer PB
+                            deletes only the first (55); 1764, Bell (as in PB) cut them both.22] A badly shaved prompt-note, of which the
+                            last letter seems to be `s' (possibly `ts'), appears in the left margin,
+                            possibly `&lt;shou&gt;ts' (?Hand III).25-30 [line] / &lt;Gen&gt;tleman / &lt;Ch&gt;arles /
+                                [line]] Hands I and V. Compare 1-5. Point
+                                of entrance (as the Third Gentleman) marked with a crossed line at
+                                52. Since Charles as the Third Gentleman has been brought on
+                            earlier at 19 and has three  speeches and is marked for a
+                            second entrance at 52, he must be supposed to exit at some point after
+                            his third speech (31-34 (` . . . Tempest.')), perhaps after `Like a full
+                            Souldier.' (36), but no exit is marked. The situation is complicated by
+                            the cutting of 36-42 (`Let's . . . Arrivancy.'). See 36-42, below.34 With a foule] Some hand has interlined,
+                            with a caret, `a' above F `With foule'.34 heaven] Some hand has deleted the final `s'
+                            in F `heavens' (following Q1-3, Q (1681)).34 &lt;*&gt; to speak wth.in] Hand V places this note in the bottom left
+                            margin, below 34, as an advance call for F `Within. A Sail, a
+                            sail, a sail.' at 51. The asterisk before `to' is conjectural, nothing
+                            remaining but two ink marks (the corner of the page has been torn away
+                            at this point); but see the note at 49-51.36-42 Let's to . . . regard.] Heavily circled
+                            and partly crossed through. The cutting seems to have been done in at
+                            least two, perhaps three, stages: 39-40 (`. . . regard.') partly
+                            circled; 39-42 (`Come . . . Arrivancy.') crossed through; 36-42
+                            completely circled. `regard.' in 40 is heavily smudged with ink and some
+                            letter or letters, now illegible, seem to follow it; probably, however,
+                            it is an off-print from p. 795 (now missing).39-42 Disdimona / Iago / Rodorigo / Emilia]
+                            Hand I. Point of entrance marked with crossed line at 82.43 the Isle,] F `warlike' has been crossed
+                            through after `the' (following Q2-3, Q ( 1681 )); Q1 reads `worthy'.49-51 * / Shout. [deleted]] The
+                            asterisk is Hand V's; the deleted `Shout.' probably Hand III's. A
+                            circular line (crossed at the end) has been drawn from the asterisk to
+                            indicate its application to the cry of `A Sail' within at 51; see the
+                            note on 34.53 3dGent.] Hand V inserts `3d'
+                            before F `Gent.'. Q1-3, Q (1681) introduce a
+                                `Messenger' at 51, who also speaks the F call from
+                                `Within.'. Only Bell and Kemble, among the acting texts,
+                            all of which begin the scene with Cassio's entrance at 43, introduce a
+                            special speaker for 53-54 (Bell: `a Gentleman'; Kemble:
+                            Antonio); the others assign 53-54 to `Gent.', one of the
+                                `Gentlemen' entering with Cassio and Montano at 43.56-57 Gent. They do . . . least.]
+                            Circled; before 56-57 were marked for deletion, Hand V assigned the
+                            speech to First Gentleman by inserting `1' before F `Gent.'.
+                            Q1-3, Q (1681) assign to Second Gentleman. Palmer PB, 1764, Bell, Kemble
+                            cut as in PB.57 Trefusis / [line]] Hand V's call for
+                            re-entry of First Gentleman at 65, (point of entrance marked with
+                            crossed line).59 1 Gent.] Hand V inserts `1' before
+                            F `Gent.'. Assigned to Second Gentleman in Q 1-3, Q (
+                            1681).60 wedded] Hand III changes F `wiv'd?' to
+                            `wedded' (or possibly `weded') by altering `iv'd?' to `edded' (or
+                            `eded').63-65 One that . . . Ingeniver.] Bracketed and
+                                crisscrossed. Cut in 18th-century acting texts; retained in Kemble,
+                                but with Q1's reading of 65 (`Does beare all excellency:'; Q2-3, Q
+                                (1681) substitute `an' for `all').66-67 1 Gent. 'Tis one . . . Generall. / Ha's
+                                had] Hand V inserts `1' before F `Gent.' and deletes
+                            F speech-prefix `Cas.', giving the following lines to First
+                            Gentleman (in Q1-3, Q (1681) the lines are assigned to the Second
+                            Gentleman). Palmer PB follows the Quarto arrangement here, but assigns
+                            simply to `Gent.' at 66 as in F.69-72 As having . . . Beauty / letting go]
+                            Circled in two parts: 69-70 (`The . . . Keel,'); 71-72 (`do . . .
+                            Natures,'), thus retaining part of 71 (`As having sense of Beauty').
+                            18th-century acting texts and Kemble cut 69-70.73 (Exit)] Added, to right, by Hand V to
+                            indicate exit of First Gentleman (Trefusis) following 73 (`. . .
+                                Desdemona.').73-74 Ready to cry a sayle [Hand V] /a sale
+                                / a sale [both Hand VI; crossed through]] Both Hand
+                            V's and Hand VI's notations are intended as advance calls for 94, which
+                            occurs on one of the missing pages (495) (see below under 88). See also
+                            next entry.75 Guns / Redy [both crossed through]]
+                            Hand VI. The deletion of Hand VI's call for 94 is connected with both
+                            Hand V's revised call at 73-74 and Hand ?III's deleted call at 20. See
+                            20, above, for 18th-century acting texts and Kemble.76-81 Whose footing . . . Spirits.] Bracketed.
+                            Cut in 18th-century acting texts and Kemble.84 You men . . . knees.] Crossed through. Cut
+                            in 1764, Bell, Kemble.85-87 and the . . . round.] Crossed through
+                            (85) and bracketed (86-87).Image of prompt-book page 80188 What tidings . . . Lord?] Following this line, the last on page 794 of
+                            F, the Smock Alley PB lacks three leaves (pages 795-800, sigs. 3X5-3Y1),
+                            beginning again on page 801 (sig. 3Y2) at (`I give . . . thee,').
+                            Possible reasons for the loss of these leaves are discussed in the
+                            Introduction, p. 7, note 21. It is difficult to assess the amount of
+                            cutting, or other changes, made in PB. See the Introduction, pp. 7-8,
+                            for further discussion. 18th-century acting texts and Kemble omit, among
+                            other smaller cuts, II.i.125-145 (`Come . . . best.'), 229-253 (`When
+                                 . . . already'), II.ii (the proclamation scene), III.i
+                            (the clown scene), and III.ii (Othello giving letters to be sent to
+                            Venice); in addition, Palmer PB cuts II.iii.1-11 (omitting the entrance
+                            of Othello and Desdemona and bringing Cassio on at 11 with Iago) and,
+                            1755 PB cuts II.i 94-96 (`Within.] A sail . . . news.').
+                            Collier MS cuts about 83 lines in all, including II.i. 125-146 (`me?
+                                Iago. I am . . . indeed?') and III.i.1-31. On the omission
+                            of III.i, Gentleman (Bell) remarks: "Shakespeare has furnished,
+                            at the beginning of the third act, a very trifling, non-essential scene,
+                            of two pages, to gratify the peculiar taste of his audiencies
+                                [sic], but which is now most justly rejected, the act
+                            beginning much better here [i.e. III.iii]." Gentleman, however, objects
+                            to the omission of II.iii. 205-207 (`My blood . . . way.'), commenting:
+                            "We think, the following lines of the original should be retained, as
+                            beautiful and significant."; they were restored in Kemble.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e1646</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_3.3</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">III.iii.24 His Bed . . . Shrift,] Circled. Kemble omits
+                            this line; 18th-century acting texts cut 20-26 (`Assure . . .
+                            suit:').34 s.d. Enter Othello, and Iago.] The
+                            crossed line to the left of F `Iago.' indicates point of
+                            entrance; the advance call was on the missing page (800).47-50 His present . . . face.] Apparently
+                            bracketed, although the heavy ink smudge, perhaps an off-print from the
+                            missing page 800, makes it difficult to be sure.76-83 Des. Why, this . . . nothing.] Circled. Cut in 18th-century
+                            acting texts; restored in Kemble.106 why cost thou eccho] Hand IV crosses
+                            through F `Alass,' interlines, with a caret, `why dost' above F `thou',
+                            and crosses through ` 'st' in F `eccho'st' (the reading thus follows
+                            Q2-3, Q (1681)). 1755, Bell read `why, by heav'n thou echo'st' (after
+                            Pope); 1764 reads `by heav'n, thou echo'st'; Kemble reads `By heaven, he
+                            echos' (following Q1).114-115 As if . . . conceit,] Circled.121-124 For such . . . rule.] Bracketed. Cut
+                            in 1764.Image of prompt-book page 802135 free: From] Hand II inserts `From' after F
+                            `free:'. Q1-3 read `free to,"; Q (1681) reads `free too,'. Hand II's
+                            addition implies the Q1-3 reading of the line, omitting the colon after
+                            F `that'. 18th-century acting texts and Kemble adopt the Q1-3 reading
+                            (first editorially inserted by Rowe). Hand II's emendation makes easier
+                            sense than Q1's `to'.137 Place] Hand ?II deletes the first `a' in F
+                            `Palace'.138-141 who has . . . lawful?] Circled and
+                            crisscrossed. Cut in 18th-century acting texts and Kemble; also in
+                            Collier MS.146-148 (As I . . . not)] Circled and
+                            crisscrossed through.180-183 Exchange me . . . inference.] Circled.
+                            Cut in 18th-century acting texts and Kemble; also in Collier MS.187-189 Nor from. . . me.] Circled.211 He thought 'twas witchcraft.] Circled.216-219 [line] / Desdimona / Emilia/ [line]]
+                            Hand I. Point of entrance marked with a crossed
+                                line at 277.217-221 But I . . . not.] Circled in two
+                            stages: first, 218-220 (`. . . Suspition.'), in a lighter brown ink;
+                            second, 217-221. Neither cut makes good sense in terms of Iago's next
+                            speech (222-224).228-238 As (to . . . repent.] Circled, but
+                            marked `stent' by Hand ?IV.238 Farewell,] The following F `farewell:' has
+                            been crossed through (also omitted in Q1-3, Q (1681)).240 Set on . . . observe.] Crossed through,
+                            but marked `stet' (by Hand ?IV) immediately to the left of the line.
+                            Marvin Rosenberg (The Masks of Othello [1961], p. 265) suggests
+                            that `stet' more likely refers to lines 187-189 above.Image of prompt-book page 803253-257 [line] / Iago / [line]] Hand I. Point of entrance marked with crossed line at
+                                299.261-263 Though that . . . Fortune.]
+                            Circled.265-268 Or for . . . her.] Circled.273-277 Yet 'tis . . . quicken.] Circled. Cut
+                            in 18th-century acting texts and Kemble; also in Collier MS.287 handkerchief's] Hand IV crosses through F
+                            `Napkin is' and interlines above, with a caret, `handkerchief's'. 1764
+                            reads as in PB; Bell reads `handkerchief is'.290 handkerchief] Hand ?II (the ink appears to
+                            be different from that in 287) crosses through F `Napkin:'and interlines
+                            above, with a caret, `handkerchief'. The crossing through of `Napkin:'
+                            may represent an original attempt (by Hand ?III) to convert `Napkin:'
+                            into `kercher', thus reading `handkercher'. It may be noticed that Hand
+                            II fails to alter `Napkin' in 321. Q1 alone among the early texts uses
+                            `handkercher' for `handkerchief', first in 306-307. 1764 reads as in PB;
+                            Bell reads `handkerchief here' (Hanmer first read `napkin here' and is
+                            followed by 1755).299 othello] Hand I. Point of entrance marked with a crossed line at 330.329 I did say so.] Crossed through. Cut in
+                            18th-century acting texts as part of a longer cut (326-329).338 senc had I, of] Hand ?III alters the `t'
+                            in F `sent' to `c' and alters F `in' to `of'. F `sent' is an error
+                            inherited from F2 (F1 reads `sense'); Hand ?III's reading as a whole
+                            follows Q1-3,  Q (1681). 1764, Kemble read as in PB; 1755,
+                            Bell retain F `in' (all, of course, correct F `sent').345-347 I had . . . known.] Circled.351-357 Farewell the neighing . . . Farewell:]
+                            Partly circled. Gentleman (Bell) would obviously have disapproved of
+                            this and the above cut: "This impassioned rhapsody, is extremely
+                            striking and beautiful. Shakespeare, herein, as well as through
+                            the whole Act, has poured forth a flood of genius."Image of prompt-book page 804362 hadst better] Some hand (?Hand IV) crosses
+                            through F `bin' after `hadst'; PB thus reads as Q (1681). 1755 reads the
+                            line as: `Thou hadst better have been born a dog, a dog,
+                            Iago,'; 1764 reads: `Thou had'st better been born a dog, a dog,
+                                Iago,'; Bell reads: `Thou hadst better have been born a
+                            dog, Iago,'; Kemble reverts to F.363 Then answer . . . wrath.] Crossed
+                            through.366 Or woe . . . life.] Crossed through.370 On horrors . . . accumulate,] Crossed
+                            through.386 her name] Hand II crosses through F `My'
+                            and interlines above, with a caret, `her' (following the reading of
+                            Q1-3, Q (1681); part of some lines lacking in Q1). 18th-century acting
+                            texts and Kemble read as in PB (Pope first adopted the Q2 reading).393 May, and will.] Some hand has crossed
+                            through F `I' following `and'. PB here would seem to anticipate Pope's
+                            emendation of F1 (Q1-3, Q (1681) read: `nay, I will.'), which is adopted
+                            by 18th-century acting texts; Kemble adopts the Q reading.422 [line] / Desdemon / Emilia ] Below 422, in
+                            left margin and beneath the bottom rule, Hand V has inserted an advance
+                            call for Desdemona and Emilia which duplicates Hand I's call at 424-427
+                            (except for the deleted `Clown') near the top of the second column on
+                            page 804.424-427 [line] / Disdmona / Emilia / Clown
+                                    [crossed through] / [line]] Hand I. Point of entrance marked with a crossed line at
+                                479. See opening of III.iv for the cutting of the Clown.439 Chamber Sene] Hand VI. Perhaps the only
+                            example of an advance call for a change of scene in PB (see III.iv.168).
+                            The presumed need for it may be explained by the considerable confusion
+                            in PB over the opening of III.iv (see below).439 Oth:] Hand I corrects the obviously wrong
+                            speech-prefix `Cassio.' peculiar to F3 (i.e. F).444 Now doe . . . true.] Crossed through.446-450 'Tis gone . . . tongues.] Partly
+                            circled. Before the cut was indicated Hand ?III had altered F `the
+                            hollow' to `thy hollow' in 447 (following in part the reading of Q1-3, Q
+                                 (1681), `thy hollow Cell'). Kemble reads as PB in 447;
+                            18th-century acting texts (except Bell) follow F; Bell reads "th'
+                            unhallowed cell' (following Warburton). The heavy blot opposite 449, in
+                            right margin, is an off-print from the facing page (805).455 Ne're knew retiring] Hand II crosses
+                            through F `keeps' and interlines above, with a caret, `knew'.
+                            18th-century acting texts (following Rowe) adopt Q2-3, Q (1681), reading
+                            `feels' (Q1 omits 453-460 [`Iago. Like . . . Heaven,']); Kemble
+                            cuts 453-460 (`Like . . . up.'); Collier MS reeds `knows'.470 Not with . . . bountious,] Crossed
+                            through.478 Now thou art] Hand II crosses through F
+                            `thou' after `art and interlines above, with a caret, `thou' following
+                            `Now'.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e1894</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_3.4</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">III.iv.Image of prompt-book page 805(opening) Othello: Scena Quarta.
+                                ] Hand I places an advance call for Othello to the
+                            left of F `Scena Quarta.' and `' to the right. Point
+                            of entrance marked with a crossed line at 31.(opening s.d.) 1-37 s.d. Enter Desdemona . .
+                                . sorrow. Enter Othello. Chamber [crossed
+                                through]] The handling of these lines in PB presents
+                            unusual complications. Originally the scene appears to have been planned
+                            by Hand I to include lines 1-37, even keeping the role of the Clown (see
+                            Hand I's call at III.iii.424-427, where `Clown' has been later crossed
+                            through by ?Hand V). Then some other hand has marked, by circling, 1-37
+                            for cutting, including the opening s.d., an arrangement that makes no
+                            sense, as Hand I had recognized by calling for Othello's entrance at 31
+                            (F [i.e., F3] wrongly enters Othello after 37). The next step seems to
+                            be the deletion of 1-22, by crisscrossing, with a line added below 22.
+                            The same hand then wrote `Cut out' (right of left rule opposite F
+                            opening s.d.), and `Cut' (left of left rule opposite F 23), deleted (by
+                            circling) F `and Clown.' in opening s.d., and crossed through F
+                                `Exit Clo.' at 22. The scene thus begins with the entrance
+                            of Desdemona and Emilia at 23, contrary to Hand I's original intention.
+                            The identity of the hand here involved is uncertain (Hand ?VI), but it
+                            is the same hand, presumably, that writes in `Enter 0th' to left of
+                            center rule at 31. Hand VI places `Chamber/ Here', to left of center
+                            rule, preceded by a crossed line opposite 24. At the same time Hand VI
+                            deletes Hand II's `Chamber.', to left of center rule, below 38 and
+                            following F `Enter Othello.' (also crossed through by Hand ?I).
+                            Hand IV at some point in this process places `[line] / Stent / [line]',
+                            to left of center rule, opposite 29. The final intentions are clear, but
+                            the order in which the various notations were made is uncertain. 1755,
+                            Bell give the setting as `an Apartment in the same Castle';
+                            1764, as `another Apartment in the same Palace' 
+                            (following Theobald); Kemble, as `Another Apartment in the
+                                Castle'; Palmer PB adds below the 1755 setting `
+                            Wainsc: cham: 2d. gr.' and exits Emilia after 33,
+                            re-entering her at 99; PB also uses the whistle symbol for a change of
+                            scene. 18th-century acting texts and Kemble begin the scene (as in PB)
+                            at 23; so also Collier MS.40 A sequester . . . Prayer,] Crossed
+                            through.51 and sorry] Crossed through.60-67 Iago / Cassio [Hand I] / a
+                                Han&lt;dke&gt; / rchei&lt;fl / [line] [Hand V]] Hand
+                            V adds a call for a Handkerchief to Hand I's advance call for Iago and
+                            Cassio (entrance marked with a crossed line at 106).77 would heaven] Some hand crosses through F
+                            `the' before `heaven'. 1764 reads substantially as in PB; 1755, Bell,
+                            Kemble adopt substantially the F1 reading `would to heav'n'; Q1-3, Q
+                            (1681) read `would to God'.79 startingly] Some hand corrects F3's error
+                            (`staringly') by interlining above, with a caret, a `t' after F `r'.Image of prompt-book page 806111-112 That by . . . Almes.] Bracketed. Also
+                            cut (including the second half of 110) in 18th-century acting texts and
+                            Kemble.117-120 [line] / &lt;B&gt;ianca / [line]]
+                            Hand I. Point of entrance marked with a crossed
+                                line at 168.141-142 Either from . . . Spirit:] Partly
+                            circled; 141 crossed through. The cutting here is not very clear;
+                            probably 142 (`Hath . . . Spirit:') was meant to be retained; the first
+                            part of 141 is very faintly marked but for sense must be included in the
+                            cut. See next entry for later acting texts.142-154 and in . . . falsely.] Circled in two
+                            stages: 142-143 and 144-154, the cutting of 142-143 being the second
+                            stage. 1755 cuts 141- 142 (`or . . . him'; omitting F `Either' in 141),
+                            145-154 (`Tis...falsely.'); Palmer PB cuts 141-154 (`Either...
+                            falsely.') as in PB; 1764, Bell cut 141-154 (`or . . . falsely.';
+                            omitting F `Either' in 141); Kemble cuts 141-142, 145-148 (`'Tis . . .
+                            pain.'), 150-154 (`Beshrew . . . falsely.'); Collier MS cuts 145-154 (`
+                            'Tis . . . falsely.').168] Something illegible, perhaps
+                            `&lt;C&gt;ourte, (compare the original setting for IV.i), appears in the
+                            left margin below the crossed line for Bianca's entrance. The notation
+                            appears to have been crossed through.177-182 [line] / act ready / [line]] Hand V's
+                            advance warning call for interact music. Palmer PB places `Act' at
+                            122.178 in a . . . time] Crossed through. Since
+                            18th-century acting texts and Kemble omit the character of Bianca
+                            entirely, they also omit the remainder of this scene (168-201).
+                            Gentleman  (Bell) comments on the omission: "The Third Act
+                            ends better here, without introducing Cassio and his female
+                            cypher."183 to, woman] Crossed through.201 ring] Hand V's call for interact
+                            music.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e2031</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">IV.i.(opening) pallace ] Hand VI writes `pallace'
+                            across Hand II's setting `Court'; the symbol for "whistle" is Hand II's.
+                            18th-century acting texts (except Palmer PB) give the setting as `a
+                                Court before the Palace' (following Theobald); Palmer PB notes
+                            `Continue SCENE' (i.e. the `Wainsc: cham:' of III.iv; 1755 PB also
+                            implies no change of scene); Kemble gives `An Apartment in the
+                                Castle'. 18th-century acting texts cut the opening parts of
+                            this scene heavily: 1755 cuts 26-29 (`. . . blab.'), 35-36 (`we say . .
+                            . be-lye her.'), 37-210 (`Handkerchiffe . . . no body.'); Palmer PB
+                            (including the cuts in 1755) also cuts 3-8 (`Or . . . Heaven.'), 23 (`I:
+                            . . . now. ), 36-37 (`that's fulsome:'); 1755 PB and Kemble cut
+                            everything through 215; 1764 cuts 3-8 (`Or . . . Heaven.'), 23 (`I: . .
+                            . now.'), 26-29 (`. . . blab.'), 34-215 (`With her? . . . fouler.');
+                            Bell cuts as in 1764, except for the last cut, which in Bell is 35-210
+                            (`lie on her? . . . no body.'). Gentleman (Bell) has two notes on the
+                            beginning of Act IV: "It does Shakespeare great service to
+                            begin the Fourth Act here, as the six original pages which precede, are
+                            tedious, confused, trifling, and often indecent: the Moor has already
+                            been sufficiently wrought on; besides, the character of
+                            Othello, as it now stands, is as much as very great spirit and
+                            acting powers can go through; more must sink the ablest performer." And:
+                            "We think beginning the Act at this line [216] would save delicacy a
+                            blush or two, and be, in that sense, an improvement." The first note is
+                            attached to the beginning of the scene and is confusing, since Bell
+                            begins with line 1 (see above for the cutting in Bell).1-2 [line] / Cassio / [line]] Hand I. Point of entrance marked with a crossed line at
+                                49.6-8 It is . . . Heaven.] Bracketed. See IV.i.
+                            (opening) for 18th-century acting texts and Kemble; Collier MS cuts
+                            7-8.Image of prompt-book page 80722 ill] Some hand has altered F `a' to `i'.
+                            Pope ii emended to `ill' and is followed by Bell.23 That's not . . . now:] Crossed through. See
+                            IV.i (opening) for 18th-century acting texts and Kemble.35-44 we say . . . Handkerchiffe?] Circled and
+                            crisscrossed. Originally, only parts of these lines were cut and the
+                            marking is confused. Apparently the first version read: `I tremble at
+                            it. It is not words that shakes me thus, (pish): is't possible.
+                            Confesse? Handkerchiffe?'. See IV.i. (opening) for 18th-century  acting texts and Kemble; Collier MS cuts 25-36 (`lie on
+                            her? . . . be-lye her.') and 40-42 (`Nature . . . Instruction.').73-76 [line] / Cassio / [line]] Hand I. Point of entrance marked with a crossed line at
+                                100. No exit is marked for Cassio following his first
+                            entrance at 49.109-114 [line] / Bian&lt;ca&gt; / [line]]
+                            Hand I. Point of entrance marked with a crossed
+                                line at 149.130 Have you scoar'd me:] Crossed through. Cut
+                            in Collier MS. It is possible that the final word in this line (`well.')
+                            is also meant to be cut, but it is not crossed through. See IV.i
+                            (opening) for 18th-century acting texts and Kemble.Image of prompt-book page 808149 Before me:] Crossed through. See IV.i
+                            (opening) for 18th-century acting texts and Kemble.150-151 'Tis such . . . one:] Crossed through.
+                            See IV.i (opening) for 18th-century acting texts and Kemble.152-163 [line] / &lt;Lod&gt;ouico /
+                                &lt;Desd&gt;emona / &lt;Atte&gt;ndants / [Hand I] /
+                                    &lt;let&gt;ters. [Hand V] /
+                                [line]] Hand V adds a property note to have the `Instrument'
+                            called for at 231 ready. Point of entrance marked
+                                with a crossed line at 225.177-186 [line] / &lt;Trum&gt;pett / &lt;rea&gt;dy. /
+                                [line]] Hands II and V. See 225 below.225 Sound here * Trumpet / Sounds] Hand V
+                            interlines `Sound here.*'above F s.d.; Hand II places `Trumpet /
+                            Sounds', parallel, across right rule. The two notations are separated by
+                            Hand I's crossed line (see 152-163). Palmer PB includes `Trumpets' in
+                            the advance call for Lodovico, etc. and calls for a `Flourish' at 225
+                            (as in PB), in addition to the printed s.d. (common to all 18th-century
+                            acting texts) `A trumpet within.' (from Theobald); 1755 PB adds
+                            `Trumpet / ready' at opening of scene end `Trumpett at 223.226 Tr: Oth.] Hand II places `Tr:'
+                            before, and a little above, the F speech-prefix. `Tr:' must stand for
+                            `Trumpet', but the reason for the notation is unclear.226 same] Crossed through.249-252 [line] / Othello / Emilia / [line]]
+                            Hand I. Since this advance call is for the beginning of IV.ii, no point
+                            of entrance is marked.Image of prompt-book page 809</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e2153</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">IV.ii.(opening) Presence [crossed through]
+                                Anti-Chamber] Hand V crosses out Hand II's setting `Presence'
+                            and substitutes, following, `Anti-Chamber'. 18th-century acting texts
+                            (except Palmer PB) give the setting as `an Apartment in the
+                                Palace' (after Theobald); Palmer PB substitutes ` /
+                            Plain Cham.' for the 1755 setting; Kemble gives `Another Apartment
+                                in the Castle'. 1755 PB uses the whistle symbol to signal a
+                            change of scene.1 Disdimona / Emilia] Hand I, to left of center
+                            rule (the `m' in `Emilia' has an extra minim stroke). Point of entrance marked with a crossed line at 23.22 A Closset . . . Secrets,] Crossed
+                            through.30 Your Mystery, your Mystery;] Crossed
+                            through. Q (1681) reads `Your Mistress, your Mistress;', a nonsense
+                            reading, which suggests that `Mystery' was not understood; hence the cut
+                            in PB.38-43 [line] / Emi&lt;lia&gt; / [line]] Hand
+                            I. Point of entrance marked with a crossed line at
+                                90.42 the heavy day] Crossed through.44-45 If happely . . . An] Some hand, probably
+                            the same as that in 22, 30, 42, seems to have lightly crossed through F
+                            `happely' and mended F `I' in `If and F 'A' in `An'.55 at, Oh.] Hand ?IV adds `,Oh.' following F
+                            `at.', converting F period into a comma. The reading follows, in part,
+                            Q1-3, Q (1681), which reads `at--oh, oh,'. 18th-century acting texts
+                            read (following Rowe) `at--'; Kemble cuts 53-56 (`but . . . well:').56-64 Yet could . . . hell.] Crossed through.
+                            See above, 55, for Kemble.Image of prompt-book page 81073-75 [line] / &lt;Ia&gt;go / &lt;Em&gt;ilia /
+                                [line]] Hand I. Point of entrance marked
+                                with a crossed line at 109.80 committed? Impudt: Strum= /
+                                pett.] Hand II adds the Q1-3, Q ( 1681) reading following F
+                            `committed?', as do 18th-century acting texts and Kemble (following
+                            Theobald).84 other] Crossed through. 1764, Bell, Kemble
+                            cut 83-85.103-104 have I . . . water.] Crossed through.
+                            This cut makes nonsense of F `nor answers' preceding the cut. Perhaps
+                            the Q1-3, Q (1681) reading `nor answer haue I none' may have influenced
+                            the PB reviser here. To make sense, however, the `s' on F `answers'
+                            should have been deleted, thus making `answer' a verb parallel to F
+                            `weep'. 1755, 1764, Kemble cut 103-104 (`I cannot . . . water.'); Palmer
+                            PB, Bell cut 103-105 (`I cannot . . . remember,') and insert `go' after
+                            F `Aemilia,' in 102 (Bell also omits F `And' in 106); Collier
+                            MS cuts 103-104 (`nor . . . water.'). 1755 PB (allowing for lines
+                            already cut in 1755) seems to be unique in cutting 95-96, 111-112,
+                            116-117 (` . . . bear it'), 120 (`a beggar . . .'), 121, 125-127 (`. . .
+                            whore?'), 131-132, 138-140, 141-142 (`that . . . And'; reading `Oh that
+                            heav'n would'), 144 (`Ev'n . . west!').127-129 [line] / Rodorgo / [line]] Hand I.
+                                Point of entrance marked with a crossed line at
+                                171.136-138 [line] / Drum [crossed through] /
+                                Trumpit / Redy / [line]] Hand VI calls for `Drum' and
+                            `Trumpit' (see 168 below);  he then crosses through `Drum'
+                            and places `Redy' below `Trumpit'.161-165 I cannot . . . humour:] Very lightly
+                            circled; part of 163 (`that . . . earn,') crossed through. 1755, 1764,
+                            Bell, Kemble, and Collier MS cut 161-164 (`I cannot . . . me.').168 Sound here [Hand V] * Sound here / Beat
+                                    [Hand VI]] Hand VI's `Sound' seems to be written
+                            over some other word. Since Hand VI deleted his own call for `Drum' at
+                            136-138, Hand VI's `Beat' should have been deleted also, though from the
+                            prompter's point of view the important deletion was `Drum'. 1755, 1770
+                            call for `Trumpets' here (after Rowe), but Palmer PB deletes
+                            the direction. Collier MS calls for "Musicke.'.171-175 [line] / Othello / Lodouico / Desmona /
+                                Emilia / [line]] Hand I (the names are bracketed to the
+                            right). Point of entrance marked with a crossed
+                                line at 252.Image of prompt-book page 811184-252] The occasional inks marks in these
+                            lines are off-prints from the facing page (810).</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e2285</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.3</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">IV.iii.22-57 Aemi. I have . . .
+                                men.] Bracketed and crisscrossed. Q1 omits 31-53 (`I
+                            have . . . next.'), 55-57 (I call'd...men.). 1755, Bell, Kemble
+                            cut 19-106 (`Des. So would . . . mend.'); 1764 cuts 19-60 (`my
+                            love . . . said so,').64- 104 (`Des. Would'st thou . . . us
+                            to.'); Collier MS cuts 64-83, 85-86 (`and as . . . for.'). PB calls for
+                            no change of scene at the beginning of IV.iii, nor do 18th-century
+                            acting texts, except Palmer PB, which calls for `Castle / ' and
+                            1755 PB, which uses the whistle symbol to call for a change of scene;
+                            Kemble gives the setting as `The Castle Gates'. Gentleman
+                            (Bell) remarks of this heavy cut: `There are two pages judiciously
+                            curtailed from the latter part of this scene.'25 Act] Some hand writes `Act' in right margin
+                            opposite 25; compare I.iii.342.Image of prompt-book page 81259 [line] / (act) ready / [line]] Hand V.
+                            Palmer PB calls for `Act' at IV.iii.1. Compare I.iii.367-370.65 heavenly] Crossed through. See IV.iii.22-57
+                            for 18th-century acting texts and Kemble.66 heavenly] Crossed through. See IV.iii.22-57
+                            for 18th-century acting texts and Kemble.73-74 for a . . . nor] Circled. See
+                            IV.iii.22-57 for 18th-century acting texts and Kemble.74 nor Caps,] Crossed through. See
+                            IV.iii.22-57 for 18th-century acting texts and Kemble.74 or] Some hand has crossed out `n' in F
+                            `nor'. See IV.iii.22-57 for 18th-century acting texts and Kemble.75 all] Crossed through. Q1-3, Q (1681) also
+                            omit `all'. See IV.iii. 22-57 for 18th-century acting texts and
+                            Kemble.88-102 (Say, that . . . have?] Circled. Q1
+                            omits 87-104. See IV.iii. 22-57 for 18th-century acting texts and
+                            Kemble.106 ring] Hand V.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e2361</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_5.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">V.i.(opening) &lt;Ca&gt;stle.] Hand II.
+                            18th-century acting texts (except Palmer PB) give the setting as `a
+                                Street before the Palace' (following Theobald); Palmer PB gives
+                            `Dome Town /  / carpet on'; Kemble gives `A Street'
+                            (after Rowe). 1755 PB notes `Ring --'.1-2 [line] / &lt;Cas&gt;sio / [line]] Hand I.
+                                Point of entrance marked with a crossed line at
+                                22.5 &lt;Ot&gt;hello / [line]] Hand I. Point of entrance marked with a crossed line at
+                                27.8-10 [line] / Lodouico / Gratiano / [line]]
+                            Hand I. Point of entrance marked with a crossed line
+                                at 36.14 Lives] Some hand (Hand ?II) alters F `Live'
+                            to `lives' by interlining an `s', with a caret, above.14-18 [line] / Iago / [line]] Hand I. Point of entrance marked with a crossed line at
+                                45.22 soft] Some hand (Hand ?II) alters F `so' to
+                            `soft' by interlining `ft' above. 18th-century acting texts expand the
+                            Q1-3, Q (1681) reading `be't so' to `be it so'; Kemble reverts to F. PB
+                            here anticipates Dyce's conjecture.34-36 And your . . . spotted.] Bracketed. 1755
+                            cuts 28-36, 39-44, 46, 49-53; Palmer PB further cuts 38, 45 (`Nobody
+                            come!'); 1764 cuts 28, 29 (`It is even so.'), 31-36, 38-44, 46-52; Bell
+                            cuts 28, 29 (`It is even so.'), 31-36, 38-44, 47, 49-53; Kemble cuts 28,
+                            29-36 (`It . . . spotted.'), 38-44, 46-52. 18th-century acting texts and
+                            Kemble remove Othello from the scene and, except for 1755 and Butters,
+                            delay the entrance of Lodovico and Gratiano until 65.40-41 [line] / Byanca / [line]] Hand I. Point of entrance marked with a crossed line at
+                                72.46 in his shirt] Crossed through. Only 1755
+                            (and Butters) retains this line, but like PB, omitting `in his shirt'.
+                            18th-century acting texts including 1755 and Butters, give a s.d. (based
+                            on Q1-3, Q [1681]: `Enter Iago with a light.')
+                            describing Iago's appearance: `Enter Iago, in his shirt,
+                                with a light and sword.' (following Rowe and Theobald); Kemble
+                            gives the s.d. as: `Enter Iago in his night-gown, with a
+                                naked sword, and a light.'.Image of prompt-book page 81360 a Chair redy] Hand VI. See 98.67-68 Chaire [crossed through]] Hand
+                            II's call for a `Chaire', crossed through by Hand VI.71-73 [line] / Emilia / [line]] Hand I. Point of entrance marked with a crossed line at
+                                110.73 I'le bind . . . shirt.] Circled. 1755,
+                            Kemble cut 58-59 (`Oh . . .help.'), 73-88 (` . . . Light:'), 91-110,
+                            116-125; 1764, Bell cut 58-59 ( Oh... help.), 73-88 (`... Light:'),
+                            91-110, 115-125. 18th-century acting texts and Kemble omit Bianca, as
+                            elsewhere.82 Lend me . . . for] Crossed through; F `a'
+                            following `for' is partly crossed through, but its retention is
+                            necessary for the sense. See 73 for 18th-century acting texts and
+                            Kemble.87-93 [line] / Othello / Disdi: / mona /
+                                [line]] Hand I. Call for the beginning of scene ii; hence no
+                            crossed line to mark entrance.96 Oh a. . . Chair.] Crossed through.98 a Chair / here] Hand VI.98 Oh that's . . . Chair.] Crossed through.
+                            Despite Hand VI's prompt-note at 67-68 and 98, the deletion in 96 and 98
+                            of the references to a chair may point to a later decision to omit the
+                            chair, as in 18th-century acting texts and Kemble. Perhaps the reference
+                            in 82 to the chair was overlooked when the other references were
+                            deleted.111 &lt;E&gt;nter / Emella] Hand VI. F omits
+                            Emilia's entrance; PB follows Q1-3, Q (1681).114 bed] Hand II places `bed' in right margin;
+                            compare 67-68, above.</field><field name="file_s">ShaOthP</field></doc><doc><field name="id">d1e2501</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_5.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 6 (Smock
+                            Alley Othello) </field><field name="fulltext_t">V.ii.(opening)  / Bed / Chamber] The
+                            symbol for whistle and `Chamber' are in Hand II; `Bed,' in a different
+                            ink, is in Hand V. 18th-century acting texts, except Palmer PB and
+                            Kemble (substantially), give the setting as: `a Bedchamber:
+                            Desdemona is discovered asleep in her bed' (following Rowe);
+                            Palmer PB gives `Pearl Ch. /  / Arm'd Chair. / Toilet / 2
+                            Carpets';, 1755 PB begins Act V with this scene, noting, at the end of
+                            the last scene: `End / Act / 4th'.27 and Grace,] Crossed through.Image of prompt-book page 81438-43 [line] / &lt;E&gt;milia / Doore /
+                                [line]] Hand I. This is a call for Emilia to speak within at
+                            83, the point at which she is to begin to speak
+                                being marked with a *.63-68 [line] / &lt;Em&gt;ilia / [line]] This
+                            is Hand I's call for Emilia's actual entrance, marked with a crossed line, at 105.83 *] See above, 38-43.94-85 wer't good? . . . again,] Crossed
+                            through.107-112 [line] / Montano /gratiano / Iago /
+                                [line]] Hand I. Point of entrance marked
+                                with a crossed line at 167.Image of prompt-book page 815168-213] A tear in pages 815 and 816, from the
+                            bottom left, up through 168, has damaged the text in most of these
+                            lines.204-209 I am . . . Reprobance.] Circled;
+                            205-206 have been separately crossed through. A short line appears after
+                            `Reprobance.'  and another short line after 198
+                                (`Oth. Oh, oh, oh.') above, suggesting perhaps a tentative
+                            cutting of 198-209 (see 229-231, below). 1755 cuts 218-225 (`Come . . .
+                                Moor,') [1755 PB additionally cuts 227-229 (`. . . it')],
+                            230-231 (`She . . . husband.'); 1764 cuts 205-206 (`Thy . . . twain.'),
+                            215 (`I . . . hand:'), 218-225 (`Come . . . Moor,'), 230-231
+                            (`She . . . husband.'); Bell cuts 205-206 (`Thy . . . twain.'), 208,
+                            218-225 (`Come . . . Moor,'), 230-231 (`She . . . husband.');
+                            Kemble cuts 206-209 (`Did . . . Reprobance.'), 218-225 (Come . . .
+                                Moor,'), 230-231 (`She . . . husband.').222-226 [line] / a foyle for Ot&lt;hello&gt; /
+                                read&lt;y&gt; / [line]] Hand V. This is an advance reminder
+                            that once Montano has taken Othello's sword, a second sword (`foyle')
+                            must be ready for Othello to produce at 252-254.229-231 He begg'd . . . husband.] Short
+                            horizontal lines have been placed at the beginning of 229 and 231
+                            suggesting perhaps the cutting of 229 (`Villanous Whore.') through 231
+                            (`. . . husband.'); compare 204-209, above. See 204-209 for 18th-century
+                            acting texts and Kemble.Image of prompt-book page 816243-248 [line] / &lt;Lud&gt;ouico / &lt;Cas&gt;sio /
+                                &lt;Mo&gt;ntano / &lt;Ia&gt;go / Offi&gt;cers / [line]] Hand
+                            V. Point of entrance is marked with a crossed line
+                                at 282.246-248 What did . . . willow.]
+                            Circled. 18th-century acting texts and Kemble make the same cut. See
+                            IV.iii.22-57.252-259 &lt; &gt; / &lt;la&gt;st / &lt;sc&gt;ene /
+                                [line]] Hand ?IV. Some word, of which only a trace remains,
+                            was written above `&lt;la&gt;st'; perhaps the word is `the'. The
+                            rationale for this prompt-note is not clear, unless it is a reminder
+                            that apart from those actors already on stage and those entering at 282,
+                            the other members of the company will no longer be needed.269-359] A tear in pages 815-816 from the
+                            bottom, right, up through 269, has damaged the text toward the end of
+                            the second column.272 oh ill-Starr'd wench,] Crossed through. Q1 omits
+                                266-272.274 thine] Some hand seems to have doctored
+                            the `h' in F `thine'.276-280 Even like . . . Fire.] Bracketed.
+                            1755, 1770, Bell, Butters cut the last half of 276 (`O cursed, cursed
+                            Slave!'). On 277-280, Gentleman (Bell) remarks: "Though the marked lines
+                            afford a fine transition of expression, yet, as they convey very horrid
+                            ideas, we could wish them omitted." Kemble did not take the hint.313 most heathenish, and most grosse.] Crossed
+                            through. 18th-century acting texts and Kemble cut as in PB. Some hand,
+                            however, suggests a larger cut by placing horizontal lines after 309 and
+                            313 indicating a proposed cut of 310-313.348-351 Of one . . . gumme.] Partly
+                            circled.360-371] Page 817 (sig. 3Z4), containing the concluding lines of the play
+                            (360-371), is missing from PB; the verso of sig. 3Z4 is the first page
+                            of Antony and Cleopatra . 1755, 1764 cut 357, 360-361 (`This .
+                            . . heart.'); Palmer PB further cuts 361-359 (`Oh Spartan . . . hid.');
+                            Bell cuts 357-361 (`Oh bloudy . . . heart.') Kemble cuts 357-359 (`Oh
+                            bloudy . . . kiss.'), adding `O, Desdemona!' after 356, 361-365 (`Oh
+                            Spartan . . . hid.').</field><field name="file_s">ShaOthP</field></doc></add>

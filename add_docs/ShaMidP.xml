@@ -1,268 +1,1284 @@
-<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e2</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">header</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
-              Night's Dream)  </field><field name="fulltext_t">Shakespearean prompt-books of the seventeenth century, vol. 7 (Smock Alley A
-          Midsummer Night's Dream) [a machine-readable transcription] Shakespeare, William Creation of machine-readable version: Karen Wikander, Electronic Text Center Creation of digital images: Electronic Text Center Conversion to TEI.2-conformant markup: University of Virginia Library Electronic Text Center. ca. 190 kilobytes University of Virginia Library. Charlottesville, Va. Bibliographical Society, ShaMidP Publicly-accessible URL: http://etext.lib.virginia.edu/bsuva/promptbook/ 1997 Shakespearean prompt-books of the seventeenth century The electronic text contains the Introduction and Collations. The prompt-book is
-          rendered as page images. Images of the manuscript have been included from volume 7, part 2. Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
-              Night's Dream) William Shakespeare Editor G. Blakemore Evans Issued in portfolios. The prompt-books are reproduced in collotype facsimile. University Press of Virginia Charlottesville, Virginia 1989 Print copy consulted: UVa Library call number PR 2757 .E9 1960 v.7 Shakespearean prompt-books of the seventeenth century Published for the Bibliographical Society of the University of Virginia  Prepared for the University of Virginia Library Electronic Text Center. All quotation marks retained as data. All unambiguous end-of-line hyphens have been removed, and the trailing part of a word
-          has been joined to the preceding line. The images exist as archived TIFF images, one or more JPEG versions for general use, and
-          thumbnail GIFs. Keywords in the header are a local Electronic Text Center scheme to aid in establishing
-          analytical groupings. Library of Congress Subject Headings  1960-1989 English drama; prose; non-fiction LCSH 24-bit color; 400 dpi  July 1997 corrector Catherine Tousignant, Electronic Text Center Corrected errors in transcription; fixed broken or missing images. March 1997 corrector Karen Wikander, Electronic Text Center Added TEI header and tags </field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e140</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">front</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
-              Night's Dream)  </field><field name="fulltext_t"> SHAKESPEAREAN PROMPT-BOOKS of the SEVENTEENTH CENTURY  Vol. VII: Part i Introduction to the Smock AlleyA Midsummer Night's Dream Collations  Edited by G. Blakemore Evans  A Publication of The Bibliographical Society of the University of
-          Virginia University Press of Virginia, Charlottesville 1989 THE SMOCK ALLEY
-          A MIDSUMMER NIGHT'S DREAM PROMPT-BOOK was composed in Linotype Baskerville and Monotype
-          Goudy Old Style by Heritage Printers, Charlotte, N. C. It was printed by Science Press,
-          Ephrata, Pa. and bound by Hoster Bindery, Hatboro, Pa. THE UNIVERSITY PRESS OF
-          VIRGINIA Copyright 1989 by the Rector and Visitors of the University of Virginia
-          First published 1989  ContentsIntroduction to the Smock Alley A Midsummer Night's Dream . . . 1Collations . . . . . . . . . . . . . . . . . . . . . . . . . . 11</field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e189</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">introduction</field><field name="title_s">Introduction Smock AlleyA Midsummer Night's Dream Third Folio </field><field name="fulltext_t">Introduction Smock AlleyA Midsummer Night's Dream Third Folio  UNLIKE the other Smock Alley prompt-books already published in this series
-            (Hamlet, Macbeth, Othello), the Smock Alley A Midsummer
-            Night's Dream (entitled 'A Midsummers nights DREAM' in the Third Folio, 1664 [F3]) is not properly speaking a full-fledged prompt-book. 1 It shows no evidence of actual stage production, lacking the usual
-          advance calls for entering actors and act breaks or the occasional use of actors' names
-          for minor characters which turn up sporadically in most Smock Alley prompt-books. What we
-          have here, rather, is the first stage in the preparation of a potential
-          prompt-book—an extensive cutting of the play with unusually substantial revisions
-          and occasional additions. In contrast to the 'Nursery' Midsummer Night's Dream2 and the Smock Alley Comedy of Errors and Winter's
-            Tale,3 however, also cuttings that never reached
-          production, it does indicate scene settings throughout, except for IV.ii and V.i. The dating, even the approximate dating, of the Smock Alley revision of A Midsummer
-            Night's Dream and its relation to the  other
-          seventeenth-century Smock Alley prompt-books or revisions is complicated by several
-          factors. (1) Two revising hands may be readily distinguished: Hand I, responsible for
-          nearly all the revisions and the additions, and, presumably, for all the cutting; Hand II,
-          an intrusive mid-eighteenth-century hand, probably having no connection with the theatre,
-          which inserts occasional emendations first introduced by editors from Nicholas Rowe (1709)
-          through Thomas Hanmer (1744). 4 But, since Hand I, like Hand I in
-          the Smock Alley Comedy of Errors, appears, so far as I can judge, nowhere else in
-          the Smock Alley prompt-books or revisions, the only certain link tying this revision of
-            Midsummer Night's Dream to the Smock Alley copy of the Third Folio (before it
-          was broken up and dispersed by Halliwell-Phillipps in the nineteenth century)5 is the presence of Hand II, which also appears occasionally in
-          other Smock Alley plays (i.e., Hamlet, Lear, Twelfth Night, and
-            Merry Wives of Windsor). 6 (2) The absence of any
-          actors' names, often helpful in setting an approximate date for some of the Smock Alley
-            prompt-books,7 again isolates this revision from most of the
-          other Smock Alley materials. (3) The existence of a carefully prepared Smock Alley
-          revision of Midsummer Night's Dream, even though it never reached the stage, is
-          in itself somewhat puzzling. The Smock Alley company tended to follow the lead of the
-          London theatres in its choice of plays, and the fact that London audiences evinced an
-          almost complete lack of interest in this play 8 raises the
-          question why, or when, such a substantial and time-consuming revision was undertaken. Only
-          a single London performance of Midsummer Night's Dream is recorded for the years
-          1660-1700, a performance by the King's Company (29 September 1662) that, except for "some
-          good dancing and some handsome women," greatly displeased Samuel Pepys ("the most insipid
-          ridiculous play that ever I saw in my life"). 9 Indeed, no
-          version of Midsummer Night's Dream comparable in length and comparative fidelity
-          to the Smock Alley revision was to be performed even in the eighteenth century. Thus,
-          except for the  1662 London performance, about which we
-          have no details aside from Pepys' acid comment, only selected bits and pieces of the play
-            (The Merry Conceited Humours of Bottom the Weaver, 1661; 10The Comick Masque of Pyramus and Thisbe, 1716, by Richard Leveridge; and The
-            Fairies, 1755, by David Garrick) were performed until 1763, when Garrick and George
-          Colman produced a version that cut roughly half Shakespeare's text (including the whole of
-          Act V, except for lines 1-18) and was tricked out with 240 lines of non-Shakespearean song
-          lyrics, ten of them held over from The Fairies.11 It was an
-          immediate failure and was at once replaced by Colman's A Fairy Tale (1763), in
-          two short acts, based on the fairy characters and the 'rude mechanicals,' but again
-          without the Pyramus and Thisbe play. The Smock Alley revision, at least as we have it, cannot be earlier than 1664 since it
-          employs a copy of the Third Folio text. By that date the apparent failure of Shakespeare's
-          play on the London stage (September 1662) must surely have been known to the management of
-          Dublin's Smock Alley Theatre, which had opened its doors to the public in October of
-            1662.12 This, I think, makes a date in the 1660s at least
-          unlikely. W. S. Clark dates the Smock Alley revision, along with the other extant
-          seventeenth-century Smock Alley prompt-books, in the 1670s, 13
-          but at the time he wrote he was not aware that, like the Smock Alley Comedy of
-            Errors and Winter's Tale, it was only a preparatory revision and showed no
-          evidence of stage production or contemporary internal links with the other Smock Alley
-            plays.l4 Clark's 1670s dating cannot be ruled out,15 but there is  some, admittedly
-          slight and sporadic, evidence that may point to 1692 as a terminus a quo and
-          furnish a possible answer to the question raised in (3) above. The evidence for this date
-          grows out of what appear to be some verbal links between the revisions of Hand I and
-            The Fairy-Queen. An Opera produced at the Dorset Garden Theatre in May of 1692
-          with much fanfare and great expense.l6 As the title suggests,
-          the opera was based on Shakespeare's play, the text (published the same year) most
-          probably by Elkanah Settle, the incidental music by Henry Purcell. Shakespeare's lines are
-          heavily cut, many others substantially rewritten (see the Collations), and a strange
-          assortment of new characters, ranging from personified abstractions and pastoral figures
-          to Juno and Chinese with dancing monkeys, are introduced in four elaborately staged
-          extravaganzas of singing and dancing awkwardly inserted near the ends of Acts II through
-          V. As I have noted, these verbal links between Hand I's revisions and the text of The
-            Fairy-Queen are slight and sporadic. Of the twenty-seven possible links that I have
-          observed, only about fifteen suggest more than coincidence or a common desire to modernize
-          archaic forms. Among these fifteen, the following seem to me to be the strongest and will
-          serve to illustrate the kind and extent of the postulated connection. I.i.71, F3, 'For aye to be in shady Cloister mew'd,'; Hand I, 'Immurd For ever in
-          a shady Cloister.'; Fairy-Queen, 'To be immur'd for ever in a Cloister.'.
-          II.i.151, F3, 'Uttering such dulcet and harmonious breath,'; Hand I,
-          'Uttering such sweet and such harmonious breath,'; Fairy-Queen, 'Sing with such
-          sweet, with such Harmonious breath,'. II.i.220-221, F3, 'Your virtue
-          is my priviledge: for that / It is not night when I do see your Face.'; Hand I, 'Your
-          virtue's my protection / wth me It is not night when I behold your
-          Face.'; Fairy-Queen, 'Your Virtue is my Guard, Demetrius: / It is not
-          night when I behold that Face,'. III.ii.377, F3, 'and all things shall
-          be peace.'; Hand I, 'and all shall be at peace.'; Fairy-Queen, 'and all shall be
-          at peace.'. III.ii.428, F3, 'Now go thy way: faintnesse
-           constraineth me,'; Hand I, 'but go thy way: faintnesse
-          now forces me,'; Fairy-Queen, 'My faintness forces me to rest a while,'.
-          IV.i.122-124, Hand I, marking 117-132 for omission, here inserts a new stage direction,
-          '&lt;S&gt;ong of / &lt;hu&gt;nting / &lt;h&gt;ere'; Fairy-Queen calls for 'A
-            Composition in imitation of Hunting,' following line 143. IV.i.171-172, F3, 'Seems to me now as the remembrance of an idle gaude,'; Hand I,
-          'Seems to me now, but the remembrance of an idle toy,'; Fairy-Queen, 'And now she
-          seems but as an idle Toy,'. IV.i.184, F3, 'Egæus, I
-          will over-bear your will;'; Hand I, 'Egæus, I must over-rule in this';
-            Fairy-Queen, 'Egæus, I must over-rule your will;'. V.i.185, F3, 'No in truth sir, he should not.'; Hand I, 'No but he should not.
-          though'; Fairy-Queen, 'No, but he shou'd not.' Evidence of the kind just cited is notoriously difficult to evaluate. None of these
-          verbal links is beyond simple coincidence, but some small weight may, perhaps, be allowed
-          to the number of such links. One thing is clear. Even admitting the hypothesis of possible
-          influence, Hand I had at best only a vague recollection of the text of The
-            Fairy-Queen. Certainly there is nothing to suggest that he worked with an actual
-          copy, printed or manuscript, of Settle's opera. The case for influence is not strong. At
-          most, we must content ourselves, I think, with noting the Hand I-Settle links and allowing
-          for the possibility of some kind of interconnection. It is tempting, of course, to accept
-          Settle's influence, thus giving a date for the Smock Alley revision as 1692 or later and
-          suggesting an answer to the question of why the Smock Alley management suddenly became
-          interested in a revival of Shakespeare's play despite its earlier failure in London.
-          Tempting, but I am not fully convinced. One last point on dating. Hand I's use of a mixed Secretary-Italian script (unlike that
-          of Hand II) may probably be interpreted to indicate a seventeenth-century provenience for
-          the Smock Alley revision. He nearly always employs Secretary 'e', 'c', 'r', and 'd' and
-          occasionally Secretary 'h', 's', 'ff' (for upper case 'F'), and, once (V.i.208-215) a
-          tilde over 'o' for an '-ion' termination ('imaginatōn'). He also sometimes uses 'y
-            e' for 'the' (not a helpful indicator) and abbreviations like 'yor', 'Or', 'yt', 'yn', and 'wth'. The general use of Secretary forms
-          was on the wane after about 1650, and Hand I's fairly consistent adherence to them
-          suggests that he had been educated in the earlier part of the century when a mixed
-          Secretary-Italian hand was commonplace.  &lt;/page&gt;   &lt;page n=6&gt;  Hand I's handling of the text shows him to have been an intelligent reviser. Although, in
-          an attempt to shorten an overlong play, he cuts quite substantially (in all about 600
-          lines, a figure that includes 34 half-lines, but does not include lines cut but replaced
-          by alternative lines),17 the play as a whole emerges basically
-          intact. Nothing comparable to the attempt to excise the role of Titania found in the
-          probably earlier 'Nursery' cutting of the play occurs here. 18
-          The low comedy scenes in which Bottom figures, including those with Titania, remain
-          essentially untouched, though some of the Court commentary on the Pyramus and Thisbe play
-          in V.i has been dropped. Of the some 96 cuts in other parts of the play, only 16 are of
-          ten lines or more: I.i.135-l49, 230-245; II.i.48-57, 88-111; II.ii.16-26, 41-65;
-          III.ii.64-87, 122-148 (retaining 136-137), 193-216, 220-235, 256-343; IV.i.53-68, 117-132;
-          V.i.7-22, 85-105, 402-422. As about half of these longer deletions indicate, Hand I's
-          cutting-edge falls most heavily (some 228 lines, which do not include numerous shorter
-          cuts in related passages) on the Helena / Hermia and Demetrius / Lysander love
-          entanglements and squabbles. These scenes admittedly lend themselves to substantial
-          cutting and suffered a somewhat similar fate in the adaptations by Settle, Garrick, and
-          Garrick-Colman. Only one of Hand I's cuts, Theseus' lines on 'The Lunatick, the Lover, and
-          the Poet' (V.i.7-22), would, I believe, outrage modern sensibilities, but even here we may
-          remind ourselves that some of these famous lines were probably an afterthought on
-          Shakespeare's part. In addition to marking passages for cutting, Hand I, more frequently than any other
-          reviser in the Smock Alley promptbooks, rewrites many lines and, particularly in some of
-          the more substantial cuts, substitutes one or more reworked lines, usually drawing their
-          wording at least in part from Shakespeare. Occasionally, he adds new dialogue of his own
-          and introduces stage directions to indicate stage business or action. In all these
-          respects, Hand I's attitude toward the text reflects, to be sure in a modified form,
-          rather the work of an adaptor, such as Dryden, Otway, Tate, or Settle, than the kinds of
-          revision usually associated with the ordinary theatre reviser. In most cases it is not difficult to understand why Hand I, like his contemporaries
-          generally, felt it necessary to meddle with 
-          Shakespeare's language. Although he only sporadically gets rid of comparatively archaic
-          forms ('does' for 'doth', 'has' for 'hath', 'ever' for 'aye', 'yes' for 'yea'
-          (consistently), 'hates' for 'hateth', 'you' for 'thou'), he has a sharp eye for 'hard' or
-          outmoded words or possibly difficult phrasing. Thus, for example, 'gaude' becomes 'knack'
-          and 'toy'; 'Belike', 'Perhaps'; 'Beteem', 'afford'; 'Steep', 'part'; 'gleek', 'be witty';
-          'misprision', 'mistake'; 'does square', 'contest'; 'coy', 'kiss'; 'wot', 'know';
-          'Recorder', 'flagolet' (first citation in OED 1659); 'abridgement', 'diversion'.
-          For similar reasons 'It stands as an Edict in Destiny' (I.i.151) is changed to 'Sure 'tis
-            ye inevitable law of fate'; 'passing fell and wrath' (II.i.20) to
-          'much incensd with'; 'Near this lack-love, this kill-curtesie' (II.ii.77) to 'near the man
-          / loves Enemy'; 'new in amity' (IV.i.92) to 'fresh agen in love'; 'in fancy followed me.'
-          (IV.i.168) to 'followed me. wth passion'; and 'with parted eye'
-          (IV.i.194) to 'scarce awake'. Three somewhat more substantial passages will illustrate Hand I's revisional technique
-          further: (1)Before the time I did Lysander see,Seem'd Athens like a Paradise to me.O then, what graces in my Love do dwell,That he hath turn'd a heaven into Hell?(F3, I.i.204-207) Compare Hand I's neat couplet paraphrase: for since I cannot wth Lysander be,at Athens, tis a perfect hell to me (2)Where Demetrius? oh how fit a wordIs that vile name, to perish on my sword?Hel. Do not say so Lysander, say not so:What though he love your Hermia? Lord, what though?Yet Hermia still loves you, then be content,(F3, II.ii.106-110) Compare Hand I: Where is Demetrius? ytdisdainful Ldtis iust yt he shoud perish by my sword?Hel. Now you're unkind Lysander, say not so:What though he love your Hermia? what though?while Hermia still is yours, be you content,  &lt;/page&gt;   &lt;page n=8&gt;  (3)Why should you think that I should wooe in scorn?Scorn and derision never comes in teares:Look when I vow I weep, and vowes so born,In their nativity all truth appears,(F3,III.ii.122-125) Compare Hand I: Why do you think I follow you in scorn?Scorn cannot well be masqud in sighs &amp; teares:See while I vow I weep, and vowes so born,like truth her selfe in her first dresse appeares Here, as often elsewhere, Hand I is careful to preserve the original rhymes, and
-          sometimes he introduces new rhymes in order to retain the rhymed verse pattern (e.g.,see
-          (1) and (2) above end II.ii.77, 86, 88-89, 144; III.i.169; III.ii.372-373,409-410). Only rarely does Hand I venture his talents much beyond rephrasing Shakespeare's lines.
-          In a few places, however, he adds new dialogue and stage directions, emends, or calls for
-          extra stage business.19 Six of these additions are worth a brief
-          comment. (1) I.ii.109: Hand I uniquely calls for a dance by the 'rude mechanicals' by
-          inserting '&lt;bu&gt;t let us / &lt;reh&gt;earse Or / &lt;dan&gt;ce' at the end of
-          Quince's admonitory lines. (2) III.i.165s.d.-167: in a series of changes and deletions
-          (not necessary to repeat here; see Collations), Hand I gives Titania two new lines (the
-          first later deleted) and furnishes Bottom with an original aside: Bot: I am afraid [written above a deleted Whoknows but] she may have a mind to ravish me whenshe has discoverd &lt;my&gt; parts why shoud I bea skittish nice Asse (3) III.ii.256-343: replacing the longest of his cuts, Hand I concludes the scene with a
-          speech for Hermia of some seven or eight original lines, so badly shaved in binding that
-          they are unfortunately only fragmentarily legible (see Collations), except for a final
-          workman-like couplet: &lt;?or&gt; in some / &lt;?plac&gt;e I may / &lt;for&gt;gotten fall/&lt;of a&gt;ll forsaken / &lt;?and fo&gt;rsaking all  &lt;/page&gt;   &lt;page n=9&gt;  (4) V.i.182 s.d.: Hand I here introduces new stage business when Pyramus says 'Curst be
-          thy stones for thus deceiving me.' by adding the stage direction '(kicks wall' and
-          underlines the action by altering Theseus' 'should curse again' (183) to 'should kick
-          again'. (5) V.i.220-221: Hand I here first attempts the emendation of a recognized crux.
-          In common with all seventeenth century texts, F3 reads 'Here comes two
-          noble beasts, in a Man and a Lion.', which Hand I emends to 'Here comes two noble beasts,
-          a Man and a Lion. in one'. His reading, although it ignores Moonshine's entrance with
-          Lion, is not impossible. Several other emendations have been proposed (see the Cambridge
-          collations), but modern texts, surely correctly, read with Rowe (1714 ed.), who switched
-          the F comma to follow 'in'. And (6) V.i.260: following Lysander's 'Proceed Moon.', Hand I
-          inserts a new speech for Theseus, 'Duke. Calfe', a play on 'moon-calf' and suggested
-          perhaps by the term as applied five times to Caliban in Shakespeare's The Tempest
-          or, more probably, in the Davenant-Dryden-Shadwell adaptations of The Tempest
-          (1667, 1674). In setting up his act divisions, Hand I eventually accepted those as indicated in F3, except for Act IV, which he begins at III.ii.345, a change probably
-          made to avoid the awkwardness for Restoration staging of following the F direction
-            ('They sleep all the Act.'), which appears, in F1-4, at the
-          end of Act III, a direction he deletes, substituting 'Sleepers lie still'. Before arriving
-          at his final arrangement, however, Hand I had tried out beginning Act III at both III.i.
-          167 and at what in modern texts is distinguished as III.ii, and Act IV at III.ii.122
-          before he eventually settled for beginning it at III.ii.345. In addition to two scene settings that occur elsewhere in the Smock Alley prompt-books
-          ('Scen A Palace' I.i; 'Scen is ye fforrest' III.i; 'fforrest / Scen'
-          III.ii.344 s.d.; 'fforrest' IV.i and IV.i.107 s.d.),20 Hand I
-          calls for three scenes that appear only in A Midsummer Night's Dream ('Scen the
-          baudy house' I.ii; 'Scen is the New Grove' II.i, or 'Grove / agen' III.ii [the last
-          notation deleted]; 'Scene / is / The little / wood' II.ii.34 s.d.). No scene settings are
-          indicated for IV.ii and V.i. In the case of IV.ii, it seems likely that Hand I, like
-          Settle in The Fairy-Queen, thought of the reunion of Bottom with Quince and Co.
-          as taking place in the 'fforrest'; indeed, Theobald (1733) was the first editor
-           to mark a change of locale here. The failure to mark
-          a change of setting for V.i is more puzzling. One would expect 'Scen A Palace' as in I.i
-          (Bottom's 'meet presently at the Palace' was retained at IV.ii.37-38). Most probably Hand
-          I simply forgot to indicate a change of scene, but it is curious that Settle also fails to
-          call for a return to the Palace at his equivalent of V.i; and he too keeps Bottom's
-          direction at IV.ii.37-38, even though the 'rude mechanicals' were excluded from the final
-          scene and the Pyramus and Thisbe play had been transferred from Act V to follow III.i.82,
-          where Robin (Puck) is its only audience. For Acts II through IV, Hand I, unlike Settle, who, apart from his four specially
-          introduced scenic extravaganzas, satisfies himself with a single setting ('SCENE a
-            Wood, by Moon-light.', noted only at the beginning of Act II), envisages three
-          different settings. He places II.i in 'the New Grove', with a note ('Scen continues.')
-          preceding the entrance of Oberon and Titania at II.i.60. This setting is continued,
-          through the beginning of what is now generally considered II.ii, to II.ii.35, where, with
-          the entry of Lysander and Hermia, Hand I begins a new scene set in 'The little / wood',
-          which serves for the remainder of Act II. With the beginning of Act III, however, he
-          appears to have decided on a single setting ('ye fforrest' III.i;
-          'fforrest / Scen' III. ii.345; 'fforrest' IV.i and IV.i.107), although, when considering
-          beginning Act III at III.ii, he calls for 'Grove / agen' (deleted) and may have called for
-          the same scene when he made a second canceled attempt to begin Act III at III.i.167 (if so
-          the notation has been shaved away in binding). The Smock Alley revision of A Midsummer Night's Dream has been compared
-          throughout with the following stage adaptations (see the Collations): (1) the 'Nursery'
-          revision (c.1672-78); 21 (2) Elkanah Settle's The
-            Fairy-Queen (1692); (3) David Garrick's The Fairies (1755); (4) a revision
-          (now in the Folger Shakespeare Library) prepared in a copy of the 1734 Tonson edition by
-          David Garrick and George Colman; (5) David Garrick and George Colman's A Midsummer
-            Night's Dream (1763), based on (4) above; and (6) A Midsummer Night's Dream in
-            Bell's Shakespeare's Plays, Vol. VIII (1774), with notes and suggested cuts by
-          Francis Gentleman. The so-called Collier MS (in the Perkins-Collier Second Folio, 1632, in
-          the Huntington Library) and an adaptation of Shakespeare's play by Frederick Reynolds
-          (1816) are occasionally referred to. 1. This Smock Alley revision of A Midsummer Night's Dream was
-          presented to the University of Edinburgh Library by J. 0. Halliwell- Phillipps and is here
-          reproduced and edited by the kind permission of its Librarian, the late Dr. L. W. Sharp.
-          Although, as noted above, it is not strictly a promt-book. it will be referred to in the
-          Collations as PB. 2. See Shakespearean Prompt-Books of the Seventeenth Century, Vol.
-          III (1964), pp. 27-35. Hereafter this series will be referred to as SPSC. 3. See SPSC, Vol. I (1960), General Introduction, p. 21. 4. Ibid., p. 16. 5. Ibid. 6. Ibid. 7. Ibid., pp. 18-20. 8. W. S. Clark (The Early Irish Stage:The Beginnings to 1720, 1955,
-          p. 72), commenting on the Smock Alley promptbooks, mistakenly includes A Midsummer
-            Night's Dream among "Shakespeare plays popular with London audiences of the
-          day." 9. See The London Stage 1660-1800, Part I: 1660-1700 (ed. William Van
-          Lennep, 1965), pp. 55-56. 10. This so-called 'droll' was later included in Francis Kirkman's The
-            Wits, or, Sport upon Sport (1673). The title page of the 1661 edition claims that
-            Bottom the Weaver 'hath been often publikely Acted by some of his Majesties
-          Comedians, and lately, privately presented, by several APPRENTICES for their harmless
-          recreation, with Great Applause.', but the first part of this claim almost certainly looks
-          back to performances of Shakespeare's original play by the King's Men in the earlier years
-          of the century (see The Wits, or, Sport upon Sport, ed. John J. Elson, 1932, pp.
-          412-413). I have found no textual connections between Bottom the Weaver and the
-          Smock Alley revision of A Midsummer Night's Dream. 11. See George Winchester Stone, "A Midsummer Night's Dream in the
-          Hands of Garrick and Colman," PMLA, 54 (1939), 467-482. 12. Clark, p. 56. 13. Ibid, pp. 73, 205. 14. Clark knew of the existence of a Smock Alley Midsummer Night's
-            Dream through a reference to it in S. W. Singer's Text of Shakespeare vidicated
-            from the Interpolations and Corruptions advocated by John Payne Collier, Esq.
-          (1853), a reference cited by R. C. Bald in "Shakespeare on the Stage in Restoration
-          Dublin" (PMLA, 56 [1941], 370); Bald, however, considers the Smock Alley version
-          to be lost. Alexander Cargill (Shakespeare the Player, 1916, Appendix D, p. 144)
-          had called attention to several Halliwell-Phillipps "old playhouse copies" in the
-          University of Edinburgh Library, but the Midsummer Night's Dream he lists is
-          certainly the 'Nursery' cutting, not the Smock Alley revision. Neither Bald nor Clark
-          seems to have been aware of Cargill's note. 15. What may just possibly be interpreted as the date '1670' appears in the
-          Smock Alley revision (see the Collations at III.ii.24), but this reading of the manuscript
-          notation is so uncertain that no weight can be attached to it. 16. See The London Stage, pp. lv, 397, 408-409. 17. In SPSC, III, 28, I gave the amount of cutting as "around 611
-          lines"—a slight overstatement. 18. See ibid., pp. 28-29. 19. See the Collations at I.ii.109; II.ii.2-8; III.i.l65 s.d.-167; III.ii.244
-          s.d.; III.ii.256-343; IV.i.84s.d.; IV.i.122-124s.d.; IV.ii.31-32; V.i.182 s.d.;
-          V.i.220-221; V.i.260. 20. See SPSC, I, 23-24. 21. See ibid., III, 31-35.  &lt;/page&gt;   &lt;page n=11&gt; </field><field name="file_s">ShaMidP</field></doc></add>
+<?xml version="1.0" encoding="UTF-8"?><add><doc><field name="id">d1e871</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_1.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream)  </field><field name="fulltext_t">I.i.Image of prompt-book page 145(opening) Scen A Palace] Hand I. FQ, G-C also
+              give setting as 'A Palace.'. Garrick, G-C PB give no setting, but G-C PB
+              notes 'Chorus Dircd:'.3-8 but oh . . . time:] Hand I cuts 3-8, by three
+              bracketings and crossing through, and substitutes '&amp; then' above F 'Moon:' (8),
+              with a caret after 'Moon'. 'This old Moon wanes?' (4) is not included in the
+              bracketing, only crossed through. The 't' in F 'steep' (7) appears to have been
+              altered to 's'. The function of the cross placed after 5 is not clear; sometimes a
+              cross is used to mark a marginal insertion. Nursery PB cuts 13-19; FQ, 1-20;
+              Garrick, 5- 13, 17; G-C PB, G-C, 8.9 Hip And then] Hand I inserts 'Hip' at beginning of 9 to
+              replace canceled F speech-prefix at 7. As PB now stands, Hippolyta would seem to pick
+              up and repeat Hand I's addition to Theseus' speech at 3 above. Probably, however,
+              '&amp; then' in 3 was only intended as a cue to indicate where Hippolyta's speech
+              should begin. FQ omits the character of Hippolyta throughout.11 Philostrates] Hand I adds 's' to F
+                'Philostrate', thus altering the pronunciation.15 turn] Hand I deletes F 'pomp' and substitutes 'turn'
+              following F period.18 strain] Hand I deletes F 'key' and substitutes 'strain'
+              following F comma.20 Be ever Happy] Hand I deletes F 'be' after 'Happy' and
+              inserts 'Be ever' above F 'Ege. Happy'.24 (Stand forth Demetrius.)] Hand I places this F
+              s.d. in parentheses. FQ first recognized that these words were part of Egeus'
+              speech; followed by Rowe. Hand I's intention here is not clear.26 (Stand forth Lysander.)] Hand I places this F
+              s.d. in parentheses. See 24.26 my gracious Duke] Crossed through.28-29 Thou, thou . . . child:] Bracketed, with crosses at
+              either end. Nursery PB cuts 33-35; FQ, 29-32, 34; Garrick, G-C PB, 28-35;
+              G-C, 29 ('thou hast . . .')-38 ('. . . harshnesse.').30 in evenings] Hand I deletes F 'by Moon-light' and
+              inserts above 'in evenings'; Hand I originally wrote 'in evenings' following end of
+              line and then deleted it.31 Songs of more faining] Hand I deletes F 'verses',
+              inserting 'Songs' above, and inserts 'more' above, with a caret, after F 'of'; Hand I
+              originally wrote 'Songs of' following end of line and then deleted it.32 fansie] Hand I deletes 'ta' in F 'fantasie'.33 knacks] Hand I deletes F 'gaudes' and substitutes
+              'knacks' (borrowed from 34) above F 'conceits', with a caret under deleted 'gaudes'.
+                FQ substitutes 'Lockets' for 'gaudes'.34-38 Knacks, trifles . . . harshnesse.] Bracketed. See
+              28-29.38 my gracious Lord] Hand I deletes F 'And' and inserts
+              'Lord' following deleted F 'Duke'. FQ reads 'If therefore, (Royal Sir)'; G-C
+              reads 'And, my noble Lord,'.39 If strait] Hand I deletes F 'Be it so and inserts 'If
+              strait' (followed by a crossed circle) at end of line, marking the point of insertion
+              at beginning of line by a repeated crossed circle. FQ, following its change
+              in 38, reads 'My Daughter does' for F 'Be . . . will'.48-51 yea, and . . . it:] Crossed through; F 'yea' altered
+              to 'yes' before deletion (FQ reads 'yes'). Nursery PB cuts 48-51;
+              FQ, 52-55; Garrick, 48 ('yea, . . .')-55; G-C PB, G-C, 47-51.65 immediatly or] Hand I deletes F 'the death, or to' and
+              inserts 'immediatly or' above, with a caret, after F 'die'. FQ omits any
+              reference to the death penalty.71 Immurd For ever in a shady Cloister.] Hand I places
+              'Immurd' at beginning of 71, crosses through F 'aye to be', inserting 'ever' above,
+              inserts 'a' above, with a caret, after F 'in', and deletes F 'mew'd,', placing a
+              period after F 'Cloister'. FQ reads 'To be immur'd for ever in a
+              Cloister.'.72-78 To live . . . blessednesse.] Circled. Nursery PB
+              cuts 67-78; FQ, 72-90 (essentially), inserting 6 lines, mostly original;
+              Garrick, 67-70; G-C PB, 71-73, 75; G-C, 68, 71-73, 75.Image of prompt-book page 14679 So will I live] Hand I deletes F 'grow, so' after 'I'.
+              The words are deleted because of reference to 78, showing that Hand I was preparing
+              his text with some care. Nursery PB substitutes 'I will doe either' for 79.83 until] Hand I deletes F 'and by' end, with a caret,
+              inserts 'until' above.85 bonds] Hand I adds 's' to F 'bond'. Nursery PB cuts
+              84-86; Garrick, G-C, 85; for FQ, see 72-78.88 as he would] Crossed through. G-C replaces these words
+              and 89-90 with 'or protest / A single life on chaste Diana's altar.'; for FQ,
+              see 72-78.90 ever] Hand I deletes F 'aye' and inserts 'ever'
+              above.92 vncertain] Hand I deletes F 'crazed', places a cross
+              above it, and writes 'vncertain' in left margin (presumably another cue cross was
+              shaved off in rebinding). FQ reads 'doubtful'; Garrick cuts 92-96; G-C, 92,
+              95-96.95 tis] Hand I deletes F 'Scornful! Lysander:'
+              and inserts 'tis' above F colon.98 &lt;co&gt;nfer vpon] Hand I deletes F 'estate unto',
+              places a cue cross below it, and writes '&lt;co&gt;nfer vpon' in left margin
+              (presumably another cue cross was shaved off in rebinding). FQ reads 'I give,
+              and settle on'. See 92.106 face,] Hand I deletes F 'head' and inserts 'face,'
+              following. FQ substantially rewrites 99-110, omitting 106; Garrick cuts
+              99-105; G-C, 102, telescoping 106-107.108 too] Hand I deletes F 'soul' and inserts 'too' above.
+                FQ reads 'Love'.112-114 And with . . . it.] Circled. FQ cuts
+              112-127, substituting four lines based on 117-121; Garrick, 112-114 ('. . . it.'),
+              telescoping the rest of 114 and 115, 117-127, substituting two original lines after
+              116; G-C PB, 120; G-C, 120, 122 ('what . . .')-127.114-127 But Demetrius . . . you.] Hand I
+              rearranges these lines, with some changes and omissions, in two slightly different
+              ways. First, with a circled note at the end of 115, cued by a cross ('here bring / in
+                ye last 3 lines / &amp; yn go on wth / for you fair' [note circled and crisscrossed through]), he
+              reads: 'But Demetrius come, / And you [for deleted F
+                'come']Egeus, you shall along [for deleted F 'go'] with me, / I
+              must employ you in some businesse of our own / and conferre with you / Of something,
+              nearly that concerns your selves. / For you fair Hermia, look you arme your
+              self / To fit your fancie ['s' of F 'fancies' deleted] to your Fathers will;
+              / Or else the Law of Athens yields you up / To death, or to a vow of single
+              life. [F period not deleted] / Which by no means we may extenuate) / Come my
+                Hippolita,'. Hand I's first version thus cuts 116 (bracketed and crossed
+              through), 122 ('what . . . Love?' bracketed and crossed through), 123 (crossed through
+              only), ('Against our nuptialls,' bracketed and crossed through), 127 (bracketed and
+              crossed through). The transposition of 120 and 121 is indicated by a small '2' and '1'
+              to the left of these lines, and the jump to 121 is cued by 'to death' (Hand I)
+              following 119. Hand I may originally have intended to retain
+               123 in place of 114 ('But . . ')-115, since it is
+              only crossed through, not bracketed; indeed, the crossing through may be entirely
+              associated with Hand I's second version. This second version, considerably shaved in
+              rebinding differs from the first only in some slight variations from the F text in
+              124-126. Crossing out both his note following 115 (see above) and lines 124-127 (127
+              being also bracketed, probably earlier for version one), Hand I writes in left margin
+              opposite 116-120: '&lt;I mus&gt;t imploy / &lt;you in&gt; som busines / &lt;of our&gt;
+              own &amp; then / &lt;conferre&gt; wth you / &lt;?on t&gt;hat
+              concerns / &lt;your s&gt;elves.' It is difficult to be sure of the word (or words)
+              following 'wth you', though clearly the full F reading ('Of
+              something, nearly') is too long to have been fitted into the available marginal
+              space.128 &lt;Wh&gt;y dearest Hermia] Hand I deletes F'How now
+              my Love? Why' and substitutes the lemma in left margin. FQ, G-C PB, G-C cut
+              128-131.130 Perhaps] Hand I deletes F 'Belike' and writes
+              'Perhaps' in left margin, cued with a cross.131 afford] Hand I deletes F 'Beteem' and writes 'afford'
+              in left margin.132 hear] Hand I originally wrote 'or hear' after F
+              'read,', then deleted both F 'read' and 'or'. Nursery PB cuts 132-156; FQ
+              reads 132 as '0 my true Hermia! I have never found'.133 Could ever . . . History,] Bracketed and crossed
+              through. FQ reads 133-134 as 'By observation, nor by History, / That Lovers
+              run a smooth, and even course:'.134 course of love yet] Hand I deletes F 'true' before
+              'love' and inserts 'yet' following 'love'. See 133.135-149 But either . . .
+                confusion.] Bracketed and partly circled. Hand ?II, however, corrects F 'to'
+              (148) to 'do'. For Nursery PB, see 132; FQ cuts 137-140, telescopes 144-145
+              ('Swift as the Lightning in the blackest night;'), and considerably rewrites the lines
+              retained; Garrick cuts 136, 138, 140, 144-149; G-C, 136, 138, 140 (so G-C PB, but
+              marked 'stet' ). Gentleman (Bell) comments favorably on 135-149 "The intersection of
+              these single lines has a pretty effect in reading, and must have a better on the
+              stage."151 Sure 'tis ye inevita / ble law of
+                fate] Hand I, crossing through 151 ('It stands as an Edict in destiny:'),
+              substitutes the lemma to the right, flanked by small crosses before 'Sure' and after
+              'inevita'. A third cross has been placed at the beginning of 151, which may refer to a
+              word (or words) crossed through to the left of 151, possibly 'inevitable' (Hand I).
+              For Nursery PB, see 132; FQ reads 'a Decree' for F 'an Edict'; G-C PB, G-C
+              cut, though earlier in G-C PB a now illegible word was interlined,
+               with a caret, after 'edict'. Gentleman (Bell)
+              offers an amusing comment: "We love not mention of destiny unless to refute so
+              prejudicial and uncomfortable a notion; the idea here inculcated, especially
+              respecting Love, is too much encouraged both among young and old."152 nature] Hand I crosses through F 'Triall' and inserts
+              'nature' above. FQ substitutes 'each other' for F 'our triall'; G-C PB, G-C
+              retain 152 but read 'Oh' for F 'Then'.153-155 Because it . . . followers.] Circled. For Nursery
+              PB, see 132; FQ cuts 154-155; G-C, 153-155.156 Lys: thy Love has / counsell'd well; then] Hand I, by
+              crossing through, substitutes the lemma (all but 'then' written in left column) for F
+                'Lys. [not deleted] A good perswasion; therefore' ('therefore'
+              altered to 'then' by crossing through 'refore' and inserting 'n' above). FQ
+              reads 156 as ' 'Tis well advis'd, my Hermia, / Pray hear me.'158 has] Hand I alters F 'hath' to 'has'. FQ
+              reads 'has', but substantially rewrites the whole speech; Garrick cuts 157 160; G-C
+              PB, G-C, 158.164 from] Hand I crosses through 'orth' in F 'forth' and
+              inserts 'rom' above. So FQ.167 To doe . . . May)] Bracketed and crossed through.
+              Nursery PB cuts 166-167; FQ rewrites 167-168 ('. . . thee.').168 dear Lysander, here] Hand I crosses through F 'good
+                Lysander,' and, following, substitutes the lemma.169-170 by Cupid's . . . head,] Bracketed and crossed
+              through. FQ cuts 171-174 and telescopes 177-178; Garrick, 173-174 and
+              replaces 177-178 with a new couplet; G-C PB, 172-174, 176; G-C, 170-174, 176-l77.
+              Gentleman (Bell) comments on 169-176: "There could not be a prettier or more fervent
+              set of oaths coined in the amorous stile than those uttered by Hermia with so
+              much affectionate delicacy; but we wish our Author had not here, nor on any other
+              occasion, changed pleasing emphatic blank verse for unpleasing unnatural rhimes."172 ties our souls] Hand I crosses through F 'knitteth'
+              and inserts 'ties our' above.173-174 And by . . . seen,] Crossed through and partly
+              circled. See 169-170.177-178 I will not / fail to meet / thee] Hand I crosses
+              through 177-178 ('In that . . . thee.') and substitutes the lemma to the right.
+                FQ reduces 177-178 to 'I will, where thou appoint'st, meet my
+                Lysander.'; Garrick rewrites as 'Hermia to-morrow in the depth of
+              night / Will meet Lysander, and attempt her flight.' See 169-170.179 We are surprizd] Hand I crosses through F 'Keep
+              promise Love' and substitutes the lemma below. FQ substitutes 'Enough, my
+              Love: '; Garrick cuts 179.180 Now fairest Helena, whither now?] Hand I
+              crosses through F 'God speed', placing 'Now' above, adds 'est' after and above F
+              'fair', and crosses through F 'away', placing 'now' above. FQ reduces to
+              'Welcome, fair Helena.'.181-182 oh no! / Demetrius thinks you] Hand I
+              first crosses through 'say' in F 'unsay' and writes 'speak' immediately following
+              (thus reading 'unspeak'); he then crosses through F 'that fair again unsay,' and
+              'speak' and writes 'oh no!' above his deleted 'speak', crossing through F 'loves'
+              (182) and inserting, with a caret, 'thinks' above. The change to 'thinks' probably
+              resulted from the F reading 'loves you fair' ('your' in Q1-2). FQ rewrites
+              181-182 and cuts 183-185; Garrick turns F 'fair: O happy fair!' (182) into 'O Hermia
+                fair, O happy, happy fair,' as the first line of a six-line song
+              composed otherwise of 183-185, 192-193, cutting 186-191 (so G-C, except for 182, which
+              reads 'Demetrius loves you, fair;'); G-C PB calls for a song after 'you fair;' and
+              circles 183-185, 187 ('ere I go;'), 190-191.183-191 Your eyes . . .translated.] Circled. See
+              181-182.193 empire] Hand I crosses through F 'motion' and
+              inserts, with a caret, 'empire' above.199 hates poor me.] Hand I deletes 'th' in F 'hateth',
+              adds 's' above, and places 'poor', with a caret, after F 'me.' (caret repeated after
+              'hates'). FQ cuts 198-199; Garrick, 196-201; G-C PB, G-C, 194-201.204-207 for since I cannot wth Lysander be,
+                / at Athens, tis a perfect hell to me] Hand I
+              substitutes the lemma, below 205, for F 204-207 ('Before the . . . Hell?'), which are
+              bracketed and crossed through. A cross, to the right of 206-207, indicates where the
+              new couplet is to be placed. FQ cuts 203-207; Garrick, G-C PB, G-C turn
+              204-207 into a song lyric (G-C PB circles the lines).Image of prompt-book page 147209 Luna] Hand I crosses through, with a small cross
+              below, F 'Phœbe' and writes 'Luna', with a small cross below, following
+              end of 209. So FQ ('This very night, when Luna does behold').213 gates we have contrivd] Hand I adds 's' to F 'gate'
+              (over F comma), crosses through F 'have we devis'd', and, with a caret after 'gates',
+              substitutes 'we have contrivd', inserted at end of 213 (marked with another caret).
+              Originally, Hand I had crossed through F 'devis'd' and inserted 'contrivd' above
+              (crossed through). FQ rewrites 213 as 'We from this cursed Town will steal
+              away.'216 of their counsell sweld] Crossed through. FQ
+              changes to 'of our secret thoughts' and cuts 220-225, replacing 224-225 with a new
+              couplet; Garrick cuts 220-224 ('pray thou . . . Hermia.'); G-C PB, 214-219,
+              221; G-C, 221.219-221 part wth enemies / Farewell sweet
+                maid, wish thou / well to us, / And Heaven] Hand I crosses through F 'and
+              strange companions,' ('and' probably deleted in error), inserts 'part wth enemies' above, crosses through F 'play-fellow, pray thou for us' (220),
+              inserting 'maid' above 'play-' (followed by a cross), writes 'wish thou [thou
+                written above a deleted but] / well to us' at end of 220 (preceded by a
+              cross), and crosses through F 'good luck' (221), inserting 'Heaven' above. See
+              216.222-225 Keep word . . . you.] Circled and crossed
+              through. Hand ?II has deleted 's' in F 'dotes'(225), following Q1-2. See 216.225 s.d. Exit Hermia / and / Lysander.] Hand I
+              originally wrote '(Exit)' after 221, crossed through F 'Exit Hermia.' after
+              223, then changed his mind, crossed through his first Exit)' and added 'Exit Hermia /
+              and' above F 'Exit Lysander.' (225), crossing through F 'Exit'.
+                FQ, Garrick exit Hermia and Lysander together.229 does] Hand ?II crosses through F 'th' in 'cloth' and
+              inserts 'es' above.230-245 And as . . . melt.] Bracketed, with a small cross
+              after 236. Hand ?II deletes the F commas after 'eyes' and 'figure' in 237 (so Collier
+              MS). Rowe first dropped the comma after 'figure', though FQ rephrases to make
+              the syntax clear. The inkstroke on 'l' in F 'looks' (234) seems to be meaningless.
+                FQ rewrites 226-227, 229 and cuts 230-233 (frequently rephrasing the lines
+              retained); Garrick cuts 229-233, 240-245, 248 ('and for . . .')-251, substituting
+              226-228 after F 'Pursue her;' (248), linked by an original passage ('I'll at distance
+              steal behind, / His sight alone will ease my tortur'd mind.'), and ending with 234-239
+              arranged as a song"; G-C PB, G-C cut 229-241, 244-245, and conclude with a four-line
+              lyric based in part on 250-251 (G-C PB merely calls for a song, deleting 250-251).248 this] Hand ?II adds 't' before F 'his' (following
+                Q1-2).249-251 tis A vast recompence / But poor in Love I to enrich my
+                pain, / wish but his sight] Hand I crosses through F 'it is a dear expence:'
+              and, following, inserts 'tis A vast recompence' ('A vast' written above a deleted 'a
+              great' and 'pence' written above 'recom', with a caret after 'm'); crosses through F
+              'herein mean' (250), inserting 'poor in Love' above; crosses through F 'To have' (251)
+              and writes 'wish' in left margin, inserting 'but' above F 'have' (originally Hand I
+              deleted only F 'To' and wrote 'wo'ud' in left margin [deleted], thus reading
+               'wo'ud have his sight'). FQ reduces
+              249-251 to 'And if he thanks me, I am overpaid.' See 230-245.</field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e1481</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_1.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream)  </field><field name="fulltext_t">I.ii.(opening) Scen the baudy house] Hand I. First marked as
+              a separate scene by Pope; Theobald first gives a setting ('SCENE changes to a
+                Cottage.'). Garrick omits I.ii as part of his cutting of the whole low-comedy
+              plot line; G-C PB gives 'O (Quinces House)' (the circle indicating "whistle for a
+              change of scene"); G-C gives 'SCENE a Room in Quince's House.'
+              (following Capell).30 To the rest, yet my] Some hand (perhaps Hand II) has
+              deleted the F comma after 'yet' and inserted a comma after 'rest'. Theobald first made
+              a substantially similar emendation. FQ converts F 'To the rest' into a s.d.;
+              G-C PB, G-C follow Theobald's reading; Collier MS reads 'rest. Yet'.53 An] Hand II strikes out 'd' in F 'And' (following
+              Pope)Image of prompt-book page 148109 &lt;bu&gt;t let us / &lt;reh&gt;earse or
+                / &lt;dan&gt;ce] Hand I places the lemma in left margin and indicates point
+              of insertion by repeating 'but', with a cross, following F 'fail me not.' (109).
+              Presumably at this point Quince and Co. were intended to perform a dance; G-C PB seems
+              to indicate a song about this point; G-C inserts a part song (four stanzas) following
+              109.112 pains] Hand I restores Q1-2, F1 reading by adding 's' to F3 'pain' (first
+              editorially restored by Pope). So FQ, G-C PB, G-C.114 hold or a rope.] Hand I crosses through F 'hold or
+              cut bow-strings.'and substitutes, below, the lemma (meaning, presumably, "Hold to our
+              arrangements or we will be hanged."). FQ reduces 114 to "Enough, enough.'
+              (spoken by All.); G-C gives Bottom a speech after the part song, which
+              concludes '. . . meet me at the Duke's oak—by moon light—mum's the word.',
+              adding 'All. Mum! [Exeunt all stealing out.'</field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e1554</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_2.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream)  </field><field name="fulltext_t">II.i.(opening) Scen is the New Grove] Hand I. FQ
+              gives the setting as 'SCENE a Wood, by Moon-light.'; Garrick, as 'Changes
+                to a Forest.'; G-C PB, as 'O Wood near Athens.'; G-C. as 'SCENE, a
+                Wood.'.9-15 dew . . .ear.] Circled. FQ retains with some
+              rewriting; Garrick cuts 10-13, giving 14-15 to Puck; G-C, 10-13; G-C PB is uncut, but
+              like Garrick and G-C calls for a song after 15.18 &lt;of&gt; fairies / &lt;r&gt;evells] Hand I crosses
+              through F 'doth keep his Revels' and inserts the lemma in left margin.20 much incensd / with] Hand I deletes F 'passing fell
+              and' and substitutes the lemma to the right of 20, with a caret after F 'is'. Hand I
+              first wrote 'with' above 'incensd', smudged it through, and repeated 'with' below. G-C
+              turns 20 into a question ('But why is Oberon so fell and wrath?') asked by the First
+              Fairy.21 for] Hand I crosses through F 'as' and inserts 'for'
+              above. So FQ.29 sheen] Hand ?I seems to have doctored 'ee' in F
+              'sheen', placing what looks like the dot of an 'i' between the two letters and
+              touching up both 'e's. FQ reads 29 as 'By Fountain, or by Star-light, are
+              they seen:' and cuts 27, 45-46, 54-57; Garrick cuts 22-23 ('stoln . . . changeling,'),
+              reads 'and he' in 24 for F 'And jealous Oberon', and cuts 26-57; G-C PB cuts
+              34-42 ('Are . . . he?'); G-C inserts 30-31 after 20 and cuts 26-29, 34-42 ('Are . . .
+              he? ), 45-47, 56-57.30 contest] Hand I crosses through F 'doe square,' and
+              inserts 'contest' above. FQ reads 'But as they quarrel' for F 'But they doe
+              square'; for Garrick, see 29; G-C reads 'For' for F 'But'.32 making] Hand I crosses through F 'quite' after F
+              'making'. Acting texts that retain 32 read 'Or' for F 'Either' (see 29).35-42 That fright . . . he?]
+              Circled, with a cross to right. Originally only 36-37 ('and . . . chern,') were
+              bracketed and partly crossed through. See 29.42 guessest right] Hand I crosses through F 'speak'st
+              aright' and inserts lemma following end of line.46 ins likenesse like a filly foal] Hand I inserts 's',
+              with a caret, above F 'in'; Hand ?II alters F 'silly' to 'filly' (following Q1). Hand
+              I intends us to read 'ins' as meaning "in his", the reason for the emendation lying in
+              the erroneous 'like' introduced by F3 (followed by F4 and Rowe) for Q1-2, F1-2 'of' (first
+              restored by Pope); Theobald first restored Q1 'filly'.48-57 In very . . . there.] Circled, with a cross to
+              right. See 29.59 s.d. Scen continues.] Hand I, to the right and below
+              59, inserts 'Scen continues.' (i.e., 'the New Grove' at beginning of Act II). The
+              reason for the notation does not seem apparent, since there is no exit or cleared
+              stage at this point.61 Fairys skip ye hence.] Hand I inserts 's' above F
+              'Fairy' and 'ye', with a caret, above F 'skip hence'. FQ substitutes 'Faries
+                [sic] away,'. Theobald wac the first editor to emend to 'fairies' (not
+              followed by G-C PB, G-C).64 it is confest / insulting / Oberon but / yet I know]
+              Hand I crosses through 64 ('Then I . . . know'), placing a cross after F speech-prefix
+                "Qu.', and inserts the lemma, preceded by another cross in right margin
+              opposite 63-66. FQ reads 64 as 'And am not I your Lady too? Remember'
+              (changing F 'Wanton' (63) to the more decorous 'Woman') and very considerably rewrites
+              65-80; Garrick cuts 63-118; G-C PB, G-C, 64-68 ('but I . . . Phillida.').67 makeing] Hand I crosses through F 'versing' and
+              inserts, with a caret, 'makeing' above. FQ substitutes 'Singing'. See 64.69 part] Hand I crosses through F 'steep' and inserts,
+              with a caret, 'part' above. FQ substitutes 'Verge'; G-C PB reads
+              'step' (as later emended by Capell).79 Ægle] Hand II substitutes 'Æ' and deletes
+              's' in F 'Eagles'. FQ, Garrick omit the classical reference; other acting
+              texts read 'Egle' or 'Ægle' (first emended to 'Ægle' by Rowe).82-85 since the . . . sea,] Hand I, placing a small cross
+              to right and left, brackets and crosses through in two stages: 83 ('on hill . .
+              .')-85; 82 ('since the . . .')-85; in F 'or by rushie brook,' only 'rushie' crossed
+              through. Part of longer cut in Garrick (63-118); G-C cuts 85.86 met we] Hand I inserts 'met me' to left of 86 to
+              replace F 'Met we' (83) deleted in second stage of 82-85.86 the wind] Hand I crosses through F 'whistling' before
+              F 'wind'. Part of longer cut in Garrick (63-118).88-111 the winds . . . set.]
+              Circled. Nursery PB cuts 98-187; FQ, 88 ('Therefore the winds . . .')-117;
+              part of longer cut in Garrick (63-118); G-C PB, G-C cut as in PB, including, however,
+              F 'Therefore' in 88.Image of prompt-book page 149112 The Autumn] Hand I crosses through F 'childing' after
+              F 'The', presumably not understanding the word. G-C PB, G-C read 'chiding' (following
+              Pope). See 88-111.121 Page] Hand I crosses through F 'Henchman' and inserts
+              'Page' following. FQ reads 121 as 'Give me him, we are Friends.'; Garrick
+              cuts 121.128 we have laught] Hand II inserts, with a caret, 'have'
+              above F 'we laught' (as in Q1-2, F1-2; first
+              restored by Rowe). Nursery PB cuts 98-187; FQ, 124-135; Garrick, 126-134; G-C
+              PB,G-C, 131.145 for / we shall / quarrell] Hand 1 crosses through F
+              'We shall chide down right,' (placing a small circle on F 'We') and inserts the lemma,
+              preceded by a crossed circle, in left margin opposite 143-144 (possibly a deleted
+              'and' was originally written preceding Hand I's 'we' and replaced by 'for' above).
+              Nursery PB cuts 98-187; FQ reads 145 as 'We chide down-right, if I
+                should longer stay.'; Garrick cuts 145 (reading 'Elves away.' in 144) and
+              inserts a song; G-C PB calls for 'Song' after 145; G-C cuts 144 ('Fairies away:')-l45
+              and inserts a new song.149 Since once I] Hand II inserts, with a caret after F
+              'Since', 'once' above F 'I' (as in Q1-2, F1;
+              first restored by Pope). Nursery PB cuts 98-187; FQ reads 'Since when I';
+              Garrick cuts 149-168; G-C PB, G-C, 148 ('thou. . .')-168.151 such sweet and such harmonious] Hand I crosses
+              through F 'dulcet' and inserts 'sweet' and 'such' above F 'harmonious'. Some hand,
+              probably not Hand I, has placed an index-hand 
+              pointing to 151 in left margin, the only example of this sign in PB. Why this line
+              should be singled out for special emphasis is unclear, unless it is intended to call
+              attention to the similarity of the changes found in FQ ('Sing with such
+              sweet, with such Harmonious breath,'). See 149.153] The ink mark after F 'Shpears,' appears to be a
+              showthrough from F p. 150.155 saw] Hand II crosses through 'y' in F 'say' and
+              inserts 'w' above (following Q1; first restored by Rowe).158-165 throned by . .
+                  .Cupid fell.] Circled (see note on 166). FQ heavily
+              rewrites. See 149.166 but the bolt fell s&lt;?hort&gt;] Hand I crosses
+              through F 'It fell' and, cued by a cross before 166, writes the lemma (preceded by a
+              cross) to right of 166.174 ere I can say wha&lt;t . . .&gt;] Hand I crosses
+              through F 174 ('Ere . . . league.') and writes lemma to right of 173. What appears to
+              be an illegible word following 174 is probably only a showthrough from F p.150.175 girdle round about the earth,] Hand II inserts
+              'round' above F 'about' (restoring Q1) and places a comma after F
+              'earth' (as in Q1-2, F1-2); Pope first
+              restored Q1 'round'. FQ reads 175 as 'I'll compass the
+              whole Earth in forty minutes.'179 which] Hand II crosses through F 'when' and places
+              'which' to right of 179 (following Rowe); Capell first restored Q1
+              'then'. FQ reads 179 as 'The next Live Thing she waking looks upon,'.181 the busie Ape] Hand I crosses through F 'on' and
+              inserts 'the' above. So FQ, reading also 'The' for F 'On'; Garrick cuts
+              180-181; G-C telescopes 180-181 into '(Be it on bear, lion, wolf, bull, ape, or
+              monkey),'.183 her] Hand ?I corrects the turned 'r' in F 'her'.190 The one . . . me.] Crossed through. FQ cuts
+              190 and reduces 192-194 to one line; Garrick cuts 188-193; G-C PB, 190-193; G-C,
+              189-193.192-193 And here . . . Hermia.] Circled. See
+              190.196-197 But yet . . . steel.] Crossed through.
+                FQ reduces 196-197 to 'And yet I am not Iron, yet you draw me.'; Garrick
+              cuts 195-213; G-C reduces 196-198 to 'You draw me on, I cannot help but follow.'; G-C
+              PB reduced 196-197 ('. . . steel.') as in G-C, but added 'Demetrius' at end of
+              197.197 Leave you] Hand II inserts 'you', with a caret, after
+              F 'Leave' (restoring Q1-2, F1-2, as does
+              Rowe). See 196-197.202 love you] Hand I crosses through F 'thee' and inserts
+              'you' to the left above (thus reading with Q1; otherwise first
+              restored  stored by Capell). Hand I's agreement
+              with Q1 is almost certainly accidental, the change being made to
+              accord with the 'you' forms in 201, 207. FQ substitutes 'Demetrius'
+              for F 'thee'; Garrick cuts 195-213; G-C PB reads 202 as 'For that do I love thee
+              more;'; G-C cuts 202-205 ('. . . spaniell;').203-205 I am . . . spaniell;] Circle and crossed through.
+                FQ rewrites in part; G-C PB cuts as in PB. See 202.208-210 What worser . . . dog?] Circled. Nursery PB, G-C
+              PB cut as in PB; FQ, G-C, 208-213; Garrick, 195-213.219 fair fame] Hand I crosses through F 'virginity' and
+              substitutes 'fair fame' to right. FQ reads 219 as 'With the rich purchase of
+              your Virgin Treasure.' and cuts 222; Garrick cuts 219-220, 222, 225-226; G-C PB,
+              225-226; G-C, 219, 225-226; Gentleman (Bell) suggests cutting 211-234.220 virtue's my protection] Hand I deletes 'i' in F 'is'
+              following F 'virtue', inserts an apostrophe, and crosses through F 'priviledge: for
+              that'. FQ reads 220 as 'Your Virtue is my Guard, Demetrius:'. See
+              219.221 Wth me It is not night when I
+                behold] Hand I inserts 'Wth me' before F 'It', crosses
+              through F 'do see' (placing a caret below), and writes 'behold', with a caret, at end
+              of 221. FQ reads 221 as 'It is not night when I behold that Face,'. See
+              219.Image of prompt-book page 150227 &lt;Awa&gt;y or else / ile] Hand I crosses through F
+              'I'le run from thee, and' and inserts the lemma in left margin, with a crossed circle
+              to mark point of insertion.232 &amp; the Hinde] Hand I inserts '&amp;' before F
+              'the' and crosses through F 'milde'. Garrick cuts 232-234; G-C PB, 233 ('Bootless . .
+              � )-234; G-C, 230-234.235 &lt;he&gt;ar thy folly] Hand I crosses through F
+              'stay thy questions' and inserts the lemma in left margin. FQ reads 235 as
+              'Plague me no more, return e'er 'tis too late.' and exits Demetrius at 237 (as does
+              G-C PB, G-C).236 darest pursue] Hand I crosses through F 'follow me'
+              and inserts 'darest pursue' above. FQ reads 236 as 'Follow me not, for fear
+              my Rage should tempt me'.244 by yt dear] Hand I crosses
+              through F 'upon the' and inserts, with a caret, 'by yt dear'
+              above. The blot above F 'make' in 243 seems meaningless. FQ rewrites 242-243
+              and reads 244 as 'I'll kiss the hand that gives the fatal blow.'; Garrick cuts 238-244
+              (suggested cut in Gentleman (Bell)); G-C PB, G-C, 240-244.249-256 ye place / &lt;I kn&gt;ow where /
+                &lt;?my&gt; Titania / &lt;slee&gt;ps] Hand I circles 249-256 ('I know . . .
+              in.') and substitutes the lemma in left margin, with a small crossed circle after 248.
+              Nursery PB cuts 249-258; FQ, 258, 265-266 (with rewriting
+               of the lines retained); Garrick, 250-252,
+              254-258, 267-268; G-C PB originally cut 251-252, but marks them 'stet'; G-C, 250-252,
+              255-256, 265-266.249 whereon] Hand II (following Pope) inserts, with a
+              caret, 'on' above F 'where'. Acting texts read with Pope, except FQ, which
+              reads 249 as 'I know there is a bank where wild Time blows,'.250 Where Oxslips] Hand II (following Pope) crosses
+              through F 'the' before 'Oxslips' (F3 first introduced 'the',
+              followed by F4 and Rowe). So all acting texts that retain the
+              line; see 249-256.266 of her, then she was of] Hand ?I alters 'n' in F 'on'
+              to 'f' and crosses through F 'upon', inserting 'was of' above. Rowe emended F 'on' to
+              'of' and is followed by G-C PB, the only acting text that retains 266.</field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e2030</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_2.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream)  </field><field name="fulltext_t">II.ii.(opening)] No new scene indicated in PB, FQ,
+              Garrick. In FQ Titania enters with 'her Train' and in a new
+              four-line speech orders 'All shall turn to Fairy-Land.'. Thereupon 'The
+                Scene changes to a Prospect of Grotto's, Arbors, and delightful Walks: . . .';
+              this is followed by 16 new lines, owing something to Shakespeare's song ('You spotted
+              Snakes . . .'), A PRELUDE, 'Then the First SONG.', 'Then a Fairy
+                Dance.', Shakespeare's lines 1-8 (slightly rewritten), '2. SONG.' (by
+              Night, Mystery, Secresie, and Sleep), 'A Dance of the Followers of Night.'
+              (here picking up Oberon's speech at 27). G-C PB begins Act III here and indicates
+              change of scene by 'O 3 / Banks'; G-C also begins Act III here and gives the scene as
+                'The Wood.'.2-8 &lt;y&gt;e Song [crossed through]
+                / &lt;Then t&gt;o yor offices &amp; let me rest Fairies
+                  Sing. fairy dance] Hand I circles and crosses through most of 2-8
+              ('Then for . . . rest.'), places '&lt;y&gt;e Song' in left margin
+              below 8 (later crossed through), and then repeats 8 to left of F s.d. 'Fairies
+                Sing.', adding 'fairy dance' to the right of s.d. The arrangement here is not
+              entirely clear. '&lt;y&gt;e Song' was presumably deleted when Hand
+              I decided to retain 8 and recopied it below; the 'fairy dance' is called for by F
+              'Roundell' in 1 and is not an independent dance but accompanied the following F song.
+              Nursery PB cuts 1-34; for FQ, see preceding note; Garrick cuts 7 ('Sing . .
+              .')-8; none of the acting texts, except Bottom the Weaver (s.d. 'Fayries
+                first Dance, and then sings 1.'), FQ and PB, specifically calls for a
+              dance.14 her asleep wth] Hand I crosses
+              through F 'in your sweet' and substitutes 'her asleep wth' above
+              (the change being suggested by F 'Sing me now asleep,' [7]). See 2-8.16-26 Never harm . . . Centinell.] Circled and
+              partly crisscrossed. Garrick cuts 25-26. See 2-8.34s.d. Exit / Scene / is / The little / wood] Hand I,
+              alone among acting texts (except Reynolds), introduces a new setting here. He also
+              (along with Bottom the Weaver) furnishes the necessary 'Exit' for Oberon
+              (found later, following Rowe, in all acting texts).35 wood] Hand ?II crosses through 's' in F 'woods' (as in
+                Q1; first restored by FQ, Rowe). Among acting texts
+              only Nursery PB reads 'woods'.36 truth] Hand ?II alters 'o' in F 'troth' to 'u'. So
+              Garrick, G-C PB, G-C (a reading picked up from the 1734 Tonson edition, the basis of
+              G-C PB). FQ rewrites 36 as 'I fear, my Hermia, we mistook our
+              way'.41-65 Lys. One turfe . . . prest.] Circled.
+                FQ reduces 39-65 to four-and-a-half lines (partly rewritten); Garrick cuts
+              43-63; G-C PB, 43-64 ('. . . bed,'), inserting, in Garrick's hand, the following
+              lines: 'Her. My gentle Friend, for Love &amp; Courtesy, / Permit me this one
+              boon; let my faint limbs / Recruit their weariness 'till dawn appears, / And thou,
+              Lysander, on that bank repose, / That if perchance my Woman's fears shou'd seek /
+              Protection in thy Love &amp; Brav'ry, / I may not call on Love &amp; thee in Vain /
+                Lys. My Honor is the best security for shine / Repose thee, Love, I'll
+              watch thee thro' ye Night, / Nor harm shall reach thee—/
+              Sleep give thee all his Rest.'; G-C cuts Garrick's first three lines, beginning 'Now,
+              my Lysander, on that . . .', and his 'My Honor . . . shine', correcting 'Nor' to 'No'
+              in line 10; Gentleman (Bell) suggests cutting 43-62, adding "The passages here marked
+              should be omitted, for though founded in delicacy, they may raise warm ideas."66 Through] Something appears to be written above 'T' in F
+              'Through'; probably only part of the circling of 41-65.Image of prompt-book page 15177 near the man / loves Enemy] Hand I crosses through F 77
+              ('Near . . . curtesie.') and inserts the lemma to right. FQ, Garrick cut
+              76-77 (FQ rewriting parts of the speech); G-C PB cuts 'this lack-love, this'
+              in F 77 and then inserts between 77 and 78 the following (in Garrick's hand): 'But
+              first I'll throw this Youth into a Trance / That fairy Sprites may round him Dance, /
+              Melting Sounds your Power impart / That I may pierce his harden'd heart. /
+                Music. / Lys. Whence is this sweet-enchanting Harmony! / A thicker
+              Shade o'erspreads the Night! my Senses / Some secret unknown influence feels—/ I
+              cannot shake it off; chains invisible / Already bind my Limbs, &amp; all my Pow'rs
+              enthrall. / Lysander sinks down / Puck. 'Tis done, 'tis done; &amp; now my Skill / His breast with other Love
+              shall fill:' (78-83 follow); G-C retains Garrick's insertion (with slight verbal
+              changes), but cuts 76-77, 80-81; Gentleman (Bell) suggests cutting 76-77 and reading
+              78 as 'Upon thy maiden eyes I throw,'.84 Stay . . . dear] Hand I crosses through F 'Say' (an
+              error first appearing in F2), writes 'Spe' (i.e., the first
+              letters of 'Speak') above, deletes it, and inserts 'Stay' to right; he then crosses
+              through F 'sweet' and substitutes 'dear' above ('Stay', probably coincidentally,
+              restores the Ql-2, F1 reading). FQ
+              cuts 84-87.86 thou canst / not leave / me weried / wth
+                my woe] Hand I crosses through F 86 ('0 wilt . . . so.') and substitutes the
+              lemma in left margin (cued with a crossed circle above 'thou' to the opening F '0',
+              with a vertical line through it, of 86). For FQ, see 84; Garrick substitutes
+              'darling' for F 'darkling'; G-C PB, G-C read 86 as '0 wilt thou leave me? do not so,
+              my Love.'.88 &amp; sunk wth greife] Hand I
+              crosses through F 'in this fond chase,' and substitutes the lemma immediately above.
+                FQ substitutes 'with following him so fast.'; Garrick cuts 88-89.89 I pray, the lesse is my releife] Hand I, in F 'my
+              prayer', crosses through 'my' and 'er' in 'prayer' and inserts 'I' above, crosses
+              through both final 'r' in F 'lesser' and F 'grace', and inserts 'releife' to right.
+                FQ cuts 89; for Garrick, see 88; G-C PB, G-C substitute 'favour' for F
+              'grace'.91 charming] Hand I crosses through F 'blessed' and, with
+              a caret below both, writes 'charming' to left of 91. FQ rephrases 91 as 'How
+              her attractive Eyes still draw him on!'; G-C PB reads 91 as 'she hath attractive &amp;
+              bewitching Eyes'; G-C cuts 90-99.94-99 No, no . . . eyne?] Circled, but originally
+              bracketed, the brackets including 100-101, which Hand I then recognized as necessary
+              for sense. Nursery PB cuts 98-99; FQ, Garrick, 94-99; G-C PB, 92-98; G-C,
+              90-99; Gentleman (Bell) suggests cutting 92-97.101 nor] Hand I adds 'r' to F 'no'. FQ rewrites
+              100-102 as two lines; G-C cuts last half of 101 ('I . . . wound,').102 Lysander! if you live, Lysander, wake] Hand
+              I converts the comma after F 'Lysander' into an exclamation mark, crosses
+              through F 'good sir', inserts, with a caret, 'Lysander' above, and deletes the initial
+              'a' in F 'awake'. FQ reads 102 as 'I hope he is not dead! Lysander,
+              speak.'.103 I would for thy deer sake.] Hand I crosses through F
+              'will' and inserts 'would' above; then crosses through F 'sweet' and inserts 'deer'
+              above. FQ completely rewrites 103-107; Garrick
+               inserts a song after 102 and cuts 103; G-C PB,
+              G-C read 'for thee, sweet Helena.' for F 'I . . . sake.' and cut 104-105.106-107 Where is Demetrius? yt
+                disdainfull Ld / tis iust yt he shoud perish
+                by] Hand I inserts 'is' above after F 'Where'; crosses through F 'oh how fit
+              a word' (106) and inserts yt disdainfull Ld'
+              following; crosses through F 'Is that vile name, to' (107), writing 'tis iust yt he shoud' partly in left margin and partly interlined above; and
+              crosses through F 'on', inserting 'by' above. 'is' first dropped out in F2; restored editorially by Rowe. For FQ, see 103.108 Now your're / unkind] Hand I crosses through F 'Do
+              not say so' and inserts the lemma in left margin. FQ rewrites 108-110,
+              reading 'O say not so, Lysander!' for 108.109 Hermia? what though?] Hand I crosses through
+              F 'Lord,' before F 'what'. FQ omits F 'Lord, what though?'; Garrick reads
+                'Hermia, yet you know,'; G-C PB, G-C read 'Hermia? what of
+              that?'.110 while Hermia still is yours, be you
+                content,] Hand I deletes F 'Yet' and inserts 'while' in left margin, crosses
+              through F 'loves you' and inserts 'is yours' above, deletes F 'then' and inserts
+              'you', with a caret, above F 'content,'. FQ reads 'pray be content, / Be
+              satisfy'd, your Hermia loves you still.'; Garrick reads 'That' for F 'Yet';
+              G-C PB, G-C read 'be satisfy'd' for F 'then be content,'.113-114 Not Hermia . . . Dove?] Circled. G-C
+              cuts 113-114.115-116 stat] Hand I, to right, places 'stat' between
+              113-114 and 117-120 (both sets of lines circled), possibly indicating the retention of
+              the two sets (or the retention of at least the first set), or perhaps simply
+              emphasizing the retention of 115-116. FQ cuts 115-116 and rewrites 117-122;
+              Garrick cuts 115-122.117-120 Things growing . . . will,] Circled. Nursery PB
+              cuts 117-122 (same cut suggested by Gentleman (Bell)); for FQ, Garrick, see
+              115-116; G-C PB, G-C cut 117-119.121 It leads] Hand I crosses through F 'And' before F
+              'leads' and substitutes 'It' in left margin. See 117-120.123 for mans derision] Hand I crosses through F 'to this
+              keen mockery' and inserts, with a caret, the lemma above. FQ rewrites
+              123-124, cuts 125-130, rewrites 131-134; Garrick cuts 125-130, 133-134; G-C PB reduces
+              123 to 'But wherefore this?', alters 130 to 'To woo me in such disdainfull terms,',
+              cuts 'perforce I must confesse,' (131) and 133-134; G-C follows G-C PB in 123, but
+              cuts 129-131 as well as 133-134; Gentleman (Bell) suggests cutting 125-130.127-128 Deserve one look from my Demetrius but in
+                contempt /  you will upbraid / me thus]
+              Hand I crosses through F 'a sweet' and inserts 'one' above, inserts 'my' above between
+              F 'from' and 'Demetrius', deletes F 'eye', and crosses through 128,
+              substituting, cued with crossed circles, 'but in contempt / you will upbraid / me
+              thus' to right of 127-128. See 123.129-130 In troth you do me wrong (indeed you do) / In your
+                desdain; / let me pursue / my woe] Hand I deletes F 'Good', inserting, with a
+              caret, 'In' above, crosses through F 'good sooth', inserting 'indeed' above, crosses
+              through F 'such . . . wooe.' (130) and substitutes, with cue crosses, 'your desdain; /
+              let me pursue / my woe' to right of 130-131. See 123.131-134 But fare . . . abus'd.] Circled. See 123.135 She saw not Hermia, sleep thou for ever
+                there,] Hand I deletes F 'sees', substituting 'saw' in left margin, places a
+              comma after F 'Hermia', and inserts 'for ever' above, with a caret, after F
+              'thou' (F3-4 drop a second 'Hermia'&gt;, making the line
+              unmetrical). What appears to be a crossing-through of 'Hermia, sleep' and
+              parts of 136 is an ink show-through from F p. 152. FQ reads 135 as 'She sees
+              not Hermia. Sleep, sleep for ever;' and rewrites 136-144; Garrick cuts
+              136-144, adding an original line after 135; G-C PB, G-C cut 143-144.137-142 For as . . . me,] Bracketed. See 135.143-144 Ile all my powers addresse with love and might / To
+                Ho&lt;nour&gt; / Helle&lt;n&gt; [or Helle&lt;na&gt;] / favor &lt;me&gt; /
+                  ye nig&lt;ht&gt;] Hand I deletes F 'And' and
+              substitutes 'Ile' to left; deletes F 'your', inserting 'with' above; deletes F
+              'might,', inserting 'might' above, followed by a crossed circle linking to the
+              substitution for 144; crosses through F 144 ('To . . . Knight.'), including F
+                'Exit.', and substitutes, in right margin, preceded by a crossed circle,
+              'To Ho&lt;nour&gt; / Helle&lt;n&gt; [or Helle&lt;na&gt;] / favor &lt;me&gt; /
+                ye nig&lt;ht&gt;'. Hand I originally handled 144 differently,
+              twice repeating, and each time crossing through, 'favor &lt;me&gt; ye nig&lt;ht&gt;', once after F 'might' (143) and again after F 'Knight.'
+              (144), in the second case with a small cross before F 'To' (144), which is repeated
+              before 'favor' (presumably, at this stage, letting F 'To honour Helen,'
+              stand). The deletion of F 'Exit.' must have been accidental. Nursery PB cuts
+              143-144; see 135.150 you] Hand ?II alters F yet' by converting 'et' to
+              'ou' (the reading of Q1-2; first adopted by Pope). So all acting
+              texts, except FQ, which retains 'yet'.151 Lord!] Hand ?II converts F comma to an exclamation
+              mark (first appearing in Rowe). So all acting texts, except FQ, which
+              rewrites the last half of 151.153 Alas] Hand ?I converts F 'Alack' by deleting 'ak' and
+              inserting  's' above. FQ cuts 148, omits
+              'Alack' in rewriting 152-154, and replaces 155-l56 with two new lines; Garrick
+              rewrites 153 as 'Where are you, speak? alas! he is not near.' and cuts 154-156; G-C
+              PB, G-C cut 155-156.154 or i'm lost] Hand I crosses through F 'of all loves'
+              and substitutes 'or i'm lost' in right margin. See 153.156 Or] Hand I deletes F 'Either' and substitutes 'Or' to
+              left Pope first read 'Or' in edited texts. See 153.</field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e2517</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_3.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream)  </field><field name="fulltext_t">III.i.(opening) Third Act] Hand I crosses through F
+                'Actus Tertius.' and later substituted 'Third Act' above. The Act III
+              division was restored by Hand I when he decided not to begin Act III at III i.166 or
+              III.ii; see below, 165 s.d.-167 and III.ii (opening).(opening) Scen is ye fforrest] Hand
+              I. Garrick, as already noticed, omits Bottom and Co., including the whole of this
+              scene. Nursery PB cuts 79 s.d.-82, 90, 108 s.d.-III.ii.40; FQ, 7-78
+              (inserting 7-74 ('. . . well.') in I. ii after 91 ('. . . it.')), 83-105 (inserting
+              here the Pyramus-Thisbe play from Act V), 157-162, 174, 182-201; G-C PB, 144
+              (reversing 142-143); G-C, 144 (reversing 142-143), 175-176.Image of prompt-book page 15247 em] Hand ?II deletes F 'him' and inserts, with a caret,
+              'em' above. So FQ. Rowe first restored Q1-2 'them';
+              Cambridge gives '`em' as an anonymous conjecture. See III.i (opening).54 An Almanack,] Hand I crosses through F 'Calender, a
+              Calender' and inserts 'n' above F 'A' followed by 'Almanack'. See III.i (opening).78 s.d. Enter Robin.] Some hand places a large
+              cross in left margin opposite the F s.d. The ink smear at 78-80 seems to be merely a
+              blot.84 flower] Hand ?II (following Pope) deletes the 's' in F
+              'flowers'. See III.i (opening).101] What looks like a pen stroke appears after F 'you'
+              (possibly an 'r').105 s.d. Enter Pyramus with the / asse's Head] Hand II
+              inserts this s.d. following 105. Rowe first re-entered Bottom here (after 103);
+              Hanmer, after 105 (as in PB). Acting texts, retaining this part of the scene, bring
+              Bottom on at either 103 or 105.106 s.d. Enter Puck] Hand I inserts the s.d. to right of
+              106. Since Puck has been given no exit since his entry after 78, it is not clear why
+              he should be given a re-entry here. Even if Hand I does not realize that Puck and
+              Robin are one and the same (the erroneous F s.d. at 55 ('Enter Puck.')
+              remains undeleted in PB, which also retains F 'Enter Robin.' at 780), his
+              confusion does not explain matters, since there is no exit given earlier
+               for Robin. Capell is the first editor to exit
+              Puck earlier (90) and therefore the first to re-enter him at 105 (as in G-C, Gentleman
+              (Bell)).114 s.d.] Hand II crosses through F s.d. 'Enter
+                Piramus with the Asse head.' See 105 s.d.131 with] Hand II delets F 'and' inserts, with a caret,
+              'with' above (the reading of Q1-2, first restored by Pope). The
+              small cross in right margin opposite 132 seems to have no function. FQ also
+              reads 'with' and so all acting texts that retain the song; see III.i (opening).144 And thy . . . me.] Crossed through. See III.i
+              (opening).150 be witty] Hand I deletes F 'gleek', places a caret
+              below, and substitutes 'be witty' following end of line. FQ substitutes
+              'break a Jest' for 'gleek'. See III.i (opening).158 wait] Hand I deletes F 'tend' and inserts 'wait'
+              above. See III.i (opening).162 fragrant flowers do] Hand I deletes F 'pressed',
+              substituting 'fragrant' at end of 161, and deletes 'th' in F 'doth' (found only in
+                F3-4 for Q1-2, F1-2
+              'dost'). G-C, curiously, reads 'doth'; see III.i (opening).165 s.d.-l67 Enter Peaseblossome . . . Tita. Be kind] Hand I here makes four
+              additions, the exact order of which is difficult to determine: (1) crossing through F
+              165 s.d. ('Enter Peaseblossome . . . four Fairies.') and 166 ('Fair.
+              Ready: and I . . . we go?') and intending to begin Act III with Titania's speech
+              (166-177) (influenced by Titania's earlier 'therefore goe with me' [159] and the
+              omission in F1-4 of 165 in which she summons Peaseblossom, Cobweb,
+              etc.), he inserts, following 164, 'Come follow me / my dear Exit:' (later crossed
+              through); (2) he adds, in bottom right margin below the deleted F 165 s.d. and 166,
+              'Bot: I am afraid [the last three words inserted above a deleted Who knows
+              but] she may have a / mind to ravish me when she has discoverd / &lt;my&gt; parts why
+              shoud I be a skittish nice Asse' (the last line shaved in binding and no exit
+              direction, if there once was one, visible); (3) he adds, in a bold hand, across the
+              top margin of the following F page (153), 'Actus 3us. Scen. 1&lt;a&gt; Titania &amp; Bottom, [if anything followed
+              'Bottom,' it has been shaved away] / Enter [written over 'Pease']
+              Peaseblossome, Cobweb, Moth, Mustardseed &amp; 4 fairies.' (the act-scene notation and
+              s.d. appear to have been crossed through; if a scene setting prefaced the act- scene
+              notation it has been shaved off); and (4) he adds, above 167, deleting the F
+              speech-prefix 'Tita.' (167), 'Tit: You subject faires [sic] of /
+                ye noblest Race', and continues with F 167 ('Be kind . . .
+              Gentleman.). Note that Hand I makes another 
+              abandoned attempt to begin Act III at what in modern texts is III.ii (see III.ii
+              (opening)). Although Hand I eventually returned to the F Act III break, the additional
+              lines for Bottom and the second of the two added lines for Titania were apparently
+              retained, the shaving of the last line of Bottom's added speech leaving it unclear
+              whether it was originally intended to conclude the scene following Titania's added
+              'Exit:' (in which case it was probably followed by Hand I's own 'Exit:' now lost), or
+              whether it was intended to begin the new scene--more likely the former. In any case,
+              with Hand I's deletion of his new act-scene-entry notation, there is now no entry
+              given for Peaseblossom, etc. or the '4 fairies', the F s.d. at 165
+              having been crossed through. None of the acting texts begins a new scene here;
+                FQ reduces Peaseblossom, etc. to 'Enter 4
+                Fairies.' (dropping all reference to them by name), adding 'Where are my Fairy
+              Spirits?' to Titania's shortened and rewritten F speech before their entry at 165; the
+              other acting texts that retain the scene (see III.i (opening)) treat Peaseblossom,
+              etc. as the quivalent of the F 'four Fairies' (165 s.d.) (following Q1-2) and add 165 from Q1-2 (first restored by
+              Theobald). Nursery PB cuts 108 s.d.-III.ii.40.Image of prompt-book page 153168 gambole before] Hand I deletes F 'and' before
+              'gambole' and F 'in', substituting 'before', with carets, at end of 168. See III.i
+              (opening).175 then] Hand I deletes F 'And' and substitutes 'then'
+              in left margin. See III.i (opening).206 s.d. Exeunt all] Hand I adds this s.d., but leaves F
+                 'Exit.' undeleted.</field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e2725</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_3.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream)  </field><field name="fulltext_t">III.ii(opening) Act 3us Sce ja / Grove / agen] This notation by Hand I, heavily crossed through,
+              is his second abandoned attempt to change the point at which Act III begins. There is
+              a large cross mark to the left (compare III.i.78 s.d.). Whether the projected change
+              here is earlier or later than that at III.i. 165 s.d.-167 is problematical. The scene
+              setting for III.i ('ye fforrest') presumably continues here after
+              the deletion of 'Grove / agen' above. Note that no change of scene setting seems to
+              have been called for when Hand I thought of beginning Act III at III.i.165 s.d.,
+              although that arrangement would also appear to call for a new setting. No new scene in
+                FQ; Garrick begins III.i here, setting 'A Forrest.'; G-C PB, G-C
+              begin IV.i here, settings 'another Wood O' (G-C PB) and 'The Wood.' (G-C).
+              Pope is the first editor to mark a new scene. 20-23 As wild-Geese . . . skye :] Circled, with a cross on
+              either side. Nursery PB cuts 1-40; FQ reduces and rewrites 7-34 to five lines
+              (entirely omitting 20-23, 27-30); Garrick reduces 
+              1-40 to thirteen lines, referring to Bottom simply as a 'clown'; G-C PB cuts 18-19 ('.
+              . . comes:'), 21-22, 27-30; G-C reduces 9-11 to one line and cuts 13-16, 18-32;
+              Gentleman (Bell) suggests cutting 1-34.24] Above this line, to left of running-title, some hand
+              has placed two rectangles, with a horizontal line through the centre, crossed on each
+              end; the first rectangle appears to contain the figures '670' and is followed by 'god'
+              after the right-hand cross. Does this possibly suggest the date 1670?24 Strait] Hand I deletes F 'So' and substitutes, to the
+              left, 'Strait'. See 20-23.27-30 Their sense . . . catch,] Circled and crossed
+              through. See 20-23. In right margin, opposite 29 and down to 39, some hand (seemingly
+              Hand I) has written and circled 'So / for' twice in right margin and placed a cross in
+              right margin opposite end of 38. Meaning?36 wet] Hand I deletes F 'latcht' and inserts 'wet' above.
+                FQ reads 'I streak'd his eyes,'. See 20-23.40 s.d.-42 Ob &amp; &lt;?Rob&gt; / stand a&lt;?side&gt; / &amp;
+                over&lt;hear&gt;] Hand I adds this s.d. in right margin opposite F s.d.
+                'Enter Demetrius and Lysander.'; the second shaved word may be
+              'a&lt;part&gt;' instead of 'a&lt;side&gt;'. Compare Collier MS which reads '(stand
+              aparte)'.48 staind &lt;?wth&gt; blood, / plunge yet
+                into] Hand I first crossed through F 'Being o're shoes in' (whether 'in' was
+              deleted then or later is not clear) and inserts 'coverd' above 'shoes'; he then
+              deletes 'coverd' and writes 'coverd &lt;?wth&gt; [or
+              &lt;in&gt;]' in right margin, with crosses preceding it and under F 'shoes in';
+              finally, he deletes this and substitutes, above in right margin, with a cross, 'Staind
+                &lt;?wth&gt;'. At some point Hand I also inserts 'yet', with a
+              caret, above F 'plunge', and 'to', with a caret, above F 'in the'. FQ merely
+              allows Demetrius and Hermia to walk across the stage and cuts 43-87; Garrick cuts 44-
+              46, 48, 52 ('I'le . . .')-55, 62-81, 83-87 (substituting 'Here, brooding o'er my
+              thoughts, I will remain,'); G-C PB, G-C, 44, 48, 52 ('I'le . . .')-55, 57-61
+              (substituting 'Why gentle Hermia, will you still persist / To pierce me thrô the
+              Heart with your contempt' [a version of 59] and 'Ah good Demetrius, give him
+              to my wishes!' [for 63]), 65 ('Out dog, out cur,'), 68-74 (inserting F 70 after 66 and
+              retaining 'thou serpent' in 73), 77-79, substituting 'In search of my Lysander, come
+              what may.' for 81, 83-87 (substituting 'Upon this bank I will a while repose me.');
+              Gentleman (Bell) suggests cutting 52 ('I'le . . .')-55.52-55 I'le believe . . . Antipodes.] Circled and
+              crossed through. See 48.56 It cannot . . . him,] Originally included in the
+              circling of 52-55, but marked 'Stet' by Hand I at beginning (with three small crosses)
+              and 'Stet' at end of 56. See 48.58 murderd] Hand ?II converts second 'er' in F 'murderer'
+              to 'd' (Q1 'murthered'; Q2 'murdered'). See
+              48.59 stern] Hand II strikes through 'a' in F 'steam'.60 look as bright &amp; clear] Hand II strikes through 's'
+              in F 'looks' (as in Q1-2) and converts F 'as' to '&amp;'. Rowe
+              first restored Q1-2 'look' and emended F 'as' to 'and'; Capell
+              first restored 'as'. Only Nursery PB, Garrick retain 60 (the latter reading as in
+              Rowe).61 Shining] Hand I deletes F 'glimmering' and inserts
+              'Shining' at end of 61, with a cue-cross under each. Only Nursery PB, Garrick retain
+              61.63 shew] Hand I deletes F 'give' end inserts 'shew' above.
+              See 48.64-87 I'de rather see him b&lt;?uried.&gt; / Her: has&lt;t
+                thou&gt; / slain h&lt;im then&gt; / henceforth &lt;be&gt; / never n&lt;umberd&gt; /
+                amongst &lt;men.&gt; / Ex&lt;it&gt; / Dem: there is
+                &lt;no fol&gt; / lowing &lt;her in&gt; / this de&lt;spair&gt; / Sorrow &lt; &gt; /
+                truth &amp; &lt; &gt; / me rest &lt; &gt; / here / (lies d&lt;own)&gt;] Hand
+              I crosses through 'give his carkasse to my hounds.' in 64 and variously circles,
+              brackets, and crosses through 65-87 (87 only crossed through and 87 s.d. 'Lie
+                down.' left undeleted) and writes the above version of 64-87 in right margin
+              ('see him . . . de&lt;spair&gt;' opposite 64-72; 'Sorrow . . . d&lt;own)&gt;' opposite
+              82-86). Before deleting the whole of 65-87, Hand I had apparently intended to retain
+              66-67 ('Hast . . . men.'), placing an 'Exit', later crossed through, after 'men.' in
+              67, and 74-82 ('You spend . . . vein,'), altering, with interlineations, 80 to read
+              'thus from thy hated presence I depart:' (crossing through F 'And' and 'part I') and
+              82 to read 'in this despair' (crossing through F 'in this fierce vein', with a caret
+              below); all these earlier changes are crossed through. See 48.Image of prompt-book page 15490 &lt;m&gt;istake] Hand I deletes F 'misprision' and
+              substitutes '&lt;m&gt;istake' in left margin. FQ cuts 90-91; Garrick. G-C PB,
+              G-C, 90-93.91 true love turn'd false, and] Hand I deletes F 'Some'
+              and inserts 'false' above F 'and'. See 90.92-93 &lt;Rob&gt;: then / &lt;fat&gt;e ore= /
+                &lt;ru&gt;les.] Hand I circles and crosses through 92-93, placing a cross
+              before F 'Rob.' (not crossed through), and substitutes the lemma in left
+              margin. See 90.107 fair] Hand I deletes F 'the', with a caret below, and
+              writes 'fair' in left margin (the beginning of 'fair' ('fa') has been deleted above F
+              'the'). FQ substitutes 'yonder' for F 'the'.120] To the right of this line, Hand I has written what
+              appears  to be 'That did here [or love]',
+              underlined and crossed through. The reference of the deleted words is not clear, since
+              they seem to have no relation to the context at 120 or at 180, the line following them
+              in column two of F (p. 154). They may have had some connection with the aborted
+              designation of IV.i as beginning with 121 s.d. (see next note).121 s.d. &lt;Act&gt; 4us Scen ja [crossed through]] Hand I at one point decided
+              to begin Act IV with the entry of Lysander and Helena here, placing the act-scene
+              notation above and to the left; he then changed his mind and shifted it to follow 344
+              (see note on 344 s.d.). FQ begins Act IV with 102; Nursery PB, Garrick, G-C
+              PB, G-C continue the scene as in F.122-127 Why do you think I follow you in scorn? / Scorn cannot
+                well be masqud in sighs &amp; teares: / See while I vow I weep, and vowes so born, /
+                like truth her selfe in / her first / dresse / appeares] Hand I, in 122,
+              crosses through F 'should', 'that', and 'should wooe', substituting 'do' above
+              'should' and 'follow you', with a caret, above 'should wooe'; in 123, he crosses
+              through F 'and derision never comes in', substituting, with carets, 'cannot well be
+              masqud in sighs &amp;' above; in 124, he crosses through F 'Look', substituting 'See'
+              in left margin and altering 'en' in F 'when' to 'ile'; he then crosses through 125-127
+              ('In their . . . true.'), substituting, following 125, with small crosses at beginning
+              and end of F line, 'like truth her selfe in / her first / dresse / appeares'. Nursery
+              PB cuts 128-129, 139-144, 149- 154, 157-161; FQ cuts 124-125, 130 ('Will . .
+              .')-133, rewrites 139 ('O how . . .')-44 (adding two original lines after 144), and
+              cuts 147-148, 157-176; Garrick cuts 124-129, 130 ('Will. . .')-136, 140-148, 151-162,
+              163 ('this. . .')-164 ('. . . will,'), 166, 173-176; G-C PB cuts 126-127, 129, 130
+              ('Will . . . )-133 (substituting 'give 'em not to me'), 141-144, 147-150 (substituting
+              'mirth—poor Me!' for F 'merriment' in 146), 153- 154 (substituting 'simple Woman
+              thus?' for F 'gentle Lady so?' in 152), 158 (substituting 'In my poor Eyes to conjure
+              up the tears'), 159 ('none . . .')-161 (substituting '`tis unkindly done!'), 167 ('and
+              . . .')-168 (substituting 'to death to death Demetrius / Hel: What cruel mocking of a
+              simple maid!'), 171 ('to . . . sojourn'd,'; substituting 'to Hermia was but as a
+              Guest'), 175 ('abide it dear'; substituting 'repent Lysander'), 176 ('yonder is my
+              dear.') [Note that, beginning with the last part of 176, G-C PB at one time cut
+              everything through 335 ('Now she holds me not,'); then some passages were marked
+              'stet' and included in G-C.]; G-C generally follows G-C PB, but with the following
+              differences: cuts 139-144, 145 ('O hell! . . .')-154 (substituting only 'simple
+               woman thus!'), 156-157, 167 ('and . . .')-168
+              (omitting one 'to death' in G-C PB's substitution), 170-171 (reading 172 as 'My heart
+              to Helena is home return'd,').128-135 Hel. &lt; &gt; Appear / &lt; &gt; you deceive /
+                &lt;?me m&gt;ore, they / &lt;tha&gt;t sweare / &lt; &gt; these / &lt;?vows&gt; are
+                Her- / &lt;mi&gt;as Since / &lt; &gt; &lt;?thys&gt; Shape / &lt; &gt;t disdain /&lt;
+                &gt; truth / &lt;?vo&gt;ws are yors] Hand I's addition,
+              in left margin, is so badly shaved as to be partly illegible and unintelligible;
+              128-135 ('You doe . . . o're.') circled and crossed through, though originally only 'O
+              devilish holy fray!' (130) was cut in 129-131 ('You . . . Hermiaes.'), F
+              'doe' (129) having 'but' (Hand I) substituted above. Hand I's marginal substitution is
+              cued with a crossed circle before F 'Hel.' (129); it was probably also cued
+              with another crossed circle, mostly shaved off, before Hand I's 'Appear' in lemma
+              above. See 122-127.136 and he . . . you. Awake] Crossed through.
+              Hand I originally crossed through only F 'and he', inserting 'but' above F 'and',
+              superposing 'I' on F 'he', and converting F s.d. 'Awa.' to 'Awake'.
+              Hand I repeats '&lt;(a&gt;wakes)', in left margin opposite , followed by a cross. See
+              122-127.138-148 &lt;thou&gt; art all / &lt;t&gt;ransparent, /
+                &lt;?cryst&gt;oline / &lt; ?s&gt; Angell / &lt; ?y&gt;th God / &lt; &gt; of my love
+                / &lt; &gt; / &lt; ?wor&gt;thy / &lt; ?art&gt; of / &lt; di&gt;vinity / &lt; &gt;
+                thee] Hand I's addition, in left margin, is so badly shaved as to be partly
+              illegible and unintelligible; 138-148 ('To what . . . injury.') circled in three
+              stages ('To what' in 138 separately crossed through, not circled); originally Hand I
+              intended to keep F 'To what' in 138 (and perhaps 143-144 ('O let . . . blisse.')) and
+              made a marginal addition, keyed with a cross after F 'what' (138), above the present
+              lemma, but crossed it through (only a few words are legible: 'my [or thy]',
+              '?form', 'thy', '&lt;?crys&gt;toline', 'me on', 'and ?thus', 'my blisse'). See
+              122-127.149 Hel: Can you] Hand I inserts 'Hel:' above beginning
+              of 149 to replace deleted F 'Hel.' at 145.150 in his derision too?] Hand I crosses through F 'in
+              souls to mock me' end inserts, with a caret, 'in his derision' above. FQ
+              reads 150 as 'Must you contrive, and joyn to mock me too?'. See 122-127.151 you wou'd not use me so] Hand I crosses through F 'as
+              men you are in show' and inserts the lemma following the deletion. See 122-127.152-154 You would . . . hearts.] Circled, with a small
+              cross to right. See 122-127.156 ioyn to abuse Helena] Hand I crosses through
+              F 'Rivals, to mock' and inserts 'ioyn to abuse' above.157-161 A trim . . . sport.] Circled, with a small cross
+              to right. See 122-127.164 I do declare] Hand I crosses through F 'with all good
+              will' and inserts, with a caret, the lemma above. See 122-127.167 I must love,] Hand I deletes F 'doe' after 'I' and
+              places 'must', with a cross, to left (originally 'must', with a caret, was inserted
+              above F 'doe', then smudged through). See 122-127.168 Hel. Never did . . . breath.] Bracketed and
+              crossed through. See 122-127.169 her to thy selfe alone] Hand I crosses through F 'thy
+                Hermia , I will none' and inserts the lemma above (repeated by Hand I,
+              keyed with a cross, to left, then crossed through). See 122-127.170 now] Hand I deletes F 'all' and inserts, with a
+              caret, 'now' above. See 122-127.171-175 My heart . . . dear.] Circled in two stages and
+              crossed through; two small crosses to right. See 122-127.176 where she comes,] Hand I crosses through F 'thy Love'
+              and inserts 'she', with a caret, above; then crosses through F 'yonder is thy dear.'.
+              See 122-127.177 office] Hand I deletes F 'function' and inserts
+              'office' above. Nursery PB cuts 177-180; FQ reads 'distinction' for F 'his
+              function' and cuts 179-181; Garrick cuts 179-181; G-C PB, G-C, 179-180.182 (more happy) brought] Hand I crosses through F 'I
+              thank it' (retaining the F parentheses), inserts, with a caret, 'more happy' above,
+              and alters F 'brooght' to 'brought'. Hand I also places 'more ?hap / happy' (crossed
+              through) to right of 182 ('happy' above '?hap'). See 177.184 how] Hand I deletes F 'Why' and inserts, with a
+              caret, 'how' above. FQ reads 184 as 'Impertinent! Love summon'd me to go
+              '.186-188 love that would not let him bide / Fair
+                Helena!] Hand I deletes F parentheses (186), converts F comma after
+                'Helena' (187) to an exclamation mark, and brackets and crosses through F
+              187-188 ('who more . . . light.'). FQ reduces 186-190 to 'The Love of
+                Helena, whose brighter Eyes / Darken the Starry Jewels of the Night; / They
+              take from her, not from the Sun their light.'; Garrick reduces 186-190 to
+                'Lysander's love, fair Helena.'; G-C PB, G-C reduce 186-190 to
+                'Lysander's love, his Love for Helena, / Fair Helena, who
+              more engilds the night / Than all yon fiery Stars; why seek'st thou me?'.192 Are you too one of the confederacy,] Hand I crosses
+              through F 'Loe, she is', inserts 'Are you too' above, and alters 'is' in F 'this' to
+              'e'. FQ reads 192 as 'Oh Heav'n! she's one of the Confederacy.'; Garrick cuts
+              192.193-216 Now I . . .
+                friend?] Circled. Nursery PB cuts 196-216; FQ cuts 193-l94 and
+              reduces 195-242 to five rewritten lines; Garrick cuts 192-194, 202-242; G-C PB,
+              193-194, 211- 214, 217-219; G-C, 193-194, 205, 211-215, 217-219; Gentleman (Bell)
+              suggests cutting 210-214.210 But yet] Hand II inserts 'yet' above, following F
+              'But' (omitted F3-4; first restored by Rowe). See 193-216.Image of prompt-book page 155213 first, like coats] Hand II places a comma after F
+              'first', deletes F 'life,', after first altering F 'f' to 'k', and places 'like' at
+              end of 213 (Theobald, on conjecture by Folkes, first read 'first, like'; Q1-2, F1 read 'first life'; F2-4, 'first
+              life,').220-235 Her. I am . . . despise.] Circled.
+              Nursery PB cuts 222-231; G-C PB, 225, 226-227 ('nymph . . . celestiall?'); G-C, as in
+              G-C PB, but also 228-230, 232-235; Gentleman (Bell) suggests cutting 225, 232-235. For
+                FQ, Garrick, see 193-216.236 by this] Hand I crosses through F 'by this' and
+              substitutes 'Helena' above, but deletes it.238 Make mouthes . . . back,] Crossed through. Nursery PB
+              cuts 237- 240; G-C PB, G-C, 238-239, 241-242. For FQ, Garrick, see
+              193-216.239 Wink at each other] Hand I inserts 'at' above F 'Wink
+              each' and deletes F 'at' after F 'other'. See 193-216, 238.240-243 This sport . . . fault,] Circled. See 193-216
+              238.244 s.d. Exit / weeping] Hand I adds this s.d. following
+              244 for Helena. Garrick exits Helena here.245 hear but my] Hand I inserts, with a caret, 'but'
+              above F 'hear my'. FQ reads 245 as 'Stay, lovely Maid; by Heav'n I swear to
+              thee,'; G-C PB, G-C, as 'Stay gentle Helena, hear my vows my prayers'.246-247 fair Helena. / Hel. O
+                excellent!] Crossed through (Hand I exiting Helena at 244). Nursery PB cuts
+              247- 317; FQ, Garrick, 247-253; G-C PB, G-C 247 ('Her. Sweet . .
+              .')-253; Gentleman (Bell) suggests cutting 247 ('Her. Sweet . . .')-284.250 Thy threats . . . praise.] Crossed through. See
+              246-247.254 love her more then you] Hand I deletes F 'thee' and
+              inserts 'her', with a caret, above; deletes F 'he' and inserts, with a caret, 'you'
+              above. Garrick reads 254 as 'I say I love her more than thou, 
+              Lysander.'.255 tis well / vain / man] Hand I crosses through F 'If
+              thou say so,' and substitutes the lemma to left, keyed by crosses. FQ reads
+              255 as 'Words, words; let us withdraw, and prove it too.'; G-C PB, G-C substitute
+              'traitor' for F 'too'.256-343 &lt;Her: &gt; leave me in this solitary place Exeunt
+                  ye Men / &lt; p&gt;rey to fortune vnkind cruell Lysander /
+                &lt;?to si&gt;gh and beg [beg above a deleted pray] to windes &amp; rocks /
+                &lt;?He has&gt;  gone to fight for Helena but
+                all / &lt;?his&gt; woundes are mine, his life his soul is mine / &lt; &gt; they were
+                / &lt; ?n&gt;ow tis past /&lt; ?a&gt;re yt mind / &lt; &gt; his I am [last two words above a deleted my
+                thought] / &lt;?a&gt;ll distraction / &lt; Lys&gt;ander till / &lt;?I fin&gt;d a
+                desert / &lt; &gt; as my &lt; &gt; on=[or en=] / &lt; &gt; a [written
+                  below what seems to be a deleted the below a deleted ?graves] Scene
+                / &lt;of h&gt;orror and / &lt;con&gt;fusion, /
+                &lt;?o&gt;r in some [some written above another ?some deleted] /
+                &lt;?plac&gt;e I may / &lt;for&gt;gotten fall / &lt;of a&gt;ll forsaken / &lt;?and
+                fo&gt;rsaking all / [line] / &lt;ac&gt;t ends / [line]] Hand I's long and
+              mostly original addition, placed in top left and left margin of F p. 156, is badly
+              shaved and only partly legible or intelligible. The position of Hand I's addition,
+              intended to replace 256-343 ('Dem. Quick, come.... run away.' [F s.d.
+                'Exeunt.' at 343 being retained]), is noted by Hand I, to left of 256-257
+              (F p. 155), with the words 'that / over the / leafe / comes in / here'. Earlier Hand I
+              had inserted, following 256, 'Exeunt ye Men)', then deleted it,
+              repeating it as part of his final addition. Helena's exit is presumably meant to be
+              taken care of by F 'Exeunt.' (343). Nursery PB cuts 247-317, 325-335;
+                FQ essentially retains 256-297 but rewrites, cuts 297 ('I am . . .')-320
+              (rewriting 321-328), 329-330 ('. . . Acorn'), 331-334 ('. . . abide it.'); Garrick
+              cuts 257-272, 274-278, 279 ('of question . . .')-280 (substituting 'for it is true,'),
+              282-344; G-C PB originally cut 256-335, 338 ('cheek by . . .')-343, but marked 282-284
+              ('. . . him?'), 306-308, 314-316 ('. . . further.'), placing them after 338; G-C
+              follows G-C PB's final arrangement, but cuts 308; Gentleman (Bell) suggests cutting
+              247 ('Her. Sweet . . .')-284.260 bur] Hand ?II alters F 't' in 'but' to 'r'
+              (restoring, as does Rowe, the reading of Q1-2, F1). See 256-343.279 question, doubt] Hand II deletes F 'of' before F
+              'doubt' (following Pope). See 256-343.282 jugler, O you] Hand II inserts, with a caret, 'O'
+              before F 'you' (following Pope). See 256-343.Image of prompt-book page 156338 make bold to lead you] Hand I crosses through F 'go
+              with thee cheek by jowle' and inserts the lemma above, then crosses it through.
+                FQ reads 338 as 'Follow? nay I'll go with you; yes, before you.'. See
+              256-343.344 s.d. Act 4us Scen ja
+                / fforrest / Scen] Hand I, on either side of F s.d. 'Enter Oberon and
+                Puck.' inserts 'Act 4us' (to left), 'Scen ja (to right) and 'fforrest / Scen' to right of 345-346. Nursery PB continues
+              the scene as in F; FQ begins Act IV with 102 (no break here); Garrick here
+              begins III.vi (following a song); G-C PB, like PB, begins Act IV here, but G-C begins
+              Act IV at III.ii.352-353 And so . . . sport.] Circled and crossed through.
+                FQ cuts 350-351 and rewrites 352-353; Garrick cuts 347-353 (retained by G-C
+              PB); G-C, 350-353.354 knowst the] Hand I deletes F 'seest', placing a caret
+              below, writes 'knowst', with a caret below, in left margin, and deletes 'se' in F
+              'these'�a change dictated by the new scene begun at 345.356-357 The starry . . . Acheron,] Crossed
+              through and partly circled. Nursery PB cuts 374-394 ('. . . notwithstanding');
+                FQ, 356-357, 358-361 (rewritten as two lines), 372-373; Garrick, 356-365,
+              370-377 (370-371 used later in reference to Titania, 376 also used later); G-C PB,
+              356-357 (F 'And' changed to 'I'll' in 358; also in G-C), 363, 373-374; G-C, 356-357,
+              360-369, 373-374; Gentleman (Bell) suggests cutting 373-375 (375 wrongly).368-369 with his . . . sight.] Crossed through. See
+              356-357.372-373 Then back to Athens shall the Lovers turn /
+                &lt;?&amp; w&gt;th their former / passions / &lt;?they&gt; shall
+                burn] Hand I inserts 'Then' above deleted F 'And' and 'turn' following
+              deleted F 'wend', crossing through 373 and placing a cross at each end of 373
+              (probably another cue-cross has been shaved off before '&lt;&amp; w&gt;th' in left margin). Hand I's 'former', inserted, with a caret, after 'their',
+              takes the place of another deleted word before 'passions', of which only a final 'd'
+              remains legible (probably 'old'). G-C reduces 372-374 to 'And back the lovers shall
+              return in truth;'. See 356-357.377 all shall be at peace.] Hand I deletes F 'things' and
+              inserts 'at' above, with a caret, after F 'be'. So FQ. See 356-357.379 Clouds too fast,] Hand I inserts 'too' above deleted
+              F 'full'. For Nursery PB, see 356-357; Garrick, G-C cut 378-387; G-C PB, 381-387.385 day their shame should look upon.] Hand I crosses
+              through F 'their shames' and inserts, with a caret, 'their shame' above F 'day
+              should'. FQ reads 385 as 'For fear Bright Day their shames should look
+              upon.'. See 379.386-387 They wilfully . . . night.] Circled and partly
+              crossed through. See 379.388-393 Ob. But we . . . streames.] Bracketed. F
+              'love' (389) has been deleted by Hand II, which substitutes 'Light' (following Rowe3) in left margin. For Nursery PB, see 356-357; FQ
+              substitutes "Can any where, at any time resort.' for 389-393; Garrick cuts 388-IV.i.81
+              (except for 396-399); G-C PB, G-C, 390-394 ('. . . haste,').394 ob: Go then good Spirit, make me no delay: Exit] Hand
+              I crosses through F 'But not withstanding haste' and above substitutes
+               'ob: Go then good Spirit', inserts 'me', with a
+              caret, above F 'make no', and adds 'Exit' to right following end of 394 (should follow
+              395). For Nursery PB, see 356-357; FQ reads 394 as 'I have more work for
+              thee, make no delay,'; for Garrick, see 388-393; G-C PB, G-C read 394 as 'away away
+              make no delay,'. FQ, G-C PB exit Oberon at 395; G-C exits Puck, however, and
+              gives the remainder of Puck's lines in this scene to Oberon.396-400 Up and . . . one.] PB has a cross opposite these
+              lines in right margin. Garrick, G-C PB, G-C treat 396-399 as a song (sung by Oberon in
+              G-C?).401 Speak to me now.] Hand I deletes F 'thou' and inserts
+              'to me', with a caret, above. FQ substitutes 'answer where?'; Garrick cuts
+              401-463; G-C PB substitutes 'speak where now. [sic] art thou?'; G-C, 'Speak,
+              where art thou?'404 s.d. ground. Exeunt] Hand I adds 'Exeunt' following F
+              'ground.'. PB enters Puck again at 407, but no re-entry is marked for Lysander.
+                FQ also exits Puck and Lysander here, but (cutting 404 ('Lysander,
+              . . .')-412) appears to bring them on again immediately; for Garrick, see 401; G-C PB
+              exits no one, after 395, until 412; G-C exits Oberon and Demetrius (the last not
+              having entered) and gives no re-entry for Oberon, cutting 404-412.406 Speak in what bush: thou hidest thy coward head?]
+              Hand I deletes F 'some', inserting 'what' above, crosses through F 'Where cost thou',
+              substituting 'thou' above (but forgetting to delete F colon after 'bush'), alters F
+              'hide' to 'hidest' by inserting 'st', with a caret, above, and inserts 'coward', with
+              a caret, above F 'thy head?'. See 404 s.d.407 s.d. Ent Rob.] Hand I places 'Ent' before F
+              speech-prefix 'Rob.'. See 404 s.d.407-409 Thou coward . . . come?] Crossed through. See
+              404 s.d.409-411 thou, boy / I'le whip thee with a rod, tis such a toy /
+                  yt shoud chastise thee] Hand I deletes F 'child' and
+              substitutes 'boy' following 409; he then crosses through F 'He is . . . thee.'
+              (410-411) and substitutes, to right of 410-411, 'tis such a toy / yt shoud chastise thee' (with equals signs after F 'rod' and before 'tis'). G-C
+              PB also reads 'Boy' for F 'child'. See 404 s.d.411 oh, art] Hand I substitutes 'oh', above and to left
+              of, his deletion of F 'Yea', which he had originally altered to 'Yes' by writing 's'
+              over 'a'. See 404 s.d.417 But I am faln in dark] Hand I crosses through F 'That
+              faln am', writing 'But' above F 'am', and inserts 'am faln', with a caret, above F 'in
+              dark'. FQ cuts 415-416 and rewrites 417-418 as '`Tis very dark, the way
+              uneven too; / I'm tyr'd with  running, here I'll
+              lay me down,'; Garrick cuts 401-463; G-C PB, G-C read 417-418 ('. . . me.') as 'now
+              tir'd and fall'n in a dark uneven way, / here will I rest me.' (G-C also cuts
+              415).418-420 once shew me but / Demetrius by / thy light / And
+                fortune yn I dare / thy vtmost spight] Hand I crosses
+              through 418 ('Come . . . day:') and circles 419-420 ('For if . . . spight.', with a
+              little crossing through in 420); he places a cross above F 'day:' (418), cued to a
+              cross at the original beginning of the lemma, which first began with 'fortune but /'
+              (crossed through), the whole lemma being squeezed into left of F centre-rule.
+              Obviously, 'Come thou gentle day:' (418) should not have been deleted, since it is
+              required to make sense of 'thy light' in Hand I's reworking of 419-420. FQ
+              reads 419-420 as 'And wait with patience the approach of day, / Then if I meet him, we
+              will end our Fray.'; G-C PB reads 418-420 as 'Come thou gentle Morning / For if but
+              once thou shew thy twilight gray, / I'll find Demetrius, and revenge my
+              wrongs.' (so G-C, but keeps F 'me thy gray light' in 419). For Garrick, see 417.418 s.d. lies down.] Hand I inserts 's' after F
+                'lie'.422-423 thou shift thy place] Hand I crosses through F
+              'For well . . . me,'(422-423) ('me,' missed in the crossing through), inserts 'thou'
+              above F 'me,' deletes 'ing' in F 'shifting' (appears to have altered 'ing' to 'st'
+              originally, which is what is called for), and deletes F 'every', placing 'thy' above.
+                FQ, G-C PB cut F 'For well I wot,' (422); for Garrick, see 417.425 Come thou hither,] Hand II (following Pope) inserts
+              'thou', with a caret, above F 'hither.' FQ cuts 'Come hither,'; G-C PB, G-C
+              read as in PB; for Garrick, see 417.428 but go thy way: faintnesse now forces me,] Hand I
+              writes 'but' before deleted F 'Now' and deletes F 'constraineth', inserting 'now
+              forces' above. FQ reads 428 as 'My faintness forces me to rest a while,'.430 s.d. visited. (lies down)] Hand I inserts '(lies
+              down)' following F 'visited.'. FQ adds s.d. 'Sleeps.', rewriting
+              429-430; G-C PB, G-C give s.d. 'Lies down.' (following Rowe) after 429,
+              cutting 430; Gentleman (Bell) places s.d. 'lies down.' after 429 and s.d.
+                'sleeps.' after 430 (following Capell).433-434 That I may back return by morning light / freed from /
+                those evills / yt I most / detest] Hand I crosses through
+              F 'to Athens by day-light,' (433) and substitutes, following end of 433,
+              'return by morning light' ('light' added, with a caret, above); he then crosses
+              through 434 ('From these . . . detest,'; 'detest' being separately deleted), places a
+              cross at each end of 434, and substitutes, left of centre-rule and preceded by another
+              cross, 'freed from / those evills / yt I most / detest'. FQ rewrites 431-433 as 'Oh weary, tedious Night abate thy Hours; / Shine from
+              the East that I may fly to Town,'.437 Yet but three here?] Hand II (following Hanmer)
+              inserts, with a caret, 'here' above F 'three'. FQ reads 'There's yet but
+              three,'.438 makes] Hand ?I adds 's' after 'e' in F 'make' (the
+              reading of Q1-2, F1-2, F4). FQ, G-C PB, G-C, Gentleman (Bell) (the last three following Pope)
+              read 'make'. The change in PB is surprising.442 When shall I see an end of all my woe,] Hand I
+              crosses through F 'Never so . . . woe' and substitutes the lemma above. FQ
+              rewrites 442 as 'Never was Maid so weary, and so wrong'd,'.445 s.d. desires. lies down)] Hand I inserts 'lies down)'
+              following F 'desires.' See 430 s.d.446-447 Here will . . . fray.] Circled. FQ
+              rewrites 446-447 as 'Here will I rest the remnant of the Night. / Heav'n guard
+                Lysander, if they meet and fight.'; for Garrick, see 417; G-C PB brackets
+              442-447 and notes 'this may be sung'; G-C cuts 443,445.450-451 apply vnto your eye] Hand I inserts, above,
+              'vnto' after F 'apply'. Some emendation is needed (Q1-2, F1-4 read 'apply your eye'). Nursery PB makes no correction;
+                FQ (followed by Rowe, G-C PB, G-C) reads 'to your', but transfers 448-463
+              to follow IV.i.107; for Garrick, see 417.453-454 wak'st, strait thou tak'st] Hand I inserts above,
+              with a caret, 'strait' after F 'wak'st,' and alters 'r' in F 'rak'st' (an error in
+                F2-3) to 't'; Hand I repeats 'strait' following 'tak'st'.
+                FQ reads 'wak'st, then thou tak'st'; for Garrick, see 417; G-C PB, 'wak'st
+              next, thou tak'st' (following Hanmer); G-C cuts 453-457. Note that Nursery PB, which
+              makes no change in 453-454, lacks everything after 457, the remaining pages of text
+              being supplied from another (unmarked) copy of F1.455 delight, in] Some hand has inserted a comma after F
+              'delight'.Image of prompt-book page 157461-463 Jack shall . . . well.] Originally
+              bracketed and crossed through, but Hand I, following F 'ill,' (462) notes 'let these 2
+              / stand' (461-463 as two lines in F).463 s.d. Sleepers lie / still] Hand I crosses through F
+              s.d. 'They sleep all the Act.' and substitutes, to left, the lemma (cf.
+              IV.i.106 s.d. in F). Other acting texts also leave the lovers sleeping, though the
+              mechanics of this are not at all clear in Garrick. See next note.</field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e3646</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream)  </field><field name="fulltext_t">IV.i.(opening) fforrest] Hand I crosses through F 'Actus
+                Quartus.' (see III.ii.344 s.d.) and inserts, below, 'fforrest' (see III.ii.344
+              s.d.); he thus continues the scene as in Q1-2. FQ
+              continues the  scene, but cuts 1-64 (1-2, 30-32,
+              rewritten, being transferred to follow III.ii.101), with rewriting of 65-66; Garrick
+              begins 'SCENE VII' (of his Act III), but cuts 1-80; G-C PB deletes 'ACT IV.SCENE
+              I.'and marks as 'Scene 10. The Wood.' (setting from 1734 ed.); G-C designates
+              as 'ACT.V.SCENE I. / SCENE, the Wood.'; Gentleman (Bell), as 'ACT IV. / SCENE
+              I. The same. / The Lovers, at a Distance, asleep. (following
+              Capell).2 kiss] Hand I deletes F 'coy,' and substitutes, following,
+              'kiss'. FQ reads 2 as 'While I thy amiable looks survey;'.4 my only bliss] Hand I crosses through F 'my gentle joy.'
+              and inserts, following, 'my only bliss'. See IV.i (opening).20 help] Hand I deletes F 'newse' (misreading of 'newfe'
+              in F2; Q1-2, F1 'neafe')
+              and inserts 'help' above. See IV.i (opening).32 s.d. Musick Tongs, Rurall Musick.] Crossed
+              through. Omitted in FQ, Garrick, G-C (cutting 31), Gentleman (Bell).40 fetch thee Nuts.] Hand I deletes F 'new' after F
+              'thee'. Hand I's (if it is Hand I's) deletion does not improve the line metrically;
+              Hanmer, for example, suggested 'fetch thee thence new nuts.'. See IV.i (opening).45 Sleep then] Hand I alters 'ou' in F 'thou' to 'en'. See
+              IV.i (opening).53-68 for she ha&lt;s&gt; / given me &lt; &gt; / her fairy
+                C&lt;hild&gt; [or b&lt;oy&gt;]] Hand I circles 53-68 ('For meeting .
+              . . eyes,') and substitutes the lemma to right of 52- 55 with an equals sign after F
+              'pity.' (52). FQ substitutes for 51-66 'Thou hast perform'd exactly each
+              Command. / Titania too has given me the sweet Boy.'; for Garrick, see IV.i
+              (opening); G-C PB cuts 53 (substituting 'In'), 56-61; G- C, 54-63, 65 ('and . .
+              .')-67, substituting 'wherefore I'll undo'.69 transformed figure] Hand I deletes F 'scalpe,' and
+              inserts 'figure' following. FQ reads 69-70 as 'And gentle Puck, take thou the
+              Asses Head, / From the transform'd Clown she doated on.'; for Garrick, see IV.i
+              (opening).76 See thou as] Hand ?II inserts 'thou',
+              with a caret, above F 'as' to balance F 'Be thou as' in 75. If this
+              is Hand II's work, it is unlike his usual emendations, which are drawn from
+              eighteenth-century edited texts through Hanmer. FQ in 77 reads 'Cinthia's'
+              for F 'Dians'; G-C reduces 77-78 to 'As I to you, be you to me.'. For
+              Garrick, see IV.i (opening).80 awake my Queen.] Hand I crosses through F 'you my
+              sweet' and inserts above, with a caret, 'awake my'. FQ cuts F 'you my sweet
+              Queen.'. For Garrick, see IV.i (opening).84 s.d. Soft M&lt;usick&gt;] Opposite 84, in right margin,
+              Hand I calls for the lemma.89 When wakd thou, with shine own fools eyes maist peep.]
+              Hand I crosses through F 'thou awak'st' (leaving F comma), inserting 'wakd thou'
+              above, and inserts 'maist', in right margin, following F 'eyes'; F 'with' may have
+              been accidentally crossed through. FQ reads 89 as 'So, when thou wak'st with
+              thy own Fools Eyes, peep. [He takes off the Ass's Head.'; Garrick cuts
+              89.90 come my fair Queen] Hand I crosses through F 'Sound
+              musick' and inserts 'fair' above, with a caret, after F 'my'. FQ cuts 90-97;
+              Garrick, 92-107; G-C PB, 98-103; G-C, 93-97.92 fresh agen in love] Hand I crosses through F 'new in
+              amity' and, following, substitutes the lemma. See 90.93 midnight,] Hand I crosses through F 'solemnly' after F
+              'midnight,'. See 90.95 all far posterity] Hand II (following Hanmer) deletes
+              'i' in F 'fair'. See 90.97 Theseus, in solemnity] Hand I crosses through
+              F 'all in jollity' and, following, substitutes 'in solemnity'. See 90.Image of prompt-book page 158107 s.d. fforrest] Hand I inserts 'fforrest' above F s.d.
+                'Enter Theseus . . . train.', thus simply continuing the scene (see
+              III.ii.344 s.d. and IV.i (opening)). FQ begins Act V here (with no indication
+              of change of scene); Garrick begins his III.viii here; G-C PB, G-C continue the scene
+              but introduce Bottom's lines (205-225) before 108; Gentleman (Bell) continues the
+              scene.109-110 For now . . . day,] Bracketed and crossed
+              through. FQ cuts 109-110, 112 ('let them go;')-120; Garrick, 113 ('and finde
+              . . .')-124 ('. . . hear.'); G-C PB, 109-110; G-C, 109- 110, 112-113.114-115 ho now / Philostr / =ates / We will ascend, up to the
+                Mountaines top, &lt;and&gt; lissen to the / &lt;plea&gt;sing harmony] Hand I,
+              to right of 113-114, inserts 'ho now / Philostr / = ates', crosses through F 'fair
+              Queen', inserting above, with a caret, 'ascend' ('ascend', with a caret, repeated in
+              left margin opposite 114), and crosses through F 'And mark . . . confusion',
+              substituting '&lt;and [or perhaps &amp;]&gt; lissen to the / &lt;plea&gt;sing
+              harmony' in left margin. The sudden introduction of Philostrate (as 'Philostr/ =ates';
+              cf. I.i.11) is surprising. He is mentioned as a character in I.i.11, but his lines in
+                Q1-2 in V.i (except 76-81) are assigned to Egeus in F1-4 and are not reassigned to Philostrate(s) in PB. See 109-110.117-132 Hip. I was . . . hear.] Circled. See
+              109-110.122-124 s.d. &lt;S&gt;ong of / &lt;hu&gt;nting /
+                &lt;h&gt;ere] Hand I inserts this s.d., in left margin, opposite 122-124.
+                FQ, after 143 ('Goe bid . . . horns.'), altering F 'horns' to 'Musick',
+              calls for 'A Composition in imitation of Hunting,': Garrick, G-C introduce a
+               four-line song at 143; G-C PB (143) notes 'here
+              might be introduc'd / a Hunting Song.'.133 this seems to be my daughter, here asleep,] Hand I
+              crosses through F 'My Lord' before F 'this', deletes F 'is', substituting above, with
+              a caret, 'seems to be', and inserts a comma after F 'daughter'.135 This Helena, ye long lost
+                Hellena] Hand I crosses through F 'old Nedars Helena' and
+              substitutes, following, 'ye long lost Hellena' cued with two
+              equals signs. FQ cuts F 'old Nedars Helena'; Garrick cuts 135.136 I wonder at ther being] Hand I crosses through F 'of
+              this' ('of their' Q1) and, above, inserts 'at ther' (so Pope,
+              followed by Garrick, G-C PB, G-C); FQ reduces 136 to 'how came they here
+              together?'.145 &lt;?How is i&gt;t you but / &lt;begi&gt;n] Hand I
+              crosses through F 'Begin these wood-birds but' (with a small crossed circle above 'B')
+              and inserts the lemma in left margin. FQ reads 145 as 'How came these
+              Wood-birds but to couple now?'.146 Pardon my Gracious Lord] Hand I deletes F 'Lord.'
+              and substitutes, following, 'Gracious Lord'. FQ reads 'Pardon me, gracious
+                Sir.'; Garrick cuts 146-147.146 I pray . . . up.] Crossed through. FQ reads
+              'Stand up, Lysander.'; G-C cuts.147 mortall enemies.] Hand I deletes F 'Rivall', placing
+              a small cross below, and inserts 'mortall' (cued with a small cross below) after F
+              'enemies.'. See 146.150 fear no injury.] Hand I deletes F 'enmity,' and,
+              following, inserts 'injury.'. FQ cuts F 'and fear . . . enmity,'; Garrick
+              reads 'not fear enmity?'.151-155 I shall. . . is;] 151 crossed through; 152-155
+              circled and crossed through. FQ rewrites 151-158; Garrick cuts 152 ('But as .
+              . .')-155, substituting 'but, as I do think,' from F 154 ('But as I think').159 we have] Hand I deletes F you' and inserts we' above.
+                FQ reads 'he owns'.161-162 stoln away, Demetrius / And so woud]
+              Hand I crosses through F 'they would' (161) and F 'Thereby to' (162) and substitutes,
+              above the last, 'And so woud'. FQ reads 162 as 'They meant to have defeated
+              you, and me;'.163-164 You of . . . wife.] Bracketed and crossed
+              through. FQ, G-C cut 164; Garrick, as in PB.166 purpose, hither] Some hand inserts a comma after F
+              'purpose'.168 followed me. wth passion] Hand I
+              crosses through F 'in fancy' before F 'followed' and inserts 'wth
+              passion' after F 'me.'. FQ slightly rewrites 165-181, cutting 166, and
+              reading 168 as 'Hither, the too kind Helen follow'd me:'; Garrick cuts
+              165-174, 180-181; G-C, 166,171 ('Seems...')-173, 175; Gentleman (Bell) suggests
+              cutting 177 ('To . . .')-181.169 know] Hand I deletes F 'wot' and inserts 'know,' with
+              a caret, above. So FQ (with rewriting); see 168.171 (melted as the snow)] Crossed through. See 168.171-172 now, but the remembrance of an idle toy,] Hand I
+              inserts a comma after F 'now', deletes F 'as', substituting 'but', with a caret,
+              above, and deletes F 'gaude', inserting 'toy' above. FQ reads 172 as 'And now
+              she seems but as an idle Toy,'. See 168.175 eyes] Hand I adds 's' to F 'eye,' (over the comma).
+              See 168.177 I Was bethroth'd, ere I saw Hermia,] Hand I
+              deletes F 'I' after F 'Was', replacing 'I' before 'Was', and alters 'ee' in F 'see' to
+              'aw'. FQ reads 177 as 'I was (my Lord) / Betroth'd to her, e're I saw
+                Hermia :'; Garrick, G-C PB, G-C (following Rowe3) read
+              'Was I betrothed ere I Hermia saw;'.178-181 But like . . . it.] Crossed through. See 168.182 Fair Lovers . . . met;] Crossed through. FQ
+              rewrites 182- 190 as seven lines; Garrick cuts 182-183, 189-190; G-C reverses 182, 183
+              and cuts 191, concluding the play here with a song by Lysander and a final chorus.184 Egæus, I must over-rule in this] Hand
+              I deletes F 'will', substituting 'must' above, with a caret, and crosses through F
+              'bear your will;', inserting 'rule in this' following F 'will;'. FQ reads 184
+              as 'Egeus, I must over-rule your will;'. See 182.187 cause] Hand I deletes F 'for' and substitutes
+              'cause'. with a caret, above. See 182.189-190 three and . . . solemnity.] Crossed through. See
+              182.191 Come my Hippolita.] Hand ?II (following
+              Hanmer) inserts 'my', with a half-caret, above F 'Come'. The ink here, however,
+              suggests that 'my' is possibly Hand I's independent insertion. G-C PB, following 191,
+              notes 'Here / a Song / of Joy &amp; / Love among / ye four /
+              Characters'.193 Like Hills far of retiring into Clouds.] Hand I
+              crosses through F 'far off mountains turned', with a caret after 'turned', and
+              substitutes 'Hills' above 'far off', cued with an equals sign to 'far of retiring'
+              (Hand I), also preceded by an equals sign, following F 'Clouds.'. FQ reads
+              193 as 'Like Mountains far, far off, turn'd into Clouds.'; Garrick concludes the play
+              here with a song by Helena, a four line speech by Theseus (including V.i.376- 377),
+              and a chorus.194 things as / scarce awake] Hand I crosses through F
+              'with  parted eye,' and substitutes 'as / scarce
+              awake' following 'eye,', cued with equals signs after F 'things' and before 'as'.195-196 tis so wth me too / for] Hand
+              I crosses through F 'So methinks:', substituting 'tis so wth me
+              too' following, and deletes F 'And' (196), inserting 'for' above. FQ reads 'I
+              think so too: / And'.199 That we still sleep] Hand I inserts, with a caret,
+              'still' above F 'we sleep' (Q1-2, F1-2 read
+              'That yet we sleepe'; first restored by Rowe). FQ cuts 89-191 ('. . .
+              dream.'), substituting 'Long sought for, hardly credited when found. / De.
+              Pray Heaven we dream not still.'.201 Yes,] Hand I alters 'a' in F 'Yea,' to 's'. So
+                FQ, cutting F 'Hel. And Hippolita.' (201).202 he bid us follow him to the Temple.] Hand I deletes F
+              'And' before F 'he' and inserts 'him', with a caret, above.204 the Guid to / all or joys] Hand I
+              crosses through 204 ('and by. . . dreams.') and inserts the lemma above F 'and'.225 sing it after death.] Hand II (following Theobald)
+              deletes F 'at her' and inserts 'after' below. Of Bottom's speech (205-225) FQ
+              cuts 216-220 ('The eye . . . dream was.'), 224 ('Peradventure. . .')-225; G-C PB, G-C
+              transfer 205-225 to precede Theseus' entry at 108.</field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e4154</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_4.2</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream)  </field><field name="fulltext_t">IV.ii.(opening)] PB and FQ continue the scene here as
+              in F, though FQ does not exit Bottom at IV.i.225; G-C PB notes 'O' (i.e.
+              "whistle for a change of scene") presumably to 'Quinces House' as in I.ii.Image of prompt-book page 1596 goes not forward] Hand ?I inserts, with a caret, 'not'
+              above F 'goes' (the reading of Q1-2, F1-2;
+              restored by Rowe). FQ rewrites as 'it cannot be done without him' (cutting
+              7-8).11 Yes,] Hand I alters 'a' in F 'Yea,' to 's'. So
+                FQ.31-32 as it fell out. though.] Hand I places 'though.'
+              after F 'out.'. FQ achieves the same effect by reading 'For I will tell every
+              thing as it fell out.' </field><field name="file_s">ShaMidP</field></doc><doc><field name="id">d1e4201</field><field name="slug_s">/bsuva/promptbook/</field><field name="project_s">Shakespearean Prompt-Books</field><field name="section_s">div2_5.1</field><field name="title_s">Shakespearean prompt-books of the seventeenth century, vol. 7 (A Midsummer
+              Night's Dream)  </field><field name="fulltext_t">V.i.(opening)] PB, FQ, G-C PB indicate no change of
+              setting (FQ beginning Act V with IV.i.108). One would expect PB to give the
+              setting as 'Scen A Pallace' as in I.i.2 can] Hand I deletes F 'may' and inserts 'can' above.
+                FQ reads 'could' for F 'may'.4-5 mad men, still do fancy / more] Hand I crosses through
+              F 'have . . . more' (with a cross after F 'men,') and inserts (preceded by a cross)
+              'still do fancy / more' above F 'braines,'. FQ reads 4-6 as 'Lovers, and
+              Lunaticks have pregnant brains. / They in a moment by strong fancy see / More than
+              cool reason e're could comprehend.' and substantially rewrites 7-22
+               as ten lines; G-C PB suggests cutting 19-22; G-C
+              inserts 1-18 preceding IV.i.192.6 cooler reason] Hand II (following Pope) inserts, with a
+              caret, 'r' above 'e' in F 'coole'.7-22 The Lunatick . . . Bear?]
+              Circled. See 4-5.21 so in] Hand II (following Hanmer) deletes F 'Or' and
+              places 'so' to right of Hand I's circling (see 7-22).25-27 are circumstancies extra&lt;ordinary&gt; / And looke
+                towards something of great certainty / howsoever,] Hand I places a cross
+              before 25 ('More . . . images,') and crosses 25 through, substituting, preceded by a
+              cue-cross, 'are circumstancies extra&lt;ordinary&gt;'; deletes F 'grow' (26),
+              inserting 'looke' above; alters F 'to' to 'towards', with a caret after 'to',
+              inserting 'wards' above; deletes F 'constancy;', substituting 'certainty' following;
+              and deletes F 'But' (27). FQ cuts 23-107 and transfers the following Pyramus
+              and Thisbe play to follow III.i.82, where it is witnessed only by Puck (Reynolds in
+              his 1816 adaptation also places the Pyramus and Thisbe play earlier in the woods,
+              where, however, it is secretly watched by Theseus and his followers, though not by
+              Hippolyta).28-30 fully reconcild: / Joy, gentle Ladies, joy and fresh days
+                of Love / Accompany your lives for ever] Hand I crosses through F 'full of
+              joy and mirth' (28), substituting 'fully reconcild' above, deletes F 'friends' (29),
+              substituting 'Ladies' above, and deletes F 'hearts.' (30), inserting 'lives for ever'
+              following.30-31 may still those joys redoubld / Wait in your
+                Highnes] Hand I crosses through F 'More then to us,', substituting 'may still
+              those joys redoubld' following, and crosses through F 'royal walks, your board, you
+                [sic F3] bed.'; substituting 'Highnes' above. Probably
+              by oversight Hand I failed to change F 'in' to 'on' (as does Rowe).32 Come, Now,] Hand I inserts a comma after F 'Come' and
+              alters 'n' in F 'now' to 'N', suggesting a different reading of the line.33 To wear this age of three long houres away] Hand I
+              deletes F 'away' after F 'wear', crosses through F 'long age of', inserting 'age of'
+              above, and adds 'away' following F 'houres'.34 and our bed-time?] Hand I inserts 'our', with a caret,
+              above F 'bed-'.37-38 To ease . . . Theseus.] Crossed through,
+              Hand I noting '(goes on)' (i.e., to 39) following F 'play,' (36). See 25-27.39 diversion] Hand I deletes F 'abridgement' and inserts,
+              with a caret, 'diversion' above.41 time, if] The comma appears to have been touched up,
+              but it may be only part of the crossing through of 42.42 Heres an ac&lt;count&gt; / of some yt
+                h&lt;ave&gt; / been offer&lt;d&gt;] Hand I, placing a small crossed circle
+              after F speech-prefix 'Eg.', crosses through 42 ('There is . . . rife:') and
+              substitutes the lemma, cued with another small crossed circle, after F 'rife:'. Hand
+              I's 'Heres' appears to be altered from 'Theres'.44-47 Lys. The Battell . . . Hercules.]
+              Circled and crossed through. See 25-27.47 s.d. Lys: reads] Hand I inserts this s.d. following F
+                'Hercules.' (47). Collier MS places '(reades)' after 44.48 drunken] Hand I deletes F 'tipsie' and, with a caret,
+              inserts 'drunken' above.57 love to Thisby] Hand I inserts 'to' above,
+              following F 'love'.59 That is . . . strange snow.] Crossed through. Before
+              crossing through 59, Hand I had deleted F 'strange' and inserted 'warm' above. This is
+              as satisfactory an emendation as any later proposed (see Furness, New
+                Variorum, pp. 206-207). See 25-27.61,63 lines] Hand I deletes F 'words' in 61 and 63 and
+              inserts 'lines' above.67 For in it Piramus doth] Hand I inserts, with a
+              caret, 'in it' above F 'For Piramus' and deletes F 'therein' after
+                'Piramus'.69-70 but twas wth mir&lt;th&gt;] Hand
+              I crosses through F 'but more . . . shed.', placing a cross before F 'but', and
+              inserts the lemma (preceded by a cross) after F 'tears,' (69).74-75 their shallow memories / against] Hand I deletes F
+              'unbreathed', substituting, with a caret, 'shallow' following F 'memories', and
+              crosses through F 'With this same Play,' (75), F 'against' (75) being partly crossed
+              through in error.Image of prompt-book page 16076-81 Phil. No, my . . . play.] Circled, second
+              half of 81 crossed through. F 'No' (76) seems to have been deleted before Hand I
+              decided to cut 76-81. See 25-27.84 s.d. them in, Exit Eg:] Hand I crosses through F 'and
+              take your places, Ladies.' and inserts 'Exit Eg:' after 'Ladies.'.85-105 &lt;ou&gt;r sport shall / &lt;be&gt; to take, / &lt;?wt&gt; they mistake, /&lt;?we&gt;el be kind / &lt;&amp;&gt;
+                  [or &lt;to&gt;] &lt;gi&gt;ve them thanks / &lt;for&gt; nothing]
+              Hand I places a crossed circle after F 'in,'(84), inserts the lemma (probably preceded
+              by a crossed circle shaved in binding) in left margin opposite 84-88, and circles
+              85-105 ('Hip. I love . . . capacity.') in two stages (85-89, 90-105). The
+              lemma rephrases 89-90. See 25-27.106 Ege. So please] F 'Ege.' appears to
+              be deleted, probably only by an ink show-through from F p. 159. 'Ege.' is not
+              replaced by another speech-prefix and Egeus is the most obvious character to speak
+              106, even though no re-entry is marked for him after his exit (by Hand I) at 84.112 we come; but] Hand ?II inserts a semicolon after F
+              'come',  a unique pointing. FQ repoints
+              108-117, destroying the intention behind the original mispointing; G-C PB cuts
+              112-115.113 come, as] Hand ?II inserts a comma after F 'come (so
+                Q1-2, F1-2; first restored by Theobald). No
+              comma in FQ.120 knows not how to stop him] Hand I deletes F 'the'
+              after F 'not', inserting 'how to', with a caret, above (Hand I deletes an earlier,
+              illegible insertion following 'to') and inserts 'him', with a caret, above, following
+              F 'stop.' (the caret over F period). FQ reads 'he knows no stop:' (all
+              comments on the Pyramus and Thisbe play in FQ (see 25-27) come from Robin
+              (Puck), who is the only spectator).120-121 A good . . . true.] Crossed through. FQ
+              cuts F 'A good morall my Lord.'123 &lt;lear&gt;ner [or &lt;begin&gt;ner] on / &lt;the
+                f&gt;lajolet] Hand I originally deleted F 'child' and inserted 'boy' above;
+              he then deleted 'boy' and crossed through F 'on the Recorder', substituting the lemma
+              in left margin. FQ cuts 122-155.127 s.d. Tawyer with . . . them.] Crossed
+              through. See 123.143 she let fall;] Hand ?I deletes F 'did' after F 'she'
+              and substitutes 'let' following F 'fall;'. Since this is Pope's reading, 'let' may be
+              Hand II's, but the 'e' is a secretary 'e', not elsewhere used by Hand II.154 why not] Hand I partly crosses through F 'no wonder'
+              and, with a caret, substitutes 'why not' above.169 discourse] Hand I deletes final 'd' in F 'discoursed'
+              (restoring Q1-2, F1-2 reading) and crosses
+              through F 'my Lord' following. FQ reads 168-169 as '`Tis the wittiest
+              Partition I ever saw.'.170 near the Apartmt] Hand I deletes
+              F 'Wall' and inserts, with a caret, 'Apartmt' above. Apparently
+                'Apartmt' is here used as a synonym for 'partition' (168); not
+              in OED. FQ cuts 170.182 s.d. (kicks wall] Hand I inserts this s.d. following
+              end of 182.183-184 should kick again.] Hand I deletes F 'curse' and
+              substitutes 'kick' in right margin. See 182 s.d.185 No but he should not. though] Hand I crosses through
+              F 'in truth sir,', substituting 'but' above, and inserts 'though' above F 'not.'.
+                FQ reads 'No, but he shou'd not:' and cuts 186 ('she is . . .')-189.196 My love, thou art my Love] Hand ?II (substantially as
+              in Hanmer) inserts a comma after F 'love' and deletes a comma after F 'art'.
+                FQ reads 'My Love, thou art; my love,'.199 And I like] Hand ?I inserts 'I' above, with a caret,
+              after F 'And' (the reading of Q1-2, F2,
+                FQ, and Rowe).Image of prompt-book page 161203 not thy hole at all.] Hand I, with a caret after F
+              'not', crosses  through F 'your lips' and inserts
+              'thy hole' following F 'all.'. FQ reads 'thy Lips'.208-215 Dut: / This is the sil / liest stuffe / yt ere I hea / rd. / Duk / we must help / it by / imaginaton / then.]
+              Hand I brackets and crosses through 208-215 ('Duk. Now is . . . them.') and
+              inserts the first speech of the lemma in left margin opposite 207, cued by crossed
+              circles above 'Dut:' and before F 'Duk.' (208); he then inserts the second
+              speech of the lemma in left margin opposite 213, cued by a cross after F
+              'Duk.' (213), presumably to another before 'Duk' (now shaved in binding).
+              Before 208-215 were cut as a block, Hand I had inserted 'Hip' before F 'Dut.'
+              (212), a line he then repeated in the first speech of the lemma. FQ cuts
+              208-211; G-C PB, 208-211.216 imagination &amp; not theirs.] Hand I crosses through
+              F 'then, and' and inserts '&amp;' above (the reading '&amp;' is uncertain).220-221 beasts, a Man and a Lion. in one] Hand I deletes
+              F 'in' after F 'beasts,' and inserts 'in one' following F 'Lion.'. An interesting
+              emendation of a crux, which, however, ignores the joint entry of Moonshine along with
+              Lion. Rowe3 emended, surely correctly, by reading 'beasts in, a
+              Man and a Lion.'. See 208-215.236-242 Dem. Not so . . . Moon.] Bracketed and
+              crossed through. FQ cuts 230 ('and of . . .')-47; G-C PB, as in PB.252 the man i'th'Moon?] Hand I writes what looks like
+              'but' after F 'Moon?' (the question mark more or less written over) and then deletes
+              it. FQ cuts 250-260; G-C PB, 250-254.253-254 Dem. He dares . . . snuffe.] Crossed
+              through. See 252.258 waine] Hand ?I inserts 'i', above, after 'a' in F
+              'wane'.260 Lys. Proceed Moon. Duke. Calfe] Hand I adds
+              this speech by Theseus following F 'Moon.'.265-266 Why all . . . Moon.] Crossed through, except for
+              F 'in the Lanthorne:' (265). Since F speech-prefix 'Dem.' is not deleted, it
+              is likely that Hand I intended Demetrius to speak the phrase. FQ cuts
+              265-267.288 what staind] The ink blot over these words is a
+              show-through from F p. 162.295 Dut. Beshrew my . . . man.] Crossed through.
+                FQ cuts 293-295, substituting an original speech by Robin (Puck).311 s.d. (dies)] Hand I places s.d. '(dies)' to left of
+              right rule following 311. So Theobald.321 passion I suppose ends the] Hand I inserts 'I
+              suppose', with a caret, above F 'ends the'. FQ cuts 212-330; G-C PB,
+              312-315.324-325 Dem. A Moth . . . better.] Crossed
+              through. See 321.Image of prompt-book page 162360-361 hear an Antick dance] Hand I converts F 'a' after
+              'hear'  to 'an' and deletes F 'Bergomask',
+              substituting 'Antick' above. FQ cuts everything after 354 ('Adieu, adieu,
+              adieu.') and substitutes, at end of Act V, a typically bawdy Restoration epilogue
+              spoken by Oberon and Titania alternately.363 Never excuse it for] Hand I deletes F semicolon after
+              'excuse'and inserts 'it above.364 none be blamed] Hand I deletes F 'to' after F
+              'none'.366-367 have been] F 'been' appears to have been deleted,
+              but is required for sense.368 performd] Hand I deletes F 'discharg'd' and inserts
+              'performd' above.368-369 Antick] Hand I deletes F 'Bergomask' (cf.
+              360-361) and inserts 'Antick' above.369 s.d. alone. (dance here)] Hand I inserts '(dance
+              here)' following F 'alone.'. Rowe, among editors, first introduced a dance s.d.
+              here.370-377 Duk: / &lt;?ye ir&gt;on tongue of /
+                &lt;midn&gt;ight has / &lt;?told t&gt;welve / &lt;?now&gt; wele to / &lt;bed&gt; And
+                may / &lt;no i&gt;dle dreams / &lt;?or&gt; fancies fri = / = ght / &lt;?for&gt; Love
+                and / &lt;plea&gt;sure chal = / &lt; = leng&gt;e all ye night] The lemma is
+              what remains of Hand I's final version of 370-377 ('The iron . . . jollity.'), which
+              are circled and crossed through (370-371 separately and marked 'stat', though these
+              lines were later adapted in the lemma). 'Duk:', preceded by a crossed circle, was
+              inserted following 370 and was intended originally to cue to an earlier version of
+              Hand I's lemma written in left margin opposite 369-377 and then so heavily crossed
+              through that only a few scattered words are legible ('dance' [twice?],
+              'i&lt;r&gt;on / &lt;tong&gt;ue of', '?be told'); the lemma is divided: &lt;'?ye ir&gt;on . . . fri = / = ght' inserted in left margin opposite
+              361-368 above Hand I's deleted insertion, end '&lt;?for&gt; Love . . . night' inserted
+              in left margin opposite 378-379 below Hand I's deleted insertion. G-C PB cuts
+              everything after 377, placing 'Ends.' below and calling for 'Chorus' (cf. I i
+              (opening)).378 Lion roars] Hand ?II deletes 's' in F 'Lions'
+              (following Rowe).379 behowls] Hand II underlines F 'beholds' and inserts
+              (following Warburton) 'behowls' after F 'Moon:'.381 outworn] Hand I deletes F 'fore-done.' and inserts
+              'outworn' following.382-389 Now the . . . glide.] Circled and crossed
+              through. See 360-361, 370-377402-422 And this . . . consecrate&gt;,] 402-403
+              crossed through; 404-422 circled. See 360-361, 370-377.416 blots of] Hand ?II writes 'of' (the reading
+              of Q1-2, F1-2; first restored by Pope) over F
+                'in'.423 Titan: Every Fairy take his task] Hand I
+              inserts speech-prefix 'Titan:' before F 'Every' and deletes
+              F'gate,', substituting 'task' following.425 Hand I deletes F 'Through' and substitutes 'for'
+                above.431 but this (and all] Hand ?II (as in Q1-2, F1-2, and essentially Rowe) deletes the F parenthesis
+              before 'this' and adds a parenthesis before 'and'.435 was no other] Hand I crosses through F 'No more
+              yielding' and inserts the lemma before 'No'.436 Gallants] Hand I first tried to convert F 'Gentles'
+              to 'Gallants', then crossed it through and substituted 'Gallants' before
+              'Gentles'.438-441 And As . . . long:] Circled and crossed through.
+              See 360- 361, 370-377.445 And Hence forth wele make amends.] Hand I crosses
+              through 445 ('And Robin . . . amends.') and substitutes the lemma below.</field><field name="file_s">ShaMidP</field></doc></add>
