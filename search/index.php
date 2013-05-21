@@ -7,14 +7,9 @@ $rows = 10;
 $query = isset($_REQUEST['q']) ? $_REQUEST['q'] : false;
 $results = false;
 
-// TODO|localhost
-// $server = 'sds6.itc.virginia.edu';
-// $port = 8080;
-// $path = '/solr/bsuva';
-
-$server = 'localhost';
-$port = 8983;
-$path = '/solr';
+$server = 'sds6.itc.virginia.edu';
+$port = 8080;
+$path = '/solr/bsuva';
 
 if ($query) {
 
