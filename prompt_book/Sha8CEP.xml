@@ -7,7 +7,7 @@
 <!ENTITY com-p85 SYSTEM "com-p85.jpg" NDATA jpg>  
 <!ENTITY com-p91 SYSTEM "com-p91.jpg" NDATA jpg>  
 <!ENTITY comspin SYSTEM "comspin.jpg" NDATA jpg>  
- <!ENTITY comcov SYSTEM "comcov.jpg" NDATA jpg> 
+<!ENTITY comcov SYSTEM "comcov.jpg" NDATA jpg> 
 <!ENTITY comti SYSTEM "comti.jpg" NDATA jpg> 
 <!ENTITY com1132 SYSTEM "com1132.jpg" NDATA jpg> 
 <!ENTITY com1139 SYSTEM "com1139.jpg" NDATA jpg> 
