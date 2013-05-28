@@ -18,19 +18,21 @@
             <xsl:apply-templates select="TEI.2/text/front" >
                 <xsl:with-param name="filename" select="$filename"/>
             </xsl:apply-templates>
+            -->
+
+            <xsl:apply-templates select="TEI.2/text/body/div0/note" >
+                <xsl:with-param name="filename" select="$filename"/>
+            </xsl:apply-templates>
+
             <xsl:apply-templates select="TEI.2/text/body/div0" >
                 <xsl:with-param name="filename" select="$filename"/>
             </xsl:apply-templates>
+
             <xsl:apply-templates select="TEI.2/text/body/div0/div1" >
                 <xsl:with-param name="filename" select="$filename"/>
             </xsl:apply-templates>
-            -->
 
             <xsl:apply-templates select="TEI.2/text/body/div0/div1/div2" >
-                <xsl:with-param name="filename" select="$filename"/>
-            </xsl:apply-templates>
-
-            <xsl:apply-templates select="TEI.2/text/body/div0/note" >
                 <xsl:with-param name="filename" select="$filename"/>
             </xsl:apply-templates>
 
@@ -38,14 +40,13 @@
 
     </xsl:template>
 
-    <!--
     <xsl:template match="div0">
         <xsl:param name="filename" />
         <xsl:choose>
             <xsl:when test="@type='introduction'">
                 <doc>
                     <field name="id"><xsl:value-of select="generate-id()"/></field>
-                    <field name="slug_s">/bsuva/promptbook/</field>
+                    <field name="slug_s">/bsuva/promptbook2013/</field>
                     <field name="project_s">Shakespearean Prompt-Books</field>
                     <field name="section_s"><xsl:value-of select="@type" /></field>
                     <field name="title_s"><xsl:value-of select="head" /></field>
@@ -58,20 +59,6 @@
             </xsl:when>
         </xsl:choose>
 
-    </xsl:template>
-    -->
-
-    <xsl:template match="div2">
-        <xsl:param name="filename" />
-        <doc>
-            <field name="id"><xsl:value-of select="generate-id()"/></field>
-            <field name="slug_s">/bsuva/promptbook2013/</field>
-            <field name="project_s">Shakespearean Prompt-Books</field>
-            <field name="section_s">div2_<xsl:value-of select="@n" /></field>
-            <field name="title_s"><xsl:value-of select="/TEI.2/teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title" /></field>
-            <field name="fulltext_t"><xsl:value-of select="."/></field>
-            <field name="file_s"><xsl:value-of select="$filename"/></field>
-        </doc>
     </xsl:template>
 
     <xsl:template match="note">
@@ -87,12 +74,24 @@
         </doc>
     </xsl:template>
 
-    <!--
+    <xsl:template match="div2">
+        <xsl:param name="filename" />
+        <doc>
+            <field name="id"><xsl:value-of select="generate-id()"/></field>
+            <field name="slug_s">/bsuva/promptbook2013/</field>
+            <field name="project_s">Shakespearean Prompt-Books</field>
+            <field name="section_s">div2_<xsl:value-of select="@n" /></field>
+            <field name="title_s"><xsl:value-of select="/TEI.2/teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title" /></field>
+            <field name="fulltext_t"><xsl:value-of select="."/></field>
+            <field name="file_s"><xsl:value-of select="$filename"/></field>
+        </doc>
+    </xsl:template>
+
     <xsl:template match="div1">
         <xsl:param name="filename" />
         <doc>
             <field name="id"><xsl:value-of select="generate-id()"/></field>
-            <field name="slug_s">/bsuva/promptbook/</field>
+            <field name="slug_s">/bsuva/promptbook2013/</field>
             <field name="project_s">Shakespearean Prompt-Books</field>
             <field name="section_s">div1_<xsl:value-of select="@type" /></field>
             <field name="title_s"><xsl:value-of select="/TEI.2/teiHeader/fileDesc/sourceDesc/biblFull/titleStmt/title" /></field>
@@ -101,6 +100,7 @@
         </doc>
     </xsl:template>
 
+    <!--
     <xsl:template match="front">
         <xsl:param name="filename" />
         <doc>

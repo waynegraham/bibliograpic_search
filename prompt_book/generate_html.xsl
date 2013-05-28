@@ -45,13 +45,13 @@
                                       <li class="nav-header"><xsl:value-of select="@type"/></li>
                                       <xsl:choose>
                                           <xsl:when test="@type = 'introduction'">
-                                              <li><a href="#{@type}"><xsl:value-of select="head"/></a></li>
+                                              <li><a href="div0_#{@type}"><xsl:value-of select="head"/></a></li>
                                           </xsl:when>
                                           <xsl:when test="@type = 'preface'">
-                                              <li><a href="#{@type}"><xsl:value-of select="head"/></a></li>
+                                              <li><a href="div0_#{@type}"><xsl:value-of select="head"/></a></li>
                                           </xsl:when>
                                           <xsl:when test="@type = 'notes'">
-                                              <li><a href="#{@type}"><xsl:value-of select="head"/></a></li>
+                                              <li><a href="div0_#{@type}"><xsl:value-of select="head"/></a></li>
                                           </xsl:when>
                                           <xsl:otherwise>
                                               <xsl:call-template name="page-navigation" />
@@ -61,7 +61,8 @@
                                   </ul>
                               </div>
 
-                              <xsl:apply-templates select="//div0"/>
+                              <!-- <xsl:apply-templates select="//div0"/>-->
+                              <xsl:apply-templates />
 
                           </div>
 
@@ -80,7 +81,6 @@
     </xsl:template>
 
     <xsl:template match="head">
-
         <xsl:choose>
             <xsl:when test="parent::div0">
                 <h1><xsl:apply-templates /></h1>
@@ -92,7 +92,12 @@
                 <h3><xsl:apply-templates /></h3>
             </xsl:when>
         </xsl:choose>
+    </xsl:template>
 
+    <xsl:template match="div0">
+        <div id="div0_{@type}" class="div0">
+            <xsl:apply-templates />
+        </div>
     </xsl:template>
 
     <xsl:template match="div1">
@@ -117,20 +122,6 @@
     </xsl:template>
 
     <xsl:template match="xref">
-        <!--
-        <div class="modal hide fade" id="{@doc}">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal">x</button>
-                <h3>Original</h3>
-            </div>
-            <div class="modal-body">
-                <img src="images/{@doc}.jpg" />
-            </div>
-            <div class="modal-footer">
-                <a href="#" class="btn">close</a>
-            </div>
-        </div> -->
-
         <a class="fragment" data-toggle="{@doc}" href="images/{@doc}.jpg"><xsl:apply-templates /></a>
     </xsl:template>
 
