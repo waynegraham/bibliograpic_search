@@ -150,7 +150,7 @@
     <xsl:template match="note">
         <xsl:choose>
             <xsl:when test="@id">
-                <div class="note" id="{@id}">
+                <div class="note" id="note_{@id}">
                     <p><xsl:apply-templates /></p>
                 </div>
             </xsl:when>
