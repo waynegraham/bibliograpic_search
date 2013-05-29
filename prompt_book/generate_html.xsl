@@ -68,7 +68,7 @@
 
                           <script src="http://platform.twitter.com/widgets.js"></script>
                           <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-                          <script src="javascripts/jquery.lightbox.min.js"></script>
+                          <script src="javascripts/jquery.lightbox.js"></script>
                           <script src="javascripts/bootstrap.min.js"></script>
                           <script src="javascripts/plugin.js"></script>
 

@@ -167,6 +167,7 @@
 
 			// calculate top and left offset for the lightbox
 			var arrayPageScroll = getPageScroll();
+      console.log('test');
 			var lightboxTop = arrayPageScroll[1] + ($(window).height() / 10);
 			var lightboxLeft = arrayPageScroll[0];
 			$('#lightbox').css({top: lightboxTop+'px', left: lightboxLeft+'px'}).show();
